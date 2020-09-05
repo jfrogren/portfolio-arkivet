@@ -2,6 +2,7 @@
 title: "Half-time review"
 date: 2020-08-27
 draft: false
+categories: ["Research process", "Research methodology"]
 ---
 
 At 10 AM on 27 August, I had my half-time review. The aim with the half-time review is, as it is written on the Faculty of Medicine's internal website: <!-- [website](https://www.med.lu.se/english/intramed/teaching_research/phd_students_supervisors/for_phd_students/halfway_review):
