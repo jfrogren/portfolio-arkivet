@@ -8,6 +8,7 @@ weight: 40
 ---
 
 The portfolio, like the individual study plan, is based on 12 categories:
+
 1. Research process 
 2. Research methodology
 3. Subject expertise 
