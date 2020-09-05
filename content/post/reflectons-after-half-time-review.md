@@ -110,7 +110,7 @@ The reviewers found that study IV offered an opportunity to make a good (theoret
   + Clean the data.
   + Conduct the analyses.
 * Define key concepts.
-* Systematic literature review.
+* Systematic literature review
   + Discuss literature search with Oskar who has done such a similar search some time ago.
 * Finalize manuscript.
 
