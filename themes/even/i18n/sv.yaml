@@ -1,0 +1,102 @@
+# ===== title =====
+archive:
+  other: "Arkiv"
+
+tags:
+  other: "Taggar"
+
+categories:
+  other: "Nyckelord"
+
+# ===== footer =====
+powered:
+  other: "Skapad genom %s"
+
+theme:
+  other: "Tema"
+
+siteUV:
+  other: "sajt uv: %s"
+
+sitePV:
+  other: "sajt pv: %s"
+
+pagePV:
+  other: "läst %s gånger"
+
+# ===== post =====
+prevPage:
+  other: "Föregående"
+
+nextPage:
+  other: "Nästa"
+
+prevPost:
+  other: "Föregående"
+
+nextPost:
+  other: "Nästa"
+
+toc:
+  other: "Innehåll"
+
+readMore:
+  other: "Läs vidare..."
+
+reward:
+  other: "Belöning"
+
+rewardAlipay:
+  other: "alipay"
+
+rewardWechat:
+  other: "wechat"
+
+wordCount:
+  one: "{{ .Count }} ord"
+  other: "{{ .Count }} ord"
+
+readingTime:
+  one: "{{ .Count }} min lästid"
+  other: "{{ .Count }} min lästid"
+
+outdatedInfoWarningBefore:
+  other: "[NOTE] uppdaterad"
+
+outdatedInfoWarningAfter:
+  other: ". This article may have outdated content or subject matter."
+
+# ===== content license =====
+author:
+  other: "Skribent"
+
+lastMod:
+  other: "Senast ändrad"
+
+markdown:
+  other: "Markdown"
+
+seeMarkDown:
+  other: "The Markdown version »"
+
+license:
+  other: "License"
+
+# ===== counter =====
+archiveCounter:
+  one: "{{ .Count }} text totalt"
+  other: "{{ .Count }} texter totalt"
+
+tagCounter:
+  one: "{{ .Count }} tagg total"
+  other: "{{ .Count }} taggar totalt"
+
+zeroTagCounter:
+  other: "Inga taggar"
+
+categoryCounter:
+  one: "{{ .Count }} nyckelord totalt"
+  other: "{{ .Count }} nyckelord totalt"
+
+zeroCategoryCounter:
+  other: "Inga nyckelord"
