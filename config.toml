@@ -1,7 +1,7 @@
-baseURL = "https://arki.vet/"
+baseURL = "https://portfolio.arki.vet/"
 languageCode = "sv"
 defaultContentLanguage = "sv"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Arkivet"
+title = "Portfolio"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -27,37 +27,6 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
-
-[[menu.main]]             # config your menu              # 配置目录
-  name = "Blogg"
-  weight = 10
-  identifier = "home"
-  url = "/"
-[[menu.main]]
-  name = "Texter"
-  weight = 20
-  identifier = "archives"
-  url = "/post/"
-[[menu.main]]
-  name = "Bilder"
-  weight = 30
-  identifier = "Bilder"
-  url = "/categories/"
-[[menu.main]]
-  name = "PDF:er"
-  weight = 40
-  identifier = "PDF:er"
-  url = "/categories/"
-[[menu.main]]
-  name = "Slajds"
-  weight = 50
-  identifier = "Slajds"
-  url = "https://slajds.arki.vet"
-[[menu.main]]
-  name = "Portfolio"
-  weight = 60
-  identifier = "Portfolio"
-  url = "https://portfolio.arki.vet"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
