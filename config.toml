@@ -1,6 +1,6 @@
 baseURL = "https://portfolio.arki.vet/"
-languageCode = "sv"
-defaultContentLanguage = "sv"                             # en / zh-cn / ... (This field determines which i18n file to use)
+languageCode = "en"
+defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Portfolio"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
