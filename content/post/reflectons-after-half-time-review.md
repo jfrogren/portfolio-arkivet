@@ -10,13 +10,13 @@ At 10 AM on 27 August, I had my half-time review. The aim with the half-time rev
 
 > ...for the supervisors and the doctoral student to determine whether the project is progressing and achieving the results expected in the individual study plan established at the time of admission to third cycle studies. The review also serves to check the achievement of targets with regard to general knowledge and skills examined via the portfolio.
 
-In other words it serves as a a control mechanism as well as a supportive guidance in relation to the PhD project and its progress. 
+In other words it serves as a control mechanism as well as a supportive guidance in relation to the PhD project and its progress. 
 
-The reviewers were LR from Karolinska Institute and EW from Gothenburg University. A couple of months earlier I hade sent them the required documents which included [*A brief overview of the PhD project*](https://jfrogren.github.io/pdfs/phd-summary.pdf), my [*Portfolio*](https://jfrogren.github.io/pdfs/htr-portfolio.pdf), an [*Abstract*](https://jfrogren.github.io/pdfs/htr-abstract.pdf) as well as my two article manuscripts.
+The reviewers were LR from Karolinska Institute and EW from Gothenburg University. A couple of months earlier I had sent them the required documents which included [*A brief overview of the PhD project*](https://jfrogren.github.io/pdfs/phd-summary.pdf), my [*Portfolio*](https://jfrogren.github.io/pdfs/htr-portfolio.pdf), an [*Abstract*](https://jfrogren.github.io/pdfs/htr-abstract.pdf) as well as my two article manuscripts.
 
-The event was held in a classroom at Health Sciences Centre (HSC) as well as online, through a Zoom link. There were about ten persons in the room and an equal amount of people participated through zoom. One of my supervisors (RL) and one of the reviewers (EW) joined through Zoom.
+The event was held in a classroom at Health Sciences Centre (HSC) as well as online. There were about ten persons in the room and an equal amount of people participated through zoom. While two of my supervisors (OJ & SI) and one of the reviewers (EW) where in the room, one of my supervisor (RL) and one of the reviewers (EW) joined online.
 
-After SI:s introduction, I gave a [short introduction](https://jfrogren.github.io/slides/htr) (15 min) to my PhD project. This was followed by a session (1.5 hrs) during which the reviewers asked me questions and shared their views of my project, based on the documents I had provided them with and the presentation I had just given. Towards the the end of that session the audience also had the chance to ask their questions. After that came a closed session with only the reviewers, supervisors and me which lasted for almost another 1.5 hrs. Here the focus whose more on the portfolio and on my personal achievement so far. In addition, the day after the half-time review I had a follow-up meeting (1.5 hrs) with my supervisors in order to discuss what was brought up by the reviewers and to decide upon the way forward.
+After SI:s introduction, I gave a [short introduction](https://jfrogren.github.io/slides/htr) (15 min) to my PhD project. This was followed by a session (1.5 hrs) during which the reviewers asked me questions and shared their views of my project, based on the documents I had provided them with and the presentation I had just given. Towards the end of that session the audience also had the chance to ask their questions. After that came a closed session with only the reviewers, supervisors and me which lasted for almost another 1.5 hrs. Here the focus whose more on the portfolio and on my personal achievement so far. In addition, the day after the half-time review I had a follow-up meeting (1.5 hrs) with my supervisors in order to discuss what was brought up by the reviewers and to decide upon the way forward.
 
 
 ## What was the outcome?
@@ -40,13 +40,13 @@ I was also asked to dig into adequate literature to identify and define the key 
 The concept of *representation* was regarded as essential within the participatory research field, requiring a critical stance and problematisation. The question whether it was possible for someone to represent someone else was seen as at the core of what participation was about. Still the concept was absent in all of the texts produce so far. 
 
 #### Professionals and Citizens
-The reviewers found the usage of *professionals* and *citizens* clearer than the original "users" and thus stated that it was a good choice to change the terminology in that way. From the audience came a question on why I had chosen to study two such seemingly disparate groups within the frames of a single PhD project. I replied that I was so far not sure about the extent to which the groups were disparate. Rather, I explained, I saw many parallells between the two groups and I had also noticed that sometimes it was even hard to separate if a person represented a certain group of citizens or professionals. Furthermore, I said that this subject was something I had planned to elaborate on in the upcoming kappa. 
+The reviewers found the usage of *professionals* and *citizens* clearer than the original "users" and thus stated that it was a good choice to change the terminology in that way. From the audience came a question on why I had chosen to study two such seemingly disparate groups within the frames of a single PhD project. I replied that I was so far not sure about the extent to which the groups were disparate. Rather, I explained, I saw many parallells between the two groups, and I had also noticed that sometimes it was even hard to separate if a person represented a certain group of citizens or professionals. Furthermore, I said that this subject was something I had planned to elaborate on in the upcoming kappa. 
 
 ### Realise that conducting research is a communicative act 
 The reviewers pointed out that doing research is not just about digging into literature and conceptualizing. It is also very much a communicative act in the sense that one is expected to participate and relate to the state-of-the-art discourse in the field(s), respond to reviewers of manuscripts and communicate one's research in a way that at least in my case has to be understood by an interdisciplinary and even transdisciplinary audience. 
 
 ### Write in a more academic way
-I received criticism on my writing style that was described as too descriptive or "too journalistic", with a lack of reflection and meta communicaton. "You lay out but you don't reclect", one of the reviewers commented.  Thus, onwards I need to use a more academic way of writing - stringent but exploratory - in which I not merely mention earlier studies but rather take the reader by the hand and by ways of argumentation guide her through earlier studies, emphasizing their strengths and weaknesses; illustrate with examples to show what I am talking about, and in this way elaborate on rather than simply describe earlier research leading up to the identified research gap. 
+I received criticism on my writing style that was described as too descriptive or "too journalistic", with a lack of reflection and meta communicaton. "You lay out but you don't reclect", one of the reviewers commented.  Thus, onwards I need to use a more academic way of writing - stringent but exploratory - in which I not merely mention earlier studies but rather take the reader by the hand and by ways of argumentation guide her through earlier studies, emphasizing their strengths and weaknesses; illustrate with examples to show what I am talking about, and in this way elaborate on rather than simply describe earlier research leading up to the identified research . gap. 
 
 ### Motivate and make strategic choices
 Linked to the criticism related to my writing style, the reviewers also pointed to the lack of explicit strategic choices made in relation to the participatory research discourse. Since I will not be able to cover to the whole area of participatory research within the frames of my PhD project, the reviewers explained that it is: 1) Unavoidable for me to identify my own position within the discourse and to argue from that point of view; 2) Necessary to take a stand in order to announce to which particular field I aim to make a contribution. As of now, according to the reviewers, it is hard to grasp what my focus is in the individual studies as well as in the PhD project as a whole. Explaining and declaring my beliefs as well as my intentions and aims is also a way of making myself and my own voice more visible in the text which is also part of increasing the transparency.
@@ -73,16 +73,16 @@ The manuscript needs a clearer narrative and focus. It is not clear to what fiel
 The introduction needs to be deepened and expanded. I need to elaborate on earlier studies and bring in more theory about *knowledge* and *expertise*; on the similarities and differences between *learning*, *knowledge* and *know-how*, and how these concepts are linked to participatority; on the role of *value* and how it is linked to knowledge. I also need to elaborate more on what constitutes a *wicked problem* and link the study more clearly to *transdisciplinary science*. *Boundary work* is mentioned but not elaborated on, nor is it used in the analysis. Either exclude it from the manuscript or embed it better.
 
 #### Findings seemingly rich but too flattened out
-What findings were expected? This can be clearer. A table or figure to provide the reader with an overview of the findings is also needed. Findings are seemingly rich, but too flattened out and descriptive. The quotes consists mainly of statements or arguments from single persons, and is not illustrating the actual discussion; Tensions, argumentations, disagreements, laughs, amusement, interaction between participants are probably there but cannot be seen. Thus, I need to better "capture the dynamics of the RC", that for example this person did not come through so much. As an example, the citizen representative is only quoted once and one gets the impression the quote is only there to assure that everyone is given a quotation.
+What findings were expected can be clearer. An illustration to provide the reader with an overview of the findings is also needed. Findings are seemingly rich, but too flattened out and descriptive. The quotes consists mainly of statements or arguments from single persons, and is not illustrating the actual discussion; Tensions, disagreements, laughs, amusement, interaction between participants are probably there but cannot be seen. Thus, I need to better "capture the dynamics of the RC", that for example this person did not come through so much. As an example, the citizen representative is only quoted once. Is the quote is only there to assure that everyone gets cited?
 
 #### Discussion not sufficiently linked to findings
-After reading the finding, one cannot come to the conclusion of existing silos that is mentioned in the discussion. In other words, the link between findings and discussion needs to be clearer.
+After reading the findings, one cannot come to the conclusion of existing silos that is mentioned in the discussion. In other words, the link between findings and discussion needs to be clearer.
 
 #### Conclusion needs to be clarified
 In the conclusion I need to clarify what kind of theoretical and practical contribution this is. Furthermore, I state that aspects are "intertwined in a complex matter", but is not clearly explained anywhere how. 
 
 #### Decision to change journal to submit to
-Considering the feedback from journal editors and reviewers as well as the feedback received at the half-time review, it was decided at the follow up meeting that we will (if all co-authors agrees) not resubmit the manuscript to the journal *Housing Studies*, but instead submit the manuscript to [a special issue](https://www.mdpi.com/journal/ijerph/special_issues/Hous_Health) (about Housing and Health) of *International Journal of Environmental Research and Public Health*. The deadline for submission is: 31 December 2020.
+Considering the feedback from the journal as well as the feedback received at the half-time review, it was decided at the follow up meeting that we will not resubmit the manuscript to the journal *Housing Studies*, but instead submit the manuscript to [a special issue](https://www.mdpi.com/journal/ijerph/special_issues/Hous_Health) of *International Journal of Environmental Research and Public Health*. The deadline for submission is 31 December 2020.
 
 
 ### Study II
@@ -125,20 +125,3 @@ Formulate an ethical application during autumn-winter 2020/21
 
 ### Study IV
 Start considering relevant theories and study set-up during 2021.
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
