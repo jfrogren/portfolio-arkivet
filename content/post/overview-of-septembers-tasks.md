@@ -1,7 +1,7 @@
 ---
 title: "Overview of September's tasks"
 date: 2020-09-10T15:16:12+02:00
-draft: true
+draft: false
 categories: ["Research process", "Research methodology", "Subject expertise"]
 ---
 
