@@ -2,7 +2,7 @@
 title: "Overview of September's tasks"
 date: 2020-09-10T15:16:12+02:00
 draft: true
-categories: ["Research process", "Research methodology"]
+categories: ["Research process", "Research methodology", "Subject expertise"]
 ---
 
 Based on the [Gantt chart](/images/gantt-chart-for-phd.png) I just created this is an overview of what I need to do during the coming weeks. The focus is on study II.
