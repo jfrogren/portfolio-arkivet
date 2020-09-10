@@ -1,7 +1,7 @@
 ---
 title: "Gantt chart for the remaining period of my PhD"
 date: 2020-09-10T10:53:14+02:00
-draft: false
+draft: true
 categories: ["Research process"]
 ---
 
