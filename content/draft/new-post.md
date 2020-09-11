@@ -3,7 +3,6 @@ title: "Att skapa överskott"
 date: 2020-06-10T00:00:00+08:00
 lastmod: 2020-06-27T00:00:00+08:00
 draft: true
-categories: ["Konst", "Demokrati", "Filosofi", "Film", "Bergman"]
 weight: 10
 mathjax: true
 autoCollapseToc: true

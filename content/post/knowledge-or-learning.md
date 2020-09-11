@@ -2,7 +2,7 @@
 title: "Knowledge or learning?"
 date: 2020-09-09T22:32:43+02:00
 draft: true
-categories: ["Research methodology", "Subject expertise"]
+categories: ["Research methodology","Subject expertise"]
 ---
 
 OJ and I had a discussion today that started out about *Implementation Science* and ended in a broader discussion about knowledge vs. learning. He told me he was currently reading a book called [*Implementering: teori och tillämpning inom hälso- & sjukvård*](https://web.archive.org/web/20200910205924/https://www.studentlitteratur.se/kurslitteratur/omvardnad-och-vard/forskningsmetod-och-vetenskapsteori/implementering/) in order to get to know more about that field (brought up during my half-time review). What is referred to as being implemented according to the authors of the book is knowledge and more specifically knowledge that is "research-based" or "evidence-based". However, that view corresponds to an idea of knowledge as being a sort of external product that exists independently and freely outside of our minds. In the book the authors even write explicitly that they position themselves as belonging to a positivist paradigm. 
