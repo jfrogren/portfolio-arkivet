@@ -26,7 +26,8 @@ The question is what terms I should use for the coming literature searches. If I
 * ( research )
 * ( attitude* OR belief* OR opinion* OR perception* OR ideas OR judgement* OR "ways of thinking" OR experience* OR awareness OR willingness )
 
-But after some considerations, maybe I should add a few more search words or phrases. I am in fact considering to make a new division of the search phrases in the following way: 
+But after some considerations, maybe I should add a few more search words or phrases. I am in fact considering to make a new division of the search phrases in the following way:
+
 * citizen* OR public* OR people* OR patient* OR individual* OR person*
 * attitude* OR belie* OR opinion* OR perceiv* OR perception* OR idea* OR judgement* OR "ways of thinking" OR experience* OR aware* OR willing* OR value*
 * involv* OR engag* OR participat* OR collaborat* OR user-driven OR patient-driven OR co-produc* OR transdisciplinar* OR community-based 
