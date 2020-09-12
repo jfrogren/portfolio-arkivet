@@ -53,3 +53,5 @@ However, I thought the search was a little narrow, and thus decided to broaden o
 This resulted in a possible too wide list of articles to handle but when I started to go through them, I realized that the result was very relevant even though some article were outside of the scope. I went through the list and saved what I considered relevant articles to a list. After going through the first 600 articles I had marked 200 articles as relevant (including some marked from the first search and probably some doubles). 
 
 I think that is good enough for me, but I will write to MB and aske me to conduct the same search in the other databases (Embase, Web of Science Core Collection and Academic search Complete) to assure that I am not missing something essential.
+
+Oops! I just realised after looking at the article OJ recommended that I have missed out the search term motivation* (and its synonyms like reason*, etc.). I would need to include that and do the search all over again, but I guess I just ask MB to help me out. 
