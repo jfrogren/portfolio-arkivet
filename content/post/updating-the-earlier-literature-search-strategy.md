@@ -81,3 +81,4 @@ When just including the new terms in that section (in order to exclude the docum
 * 67 document results (2020-09-12)
 * Added half a dozen documents to the list
 * Had 207 documents in the list, when limiting to articles, reviews, editorials in English, 181 remained. I think this is a good start.
+
