@@ -421,26 +421,26 @@ Vissa respondenter har ej förstått att det handlar om aktiv medverkan. Maya f�
 
 #### Open question answers
 * INTNR:
-  + 136 ('muntligt via sociala nätverk') 9.4 + ev. #pc
-  + 181 ('Genom föreningslivet') #pc
-  + 184 ('det bästa är via läkare') 9.4 + #pc
-  + 220 ('via program som 'Fråga doktorn') 9.7
-  + 280 ('Inte på något annat sätt') #nv
-  + 320 ('Vid läkarbesök') 9.4 + #pc
-  + 330 ('Information i hissar') #pc
-  + 390 ('Genom personligt besök') 9.4
-  + 402 ('Samtalsgrupp t.ex.') #pc
-  + 414 ('Genom VC, "min" läkare') 9.4 + ev. #pc
-  + 456 ('inget') #nv
-  + 555 ('olika mötesplatser') #npc - för vagt för att förstå
-  + 590 ('Jag vill ha information som är väldigt riktad till mig som individ och inte till för stora grupper') #pc
-  + 733 ('Uppsökande verksamhet') #pc
-  + 641 ('Jag tror att skickar man ut brev till alla äldre och saker per post..så kommer fler att delta') 9.1 
-  + 723 ('Att pensionärsorganisationer ger information om att man kan medverka aktivt') #pc - är egentligen svar på nästa fråga, men via medlemsorganisation vore alternativet här detta kan ju innefatta olika typer av kanaler
-  + 775 ('"webinar"') #pc
-  + 806 ('Inte alls') #nv
-  + 825 ('Är inte särskilt intresserad vara med denna gången i och med att vi ringde') #nv
-  + 853 ('via vänner och bekanta')#pc - är egentligen svar på nästa fråga
+  + **136 ('muntligt via sociala nätverk') J:9.4 + ev. #pc O:9.4**
+  + 181 ('Genom föreningslivet') J:#pc O:#npc (a sender that potentially can use all channels) 
+  + **184 ('det bästa är via läkare') J:9.4 + #pc O:9.4**
+  + **220 ('via program som 'Fråga doktorn') J:9.7 O:9.7**
+  + **280 ('Inte på något annat sätt') J:#nv O:#nv**
+  + **320 ('Vid läkarbesök') J:9.4 + #pc O:9.4**
+  + 330 ('Information i hissar') J:#pc O:9.9
+  + **390 ('Genom personligt besök') J:9.4 O:9.4**
+  + 402 ('Samtalsgrupp t.ex.') J:#pc O:9.4
+  + **414 ('Genom VC, "min" läkare') J:9.4 + ev. #pc O:9.4**
+  + **456 ('inget') J:#nv O:#nv**
+  + 555 ('olika mötesplatser') J:#npc - för vagt för att förstå O:#9.4
+  + **590 ('Jag vill ha information som är väldigt riktad till mig som individ och inte till för stora grupper') J:#pc O:#pc: Personal communication (with the four subcategories 9.1; 9.4; 9.5; 9.6)** 
+  + **733 ('Uppsökande verksamhet') J:#pc O:#pc Personal communication**
+  + **641 ('Jag tror att skickar man ut brev till alla äldre och saker per post..så kommer fler att delta') J:9.1 O:9.1**
+  + 723 ('Att pensionärsorganisationer ger information om att man kan medverka aktivt') J:#pc - är egentligen svar på nästa fråga, men via medlemsorganisation vore alternativet här detta kan ju innefatta olika typer av kanaler O:    #npc (a sender that potentially can use all channels) 
+  + 775 ('"webinar"') J:#pc O:9.8
+  + **806 ('Inte alls') J:#nv O:#nv**
+  + **825 ('Är inte särskilt intresserad vara med denna gången i och med att vi ringde') J:#nv O:#nv**
+  + **853 ('via vänner och bekanta')J:#pc - är egentligen svar på nästa fråga O:#pc**
 
 ---
 
@@ -472,27 +472,27 @@ Vissa respondenter har ej förstått att det handlar om aktiv medverkan. Maya f�
 
 #### Open question answers
 * INTNR:
-  + 280 ('Inte (heller) på något annat sätt') #nv
-  + 60 ('...från olika myndigheter') 10.2 + 10.3? eller #pc
-  + 113 ('Där äldre samlas på olika möten, t.ex. på vår [otolkbart] biosalongen eller samlingsal boende') #pc
-  + 162 ('Fackföreningar') #pc
-  + 181 ('Svarar i föregående fråga') (svarade "genom föreningslivet") #pc
-  + 220 ('Vårdcentralen skulle kunna ha enkäter som man kan fylla i') 10.2
-  + 286 ('Facebook') #pc eller #nv- här är det ju inte från företaget utan via kanalen Facebook, alltså är det ett svar på föregående fråga. 
-  + 323 ('Det ska vara sjukvårdens forskare som direkt vänder sig till mig för att mina åkommor') 10.5 (10.2?)
-  + 356 ('Informativ sida online') - #pc eller #nv - liksom i fallet med facebook åsyftar svaret kanalen snarare än avsändaren.
-  + 368 ('Genom telefonsamtal/telefonintervju') - #pc eller #nv - liksom i fallet med facebook åsyftar svaret kanalen snarare än avsändaren.
-  + 459 ('Via TV-program som TV-doktorn och Fråga doktorn') #pc - här är det då statstelivisionen som är avsändare.
-  + 467 ('Min läkare') 10.2 + 10.3
-  + 525 ('vet ej') #nv
-  + 538 ('Människor överlag som man kan lita på, som arbetar utan politisk och ekonomisk vinning') #pc
-  + 555 ('Beror på frågeställningen och målgrupp') #pc - villkorat, alltså svaret är ett ifrågasättande av frågeställningen som sådan 
-  + 590 ('...av Universitetet som driver forskningsprojekt') 10.5
-  + 602 ('genom kollegor') #pc
-  + 757 ('Ingen åsikt') #pc -- ska ett sådant alternati ges?
-  + 774 ('Via brev') #nv - ej svar på denna fråga utan på föregående
-  + 785 ('Vill helst av allt få information av någon personligen') #npv - lite för vagt för att bedöma vad som menas
-  + 825 ('vill inte bli kontaktad alls') 10.9? alt. #pc - ny kategori 'Inte alls'?
+  + **280 ('Inte (heller) på något annat sätt') J:#nv O:#nv**
+  + **60 ('...från olika myndigheter') J:10.2 + 10.3? eller #pc O:#pc: Myndigheter**
+  + 113 ('Där äldre samlas på olika möten, t.ex. på vår [otolkbart] biosalongen eller samlingsal boende') J:#pc O:#nv for Q10 (the answer concerns the channel Q9 and #pc: public event) 
+  + 162 ('Fackföreningar') J:#pc O:10.1
+  + 181 ('Svarar i föregående fråga') (svarade "genom föreningslivet") J:#pc O:use answer from Q9 YES! 10:1 
+  + **220 ('Vårdcentralen skulle kunna ha enkäter som man kan fylla i') J:10.2 O:10.2**
+  + **286 ('Facebook') J:#pc eller #nv- här är det ju inte från företaget utan via kanalen Facebook, alltså är det ett svar på föregående fråga. O:#nv** 
+  + **323 ('Det ska vara sjukvårdens forskare som direkt vänder sig till mig för att mina åkommor') J:10.5 (10.2?) O:10.2**
+  + **356 ('Informativ sida online') - J:#pc eller #nv - liksom i fallet med facebook åsyftar svaret kanalen snarare än avsändaren. O:#nv**
+  + **368 ('Genom telefonsamtal/telefonintervju') - J:#pc eller #nv - liksom i fallet med facebook åsyftar svaret kanalen snarare än avsändaren. O:#nv**
+  + **459 ('Via TV-program som TV-doktorn och Fråga doktorn') J:#pc - här är det då statstelivisionen som är avsändare. O:#nv**
+  + **467 ('Min läkare') J:10.2 + 10.3 O:10.2**
+  + **525 ('vet ej') J:#nv O:#nv**
+  + 538 ('Människor överlag som man kan lita på, som arbetar utan politisk och ekonomisk vinning') J:#pc O:10.2; 10.3; 10:5; 10:8 
+  + 555 ('Beror på frågeställningen och målgrupp') J:#pc - villkorat, alltså svaret är ett ifrågasättande av frågeställningen som sådan O:#nv
+  + **590 ('...av Universitetet som driver forskningsprojekt') J:10.5 O:10.5**
+  + 602 ('genom kollegor') J:#pc O:10.8
+  + 757 ('Ingen åsikt') J:#pc -- ska ett sådant alternativ ges? O:#nv
+  + **774 ('Via brev') J:#nv - ej svar på denna fråga utan på föregående O:#nv**
+  + 785 ('Vill helst av allt få information av någon personligen') J:#npv - lite för vagt för att bedöma vad som menas O:#nv
+  + 825 ('vill inte bli kontaktad alls') J:10.9? alt. #pc - ny kategori 'Inte alls'? O:#nv
 
 ---
 
@@ -533,35 +533,35 @@ Vissa respondenter har ej förstått att det handlar om aktiv medverkan. Maya f�
 #### Open question answers
 
 * INTNR:
-  + 6 ('Viktigt att man ser människan i forskningen och lyssnar på människan') #pc
-  + 20 ('Att hitta lösningar på problem, som nya hjälpmedel eller ngt som är utformat fel som påverkar åldrande via dålig kvalitet på hjälpmedel som hjälper äldre som har problem med armar och ben..[...]..hemtjänsten gör ju ett jättebra fotarbete men det behövs påfyllning från forskning inte så långa glapp mellan de på golvet och forskningen läkare uppdateras men det ska även undersköterskor och de på golvet också få..är önskvärt') 12.9 + 12.4?
-  + 60 ('Jag är intresserad av ämnet och det motiverar mig') 12.11 eller #pc - "viktigt" och "intressant" inte riktigt samma sak
-  + 64 ('Att andra äldre, som kommer efter mig kan få hjälp/förbättringar genom de rön forskningen kommer fram till') 12.4 + 12.6 + 12.9
-  + 130 ('för att må bättre') #pc
-  + 136 ('att man gör något positivt för andra') 12.4
-  + 155 ('Att jag själv skulle ha personlig nytta av forskningsresultatet och att andra också skulle få nytta av det') #pc
-  + 161 ('Få ekonomisk ersättning') #pc
-  + 185 ('Ekonomisk ersättning kan motivera många') #pc el. #npc beroende på om man svarar för sig själv eller för andrs --- Även dig?
-  + 220 ('Att jag själv skulle få hjälp med mina problem. Att jag själv skulle få god kontakt med en forskningsexpert på min hälsa. Jag skulle tänka mig att donera min kropp så att forskarna skulle undersöka min kropp efter min död för att kunna bidra till ett svar på vad det är jag lider av') 12.3 + 12.4
-  + 321 ('Om jag blev kontaktad så skulle jag vara motiverad') #nv
-  + 323 ('Att få veta vad forskningen kommer att leda till i framtiden för mina barn och barnbarn. Att jag känner att jag litar på forskarna skulle motivera mig att delta') - här är det två svar 12.10 + tilltro till forskare #pc
-  + 327 ('Brist på tid') #nv
-  + 339 ('Att få känna mig trygg') #pc
-  + 367 ('ersättning') #pc
-  + 375 ('Att jag får förtroende för forskare') #pc
-  + 448 ('Ekonomisk ersättning vore bra') #pc
-  + 452 ('...om det handlar om sjukvård och mediciner som blir bättre') 12.9
-  + 459 ('Intresse för ämnet. Jag vill få mer kunskap i ämnet') #pc - de nuvarande kategorierna täcker inte riktigt in vad detta svar omfattar
-  + 520 ('Samhällsnyttan och för den enskilda individen är viktig') 12.4 + lite vagt vad 'den enskilda individen åsyftar #npc
-  + 538 ('Om jag blev kontaktad av rätt personer som jag känner förtroende för') #pc - återigen förtroende
-  + 590 ('Om jag själv skulle kunna få en bättre hälsa av att delta') #pc
-  + 634 ('Politiker tar del av forskningen och använder sig av den i praktiken') #pc
-  + 733 ('För att jag själv är i den målgruppen') #npc - lite för vagt för att kunna kategorisera
-  + 775 ('viktigt område och behöver belysas') 12.11
-  + 779 ('Om jag fick en seriös förfrågan, beroende på vem som ställer frågan. Om det är en seriös aktör så är jag intresserad') #pc - återigen förtroende
-  + 781 ('Att det sker i --- kommun') #pc - återigen villkorat denna gång beroende på var
-  + 810 ('Professionell nivå på forskningen med lämplig ersättning') #pc - återigen kopplat till forskningens seriositet + ersättning
-  + 818 ('Forskning som verkligen kan göra skillnad. Bli mer involverad, inte bara informerad') #pc - återigen villkorat avhängit forskningens kvalitet
+  + **6 ('Viktigt att man ser människan i forskningen och lyssnar på människan') J:#pc O:#pc: Sharing common values (Gemensam värdegrund - Personcentrering vilar på personfilosofins tankar kring vad det innebär att vara en människa)** 
+  + **20 ('Att hitta lösningar på problem, som nya hjälpmedel eller ngt som är utformat fel som påverkar åldrande via dålig kvalitet på hjälpmedel som hjälper äldre som har problem med armar och ben..[...]..hemtjänsten gör ju ett jättebra fotarbete men det behövs påfyllning från forskning inte så långa glapp mellan de på golvet och forskningen läkare uppdateras men det ska även undersköterskor och de på golvet också få..är önskvärt') J:12.9 + 12.4? O:12.9**
+  + **60 ('Jag är intresserad av ämnet och det motiverar mig') J:12.11 eller #pc - "viktigt" och "intressant" inte riktigt samma sak O:12.11**
+  + 64 ('Att andra äldre, som kommer efter mig kan få hjälp/förbättringar genom de rön forskningen kommer fram till') J:12.4 + 12.6 + 12.9 O:12.9 eller 12.4 
+  + **130 ('för att må bättre') J:#pc O:#pc: Egennytta (with subcategories see above)**
+  + **136 ('att man gör något positivt för andra') J:12.4 O:12.4**
+  + 155 ('Att jag själv skulle ha personlig nytta av forskningsresultatet och att andra också skulle få nytta av det') J:#pc O:12.4 AND #pc: Egennytta 
+  + **161 ('Få ekonomisk ersättning') J:#pc O:#pc: att jag får ekonomisk ersättning (subkategori till egennytta)** 
+  + **185 ('Ekonomisk ersättning kan motivera många') J:#pc el. #npc beroende på om man svarar för sig själv eller för andrs --- Även dig? O:#pc: att jag får ekonomisk ersättning (subkategori till egennytta)** 
+  + **220 ('Att jag själv skulle få hjälp med mina problem. Att jag själv skulle få god kontakt med en forskningsexpert på min hälsa. Jag skulle tänka mig att donera min kropp så att forskarna skulle undersöka min kropp efter min död för att kunna bidra till ett svar på vad det är jag lider av') J:12.3 + 12.4 O:12.3 AND 12:4** 
+  + 321 ('Om jag blev kontaktad så skulle jag vara motiverad') J:#nv O:#pc: Att någon frågade OR 12.2 
+  + **323 ('Att få veta vad forskningen kommer att leda till i framtiden för mina barn och barnbarn. Att jag känner att jag litar på forskarna skulle motivera mig att delta') - J:här är det två svar 12.10 + tilltro till forskare #pc O:12.10 AND #pc: Sharing common values (Gemensam värdegrund - känsla av tillit)**
+  + **327 ('Brist på tid') J:#nv O:#nv (svar på annan Q om hinder)** 
+  + **339 ('Att få känna mig trygg') J:#pc O:#pc Sharing common values (Gemensam värdegrund - känsla av trygghet)** 
+  + **367 ('ersättning') J:#pc O:#pc: att jag får ekonomisk ersättning (subkategori till egennytta)** 
+  + **375 ('Att jag får förtroende för forskare') J:#pc O:#pc Sharing common values (Gemensam värdegrund - känsla av förtroende)** 
+  + **448 ('Ekonomisk ersättning vore bra') J:#pc O:#pc: att jag får ekonomisk ersättning (subkategori till egennytta)**
+  + **452 ('...om det handlar om sjukvård och mediciner som blir bättre') J:12.9 O:12.9**
+  + 459 ('Intresse för ämnet. Jag vill få mer kunskap i ämnet') J:#pc - de nuvarande kategorierna täcker inte riktigt in vad detta svar omfattar O:12.11
+  + **520 ('Samhällsnyttan och för den enskilda individen är viktig') J:12.4 + lite vagt vad 'den enskilda individen åsyftar #npc O:12:4 AND #pc: Egennytta**
+  + **538 ('Om jag blev kontaktad av rätt personer som jag känner förtroende för') J:#pc - återigen förtroende O:#pc: Sharing common values (Gemensam värdegrund - känsla av förtroende)** 
+  + **590 ('Om jag själv skulle kunna få en bättre hälsa av att delta') J:#pc O:12.1 OR #pc: Egennytta** 
+  + **634 ('Politiker tar del av forskningen och använder sig av den i praktiken') J:#pc O:12.4 OR #pc: Att det verkligen leder till förändring!** 
+  + 733 ('För att jag själv är i den målgruppen') J:#npc - lite för vagt för att kunna kategorisera O:#pc: Att jag har erfarenheter som jag kan bidra med OR (tolkningsfråga) #pc: Egennytta. 
+  + **775 ('viktigt område och behöver belysas') J:12.11 O:12.11**
+  + **779 ('Om jag fick en seriös förfrågan, beroende på vem som ställer frågan. Om det är en seriös aktör så är jag intresserad') J:#pc - återigen förtroende O:#pc: Sharing common values (Gemensam värdegrund - känsla av tillit) AND #pc: Att någon frågade** 
+  + 781 ('Att det sker i --- kommun') J:#pc - återigen villkorat denna gång beroende på var O:#nv (Svar på annan fråga om hinder – att det kan vara för långt bort?) 
+  + **810 ('Professionell nivå på forskningen med lämplig ersättning') J:#pc - återigen kopplat till forskningens seriositet + ersättning O:#pc: Sharing common values (Gemensam värdegrund - känsla av tillit) AND #pc: att jag får ekonomisk ersättning (subkategori till egennytta)** 
+  + **818 ('Forskning som verkligen kan göra skillnad. Bli mer involverad, inte bara informerad') J:#pc - återigen villkorat avhängit forskningens kvalitet O:12.4 OR #pc: Att det verkligen leder till förändring!**
   
 
 ---
@@ -595,85 +595,85 @@ Vissa respondenter har ej förstått att det handlar om aktiv medverkan. Maya f�
 
 #### Open question answers
 * INTNR:
-  + 20 ('Det skulle vara att ämnet ligger oerhört långt från mig, men det är bara ett antagande') #pc - om den omfattar ämne jag inte kan knyta an till
-  + 35 ('Fysiskt avstånd') #pc - vi har bara angett tid, skulle behöva addera distans
-  + 49 ('Ämne som inte intresserar mig') #pc - ämne som intresserar mig
-  + 53 ('Dofter. Min fru har SHR och dofter fastnar i hår och kläder, vilket jag då tar med hem och kan orsaka symptom för henne. KOL har jag själv och därför är dofter inte heller bra för mig.') 13.8 (#pc egen eller anhörigs sjukdom kanske skulle förtydligas)
-  + 58 ('Jag upplever att jag är för gammal') - 13.8 el #pc - frågan hur "privat" ett försämrat hälsotillstånd pga ålder är.
-  + 60 ('Eventuell brist på intresse för det aktuella ämnet') #pc
-  + 64 ('Att, såsom varande icke-akademiker, har svårt att förstå vad som förväntas av mig och hur jag kan bidra konstruktivt.') 13.1
-  + 82 ('Om jag känner att jag nödvändigt måste delta är det ngt annat, men jag är gammal...') #pc
-  + 96 ('anhörigvårdare') 13.8?
-  + 99 ('Smärtsamma prover/tester') 13.7
-  + 117 ('Eventuellt brist på intresse') #pc
-  + 124 ('Är idag frisk och vital men om detta förändras negativt är det naturligtvis ett hinder') 13.8?
-  + 129 ('Att man saknar de rätta grundkunskaperna om t.ex. tillvägagångssätt') 13.1? el. 13.7?
-  + 137 ('Förbättringar för andra') #nv
-  + 175 ('Är ofta utomlands') #pc
-  + 210 ('Ett hinder kan vara att personer i fyrtioårsåldern dominerar i samhället') #npc - lite oklart argument
-  + 225 ('Ovilja att vara med helt enkelt') #pc ointresse för ämnet
-  + 234 ('Vill inte hålla på med stillasittande administration') #pc
-  + 252 ('finns inga hinder förutsatt att jag förstår det jag ska göra') 13.1
-  + 266 ('om jag måste åka till annan ort som jag inte känner mig bekväm med') #pc
-  + 267 ('Jag tycker jag kanske inte kan se relevansen i vissa saker, att jag inte förstår riktigt varför man ska forska om just det') #pc
-  + 292 ('Om det skulle kosta mig rent ekonomiskt') #pc - ekonomi
-  + 297 ('jag är inte motiverad') #pc
-  + 314 ('Att forskningsområdet inte känns viktigt') #pc
-  + 315 ('Tycker både ja och nej delvis på alla frågor. För många och för lika alternativ.') #nv -- kritik mot sättet frågan är formulerad
-  + 316 ('Dålig inriktning, onödigt forskningsmål') #pc
-  + 317 ('om de inte skulle intressera mig, ett smalt ämne där jag ej har intresse exempelvis') #pc
-  + 323 ('Att jag inte skulle käna tillit till forskarna skulle vara ett hinder att delta') #pc tillit
-  + 331 ('Gammal, borde vara pigare för att orka med') 13.7
-  + 336 ('Ointresse') #pc
-  + 341 ('jag är inte intresserad') #pc
-  + 367 ('Upplägg och omfattning. Vet inget om ämnet') #pc
-  + 375 ('Att jag får förtroende för forskarna och att dom lyssnar på oss som deltar och medborgarna gör dom ej det vill jag inte vara med') #pc tillit och förtroende
-  + 378 ('min ålder - 97 år') #pc el. 13.8
-  + 379 ('Projekt som jag inte anser meningsfulla') #pc
-  + 387 ('Min ålder=85 år') #pc
-  + 392 ('Svårt att välja svar') #nv -- kritik mot frågan
-  + 402 ('Integritetsskyddet') #pc - tillit förtroende
-  + 408 ('Hörselnedsättning') 13.7? + 13.8?
-  + 409 ('Om man uppfattar det som otydlig och dålig kvalitet på forskningen kan det vara ett hinder för mig att delta aktivt i den') #pc
-  + 411 ('Kostnader för att delta') #pc
-  + 423 ('Ej intresserad') #pc
-  + 430 ('inget') #pc -- inget-kategori saknas
-  + 445 ('Kan inte svara på denna fråga') #nv 
-  + 448 ('Känner sig inte som äldre') 13.2? -- lite oklart vad detta kan kategoriseras som
-  + 452 ('Jag hittar inget hinder, kan delta, men isf skulle det vara sjukdom om jag ej kan') 13.8
-  + 462 ('Jag är inte intresserad') #pc
-  + 471 ('Min höga ålder (92 år)') #13.8
-  + 482 ('Vill ej vara med') #pc
-  + 508 ('Forskningens fokus, vilka frågor som utforskas') #pc
-  + 519 ('Avstånd') #pc
-  + 521 ('Jag är gammal och har gjort mitt för samhället') #pc
-  + 522 ('ser inget hinder att deltaga') #pc
-  + 538 ('min ålder i sådana fall, är en gammal gubbe') #pc
-  + 546 ('Inte motiverad') #pc
-  + 564 ('Hög åldern är en svårighet') #pc
-  + 576 ('Vet ej') #nv
-  + 577 ('Vill inte') #pc
-  + 581 ('Inget egentligt intresse') #pc
-  + 590 ('Jag arbetar fortfarande') 13.6? (här anges att man är upptagen med annat, implicit att man inte har tid)
-  + 605 ('Kommunikationen att ta sig till möten') #pc
-  + 606 ('Beroende på omfattning') #pc -- återigen det beror på
-  + 669 ('Bra att många ställer upp') #nv
-  + 674 ('fysisk handikapp, åldern') #pc
-  + 696 ('vet ej') #nv
-  + 698 ('Brist på intresse') #pc
-  + 725 ('Måttligt intresserad') #pc
-  + 738 ('åldersrelaterat och har svårt att medverka på grund av att jag bor långt borta') #pc
-  + 764 ('I min ålder blir jag lat och bekväm') 13.8?
-  + 765 ('Ingenting specifikt skulle hindra mig från att deltaga') #pc - 'inget' saknar kategori
-  + 775 ('Ser inget hinder egentligen, gäller ju plats och tidpunkt') #pc
-  + 779 ('Om det inte är tillräckligt intressant då ä det ett hinder för mig') #pc
-  + 781 ('Ingen bil. Får inte kosta pengar, typ tågbiljett') #pc
-  + 783 ('Jag vill ha en bred information innan vad forskningen handlar om i detalj och vad den leder till..') #pc -- återigen villkorat
-  + 785 ('Forskarna som ofta är för unga för att förstå hur en gammal människa känner') 13.3 (13.4?)
-  + 791 ('Jag har det bra som det är och har inte tid, då skulle min vardag ändras och det vill jag ej') 13.6 + 13.8
-  + 810 ('Beredd att medverka som testperson av utveckling med datastyrda hjälpmedel') #pc -- villkorat, beror på område
-  + 861 ('Är det inte intressant vill jag ej vara med') #pc
-  + 864 ('Min uppfattning att forskningens integritet kan rubbas') #pc 
+  + **20 ('Det skulle vara att ämnet ligger oerhört långt från mig, men det är bara ett antagande') J:#pc - om den omfattar ämne jag inte kan knyta an till O:#pc: Att jag inte tror att jag har de erfarenheter som efterfrågas** 
+  + **35 ('Fysiskt avstånd') J:#pc - vi har bara angett tid, skulle behöva addera distans O:#pc: Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs)**
+  + **49 ('Ämne som inte intresserar mig') J:#pc - ämne som intresserar mig O:#pc: Brist på intresse för ämnet** 
+  + **53 ('Dofter. Min fru har SHR och dofter fastnar i hår och kläder, vilket jag då tar med hem och kan orsaka symptom för henne. KOL har jag själv och därför är dofter inte heller bra för mig.') J:13.8 (#pc egen eller anhörigs sjukdom kanske skulle förtydligas) O:13.8**
+  + 58 ('Jag upplever att jag är för gammal') - J:13.8 el #pc - frågan hur "privat" ett försämrat hälsotillstånd pga ålder är. O:13.7
+  + **60 ('Eventuell brist på intresse för det aktuella ämnet') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + 64 ('Att, såsom varande icke-akademiker, har svårt att förstå vad som förväntas av mig och hur jag kan bidra konstruktivt.') J:13.1 O:13.3 + 13.3
+  + 82 ('Om jag känner att jag nödvändigt måste delta är det ngt annat, men jag är gammal...') J:#pc O:13.7
+  + **96 ('anhörigvårdare') J:13.8? O:13.8**
+  + **99 ('Smärtsamma prover/tester') J:13.7 O:13.7**
+  + **117 ('Eventuellt brist på intresse') J:#pc O:#pc:Brist på intresse för ämnet**
+  + 124 ('Är idag frisk och vital men om detta förändras negativt är det naturligtvis ett hinder') J:13.8? O:13.7
+  + 129 ('Att man saknar de rätta grundkunskaperna om t.ex. tillvägagångssätt') J:13.1? el. 13.7? O:13.1 + 13.2
+  + **137 ('Förbättringar för andra') J:#nv O:#nv(jag tolkar som svar på Q12)**
+  + **175 ('Är ofta utomlands') J:#pc O:#pc: Physical distance to research site (Svårigheter att infinna mig om forskningen genomförs på en viss plats)**
+  + 210 ('Ett hinder kan vara att personer i fyrtioårsåldern dominerar i samhället') J:#npc - lite oklart argument O:13.4
+  + **225 ('Ovilja att vara med helt enkelt') J:#pc ointresse för ämnet O:#pc: Brist på intresse för ämnet** 
+  + **234 ('Vill inte hålla på med stillasittande administration') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + 252 ('finns inga hinder förutsatt att jag förstår det jag ska göra') J:13.1 O:13.2 + 13.3
+  + **266 ('om jag måste åka till annan ort som jag inte känner mig bekväm med') J:#pc O:#pc: (Physical) distance to research site (Svårigheter att infinna mig om forskningen genomförs på en viss plats)**
+  + **267 ('Jag tycker jag kanske inte kan se relevansen i vissa saker, att jag inte förstår riktigt varför man ska forska om just det') J:#pc O:#pc: Brist på relevans – det kommer verkligen inte att göra någon skillnad** 
+  + **292 ('Om det skulle kosta mig rent ekonomiskt') J:#pc - ekonomi O:#pc: Ingen ekonomisk ersättning.** 
+  + **297 ('jag är inte motiverad') J:#pc O:#pc: Brist på intresse/motivation för ämnet** 
+  + **314 ('Att forskningsområdet inte känns viktigt') J:#pc O:#pc: Brist på relevans – det kommer verkligen kan göra någon skillnad** 
+  + **315 ('Tycker både ja och nej delvis på alla frågor. För många och för lika alternativ.') J:#nv -- kritik mot sättet frågan är formulerad O:#nv ELLER #pc: I don’t know** 
+  + **316 ('Dålig inriktning, onödigt forskningsmål') J:#pc O:#pc: Brist på relevans – det kommer verkligen inte att göra någon skillnad** 
+  + **317 ('om de inte skulle intressera mig, ett smalt ämne där jag ej har intresse exempelvis') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + **323 ('Att jag inte skulle käna tillit till forskarna skulle vara ett hinder att delta') J:#pc tillit O:#pc: Not shared common value. (Brist på gemensam värdegrund - avsaknad av tillit) ELLER 13.3** 
+  + **331 ('Gammal, borde vara pigare för att orka med') J:13.7 O:13.7**
+  + **336 ('Ointresse') J:#pc O:#pc: Brist på intresse för ämnet**
+  + **341 ('jag är inte intresserad') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + **367 ('Upplägg och omfattning. Vet inget om ämnet') J:#pc O:#pc: Att jag inte tror att jag har de erfarenheter som efterfrågas** 
+  + **375 ('Att jag får förtroende för forskarna och att dom lyssnar på oss som deltar och medborgarna gör dom ej det vill jag inte vara med') J:#pc tillit och förtroende O:#pc: Not shared common value. (Brist på gemensam värdegrund - avsaknad av tillit) ELLER 13.3** 
+  + 378 ('min ålder - 97 år') J:#pc el. 13.8 O:13.7
+  + **379 ('Projekt som jag inte anser meningsfulla') J:#pc O:#pc: Brist på relevans – det kommer verkligen inte att göra någon skillnad** 
+  + 387 ('Min ålder=85 år') J:#pc O:13.7
+  + **392 ('Svårt att välja svar') J:#nv -- kritik mot frågan O:#nv ELLER #pc: I don’t know**
+  + **402 ('Integritetsskyddet') J:#pc - tillit förtroende O:#pc: Issues of the protection of privacy** 
+  + **408 ('Hörselnedsättning') J:13.7? + 13.8? O:13.7**
+  + **409 ('Om man uppfattar det som otydlig och dålig kvalitet på forskningen kan det vara ett hinder för mig att delta aktivt i den') J:#pc O:#pc: Brist på relevans – det kommer verkligen inte att göra någon skillnad ELLER 13.3**
+  + **411 ('Kostnader för att delta') J:#pc O:#pc: Ingen ekonomisk ersättning**
+  + **423 ('Ej intresserad') J:#pc O:#pc: Brist på intresse för ämnet**
+  + **430 ('inget') J:#pc -- inget-kategori saknas O:#nv ELLER #pc: Inget hindrar mig idag!**
+  + **445 ('Kan inte svara på denna fråga') J:#nv O:#nv ELLER #pc: I don’t know**
+  + 448 ('Känner sig inte som äldre') J:13.2? -- lite oklart vad detta kan kategoriseras som O:#pc: Att jag inte tror att jag har de erfarenheter som efterfrågas 
+  + 452 ('Jag hittar inget hinder, kan delta, men isf skulle det vara sjukdom om jag ej kan') J:13.8 O:#nv ELLER #pc: inget hindrar mig idag!
+  + **462 ('Jag är inte intresserad') J:#pc O:#pc: Brist på intresse för ämnet**
+  + 471 ('Min höga ålder (92 år)') J:#13.8 O:13.7
+  + **482 ('Vill ej vara med') J:#pc O:#pc: Brist på intresse för ämnet**
+  + **508 ('Forskningens fokus, vilka frågor som utforskas') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + **519 ('Avstånd') J:#pc O:#pc: Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs)** 
+  + 521 ('Jag är gammal och har gjort mitt för samhället') J:#pc O:13.7
+  + **522 ('ser inget hinder att deltaga') J:#pc O:#nv ELLER #pc: Inget hindrar mig idag!**
+  + 538 ('min ålder i sådana fall, är en gammal gubbe') J:#pc O:13.7
+  + **546 ('Inte motiverad') J:#pc O:#pc: Brist på intresse/motivation för ämnet**
+  + 564 ('Hög åldern är en svårighet') J:#pc O:13.7
+  + **576 ('Vet ej') J:#nv O:#nv ELLER #pc: I don’t know**
+  + **577 ('Vill inte') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + **581 ('Inget egentligt intresse') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + 590 ('Jag arbetar fortfarande') J:13.6? (här anges att man är upptagen med annat, implicit att man inte har tid) O:13.8
+  + **605 ('Kommunikationen att ta sig till möten') J:#pc O:#pc: Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs)**
+  + 606 ('Beroende på omfattning') J:#pc -- återigen det beror på O:13.7
+  + **669 ('Bra att många ställer upp') J:#nv O:#nv (svar på annan fråga)**
+  + 674 ('fysisk handikapp, åldern') J:#pc O:13.7
+  + **696 ('vet ej') J:#nv O:#nv ELLER #pc: I don’t know**
+  + **698 ('Brist på intresse') J:#pc O:#pc: Brist på intresse för ämnet**
+  + **725 ('Måttligt intresserad') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + 738 ('åldersrelaterat och har svårt att medverka på grund av att jag bor långt borta') J:#pc O:13.7 AND #pc: Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs) 
+  + 764 ('I min ålder blir jag lat och bekväm') J:13.8? O:13.7
+  + **765 ('Ingenting specifikt skulle hindra mig från att deltaga') J:#pc - 'inget' saknar kategori O:#nv ELLER #pc: Inget hindrar mig idag!** 
+  + **775 ('Ser inget hinder egentligen, gäller ju plats och tidpunkt') J:#pc O:#nv ELLER #pc: Inget hindrar mig idag! OCH/ELLER #pc: Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs)** 
+  + **779 ('Om det inte är tillräckligt intressant då ä det ett hinder för mig') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + **781 ('Ingen bil. Får inte kosta pengar, typ tågbiljett') J:#pc O:#pc: Ingen ekonomisk ersättning.**
+  + 783 ('Jag vill ha en bred information innan vad forskningen handlar om i detalj och vad den leder till..') J:#pc -- återigen villkorat O:13.3
+  + **785 ('Forskarna som ofta är för unga för att förstå hur en gammal människa känner') J:13.3 (13.4?) O:13.3 ELLER 13.4**
+  + 791 ('Jag har det bra som det är och har inte tid, då skulle min vardag ändras och det vill jag ej') J:13.6 + 13.8 O:#pc: Brist på intresse för ämnet AND 13.6 
+  + **810 ('Beredd att medverka som testperson av utveckling med datastyrda hjälpmedel') J:#pc -- villkorat, beror på område O:#nv ELLER #pc: Inget hindrar mig idag!**
+  + **861 ('Är det inte intressant vill jag ej vara med') J:#pc O:#pc: Brist på intresse för ämnet** 
+  + **864 ('Min uppfattning att forskningens integritet kan rubbas') J:#pc O:#pc: Forskningens oberoende kan hotas**
 <!--
 ### Q14
 Ingenting att kommentera här. Alternativen är '1' och '2' och vissa är missing. 
