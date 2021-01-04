@@ -380,21 +380,151 @@ Alltså är participation inte bara kognitivt utan innefattar ett verkligt handl
 > The small number of papers identified by this scoping review considered only one dimension of diversity, mainly having a disability or health condition, being a woman, or belonging to a racial or ethnic minority. In this respect, recent developments in intersectionality theory emphasize the importance of considering the nonadditive effects of multiple systems of inequality experienced by people with particular social locations. Age by itself represents a system of inequalities, as it has material consequences and influences life chances. Analysis of older people’s civic participation would benefit, therefore, from considering the interaction of age as a system of inequality with suchmother systems as gender, race, class, disability, or sexual orientation. [e48]
 
 
-- Marcantonio, E. R., Aneja, J., Jones, R. N., Alsop, D. C., Fong, T. G., Crosby, G. J., ... & Inouye, S. K. (2008). Maximizing clinical research participation in vulnerable older persons: identification of barriers and motivators. Journal of the American Geriatrics Society, 56(8), 1522-1527.
+### Evaluation of a research awareness training programme to support research involvement of older people with dementia and their care partners
 
-- Evaluation of a research awareness training programme to support research involvement of older people with dementia and their care partners
+Här används begreppet 'Patient and public involvement (PPI)'. 
 
-- Awareness of and Attitudes Toward User Involvement in Research on Aging and Health: Protocol for a Quantitative Large-Scale Panel Study
+Det definieras här som...
 
-- Willingness to Participate in Health Research Among Community-Dwelling Middle-Aged and Older Adults: Does Race/Ethnicity Matter?
+> doing research with or by the public, rather than to, about, or for them. [1178]
 
-- Interdisciplinary and transdisciplinary research and practice: Balancing expectations of the ‘old’academy with the future model of universities as ‘problem solvers’
+Enligt artikeln råder en debatt om nödvändigheten för 'PPI contributors' att erhålla forskningsträning (med referens till följande två rapporter; en från INVOLVE och en från Healthtalk.org), där vissa anser att patienter och allmänheten är 'experts by experience' och därför inte behöver forskningsträning eftersom denna träning riskerar att deras perspektiv blir alltför likt forskarnas och längre bort från allmänheten då. Här hänvisas till följande studier:
+- Gibson et al. (2015). Exploring the impact of
+providing evidence-based medicine training to service users
+- Dudley et al. (2015). A little more conversation please? Qualitative study of researchers’ and patients’ interview accounts of training for patient and public involvement in clinical trials.
+- Ives et al. (2012). PPI, paradoxes and Plato: who’s sailing the ship?
 
-- Participatory action research to enhance the collective involvement of residents in elderly care: About power, dialogue and understanding
+Andra däremot menar att det är oförnuftigt att involvera människor utan att ge dem den basala kunskap som krävs för att de på ett meningsfullt sätt ska kunna delta. Här hänvisas till följande artikel:
+- Turk A, Boylan A, Locock L. (2017) A researcher’s guide to patient and
+public involvement a guide based on the experiences of health and
+medical researchers, patients and members of the public.
+
+Artikelförfattarna stödjer naturligtvis forskningsträning och hävdar följande:
+
+> PPI is more likely to have a positive impact if PPI contributors receive appropriate training
+
+..med hänvisning till följande studier:
+
+- INVOLVE. (2012). Briefing notes for researchers
+- Healthtalk.org (en rapport)
+- INVOLVE. Developing training and support
+
+Detta är alltså rapporter och inga vetenskapliga studier (!)
+
+Om patienter och allmänheten som deltar inte erhåller träning så kan deras bidrag till forskningen bli "sub-optimal" och riskerar bidra till snarare än minska s.k. "research waste". Här hänvisas till följande studie:
+
+- Minogue V, Cooke M, Donskoy AL, Vicary P, Wells B. Patient and
+public involvement in reducing health and care research waste. Res
+Involv Engagem. 2018;4(1):1–8.
+
+#### Kort beskrivning av metod
+
+7-10 personer med demens + caregiver ingår i en Research User Group. I studien har man 4 sådana grupper i fyra olika europeiska länder. Som ett komplemment till annan träning erhåller dessa forskningsträning av PPI-koordinatorer i form av interaktiva diskussioner (t.ex. interactive group work, role-play exercises, case studies and pictures). 
+
+#### Slutsats från studien 
+
+> RUG members reported that the training contents were applicable, useful and relevant to their involvement role in the research, fostered awareness of research and supported their involvement in research. This study demonstrates that the RAT package can be used to train older adults with dementia and their care partners. PPI contributors may be supported via facilitation by experts, individualized support, interactive discussions, informal discussion time and posting materials in advance of training. [1185]
+
+
+### Awareness of and Attitudes Toward User Involvement in Research on Aging and Health: Protocol for a Quantitative Large-Scale Panel Study
+
+
+
+
+###  Willingness to Participate in Health Research Among Community-Dwelling Middle-Aged and Older Adults: Does Race/Ethnicity Matter?
+
+Här handlar det om att "to assess willingness to participate in different types of health research by race/ethnicity" för de som är 50+.
+
+När det gäller deltagarna är det viktigt att säga att:
+
+> Non-Hispanic White participants reported more past research participation than non-Hispanic Black and Hispanic participants (28.7% vs. 19.0% and 19.2%, respectively).
+
+och den slutsats som här kan dras utifrån studiens resultat är att:
+
+>compared with non-Hispanic White individuals, non-Hispanic Black individuals are less willing to participate in most studies, while Hispanic individuals are less willing to participate in studies that may be seen as invasive or demanding (required blood sample, genetic sample, participants to take medicine, or use of medical equipment).
+
+Med andra ord visar studien att när det gäller viljan att (på olika sätt) delta i hälsovetenskaplig forskning så finns det åtminstone en studie som indikerar att etnicitet har betydelse för viljan att delta.
+
+Eftersom vita i så större utsträckning hade deltagit i forskning skulle det också kunna vara en faktor som är relevant att ta med, eller?
+
+
+I introduktionen står det också att:
+
+> ...older adults have been found to be underrepresented in health research and the implications of this may affect treatment efficacy, health care utilization, and quality of life [39].
+
+Här hänvisas visserligen till en clinical trial om cancer, men det kanske ändå kan vara användbart att använda referensen på något sätt för att måla upp diskrimineringen av äldre i mer generella termer.
+
+
+
+### Interdisciplinary and transdisciplinary research and practice: Balancing expectations of the ‘old’academy with the future model of universities as ‘problem solvers’
+
+Inte direkt relevant för denna studie.
+
+### Participatory action research to enhance the collective involvement of residents in elderly care: About power, dialogue and understanding
+
+Handlar inte om att involvera äldre i forskning utan i äldreomsorgen.
     
-- A scoping review: The utility of participatory research approaches in psychology
+### A scoping review: The utility of participatory research approaches in psychology
 
-- Person-centred research practice: the user involvement in research of older adults with first-hand experience of reablement
+#### Syfte
+
+Artikeln diskuterar och söker utvärdera hur PR approaches har använts inom olika områden för att se vilka lärdomar som kan dras. Så här ser studiens forskningsfrågor ut:
+
+- (a) How are PR principles being used in six key areas of research
+- (b) Across these areas, which studies can be considered exemplars?
+
+#### Bra beskrivning av bakgrunden till PR
+
+Här finns bakgrunden till PR beskriven på ett kortfattat och bra sätt:
+
+> The roots of PR can be traced to a number of fields, including action research, adult education, critical sociology, and international development (Brown & Tandon, 1983; Kagan, 2012; Khanlou & Peter, 2005). PR originated in an atmosphere of increased concern for respect of individuals, beneficence, and justice for vulnerable populations, following several examples of extremely unethical or abusive practices in social science research, such as the Tuskegee Syphilis Study or the experimentation conducted on people in Nazi concentration camps (Blumenthal, // Hopkins, & Yancey, 2013; Khan et al., 2005; Manton et al., 2014). PR offers a way of collaborating with community members in the design and conduct of studies, as well as in the dissemination of research findings (Cargo & Mercer, 2008; Creswell, Hanson, Clark Plano, & Morales, 2007; Morris, 2002; Wint, 2011). Instead of being understood as research subjects, participants are involved as co‐researchers and recognized as having intimate experiential knowledge and robust knowledge systems. Their expertise positions them as important actors in developing and undertaking multiple aspects of projects (Morris, 2002). [1866-1867]
+
+Detta är naturligtvis bara en tolkning av PR:s historia men jag tycker att utifrån den kunskap som jag har är övertygande.
+
+#### Varierade definitioner och beskrivningar av vilka som utgör "partners"
+
+En av de slutsatser som dras i denna scoping review handlar om den oklara terminologin och här fann jag stor igenkänning, inte minst i förhållande till vem som utgör en 'user', såsom diskussionen har gått inom UserAge. Så här skriver artikelförfattarna:
+
+> Finally, our review highlights that while research “participants” in PR projects share the characteristic of being based in places other than postsecondary institutions, their characteristics are otherwise highly variable. For example, participants can be community organizations that provide services (e.g., Bowden et al., 2006; Checkoway & Richards‐Schuster, 2003), or service users themselves (e.g., Cotterell, 2008; Taggart et al., 2013). In research focused on youth/adolescent development, “participants” were sometimes youth (e.g., Flicker et al., 2008; Levac, 2013), but commonly parents, teachers, or youth‐serving organizations. Although it is difficult to offer universal guidance on establishing appropriate partnerships, a range of points merit attention. First, participatory researchers should remember that people with important experiential knowledge and expertise may not be affiliated with institutions and organizations. As well, organizational staff members with high levels of integrity may not fully understand the experiences of particular groups that they serve, including, for example, people living with HIV/AIDs, young people, or people who are transgender. Second, it is also the case that community organizations hold important knowledge and expertise and can thus be vital and reciprocal partners in research. A community's uptake of research may be more plausible through collaboration with an organization that is able to implement results. Third, participatory researchers may benefit from being aware of discussions about research insider/outsider positioning, but particularly the extent to which these boundaries are often fluid (Eppley, 2006), and how this fluidity can intersect with participatory research approaches (Spencer, 2015). These considerations, which may sit in tension with each other, lead to the conclusion that who counts as appropriate “participants” in PR requires careful consideration, and depends critically on the questions being asked and the purposes of the research. [1880]
+
+Särskilt referenserna till hur 'fluid' dessa gränser är tycker jag verkar intressanta. Gränsen mellan vem som är en universitetsbaserad forskare och vem som är en co-researcher kanske inte alltid så tydlig. Det här kan ju också kopplas till representation. Vem representerar man när de olika identiteterna är så flytande?
+
+Vidare skriver artikelförfattarna:
+
+> Related to this point is the fact that “participants” across the studies we reviewed were described variously as co‐researchers, research team members, community researchers, peer researchers, and participants. While our emphasis in this study was not to review terminology, it is nevertheless important to point this out, if only to highlight the value of university‐based researchers being specific and descriptive about their language choices. In the future, it would be useful to try and understand the extent to which different terminology reflects varying levels of commitment to, or depth of, the PR process. [1881]
+
+Detta är det också hög igenkänningsfaktor på för mig och det gäller att hitta en enhetlig och sammanhängande terminologi i mina individuella studier såväl som i kappan där jag kommer att hoppa mellan dem.
+
+#### Vägar framåt 
+
+När det kommer till vägar framåt föreslås en intressant sak med tanke på att PR är så krävande och vanligtvis har ett mer handlingsinriktat syfte:
+
+> A third suggestion is for postsecondary institutions to permit alternative formats for student theses and dissertations. Allowing students to produce research results in formats useful to community organizations and citizens will inevitably have the effect of facilitating broader research outreach. [1881]
+
+
+### Person-centred research practice: the user involvement in research of older adults with first-hand experience of reablement
+
+Detta verkar vara ett accepterat manuskript, frågan är om det snart finns som publikation i en tidskrift. Har känskan av att försteförfattaren är en (norsk) doktorand med tanke på språket. Hur som helst finns det en del matnyttigt att hämta här eftersom området är snarlikt mitt. 
+
+När det kommer till definitionen av 'public involvement' står här:
+
+
+> In one widely used definition of public involvement in research, research is viewed as being carried out ‘with’ or ‘by’ rather than ‘for’, ‘about’ or ‘to’ members of the public (INVOLVE, 2012). In that definition, public refers to the range of people and groups that may be involved in research: patients, potential patients, carers and people who use health and/or social care services as well as people from organisations who represent those who use such services. The use of the propositions ‘with’ and ‘by’ imply public involvement during all research steps: what to explore and how the research should be carried out, analysed and disseminated.
+
+Inom UserAge använder vi ju oss också av en sådan definition, men har den sin upprinnelse i INVOLVE alltså? Sannolikt inte men frågan är vilken referens som är lämplig för mig att använda. Vidare skriver artikelförfattaren:
+
+> Research initiatives in which older adults are involved as co-researchers often take the form of invitations from researchers (Fudge, Wolfe and McKevitt, 2007). Participants found in this manner seldom have personal or first-hand experience of the research topic (Ward and Gahagan, 2012). Instead, the focus in such research is placed on age as an indicator of representativeness. In a review on the impact of involving older adults in research that encompassed 30 studies, most studies did not give further participant details other than that the participants were aged 50+ (Fudge et al., 2007). In another review that encompassed nine studies, older adults as co-researchers were seen in some of the studies to have experience from the area being studied or had old-age-related conditions, but most studies did not give further participant details (Baldwin, Napier, Neville and Wright-St Clair, 2018).
+
+Detta är ju intressant, att dessa studier tillkommer på initiativ av forskare, samt att co-researcher ofta inte har personlig eller förstahandskunskap om det ämne det forskas om.
+
+Sedan är det ju tragiska att människor i den här sortens studier endast blir en siffra och några andra aspekter än ålder inte direkt räknas med.
+
+
+
+
+
+
+
 
 - Optimizing the Meaningful Engagement of Older Adults With Multimorbidity and Their Caregivers as Research Partners: A Qualitative Study
 
@@ -466,6 +596,3 @@ Alltså är participation inte bara kognitivt utan innefattar ett verkligt handl
 
 - Maximizing clinical research participation in vulnerable older persons: identification of barriers and motivators},
 
-- Fifty-five years of research into older people’s civic participation: Recent trends, future directions
-
-- Building new roles and relationships in research: a model of patient engagement research
