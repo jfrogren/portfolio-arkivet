@@ -5,7 +5,7 @@
 #### Data cleaning
 Joakim reported that cleaning the data took longer than expected, partly due to shortcomings of the survey company but that this process was now about to be finalized. Roderick pointed out that the survey company had certain responsibilities for this and if they did not deliver the quality expected there ougth to be consequences. Susanne added that most data sets had some kind of issues and that this should not be an excuse for a delay in the process.
 
-#### Study aim and research questions
+#### Study aim and research question
 Before further data analysis, deciding on study aim(s) and research questions was found a necessary step. This should have been decided already, according to Susanne and Oskar, considering that several meetings had been held in which the study had been discussed. It was now urgent for Joakim to come up with a suggested aim and suggested research questions (which could then be further elaborated in collaboration with the co-authors) as soon as possible. 
 
 #### Survey question related to 'willingness'

@@ -43,7 +43,7 @@ I artikeln som OJ hittade rekommenderas inte metoder utan om approaches för...
   
   + *Aktörer utanför akademien* = ett bra namn för att beskriva vilka vi samverkar med.
   + Vad är skillnaden mellan *medverkan* och *samverkan*? Termerna blandas. 
-  + SAPO = Syfte; Aktör; Process; Omfattning
+  + **SAPO = Syfte; Aktör; Process; Omfattning**
   + Kan inte SAPO kopplas till den metoddatabas som BS och EH ämnar bygga upp?
  
 * Presentation  av  resultat  från  Saras  studie  baserad  på  projektansökningar  till  Forte  2016 (bifogad fil med [Abstracts](/pdfs/200916-userage-retreat/abstracts.pdf))

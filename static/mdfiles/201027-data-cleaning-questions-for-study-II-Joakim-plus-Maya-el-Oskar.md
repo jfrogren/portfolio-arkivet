@@ -22,7 +22,6 @@ Here are notes related to the data set for the questions in the survey:
 * INTNR 206 has no value in LK. What does that mean?
 
 *LänKommun - there is a whole list of numbers. If we want to recode to rural and urban. We do not have postal codes. What we can do is compare 'storstadregioner' and rural regions on a broad level. Maybe 'distance to a university' could be used as a measure. Probably not relevant for my paper*
--->
 
 ### Gender
 * In six cases (INTNR 206; 556; 580; 642; 687; 693) gender is missing. How to deal with that?
@@ -34,7 +33,7 @@ Here are notes related to the data set for the questions in the survey:
 
 *Steven: Talk with Maya to see if she discussed with KANTAR/SIFO. If she doesn't have leave it as missing. If it is a RQ relevant to this, leave out those participants, if not: include it*
 
----
+-->
 
 ### Q1: Har du som privatperson tidigare deltagit i forskning?
 #### Givna svarsalternativ:
