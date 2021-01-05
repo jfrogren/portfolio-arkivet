@@ -504,10 +504,23 @@ När det kommer till vägar framåt föreslås en intressant sak med tanke på a
 
 ### Person-centred research practice: the user involvement in research of older adults with first-hand experience of reablement
 
-Detta verkar vara ett accepterat manuskript, frågan är om det snart finns som publikation i en tidskrift. Har känskan av att försteförfattaren är en (norsk) doktorand med tanke på språket. Hur som helst finns det en del matnyttigt att hämta här eftersom området är snarlikt mitt. 
+Detta verkar vara ett accepterat manuskript, frågan är om det snart finns som publikation i en tidskrift. Har känskan av att försteförfattaren är en (norsk) doktorand med tanke på språket. Hur som helst finns det en del matnyttigt att hämta här eftersom området är snarlikt mitt.
+
+Så här står det om syftet:
+
+> In this article we describe and reflect on the processes and outcomes associated with advisory group-researcher collaboration. Our reflections emanate from our experience with the user-involvement of older adults with health-related conditions and first-hand experience in an advisory group.
+
+Och forskningsfrågorna:
+
+1) What are the important prerequisites associated with facilitating the user involvement of older adults with health-related conditions in research?
+2) How can the involvement of older adults with first-hand experience improve research quality and relevance?
+3) How can the involvement of older adults with health-related conditions and first-hand experience contribute to the improvement of person-centredness in research?
+
+Det som betonas är att denna grupp har en health-related condition och förstahandserfarenhet av  som anses relevant för studien. Här argumenteras för att det inte finns så mycket forskning när det gäller involvering av personer med den sortens tillstånd och erfarenhet:
+
+> apart from studies where older adults were included as research objects or informants, a relatively small number of studies on involvement in research of older adults with health-related conditions and first-hand experience currently exist. Also, findings on barriers to the involvement of such groups and the impact their involvement can have on research are limited and inconclusive. This indicates that more knowledge on the topic is needed.
 
 När det kommer till definitionen av 'public involvement' står här:
-
 
 > In one widely used definition of public involvement in research, research is viewed as being carried out ‘with’ or ‘by’ rather than ‘for’, ‘about’ or ‘to’ members of the public (INVOLVE, 2012). In that definition, public refers to the range of people and groups that may be involved in research: patients, potential patients, carers and people who use health and/or social care services as well as people from organisations who represent those who use such services. The use of the propositions ‘with’ and ‘by’ imply public involvement during all research steps: what to explore and how the research should be carried out, analysed and disseminated.
 
@@ -519,26 +532,359 @@ Detta är ju intressant, att dessa studier tillkommer på initiativ av forskare,
 
 Sedan är det ju tragiska att människor i den här sortens studier endast blir en siffra och några andra aspekter än ålder inte direkt räknas med.
 
+#### Vad får co-researchers ut av att vara med?
+
+> Baldwin et al. found that older co-researchers experienced both benefits and challenges when participating in research: psychological and social benefits, new learning, activism and career opportunities but also demanding workloads, difficult relationships and dissatisfaction with the level of involvement.
+
+#### Vad får academic researchers ut av att vara med?
+
+> Academic researchers who included older co-researchers in their research experienced new learning and shared workloads, but also demanding workloads an difficult relationships (Baldwin et al., 2018).
+
+#### Hur påverkar co-researcher involvement forskningsprocessen och utkomsten av forskningen?
+
+> In their review, Fudge et al. found anecdotal evidence that the involvement of older adults as co-researchers resulted in changes on the individual level but found little evaluation of how such involvement changed research processes or outcomes (Fudge et al., 2007).
+
+#### Vad behöver man som forskare tänka på när man involverar äldre i forskning på detta sätt? Krävs någon form av anpassningar?
+
+> In a review of the methods used to involve older adults in health research, nine studies that fit the definition of PPI in research as delineated by INVOLVE were included. The researchers saw that while the involvement in research of older adults with old-age-related conditions is feasible, there could be specific challenges (Schilling and Gerhardus, 2017). In that review, strategies that can enhance the effective involvement of older adults with old-age-related conditions in research were identified, such as thoughtful choice of location, use of visualisation and accessible communication, building good relationships and flexible approaches. Conversely, in another review, Fudge et al. (2007) found no specific barriers to the involvement of older adults in research. The different findings may be due to the fact that Schilling and Gerhardus explicitly sought out studies that included older adults with old-age-related conditions related to the research topic.
+
+#### Slutsats?
+
+Slutsatsen i artikeln var dessvärre en besvikelse. Så här står det:
+
+> We found that engaging older adults with first-hand experience of reablement in an advisory group on a consultant level in the initial phase of a research project was highly beneficial and therefore can be advocated. The members in our advisory group had first-hand experience of reablement, but our findings and experiences may be relevant to other similar person-centred research projects where older adults with health-related conditions are involved as co-researchers.
+
+
+
+### Optimizing the Meaningful Engagement of Older Adults With Multimorbidity and Their Caregivers as Research Partners: A Qualitative Study
+
+#### Syftet med studien
+
+> The objective of this study was to examine how researchers can best engage and support older adults with multimorbidity and informal friend or family caregivers of older adults with multimorbidity as research partners in health care research teams.
+
+#### Tidigare forskning som citeras
+
+> A compelling base of expert opinions and experiences suggest that engagement of older adults and caregivers in health care research can improve the relevance, acceptability, and usability of research findings (Domecq et al., 2014; Duffett, 2016; Vat et al., 2017).
+
+Domecq klingar bekant från en annan artikel; den referensen får jag kolla upp. Här pratas det alltså om 'health care research' och inte 'health research'. Vidare står det att 'the engagement of older adults and caregivers', med andra ord såväl patienter som människor i vårdprofessioner om jag tolkar saken rätt. 
+
+Vad detta engagemang har möjlighet att förbättra är 'relevansen' (att adekvata, samhällsrelevanta forskningsfrågor ställs kopplade till reella problem - det är så jag tolkar det); 'acceptability' (vems acceptability, det är frågan.); 'usability' (det vill säga att interventionerna (som jag misstänker att det handlar om) tas i bruk och anses användbara även efter avslutad forskningsstudie.
+
+Med andra ord är det här - misstänker jag - fokus på att överbrygga teori och praktk klyftan kopplat till (evidensbaserade) interventioner. Det är vad jag anar. 
+
+#### Barriärer för att delta aktivt i forskning
+
+> Additional barriers may include the fact that many experience health challenges or may find it difficult to participate given their caregiving responsibilities (Holroyd-Leduc et al., 2016; Marlett & Emes, 2010).
+
+I de refererade artiklarna verkar det alltså finnas visst stöd för hypotesen att sviktande hälsa såväl som 'caregiving responsibilities' kan ha en negativ inverkan på möjligheten att delta aktivt i forskning.
+
+#### Ytterligare forskning kring HUR äldre ska involveras i forskning krävs
+
+> The published literature presents strategies that lack detail and provide limited direction to best engage older adults in health care research, while unpublished documents present actionable strategies but lack credibility, dependability, and confirmability.
+
+#### Studiens slutsats
+
+> The implications of these findings are that to optimize meaningful patient engagement among this population, considerations must be made to support the needs and perspectives of research partners during their recruitment, to plan for meaningful engagement, and to establish collaborative relationships. In addition, the persona-scenario method is a promising design that encourages the active engagement of patients and caregivers as research partners in the co-design, implementation, evaluation of health care research, and the dissemination of research findings.
+
+### Dissemination and stakeholder engagement practices among dissemination & implementation scientists: Results from an online survey
+
+#### Nytt begrepp: 'dissemination & implementation scientists'
+
+Här nämns de för mig nya begreppet/begreppen 'dissemination & implementation scientists'. Någon tydlig definition av vad som utmärker dessa forskare ges tyvärr inte.
+
+#### Kort om studiens syfte
+Det verkar som att denna artikel handlar om en studie i form av en enkätstudie som gått ut till forskare med frågor om dissemination och implementation. Så här motiverar de sin studie genom att nämna en tydlig kunskapslucka:
+
+> What is less known is the extent to which there have been increases in the use of evidence based and best practices among dissemination and implementation (D&I) researchers, and if there are differences in dissemination practices across different types of D&I researchers.
+
+Vidare skriver de:
+
+> There has been a strong encouragement to meaningfully engage patients and community stakeholders in research from PCORI, NIH, and other organizations [10]. Two relatively recent developments of interest have been use of social media and stakeholder engagement practices [11, 12]. While each of these has existed for decades, most health care and public health researchers have not been early adopters of these approaches, and we were interested in what specific engagement strategies D&I researchers use and the extent to which they used them
+
+Som jag tolkar det handlar det inte så mycket om att engagera engagera patienter och 'community stakeholders' i själva forskningen som sådan utan mer i spridandet av den kunskap som forskare emellan redan har fått fram, men jag kan ha fel.
+
+#### Vilka var enkätens respondenter?
+
+> Potential survey respondents were identified by being listed as a corresponding author on an original research article published in the journal Implementation Science between 1/1/2014 and 12/31/2017, having completed recent training related to D&I science, or had been funded to conduct D&I research.
+
+Ja, så kan man ju också snäva av men det är väl oundvikligen så at lika barn leka bäst.
+
+#### Definition av 'dissemination'
+
+> Dissemination, defined as “an active approach of spreading evidence-based interventions to the target audience via predetermined channels using planned strategies” [1, 2], is the critical process linking research findings to practitioners who can implement them, leading to benefits among the people or communities of interest. [p. 2/12]
+
+#### Frequently recommended dissemination practices
+
+> Frequently recommended dissemination practices to reach non-research audiences include “Designing for Dissemination” [1, 3, 4], use of multiple channels, development of guides to program implementation, and engagement of multiple types of stakeholders in the development and evaluation of interventions and dissemination plans.
+
+Detta är alltså en artikel skriven utifrån synsättet att kunskap ska tas fram av forskare och sen implementeras ute i praktiken av delvis andra än forskare. Detta synsätt skiljer sig något, skulle jag säga från tänket inom design, där man normalt utformar något mer lokalt på plats och där glappet mellan teoretisk och praktisk kunskap är mindre. 
+
+
+#### Några av studiens slutsatser
+
+> With the increasing focus on disseminating research to practice [20] and a rapidly changing landscape of dissemination strategies, it is helpful to periodically assess what strategies D&I scientists are using to communicate evidence to practitioners and policy makers. 
+
+Det handlar alltså om att "communicate evidence to practitioners and policy makers", inte om att engagera dem på något mer djuplodande sätt än så. 
+
+> This report updated and expanded the survey conducted in 2012 by Brownson and colleagues, but also sampled a broader range of D&I researchers (clinicians and Canadian D&I (KT) scientists) in addition to the public health researchers included in the 2012 sample, and provided greater depth on the evolving area of stakeholder engagement. 
+
+> D&I scientists reported engaging in varied dissemination activities, some but not all of which have increased, since the 2012 survey of public health researchers.
+
+> Comparisons were made on results from items that were identical or very similar to those reported in Brownson et al.’s earlier survey of public health researchers. Specifically, respondents in both samples reported using a variety of strategies to disseminate their work, but most frequently used traditional methods of publications in scientific journals and presentations at scientific meetings. This method is likely to influence the work of fellow researchers, who consistently report learning about emerging science in these venues [21, 22], but often neglects the seminars, professional association meetings, and electronic newsletters that local and state-level practitioners are more apt to use in their efforts to stay up-to-date [23]. The ongoing predominance of these modes of dissemination today, despite believing other methods of dissemination (including face-to-face meetings, writing policy briefs, and presenting seminars or workshops) to be potentially more effective in reaching and engaging practitioners, is likely due to the reward system of academic institutions. 
+
+> The general sentiment that dissemination of findings to non-research partners is a core responsibility of those engaged in academic pursuits appears to be shared between the two samples, despite several differences in their respective characteristics.
+
+### A formative qualitative evaluation to inform implementation of a research participation enhancement and advocacy training program for diverse seniors: the DREAMS program
+
+
+#### Studiens syfte
+Här handlar det om...
+
+> a formative qualitative evaluation conducted to identify potential barriers and facilitators prior to implementation of a two-part educational intervention designed to increase older adults’ participation in clinical research.
+
+Alltså att utvärdera en intervention (i form av en slags utbildning) för att öka äldre personers deltagande i klinisk forskning. Det är ju inte riktigt mitt område men det kan vara intressant ändå.
+
+#### Slutsatser
+
+##### Fear and mistrust of researchers and research
+> Findings from thematic analysis showed that common barriers to research participation included older adults’ fear and mistrust of researchers and the medical community as well as misperceptions and negative attitudes about clinical research. A commonly held belief was that most clinical research is conducted by “greedy” pharmaceutical companies who are more interested in profits than finding cures for disease.
+
+Alltså visar studien att ett vanligt hinder för att delta i klinisk forskning är äldre personers rädsla och misstro mot forskare och 'the medical community' liksom felaktiga föreställnngar och negativa attityder gentemot klinisk forskning som anses gå ut på mer att tjäna pengar åt medicinföretag än hitta botemodel mot sjukdomar.
+
+Detta är ju intressant eftersom denna studie kan jag referera till och använda som motivation till att vi ställer frågor i enkäten om förtroende för forskare och forskningen.
+
+Vidare skriver artikelförfattarna:
+
+> Similar to previous research investigating barriers to research participation among racial and ethnic minority populations (Scharff et al., 2010; Williams et al., 2010), we found that fear and attitudes of mistrust related to the Tuskegee Syphilis Study were strong recurring themes across SES groups, particularly among African American participants.
+
+Denna studie läste jag om i en tidigare artikel som utgörande en bakgrund till varför Participatory research lanserades.
+
+> In line with previous research (Haley et al., 2017; Herrera et al., 2010), current findings also point to a need to develop more effective ways to communicate information regarding informed consent and study procedures, especially when enrolling participants with low levels of education. As noted by our SPs, this education needs to include better ways of helping participants understand the purpose of HIPAA language used in consent forms.
+
+##### Ageism
+
+> Another barrier we identified to recruiting older adults that has not received as much attention in the literature was perceived ageist attitudes of researchers and health professionals. Many older adults also complained about a general lack of respect, which included the belief that the real purpose of research studies and study findings is often withheld from study participants. Some indicated that being treated with respect as research partners was more important than receiving other types of incentives (i.e., money or food).
+
+##### Perceiving  meaningful benefit - a facilitator to research participation
+
+> Our findings and other recent findings (George et al., 2014; Hughes et al., 2017) show that an important facilitator to research participation is perceiving some meaningful benefit either personally or for the good of others.
+
+
+##### Other barriers
+
+> Other barriers to recruiting older adults that we identified and have been well documented in the literature (Manson, Tamim, & Baker, 2017; McHenry et al., 2012) included limited mobility, transportation issues, communication barriers, and competing interests.
+
+
+
+#### Tidigare forskning
+
+
+##### Older adults from low-income and racial and ethnic minorities underrepresented in research
+> Older adults from low-income and racial and ethnic minority populations are particularly at risk of adverse health outcomes related to chronic illness and multimorbidity. These individuals have historically been underrepresented in research (Kaiser, Thomas, & Bowers, 2017; Purnell et al., 2016). [960]
+
+
+##### Engagement of older adults from low-income and racial and ethnic minorities imperative to address growing diversity and health disparities
+> Engagement of low-income and racial and ethnic minority older adults in research is imperative to address the growing diversity among and health disparities between older populations in the United States. [960]
+
+##### Known barriers to research participation 
+> Barriers to their research participation include distrust of the medical and research community, and fears related to a history of well-documented unethical research practices (Hughes, Varma, Pettigrew, & Albert, 2017; Williams et al., 2010), limited access and opportunities to participate, including stringent trial inclusion and exclusion criteria (Hamaker, Stauder, & van Munster, 2014; Herrera et al., 2010; Hughes et al., 2017), language and communication barriers (Haley et al., 2017; Larson, Cohn, Meyer, & Boden-Albala, 2009), ageism and physical health impairments (Hamaker et al., 2014; Herrera et al., 2010; Hughes et al., 2017), and consent challenges related to cognitive impairment or low health literacy (Haley et al., 2017; Herrera et al., 2010). Identifying barriers and facilitators to older adults’ research participation is vital to increasing their recruitment and retention in clinical studies as well as improving the quality of health care this group receives.
+
+##### Importance of Patient and community input
+
+> Patient and community input to research methods and interpretation are increasingly recognized as vital to developing patient-centered care, and have proven successful in the past to promote stakeholder buy-in and tailor studies involving diverse aging populations and multiple stakeholders to be culturally responsive (Idler, Grant, Quest, Binney, & Perkins, 2015; Manson et al., 2017; Mirk et al., 2016; Miyawaki, Belza, Kohn, & Petrescu-Prahova, 2018; Primetica, Menne, Bollin, Teri, & Molea, 2015). 
+
+
+### Black--white differences in willingness to participate and perceptions about health research: results from the Population-Based Health Street Study
+
+Här är egentligen främst resultatet från studien och de slutsatser som därmed kan dras intressanta. Artikelförfattarna skriver så här i andra halvan av sitt abstract:
+
+> AAs (African-Americans) were statistically significantly less likely to have previously participated in a research study, be willing to volunteer for any type of health research study, or to trust research or researchers compared to Whites. 
+
+> AAs also desired significantly higher compensation amounts to participate compared with Whites adults. 
+
+> In logistic regression analysis, education, age, gender, visits to healthcare practitioners and facilities were statistically significant predictors for AAs participation in health research. 
+
+> Keeping in view the findings of our study, clinical and public health researchers and practitioners should use special recruitment and retention strategies to increase the participation of AAs in health research studies.
+
+Här handlar det visserligen inte om specifikt aktivt deltagande i forskning men resultatet från studien kan ändå användas som grund för varför vi ställer vissa frågor i enkäten såväl som i den specifika studien i artikel två. 
+
+Det som denna studie säger är att etnicitet har betydelse, liksom vilken kompensation som ges samt utbildning, ålder, kön och hur ofta man frekventerar hälso- och sjukvården.
+
+### Preparing researchers for patient and public involvement in scientific research: development of a hands-on learning approach through action research
+
+#### Rationale och syfte
+
+>...it is not only patients who need education, but researchers also require practical tools, recommendations and structured training to show the benefits of PPI and provide guidance on ways to customize PPI methods for specific research projects [7,15]
+[p. 753]
+
+> It is clear that researchers need evidence to justify their PPI efforts and guidance on ways to apply the above­mentioned concepts in daily practice. [7] The literature also suggests that sustainability should be ensured by creating a “soft” infrastructure, including a culture of participation and a solid set of policies, rules and procedures. [3,5] This means that educating researchers should be combined with the establishment of a community of practice that provides active and long­term support and facilitation of senior and junior researchers. [24] It may even require a new approach to education and coaching to really enhance the implementation of meaningful PPI and to reduce the risks of tokenism. What is needed is a programme or coaching approach where researchers can simultaneously learn about PPI, debate personal values and beliefs, share practices and experiences on a regular basis and develop a shared identity around PPI. They also need an approach that integrates strategies at the level of individual researchers with those of the research institute. This is why in 2013, senior and junior researchers of the Research Centre on Autonomy and Participation of People with a Long­term Condition at Zuyd University of Applied Sciences The Netherlands developed a systematic approach to the implementation of PPI in research projects. [25]
+[p. 753]
+
+> The objective of this article was to describe and reflect on the development of a hands­on learning approach through a process of shared learning, debate and the exchange of experiences, supported by the provision of relevant evidence.
+[p. 753]
+
+Denna studie visar ju att det har gjorts seriösa försök att skapa en forskningsmiljö där forskare fostras i att utföra PPI-forskning. Vilka erfarenheter kan de då dela med sig av och vilka slutsatser drar de utifrån sitt arbete med denna 'learning approach'?
+
+Här finns en hel del matnyttigt att hämta kring upplägget och innehållet i denna utbildning. Det är forstås holländare som ligger bakom denna studie. Känns att de ligger så långt före där inom detta område. Det verkar också som att de har hämtat lite av verktygen från designområdet i utbildningen, åtminstone har den en hel del interaktiva inslag som går ut på att extrahera sina värderingar och sin kunskap på ett sätt som är kreativt.
+
+Här finns t.ex. en 'Participation matrix' som... "gives an overview of patient and public involvement (PPI) within research projects based on the “participation game.” For example in data collection, PPI on advising means the advice of patient partners in research and consulting means PPI as participants in an interview".
+
+Inom denna matrix delas graden av PPI in i fyra stadier: consulting; advising, partnership och control. I matrisen delas forakningsprocessen också in i steg nämligen: preparatory work; recruitment; design of PPI; data collection; analysis; identification of most important research findings; dissemination. Intressant nog används 'dissemination' som begrepp även här. För att återknyta lite till studien jag nyss läste så kan dissemination definieras så här:
+
+> Dissemination, defined as “an active approach of spreading evidence-based interventions to the target audience via predetermined channels using planned strategies” [1, 2], is the critical process linking research findings to practitioners who can implement them, leading to benefits among the people or communities of interest. 
+[@knoepke2019, p. 2/12]
+
+Frågan är om det är denna slags dissemination som åsyftas i detta fall eller om det är något annat.
+
+#### Structural challenges identified by the junior researcher participants
+Ett annat intressant resultat i studien är de sju 'structural challenges identified by the junior researcher participants' som listas i tabell 3 [p. 759]: 
+
+1. Unclear which organizations to contact for recruiting patient
+representatives: Does the research centre have preferred organiza-
+tions to consult or to work with? Does the institute keep records of
+existing working relations or contact persons for patient
+organizations? 
+2. Patient and public involvement (PPI) insufficiently specified in
+research proposals: How much PPI can be done without missing
+important deadlines?
+3. Uncertainty about the priority of PPI in the views of the research
+centre. How much time am I allowed to spend on PPI? Will I be
+supported by my superiors when input of patient representatives
+leads to changes in the design, conduct or outcomes of my study?
+4. Lack of guidance on how to budget for meaningful PPI
+5. Absence of a policy for remunerating patient representatives in
+research projects. For example: Is it possible to pay a symposium fee
+for a patient representative? Is there a budget for child care for a
+patient representative? Is it allowed to pay patient representatives
+for their involvement? And if so, what is a reasonable compensation?
+6. Lack of guidance on recognizing the contributions of patient
+representatives, not only individually, but also at the level of the
+research centre.
+7. Do regulations exist for acknowledgement or co-­authorship of
+documents, brochures and scientific manuscripts?
 
 
 
 
+#### Slutsats
+
+> We conclude that a stepwise approach, based on action research, coaching and dialogue between peers, empowers senior and junior researchers to acquire concepts and tools to engage patients in a meaningful way. We recommended distinguishing between the roles and responsibilities of senior and of junior researchers.
+[p. 762]
+
+Anledningen till att de ser uppdelningen mellan juniora och seniora forskare som fruktbar bottnar i detta:
+
+> We also learned the importance of differentiating between the tasks and responsibilities of senior and junior researchers....supporting PPI is not the same as facilitating. Providing this coaching programme is an example of facilitating PPI, meaning that the institute’s leadership acknowledged the need for PPI coaching for researchers, and assumed responsibility for providing the resources to make this happen. 
+[p. 761]
 
 
 
-- Optimizing the Meaningful Engagement of Older Adults With Multimorbidity and Their Caregivers as Research Partners: A Qualitative Study
+### Transdisciplinary research for impact: protocol for a realist evaluation of the relationship between transdisciplinary research collaboration and knowledge translation
 
-- Dissemination and stakeholder engagement practices among dissemination & implementation scientists: Results from an online survey
+OBS! Detta är endast ett studieprotokoll, ej en fullständig vetenskaplig artikel.
 
-- A formative qualitative evaluation to inform implementation of a research participation enhancement and advocacy training program for diverse seniors: the DREAMS program
+#### Bakgrund
 
-- Black--white differences in willingness to participate and perceptions about health research: results from the Population-Based Health Street Study
+> ...little empirical evidence exists on whether (and how) transdisciplinary collaboration influences research outcomes, including those typically associated with translation, such as research productivity (eg, number of publications). [ref.1]
 
-- Preparing researchers for patient and public involvement in scientific research: development of a hands-on learning approach through action research
-    
-- Transdisciplinary research for impact: protocol for a realist evaluation of the relationship between transdisciplinary research collaboration and knowledge translation
-    
-- Involving older people in research: methodological issues
+> Given the growing emphasis on transdisciplinary paradigms, research is needed to develop stronger theoretical explanations of if, how, why, for whom and under what circumstances transdisciplinary collaboration influences knowledge translation.
+
+Det är alltså det som studien avser göra.
+
+
+#### Syfte
+
+Syftet med studien är...
+
+>The aims of this study are to understand: (i) various perspectives of knowledge translation within a transdisciplinary research team and (ii) if, how, for whom and under what circumstances a transdisciplinary research approach and associated knowledge sharing activities can contribute to a shared understanding of knowledge translation.
+
+#### RQs
+
+Our research questions are as follows:
+1. Does transdisciplinary collaboration impact knowl-
+edge translation and if so, by which mechanisms is
+this achieved?
+2. What contextual factors determine whether the
+identified mechanisms produce their intended out-
+comes?
+3. In what circumstances (ie, combination(s) of context
+factors and mechanisms) are transdisciplinary teams
+most likely to be effective in terms of impacting knowl-
+edge translation?
+
+#### Hur definieras 'Knowledge translation'(KT)?
+
+> ...knowledge translation (ie, the interactive and iterative process of knowledge creation, sharing and use for better health outcomes, and involving multiple system stakeholders) [ref. 6]
+
+Med KT åsyftas här alltså inte bara själva överförandet utan även genererandet av kunskap. Det var för mig något nytt att definitionen var så vid.
+
+#### Olikheter i konceptualiseringen av KT kan utgöra barriärer för hur den lyckas
+
+> How diverse team members understand and enact the concept and process of knowledge translation (ie, the interactive and iterative process of knowledge creation, sharing and use for better health outcomes, and involving multiple system stakeholders) [ref. 6] can produce barriers to knowledge creation and knowledge sharing activities conducted within the team. Such barriers may have subsequent downstream effects on the uptake and impact of the knowledge produced.
+
+Bra att de tar upp det. 
+
+
+#### Barriers to intraorganisational knowledge translation
+
+> Barriers to intraorganisational knowledge translation have been studied outside of the health context. For example, Carlile, [ref. 7] in an ethnographic study of product development, identified three types of boundaries, described as *syntactic* (eg, language and terminology), *semantic* (eg, interpretation of knowledge) and *pragmatic* (eg, the nature of knowledge; organisational politics and culture; roles and responsibilities). Similar boundaries— each with different levels of complexity—are likely to exist in collaborative academic environments. [ref. 5] Understanding more about such boundaries and resultant barriers to internal knowledge translation activities can inform planning and facilitate collaboration across disciplines.
+
+För att sammanfatta så verkar denna studie lovande, men detta är bara protokollet så än så länge finns inget resultat.
+
+
+
+
+### Involving older people in research: methodological issues
+
+Artikeln är gammal, från 2005, så frågan är hur användbar den egentligen är.
+
+#### Introduktion
+
+
+
+#### PPI som begrepp tycks ha sin upprinnelse i en strategi från NHS
+
+> User involvement and increasing choice for patients have emerged as important themes of UK health policy. The NHS Plan (Department of Health 2000) and the accompanying policy (Department of Health 1999) set out plans to establish a new system of patient and public involvement for England to replace community health councils (CHCs). These policy developments represent a raft of changes which promote systems of improving the quality of patient information, advocacy and complaints systems, and involvement in planning and evaluation at all levels of commissioning and operation.
+
+I citatet ovan framkommer en del intressanta saker som jag inte hade koll på. Det var ju i viss mån känt för mig att s.k. 'user involvement' förordades utifrån (UK) health policy, men inte att som det antyds här PPI som begrepp har sin upprinnelse i en ny policy från NHS (syftandes till att lansera 'a new systems of patient and public involvement') och att det ersatt något som kallas 'community health councils (CHSs)'
+
+#### Clarifying terminologi 
+
+Vidare skriver artikelförfattarna:
+
+> It is not surprising that the systemic and radical change intended by these policies results in tensions in their implementation. This is reflected in the uncertainty over terminology, and the need to negotiate new professional and service-user relationships and boundaries.
+
+Apropå terminologin skriver de:
+
+> The assumptions made in relation to involvement are often diffuse, overlapping and lack conceptual clarity. 
+
+##### Om den oklara innebörden av 'user involvement'
+
+> For example, the term ‘user involvement’ is used to describe a range of activities which seek to include service users in health or social care for different purposes and in different ways. Boote et al . (2002) identified the conceptual confusion underlying the meaning of involvement in health research, which is illustrated by the problematic use of terms such as ‘lay’, ‘service user’ or ‘consumer’, and the inherent difficulties of defining groups and their relationships to or with healthcare, which may reflect or ‘be influenced by the agenda of the person or organisation using the term’ (Boote et al . 2002,
+p. 215).
+
+Detta är en bra referens att knyta an till i min avhandling.
+
+##### 'Lay', 'consumer or 'user?'
+
+> The scoping exercise conducted on behalf of Consumers in National Health Service (NHS) Research (an advisory group funded by the Department of Health, now known as INVOLVE) adopted the term ‘lay’ because it was seen to encompass involvement through life experience, and be inclusive of service users, carers, patients, clients and citizens (Baxter et al . 2001). While patient and public involvement is the overarching terminology used in current UK policy documents, the terms ‘user’ and ‘consumer’ tend to be used interchangeably. ‘Consumer’ is marginally the preferred term because it encompasses wider notions of both the potential and actual service recipient, and because, for some, ‘user’ invokes associations with substance misuse (Boote et al . 2002). The term ‘consumer’ was adopted for the panel in the present study on falls on the advice of the consumer member of the research team, although this was not the preference of all the participants.
+
+#### The (presumed) reason for increasing involvement in research
+
+> Increasing involvement in research reflects the policy drive for greater accountability for quality and patient-centred outcomes, and is based on the assumption that it will lead to services which are of better quality and more relevant to the priorities and needs of patients (Coote 1993, Poulton 1999, Truman & Raine 2002, Faulkner & Thomas 2002).
+
+Mycket bra källa att använda (om än något gammal)!
+
+
+#### The ideology of involvement in research shifts the balance of power away from the professional
+
+> However, giving greater prominence to service users serves to contest the nature and control of professional knowledge, decision-making and knowledge production (Popay & Williams 1996). Therefore, the ideology of involvement in research, if taken to its logical conclusion, necessitates reframing the social relations of research sponsorship and production, and shifting the balance of power away from the professional.
+
+Mycket bra iakttagelse och reflektion som ofta lyser med sin frånvaro. Dock undrar jag vad som 'professional' i detta fall syftar på. Är det forskaren eller människor i hälso- och sjukvårdsprofessionen? Hur som helst så medför ett sådant skifte att 'lay persons' eller 'users', 'consumers' eller vad man väljer att benämna dem, tilldelas mer makt och inflytande, en makt som då de professionella oavsett om de är yrkesverksamma inom hälso- och sjukvården eller om det är frågan om forskare, måste göra avkall på.
+
+
+
+
+- Service user involvement in nursing, midwifery and health visiting research: A review of evidence and practice
 
 - Ethical and epistemic dilemmas in knowledge production: Addressing their intersection in collaborative, community-based research
 
@@ -564,7 +910,7 @@ Sedan är det ju tragiska att människor i den här sortens studier endast blir 
 
 - Involving older people in research: practical considerations when using the authenticity criteria in constructivist inquiry
 
-- Engaging and Honoring Older Adults in Research},
+- Engaging and Honoring Older Adults in Research
 
 - Research participation by older adults at end of life: barriers and solutions
 
