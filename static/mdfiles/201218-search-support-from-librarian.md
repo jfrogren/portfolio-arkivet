@@ -143,7 +143,7 @@ Det är också, menar Bindels et al. en farhåga som inte helt är tagen ur luft
 
 'patient engagement research' = ännu ett begrepp, syftar till att 'to incentivize patients to become more engaged in their health and health care.' (p.1058)
 
-När det kommer till vilka hinder som anses föreliggar för att patienter ska kunna engagera sig mer i forskning eller annorlunda formulerat inta en mer aktiv roll i forskning pratar artikelförfattarna här om att det är en fråga om maktstrukturer mellan patienter, vårdgivare och forskare. På vilket sätt dessa maktstrukturer ter sig skrivs inte ut så explicit men det lämnas en referens till en studie av Domecq et al. från 2014 i form av en systematisk review kring 'Patient engagement in research'. Och de mer konkreta hinder som nämns och som kan kopplas till makt är a) att patienter behöver förberedas för att delta i forskning; b) att vetenskapliga tidskrifter måste bli mer mottagliga för artiklar "wriiten in a patient voice" och att blir bättre på att tillgängligagöra artiklarna så att de blir tillgängliga för olika sorters publik:
+När det kommer till vilka hinder som anses föreliggar för att patienter ska kunna engagera sig mer i forskning eller annorlunda formulerat inta en mer aktiv roll i forskning pratar artikelförfattarna här om att det är en fråga om maktstrukturer mellan patienter, vårdgivare och forskare. På vilket sätt dessa maktstrukturer ter sig skrivs inte ut så explicit men det lämnas en referens till en studie av Domecq et al. från 2014 i form av en systematisk review kring 'Patient engagement in research'. Och de mer konkreta hinder som nämns och som kan kopplas till makt är a) att patienter behöver förberedas för att delta i forskning; b) att vetenskapliga tidskrifter måste bli mer mottagliga för artiklar "written in a patient voice" och att blir bättre på att tillgängligagöra artiklarna så att de blir tillgängliga för olika sorters publik:
 
 > The development of engagement research in health has been difficult to achieve because of the long-standing power differentials between patients and care providers and researchers [4]. Some of the particular barriers to engagement have been identified: the need to prepare patients to engage in research; the need for journals to be open to including articles written in a patient voice and to make these bridge articles available through open access to a number of audiences [p. 1058]
 
@@ -151,7 +151,7 @@ Mycket av forskningen inom området har varit inriktad på att dokumentera och d
 
 > Much of the work to date on patient engagement in research has focused on documenting and defining patient engagement/involvement/activation that consider; when engagement takes place, the degree of engagement, what activities patients engage in, who is involved, and the processes used [8–11]. These definitions are fluid and depend on the country, the system, the funding formats or the disciplines or domains under study.
 
-I artikeln konstateras detta och jag antar att det är en form av kritik och att artikelförfattarna anser att det är mer relevant att forska kring metider för 'hur' man ska involvera snarare än att försöka klassificera graden av engagemang, men det är min tolkning.
+I artikeln konstateras detta och jag antar att det är en form av kritik och att artikelförfattarna anser att det är mer relevant att forska kring metoder för 'hur' man ska involvera snarare än att försöka klassificera graden av engagemang, men det är min tolkning.
 
 
 ### Mey, E., & van Hoven, B. (2019). Managing expectations in participatory research involving older people: what’s in it for whom?. International Journal of Social Research Methodology, 22(3), 323-334.
@@ -837,10 +837,6 @@ För att sammanfatta så verkar denna studie lovande, men detta är bara protoko
 
 Artikeln är gammal, från 2005, så frågan är hur användbar den egentligen är.
 
-#### Introduktion
-
-
-
 #### PPI som begrepp tycks ha sin upprinnelse i en strategi från NHS
 
 > User involvement and increasing choice for patients have emerged as important themes of UK health policy. The NHS Plan (Department of Health 2000) and the accompanying policy (Department of Health 1999) set out plans to establish a new system of patient and public involvement for England to replace community health councils (CHCs). These policy developments represent a raft of changes which promote systems of improving the quality of patient information, advocacy and complaints systems, and involvement in planning and evaluation at all levels of commissioning and operation.
@@ -881,22 +877,444 @@ Mycket bra källa att använda (om än något gammal)!
 
 Mycket bra iakttagelse och reflektion som ofta lyser med sin frånvaro. Dock undrar jag vad som 'professional' i detta fall syftar på. Är det forskaren eller människor i hälso- och sjukvårdsprofessionen? Hur som helst så medför ett sådant skifte att 'lay persons' eller 'users', 'consumers' eller vad man väljer att benämna dem, tilldelas mer makt och inflytande, en makt som då de professionella oavsett om de är yrkesverksamma inom hälso- och sjukvården eller om det är frågan om forskare, måste göra avkall på.
 
+Samtidigt framträder här en viss motsägelse eller vad man ska säga för här ligger fokus så starkt på 'users' och 'consumers' alltså vanligt folk i rollen som medborgare, medan vi i UserAge involverar människor inte bara i rollen som medborgare och konsumenter utan t.ex. i rollen som att de utifrån sin profession besitter en viss kunskp. De är således inte alltid där i rollen som att de har erfarenhet av att ha en viss erfarenhet av att leva som en äldre person i Sverige  (utifrån att de är äldre medborgare) eller att de utgör en representant för (äldre) medborgare, utan vi tar in dem för att de delvis besitter en annan kompetens och har en annan erfarenhet som inte enbart är kopplat till deras roll som medborgare eller vårdkonsument i en hälso- och sjukvårdsapparat. Det är viktigt att komma ihåg. Det är också därför 'users' blir ett sånt svårt begrepp för främst Christine och mig att ta till eftersom de grupper vi vill få in i det begreppet vanligtvis inte hör dit.
+
+#### Current research governance at odds with authentic participation
+
+> Beresford (2003a) pointed out that research governance, which is essentially ‘managerialist/consumerist’ and a top-down policy, can be at odds with authentic participation in the research process, which may be both ambiguous and bottom-up. 
+
+> Beresford (2003a) went on to argue that user-controlled research should focus on who originates and makes decisions about research and its evaluation, thus defining it in terms of the degree of control that consumers and research participants have in the process. If health services researchers are to move beyond the rhetoric of user involvement, it is important to think about the nature of the relationship at a number of levels including sponsor, commissioner, informed participant and co-researcher.
+
+Verkligt deltagarinflytande och brukarkontrollerad forskning är i grunden en fråga om vem som "originates and makes decisions about research and its evaluation" - alltså är det en fråga om "the degree of control that consumers and research participants have in the process". 
+
+Det tycker jag att Beresford har helt rätt i. Detta blir därför oundvikligen en väldigt politisk fråga. Vem ska tilldelas makten över (kunskaps)produktionsmedlen som i sin tur i viss mån  blir vägledande för hur hälso- och sjukvårdsrelaterade tjänster och produkter utformas? Är det som nu forskare, eller ska "folket" i större utsträckning tilldelas den makten? Vad får det för konsekvenser? Är inte risken att forskningen då blir mer populistisk och direkt problemlösande till sin natur och att vetenskapligheten i form av bidrag till det vetenskapliga samtalet minskar? Är det en nackdel?
+
+#### Both professionals and consumers will need training to adapt to a changed context of relationships
+
+> If health services researchers are to move beyond the rhetoric of user involvement, it is important to think about the nature of the relationship at a number of levels including sponsor, commissioner, informed participant and co-researcher. In addition, the development and training needs of both professionals and consumers will need to be addressed since they will be working within a changed context of relationships, and one which inevitably challenges established research traditions.
+
+Exakt. Det krävs utbildning av såväl "brukare" som forskare för att bägge ska kunna finna sig tillrätta i den nya kontexten som uppstått i vilken forskare också får finna sig i att göra avkall på en viss del av den makt de har haft traditionellt sett.
+
+#### The growth of the role of consumers in a variety of research activities
+
+Vidare beskriver Ross att detta arbete har tagit fart (observera att året då detta skrivs är 2005) och ger exempel på i vilka områden representanter för brukare eller konsumenter har gjort sitt inträde:
+
+> This area of work is developing rapidly and is reflected in the growth of the role of consumers in a variety of research activities which encompass: priority setting for national research and development (R&D) programmes (Thornicroft et al . 2002, Ross et al . 2004); commissioning research (INVOLVE 2003a); promoting involvement in trials and ensuring that the Medical Research Council (MRC) is responsive to consumer interests (the MRC’s Consumer Liaison Group); and helping people to make informed, evidence-based decisions (the Cochrane Collaboration Consumer Network: www.cochrane.org/consumers/homepage.htm ).
+
+Det blir tydligt att vad detta handlar om är just ett sanktionerat motstånd i form av att det är politiker själva som - också utifrån den allmänna opinionen såklart och brukarorganisationernas växande makt - har tilldelat brukar/konsumentrepresentanter en plats vid bordet i sammanhang där viktiga beslut rörande forskning och utveckling (dessa områden tenderar här att smälta ihop något) fattas. Så här skriver Ross uttryckligen:
+
+> ...the drive for consumer involvement came from policy imperatives and the research commissioning priorities, and undoubtedly provided a receptive context for altering social relations to empower consumers... [p. 272]
+
+Det är förståeligt att de tilldelas den makten för det ligger också i politikers - och andra beslutsfattare kopplade till frågor som rör forsking och utveckling - intresse att undvika situationer där de anklagas för att inte ha hörsammat folkets (och då särskilt utsatta gruppers) vilja. Participatory research växte ju i viss mån fram i skenet av en del skandaler där minoriteter farit väldigt illa i forskning.
+
+#### Aim with this paper
+
+> This paper seeks to address the gap in the literature on the approaches and methods which can inform the development of appropriate models of involvement.
+
+Det Ross försöker göra är alltså att rikta in sig på HUR:et, det vill säga hur denna involvering ska gå till på bästa sätt (och skissa på en form av modell för detta). Hon gör det genom att utgå från en fallstudie (i dubbel bemärkelse) - om 'consumer involvement' i forskning om fall.
+
+> The aim of this paper is not to report on the study design or the substantive findings, but to share and reflect upon our experience of involvement of older people in the research, and to discuss the implications for methodological development.
+
+#### PAR is informed by participative inquiry theory
+
+> Participatory action research is informed by participative inquiry theory (Reason 1998), which acknowledges the need for an ‘alternative system of knowledge production based on the people’s role in setting agendas and participating in the data gathering and analysis and controlling the use of the outcomes’ (p. 271).
+
+Har aldrig hört talas om 'participatory inquiry theory' men det låter intressant.
+
+
+#### Vilken roll hade 'consumer panel' i fallstudien?
+
+> The role of the panel was to ensure that the way that the project was carried out, interpreted and disseminated was relevant to older people using health and social services. This is similar to the role of an advisory group described by Rhodes et al . (2002), which supported and contributed to the evaluation of diabetes services in Bradford.
+
+Det är tydligt att konsumentrepresentanternas roll i detta handlade just om hur de utifrån sin roll som hälso- och sjukvårdskonsumenter upplevde tillvaron och vilka möjligheter och begränsningar den erbjöd.
+
+
+#### Change theory?
+
+> Presenting the process diagrammatically has limitations in that it implies linearity, whereas in reality the process was dynamic and multifaceted as is seen in change theory (Pettigrew et al. 1992). [p. 272]
+
+*Change theory* har jag aldrig hört talas om, det verkar intressant.
+
+
+#### Slutsatser
+
+Nedanstående citat tycker jag beskriver bra hur involveringen av brukare kan påverka forskningen och forskarna och jag tror att det som beskrivs där är rätt så allmängiltigt för brukarinvolvering i forskning generellt:
+
+> There were many examples in panel meetings of consumers taking the opportunity of a platform to move the discussion beyond the narrow confines of the research project and the topic of falls to make statements about the local environment or other issues which affected the health and well-being of older people locally, such as public transport. It was becoming apparent that the panel’s role in influencing change was not only shifting the focus of accountability for the outcomes of the research, but also changing the nature of the relationship between the researcher and consumer, which suggests that the process may be unpredictable and non-linear.
+
+När det gäller de mer explicita slutsatserna hittade jag inget speciell, Ross gör en skiss på en lite svårtydd modell och kommentarar modellen lite vagt:
+
+> the emerging model of involvement that is illustrated in Figure 2 suggests links between the context, process and resulting impact and benefits which accrued.
+
+Och den mer generella slutsatsen att...
+> There is no single blueprint for involvement as it entails working with a diversity of perspectives.
+
+Det är egentligen inte dessa slutsatser som är det viktiga och centrala i artikeln utan den historielektion hon erbjuder och sättet hon ramar in och beskriver 'consumer involvement' och vilka frågor det väcker. Det är det jag främst tar med mig
+
+
+### Service user involvement in nursing, midwifery and health visiting research: A review of evidence and practice
+
+Detta är en något senare artikel där Fiona Ross ingår som författare jämfört med den artikel hon skrivit själv med titeln 'Involving older people in research: methodological issues'.
+
+Från att ha benämnt fenomenet 'consumer involvement' pratas det i denna artikel om 'service users' och 'service user involvement'. Oklart varför denna beteckning vunnit mark men det är nog så att t.ex. Beresford (som ju är sisteförfattare på denna artikel) har haft ett inflytande skulle jag tro.
+
+#### Bakgrund och syfte
+
+> UK policy recommends that service users (patients, carers and the public) should be involved in all publicly funded health and social care research. However, little is known about which approaches work best in different research contexts and why. The purpose of this paper is to explain some of the theoretical limitations to current understandings of service user involvement and to provide some suggestions for theory and methods development. This paper draws upon ﬁndings from a review of the research ‘evidence’ and current practice on service user involvement in the design and undertaking of nursing, midwifery and health visiting research.
+
+> The aim of the study was to inform the NHS Service Delivery and Organisation (SDO) Research and Development Programme about the theory and evidence on service user involvement in the design and undertaking of nursing, midwifery and health visiting research. [300]
+
+
+#### Definition of 'service user'
+
+> We chose to use the Department of Health deﬁnition of a ‘service user’: any person who has, is, or may access NHS or independent sector health services in the UK (Department of Health (DH), 1999). [300]
+
+Här blir det tydligt hur vår breda definition av 'brukare' eller 'kunskapsanvändare' ter sig olämplig tycker jag. 'Service user' har en tydlig koppling till hälso- och sjukvårdskonsumption. Punkt slut.
+
+#### Svårt att utvärdera effekten av 'service user involvement'
+
+> User involvement may be seen as a way of ensuring that research is more relevant to the groups that it intends to inform, or more appropriate to the communities it intends to serve. However, at a project level it is difﬁcult to show whether either of these aims have been achieved because it is not possible to know what the outcomes of the research might have been without the involvement of service users. [305]
+
+#### Moraliskt argument att service users ska tilldelas en röst i forskning som påverkar deras hälsa 
+
+> Irrespective of whether relevance to society can be demonstrated, there is a moral argument that service users should have a voice in research which may have an impact on their health status (Boote et al., 2002). [305]
+
+#### Forskare erfar vissa svårigheter med att låta service users formulera ansökningar
+
+> ...in the interviews we conducted, researchers reported difﬁculties with involving service users in writing proposals because of not wanting to raise service users’ expectations that the research would be funded, or not having the time or resources to do this. [305]
+
+#### Etiskt tvivelaktigt att bland in service users innan etikansökan beviljats
+
+> There is also an unresolved research governance issue about whether or not it is acceptable to involve service users before ethical approval has been obtained. [305]
+
+#### Samtidig verkar tidig service user involvement kunna hjälpa till att identifiera potentiella etiska problem innan de uppstår 
+
+> Previous research ﬁndings indicate that involvement at this stage can help to identify potential  ethical issues before they arise (Entwistle et al., 2002). [305]
+
+#### I utvecklandet av enkäter kan service user involvement leda till högre svarsfrekvens
+
+> In researcher-led studies, service users have been involved in developing and piloting data collection tools, designing questionnaires and deciding how data will be collected. In questionnaire design this can help to validate the questionnaire in terms of the language being used, the appropriateness of the questions being asked and the method of collection, leading to improved response rates (Nicolson et al., 2001). [305]
+
+#### Involving service users in dissemination of research findings can have a powerful impact and make findings more accessible
+
+> The literature suggests that involving service users in the dissemination of research ﬁndings, for example co-presenting a paper at a conference, can have a powerful impact and can make ﬁndings more accessible (see for example, Liberty et al., 1999; Flaskerud and Anderson, 1999). [306]
+
+#### Involvement can have therapeutic outcomes for service users
+
+> Policy documents and the research literature claim that there can be beneﬁts for service users who are involved in research (for example, DH, 2004; Baxter etal., 2001; Dixon et al., 1999). Such outcomes have beendescribed as therapeutic, and can be related to concepts of altruism (Agrawal, 2003). Accounts of research studies show that participation has helped some patients with cancer to construct their lives with greater meaning by providing a supportive structure and enabling hope (Moore, 2001).
+
+#### Involving service users requires building greater flexibility into projects
+> Involving service users requires building greater flexibility into projects, particularly in relation to timescales and the provision of additional support (Faulkner, 2004).
+
+#### New forms of partnerships with service users in research raise new and different ethical issues
+
+> The review found that new forms of partnerships with service users in research raise new and different ethical issues in relation to conﬁdentiality, anonymity, informed consent and protection from harm. Where service users are involved as co-researchers or active members of project teams there is a need to consider ethical issues both on the part of service users and to protect other participants in the research.
 
 
 
-- Service user involvement in nursing, midwifery and health visiting research: A review of evidence and practice
+### Ethical and epistemic dilemmas in knowledge production: Addressing their intersection in collaborative, community-based research
 
-- Ethical and epistemic dilemmas in knowledge production: Addressing their intersection in collaborative, community-based research
+#### Om Collaborative community-based research'(CCBR)
 
-- Social impact of participatory health research: collaborative non-linear processes of knowledge mobilization
+Här talas om 'Collaborative community-based research'(CCBR). Vad menas med det? Jo, det refererar till att...
 
-- Making sense of citizen science: stories as a hermeneutic resource
+> University researchers across a range of disciplines are increasingly collaborating with communities to investigate urgent social, economic, and policy problems. [p.24]
+
+På vilket sätt tar sig detta samarbete sig uttryck? Jo...
+
+> ...by involving community members as research partners instead of merely as research ‘subjects’ in the traditional sense. By co-developing research questions and carrying out the work in partnership with communities, scholars engaged in this type of research can help universities respond to calls to be more civically engaged [p. 24]
+
+Det svarar mot krav på universiteten att bli mer samhällsengagerade i sin inriktning. Vidare beskrivs och motiveras denna typ av forskning så här:
+
+> By drawing on community members’ local knowledge and experiences, CCBR both incorporates insights that may otherwise be overlooked and produces more relevant findings. Furthermore, CCBR can facilitate more inclusive public deliberations about important policy issues because it involves often-marginalized community members in knowledge production throughout the research process: from determining research questions, to gathering and interpreting data, to disseminating findings and developing policy proposals. [p. 24]
+
+#### Syfte 
+
+> In this article, we examine this growing type of empirical inquiry [CCBR] to understand its ethical and epistemic benefits and challenges, as well as its implications for research ethics more generally [p. 24]
+
+Hur ämnar de då göra detta? Jo...
+
+> ...we are not drawing upon empirical studies directly, but rather we are reflecting upon the benefits and challenges of one mode of empirical inquiry. We think this type of analysis represents an important and complementary form of philosophic engagement with empirical research: to reflect upon the dilemmas inherent in the research methodologies that scholars employ and, more foundationally, to identify how research can help mitigate systemic inequalities. [p. 25]
+
+Metoden är alltså att "reflecting upon" i sann filosofisk tradition. Det de skriver här är att det finns dilemman som är "inherent in the research methodologies that scholars employ" samt implicit att det bör åligga forskningen att "help mitigate systemic inequalities" (vad som nu menas med det.) Jo, för att motivera eller redovisa varför de anser att det åligger universiteten att rikta in sig på detta skriver de sedan följande:
+
+> In order to establish why such aims are relevant to scholarly research, we begin by considering the democratic mission of universities and the relationships among their ethical, epistemic, and political commitments. [p. 25]
+
+#### Relationen mellan rättvisa och kunskapsproduktion är erkänd inom filosofin
+> Philosophers have addressed relationships // among justice and knowledge production (e.g. Anderson, 1995), and at least since Dewey’s 1916 Democracy and Education (Dewey, 2011) they have attended to how social scientific inquiry can support democratic practices (e.g. Anderson, 2006; Bohman, 1999). There has also been growing attention by philosophers to the ethical nature of epistemic practices. [ref. 1] [p. 24-25]
+
+#### Universities and justice in knowledge production
+
+> In her 1995 article ‘The Democratic University: The Role of Justice in the Production of Knowledge’, Elizabeth Anderson addresses the politics in higher education from an egalitarian perspective. She argues that conservative allegations that universities are hostage to liberal ideology are misguided in their assumption that knowledge production can be an apolitical process.
+
+Här föreligger en felaktig slutsats skulle jag säga, dock utan att ha läst Elizabeth Andersons text. Men om konservativa anklagar universitet för att vara gisslan hos en liberal ideologi betyder ju inte det i sig att de menar att kunskapsproduktion kan och bör vara apolitisk om de inte uttryckligen säger det. Det borde ju vara fullt möjligt att vara konservativ och socialkonstruktionist, eller? 
+
+Hur som helst, så här redovisas Andersons argumentation om varför universitet oundvikligen ör politiska institutioner:
+
+> Universities are political, she agrees, but not because of partisan commitments. Rather, they are unavoidably political institutions because inquiry is a social endeavor and thereby implicates foundational political questions about membership and communication within universities. Anderson notes that inquiry is a social pursuit in at least three primary ways: because we test our findings against the metrics of others, because there is a social criterion of publicity for what counts as reasons to believe (we cannot simply command others to believe), and because discoveries and new insights must be verified by others to be accepted (p. 190). That is, ‘what one believes crucially depends on whom one believes’ (Anderson, 1995: 189). Therefore, the task at hand, she argues, is not to remove politics from the university but rather to determine what ‘political epistemology’ the university should embrace given its mission of generating warranted knowledge claims.
+
+Jag tycker att detta är mycket klokt och håller åtminstone så långt med henne. Vidare skriver de att Anderson förkastar en libertariansk modell eftersom den...
+
+> ...is vulnerable to failures in the marketplace of ideas when some individuals are denied access to forums for inquiry, when the equality of some inquirers is undermined, or when constraints on certain content or types of speech contribute to the circulation of false or unwarranted claims (Anderson, 1995: 196–197).
+
+Exakt vad som utmärker en libertariansk modell och vad som skiljer den från en liberal är för mig oklart men jag tolkar det som att i den förra så är det ett hårdare och inte lika inkluderande debattklimat utan mer principen att den starkes röst vinner. Enligt författarna så endorsar Anderson istället en liberaldemokratisk epistemiologi som...
+
+>...is predicated on competent adults’ universal access to the academy and their egalitarian participation in inquiry (p. 203). [p. 26]
+
+En epistemiologi som bejakar mångfalden och där...
+
+> We obviously should reject hierarchies that are irrelevant to epistemic concerns and are themselves unethical [...] such as giving more credence to the claims of White males and discounting the claims of working class individuals or minorities (p. 204). [p. 26]
+
+Men artikelförfattarna riktar kritik mot Andersons synsätt främst eftersom de anser att...
+
+> ...her university-centric account overlooks knowledge forms that emerge or exist outside the disciplined halls of academe, as well as the possibility of academic knowledge production that includes the broader public. [p. 26]
+
+samt att hon...
+
+> ...does not go far enough in grasping how authorized knowledge (including that sanctioned by universities) as well as ‘common sense’ (Gramsci, 1992) can impose epistemic injustices.[p. 26]
+
+Vidare skriver de att hennes...
+
+> ...positive view still falls short of recognizing the wealth of knowledge of individuals outside the academy who do not seek the forms of membership and participation she writes of (and who may even have strategic reasons for not making their knowledge known to such institutions). It also falls short of recognizing other sorts of ethical and epistemic responsibilities universities might have, particularly with regard to disadvantaged communities.
+
+#### Freires frigörande pedagogik
+
+Artikelförfattarna beskriver Freires 'liberatory pedagogy' så här:
+
+> Freire’s liberatory pedagogy, through which those who suffer from injustice ‘know better // what they already know’ and ‘name’ their reality for themselves (Freire, 1970; Glass, 2001). [p. 28-29]
+
+Och kommenterar den så här att:
+
+> Such critical knowledge production can expand the hermeneutical resources for all members of the community and is an important contribution to the balancing of the scales of epistemic justice. [p. 29]
+
+Med andra ord att t.ex. den minoritet som varit utsatt för något övergrepp tillåts och tilldelas resurser att sätta ord på den och spride den kunskapen till en bredare allmänhet. Och att denna kunskap utgör ett viktigt bidrag i arbetet för epistemisk rättvisa. 
+
+
+#### Kritik mot Frickers teoriom epistemisk orättvisa
+De gör en mycket bra sammanfattning av Miranda Frickers teori om epistemisk orättvisa men riktar samtidigt en kritik mot den då de tycker att hon missar att...
+
+> ...the exclusion of knowledge forms outside the sphere of propositional knowledge that is sanctioned by the university could itself be considered as a kind of both testimonial and hermeneutic epistemic injustices. It is a form of testimonial injustice when, because of identity prejudice, people’s claims are dismissed as ‘mere’ intuitions, vague feelings, or the like. This testimonial injustice transmutes into a form of hermeneutical injustice – one that Fricker has yet to recognize – when those very people who are ideologically demeaned as knowers (e.g. women, people of color) are thereby denied the opportunity to reinterpret the world for themselves and others. In this respect, Fricker’s notion of hermeneutical injustice undervalues the knowledge already possessed by marginalized individuals or communities and thereby fails to consider how that knowledge can be mobilized (such as through CCBR). [p. 29]
+
+#### Kritik mot universitetens negligerande av kunskap från 'disadvantaged communities' och ett förordande av CCBR som "an essential approach for combating epistemic injustice in scholarly research"
+
+> Scholars largely generate their research questions in isolation from disadvantaged communities (even if they share identity markers with those communities) and in conversation with previously published research that, for all the reasons // of epistemic injustice we have reviewed, itself excludes the knowledge, interests, and concerns of those communities. Thus, scholars may produce many volumes of ‘damage-centered research’ (Tuck, 2009) about the impacts of US mass incarceration on communities of color, but they produce vastly less research on those communities’ resilience and modes of being that are not defined by dominant ideologies and institutions. [p. 31-32]
+
+> In contrast,equity-oriented CCBR begins with the knowledge, questions, and interests of communities and develops research programs that investigate issues otherwise outside the attention of the dominant culture. [p. 32]
+
+> In practice, this means that CCBR involves multiple iterative processes that reside at the ethico-epistemic intersection. Whether determining research questions, obtaining informed consent, gathering data, or reporting findings, researchers must engage in ongoing conversations with community partners to actualize respectful and egalitarian working relationships. Both the structure and the operations of the research project must be iteratively fine-tuned to enable the discernment of shared goals, of mutually meaningful and significant research questions, and of possibilities for ethically, epistemically, and politically transformative engagements. This relational, iterative process stands in stark contrast to the transactional mode of research whereby researchers define the parameters of the work apart from their subjects and then obtain consent from them as a discrete transaction (Newman and Glass, 2014a, 2014b). [p. 34]
+
+> Neither Fricker nor Anderson recognizes a possibility for scholars and community members to collaborate in this kind of formal knowledge production to enrich public knowledge. Thus, they do not recognize how to further epistemic justice through partnerships that respect individuals outside the academy as knowledge-bearers and knowledge-producers, not merely as research subjects. We believe that this is an essential approach for combating epistemic injustice in scholarly research. [p. 32]
+
+
+
+
+#### Slutsatser
+
+> Collaborative community-based research can bring a range of benefits to universities, communities, and the public more broadly. [p. 23]
+
+> CCBR importantly recognizes that epistemic and ethical dimensions of research are entangled with one another. [p. 24]
+
+> A distinct virtue of collaborative community-based research is that it makes the ethical–epistemic intersections and challenges in research a focal point of its methodology. This makes collaborative community-based research well positioned to address various forms of ‘epistemic injustice’ (Fricker, 2007) that demean certain people and groups as knowers and exclude them from knowledge production. [p. 23]
+
+> Our analysis leads us to argue that universities should support CCBR for both epistemic and ethical reasons and for the benefits that accrue to the broader public. [p. 24]
+
+
+
+###  Social impact of participatory health research: collaborative non-linear processes of knowledge mobilization
+
+Artikel är ingen sedvanlig akademisk artikel utan mer som en lång plädering för...
+
+> ...how health researchers can achieve social impact for a wide audience, involving them in a non-linear process of joint learning on urgent problems recognized by the various stakeholders in public health.
+
+Detta kan enligt artikelförfattarna åstadkommas genom en samling metoder som faller under paraplybegreppet *participatory health research* vars...
+
+> impact is not preordained by one group of stakeholders, but the result of a process of reflection and dialog with multiple stakeholders on what counts as valuable outcomes. This knowledge mobilization and winding pathway embarked upon during such research have the potential for impact along the way as opposed to the expectation that impact will occur merely at the end of a research project.
+
+#### Knowledge transfer vs. knowledge mobilization
+
+Ur en teoretisk synvinkel innehåller artikeln mycket klokt  t.ex. i sin kritik av en linjär modell för akademisk kunskapsproduktion här:
+
+> Another issue is related to the route to achieving social impact. This is usually conceptualized as a process of knowledge transfer (Van De Ven and Johnson 2006). Academic researchers are conceived as the ones who start the process of knowledge production which is then passed on to and applied in practice. Critics point out that the production and application of knowledge is far more complex then this linear model suggests, and has argued that knowledge ‘mobilization’ is a better way to capture how knowledge is generated in complex networks. Realizing impact is in this vision not just an intellectual process and transfer, but also a socio-political activity of knowledge mobilization embedded in heterogeneous societal networks with many different stakeholders.
+
+Den innehåller mycket bra teori, t.ex. vävs Freire, Fricker och Nowotny in och det är inte i många artiklar de nämns samtidigt, men den är ockå lite tröttsamt teoretisk eftersom den mest rabblar på om teori och egentligen inte utgör någon form av studie utan som sagt en lång form av plädering för varför PHR är att föredra framför andra metoder.
+
+
+### Making sense of citizen science: stories as a hermeneutic resource
+
+Ej tillräckligt relevant för min studie
     
-- The possibility of addressing epistemic injustice through engaged research practice: Reflections on a menstruation related critical health education project in South Africa
+### The possibility of addressing epistemic injustice through engaged research practice: Reflections on a menstruation related critical health education project in South Africa
     
-- Hermeneutical injustice and the Social Sciences: Development policy and positional objectivity
+Syftet med artikeln är:
 
-- Engagement as co-constructing knowledge: A moral necessity in public health research
+> to discuss the complexities of whether and how the amelioration of epistemic injustices are being served through community engagement activities [p. 363]
+
+Det är en mycket personlig redogörelse för en forskares erfarenhet av att vara med och driva 'engaged research' och vad hon upplever att det har resulterat i för bidrag, akademiskt för communityn och de som var inblandade samt för henne själv.
+
+#### 'Participation' - a buzz word in development studies
+
+> The term ‘participation’ within this context warrants exploration and discussion. Within the literature and debates in development studies in particular, the term participation has become contentious, and seen as a ‘buzz word’, given the misappropriation of the term for political or ideological agendas. // Participation has, in many projects been used as synonymous with mere consultation [p. 364-365]
+
+#### Ingående beskrivning av vad 'participatory research' och 'engaged research' bör innefatta enligt artikelförfattaren
+
+> Within this context, it is important to ask what participation within a research project could, or perhaps should, amount to? Arguably, as with engagement, participation could occur within a spectrum depending on the project, the goals and the methodology employed. At a minimum, participation requires the active involvement of participants in the research project, where being active would amount to participants understanding the research project, as well as commitment to and investment in at least some of the research process and outcomes. But, I think the underlying principles driving what can be seen as ‘participatory research’ requires researchers to problematise the power differentials of research by fully involve their participants in the research processes which are, often unreflectively, conducted ‘independently’ and which are typically inaccessible to participants. The challenges arising from this new way of doing research are a source for rich debate. Participatory research as central to engaged research processes, and aligning with the goals of addressing epistemic justice through engagement, strive to bring out the strengths of researchers and ‘participants’ as they work in a partnership for research through which the balance of power inherent in the knowledge generation process is challenged (see Horowitz, Robinson, & Seifer, 2009 for a discussion of participation in these terms). [p. 365]
+
+> Following this, engaged research, at least in principle, provides an important way for higher education institutions to challenge and undermine epistemic injustices by respecting individuals and communities outside of the traditional academic boundaries as ‘knowledge-bearers’, ‘knowledge producers’ and participants in the research process in a very real sense, rather than merely ‘research subjects’ sources of data or knowledge recipients (Glass & Newman, 2015, p. 32). Perhaps most importantly, engaged research is built on the normative principle of what Visvanathan has called cognitive justice 2 : embracing a plurality of knowledges from diverse perspectives of legitimate epistemic agents who enter into dialogue with one another within a research relationship (Davies, 2016). Through the promotion of cognitive/epistemic justice, engaged research practices opening up the knowledge economy to those who were previously barred from playing an active role in it. [p. 365]
+
+
+#### Artikelförfattarens självreflekterande 'Concluding remarks'
+
+> In the evolution of our engaged research project we had come a long way in developing participatory practices and approaches, interrogating how we viewed and harnessed the epistemic agency of our participants in the knowledge generation process to further our collective goals for social change. While we had come to recognise the community workshops, theatre initiative and dialogue sessions as important parts of the knowledge generation and knowledge dissemination processes, I think it is still a matter of contention and debate amongst our colleagues in the academy as to whether the legitimacy of these approaches is to be recognised and valued ‘academically’. While the aims and the impact of this project was applauded, and indeed celebrated, the initial phase of the research project remained, in most of our colleagues’ eyes, the most interesting, valid and valuable aspect of the project in terms of research findings. Similarly, in reporting on the project, the academic outputs (conference papers, reports, book chapters) remained what the institution and funders deemed relevant to the knowledge outputs of the project. We had of course produced these standard and ‘legitimate’ outputs, though we had not produced any of them collaboratively with our partners or participants. In one instance we had tried to involve our partners in a presentation at the university, but they backed out of // participation on the day we were going to present, and although they gave us a number of reasons for this, I still wonder about the explicit or implicit reasons not expressed – whether they saw any value in this activity when they had been so involved in the other community based knowledge dissemination projects which were more participatory in style and directly linked to the local community, or whether they felt intimidated by the academic audience. [p. 369-370]
+
+> Through our engagement with other members of the university community in relation to this project, I have come to doubt that we could fully undermine the scepticism about engaged research and epistemic prejudice through presenting arguments, giving more workshops on what engaged research methodologies entail or even by highlighting and rewarding the positive effects of engaged research projects. I think that much of the work that needs to be done in the academy is to understand how research practices can be harnesses to undo the epistemic injustice that has been perpetuated (and continues to be perpetuated) by academe. From my own experience, achieving this will arguably require a more human face – sharing personal narratives of change through engagement as well as having academics experience these changes themselves through doing, possibly by unwittingly blundering into, community engaged and participatory projects through which they may come to challenge their own ways of being, perceiving and knowing. Perhaps, it will require that we build a critical mass of academics and researchers who not only profess to follow engaged research methodologies, but who take the democratisation of the knowledge production process seriously and who are willing to uncover and reject epistemic injustices in the modern academy. Such academics and researchers are, I think, those who are bold enough to challenge their preconceived ideas, brave enough to constantly interrogate as well as analyse their own practices and refine them in light of critical reflection, and honest enough to learn how to do things differently as they admit to and then confront their mistakes and failures. In seeking to transform how we do our own research, we should, I think, strive to cultivate the kind of ‘slow and “care-full” scholarship’ (Temper & Bene, 2016, p. 46) as well as academic humility that will allow us to become these kinds of academics. In doing this I suspect that we will also become the kind of academics that community based organisations will be more willing to engage with in meaningful collaborations. [p. 370]
+
+Tycker mycket om hennes reflektioner måste jag säga. Så personligt och så mycket självinsikt vilar i de orden.
+
+### Hermeneutical injustice and the Social Sciences: Development policy and positional objectivity
+
+Artikeln väcker frågor i vilken mån det finns en objektiv rättvisa eller om vad som är 'objektivt' rättvist är en fråga som är relativ och beroende av utsiktsplats och tillhörighet. Det knyter an till kritiken mot Roslings framgångshistorier där länders utveckling avgränsas till att handla om vissa begränsade mått på välstånd men där blicken inriktad skogen kan skymma mycket annat. 
+
+> The question is: what hermeneutical resources do we need to understand the various possible perspectives that is both epistemically correct and just? These conceptual resources no doubt require us to pay attention to gender and geography, to class and community, as well as to the needs and limitations of the institutions that seek to solve the problem. Here, certain types of participatory research create the opportunity to create concepts and measurements that are in Nowotny’s sense “socially robust,” so that their “validity is no longer determined solely, or predominantly, by narrowly circumscribed scientific communities, but by much wider communities of engagement comprising knowledge producers, disseminators, traders, and users” (Nowotney, Scott, and Gibbons 2003, 192). [p. 197]
+
+> Consider, for instance, an important attempt to achieve hermeneutically virtuous social sciences. The “Voices of the Poor” project was initiated in late 1990s precisely to give the poor a chance to conceptualize the conditions that they regarded as necessary for their own well-being. Here is one poignant complaint from the collection of stories: “Kanyama is a very big compound and yet there is only one clinic which is situated in New Kanyama (some 5 kilometres away). How can one walk all this long distance when one is ill? It becomes a very big problem when one falls sick at night because the security situation is very bad here”, said a woman of Kanyama compound in Lusaka. (Zambia; World Bank 1999) Even measurements of per-capita healthcare services do not necessarily capture the difficulties involved in using the services. Security, location, and even the illness in question can radically change the possibilities for receiving help.
+
+Det författaren således gör på ett intressant sätt är att föreslå en ihopkopplng mellan "socially robost knowledge" och "epistemic (och då främst hermeneutical) injustice". Det är en intressant tanke och en intressant strävan som sätter fingret på vem som ska tilldelas makten att t.ex. uttala sig om ett lands sociala och ekonomiska utveckling och hur den ter sig. Kritiken som genomsyrar artikeln är att världen styrs och betraktas "objektivt" utifrån en nyliberal hegemoni som tror sig beskriva saker objektivt men som i själva verket har starkt begränsade och färgade glasögon i sin blick på världen.
+
+Men min motfråga är om det verkligen är möjligt att prata om en rättvisa som inte är relativ och subjektivt grundad och som mer kan beskrivas i form av objektiva fakta eller såsom socialt robust kunskap. Jag vet nog för lite om framför allt socialt robust kunskap för att kunna uttala mig om det. Men spontant tror jag det är svårt. Det kontextuellt beroende är svårt att abstrahera och generalisera. Här är ju också en skiljelinje mellan positivister och socialkonstuktionister i synen på vad som utgör kunskap.
+
+### Participatory research and the philosophy of social science: Beyond the moral imperative
+
+
+#### Participatory research approaches enhance validity
+> It is argued that participatory research approaches enhance validity because they address the participative, social and relational nature of human action. [p. 546]
+
+> ...the  participatory and inclusive nature of the participatory processes means that there is the potential for multiple voices and perspectives on an issue to be voiced, thus accessing what Hajdukowski-Ahmed (1998) refers to as the multiplicity of ways  of  knowing  and  uttering.  Constructions  of  reality  are  thus  not  just those of the individual mind, but manifest through the “reflective action of persons and communities” (Reason, 1994, p. 333). There is thus the possibility that the knowledge produced corresponds to the complexity of social interaction (Hajdukowski-Ahmed, 1998). The validity of PR thus resides in its collaborative and experiential nature and how it addresses the participative, relational, and social nature of human action. [p. 560]
+
+
+
+### Engagement as co-constructing knowledge: A moral necessity in public health research
+
+#### Sammanfattning av vad denna artikel argumenterar för
+
+> This article makes the normative argument that... [co‐construction of knowledge]... is necessary to achieve the foundational moral aims of public health research — building relations of equality and addressing the health needs of those considered disadvantaged — which reflect the field's underlying commitment to social justice. [p. 805]
+
+> It will argue that co‐constructing knowledge is necessary to achieve the moral aims of public health research. (Whether co‐constructing knowledge advances the moral aims of other types of health research is beyond the scope of the article.)
+
+Viktigt att poängtera att här handlar det alltså om folkhälsa och inte hälsa mer generellt. 
+
+#### A philosophical rationale for why researchers should perform engagement in health research has not been provided before
+
+> A philosophical rationale for why researchers should perform engagement in health research as the co‐construction of knowledge has thus far not been provided by ethics scholars, though some normative work has been done in other disciplines like development studies and community‐based participatory research (CBPR) in support of undertaking it. [ref. 21] [p. 806]
+
+#### The two moral aims of public health research
+
+> Two core moral aims of public health research are: (a) addressing  the health needs of those who are considered disadvantaged and (b) building relations of equality by supporting self‐determination. These aims are identified by both theories of social justice and feminist ethics. [ref. 28]
+
+#### Young's account of social justice
+
+> Young's account of social justice [...] calls for furthering two key values: participating in determining one's or society's actions (self‐determination) and developing and exercising one's capacities (self‐development). [ref. 34] Denial of the former constitutes domination, while denial of the latter constitutes oppression. [ref. 35] [p. 808]
+
+[35] Young, I. M. (1990). Justice and the politics of difference. Princeton, NJ: Princeton University Press.
+
+#### What self-determination means
+
+> Self‐determination means that all those who are significantly affected by a problem and its solution are included in discussions and decision‐making about it. [ref. 40] ‘Significantly affected’ refers to those whose options for action would be substantially conditioned by the decision—namely, those whose basic interests would be affected by the decision. [ref. 41] [p. 808]
+
+
+#### Three ways in which co‐constructing knowledge advances the two moral aims of public health research
+
+> It next identifies and discusses three ways in which co‐constructing knowledge advances those moral aims: by facilitating self‐determination, supporting individuals’ right to research, and maximizing social knowledge to address cognitive and epistemic injustice. Objections to the arguments presented in the article are then articulated and defended against. [p. 805]
+
+
+##### How co-constructing knowledge facilitates self-determination
+
+> Whether and how members of society can meet their health needs is impacted by what preventative interventions are available and affordable to them. Co‐constructing knowledge in public health research thus enables members of society to participate in decisions that affect their basic interests. They can assert control over the research projects that affect them. [ref. 44] Within a society, those signifi‐ // cantly affected by public health research would include people living in the research setting or people who are part of the groups and populations of focus in such projects. [p. 808-809] 
+
+##### How co-constructing knowledge supports the right to research
+
+> [Arjun Appadurai] argues that research should be recognized as a right of a special kind owed to all members of society — namely, the triple capacity to inquire, to analyze, and to communicate. [ref. 51] It is the capacity to make disciplined, systematic inquiries into those things we need to know about our own lives and worlds in order to gain strategic knowledge. [p. 809]
+
+> The co‐construction of public health knowledge supports research users and beneficiaries’ realization of their right to research [...] Being involved in decision‐making over each stage of the public health research process would build their ability to formulate research questions, collect and analyze data,and disseminate research findings. [p. 809]
+
+##### How co-constructing knowledge maximizes social knowledge
+
+> Even where problems of global social injustice are recognized, existing approaches formulated and developed by Western modernity are not solving them. [ref. 69] Modes, models, means, and ends of social transformation are potentially much vaster than those identified by modern science. Ways of knowing beyond Western modernity can identify other forms of knowledge that point to additional ways of intervening. [ref. 70] Maximizing the social knowledge base used to de velop interventions by pooling the knowledge of all social positions will construct a more comprehensive account of how social processes work and the likely consequences of proposed interventions. Here, the situated knowledge of those marginalized by social institu tions and norms is identified as an especially vital resource. [ref. 71] It is thus imperative to capture the immense existing variety of knowledges and practices to maximize our transformative potential. Without cognitive and epistemic justice, larger struggles for social justice will not be realized. [ref. 72] [p. 810]
+
+> Co‐constructing knowledge comprises a way of drawing out epistemologies of the South and maximizing the social knowledge base. It can help address global social injustice by making sense of aspects of marginalized social groups’ social experiences that are obscured from understanding and identifying new ways of intervening to address complex problems based on multiple ways of knowing. As such, this form of engagement is well‐suited to the field of public health research. [p. 810]
+
+##### How informing does not maximize social knowledge
+
+> In contrast, informing does not comprise a way of drawing out epistemologies of the South or the situated knowledge of the disadvantaged. [p. 811]
+
+##### How consulting is not maximizing social knowledge
+
+> Consultations have been shown to enrich the knowledge researchers use to identify the problems facing communities. [ref. 81] However, unlike co‐constructing knowledge, the capacity of consultations to support intercultural translation is questionable. The development of new constellations of public health knowledge will rest solely with researchers using information derived from those considered disadvantaged. Any new knowledge will be constructed by researchers rather than being a joint product of dialogue and translation. This may limit such knowledge's transformative potential. It also means that only researchers’ understanding of the problem will be broadened rather than both parties’ understanding being enriched. [p. 811]
+
+#### Possible objections
+
+##### Social justice is not a foundational value of public health 
+
+> If social justice is not a foundational (or at least an important) value for public health research, then adopting a form of engagement that furthers such a value is not essential to the field. In response, it is important to note that social justice has been identified as a foundational value in numerous public health ethics frameworks. [ref. 82] There seems to be strong convergence amongst ethics scholars and public health practitioners that advancing social justice is a core goal of the field of public health. [p. 811]
+
+Hon säger att om nu inte social justice är ett grundläggande värde i folkälsoforskning så har forskning genom  co-creation of knowledge...
+
+> can advance other ethical values underlying public health: procedural justice, population level utility (advancing community well‐being), solidarity, and community trust. [p. 811]
+
+
+##### Other forms of engagement can advance other moral values of public health research equally or more effectively than the co-construction of knowledge
+
+> This is potentially  true and requires further exploration that is beyond the scope of this work. The article is not disputing the value of other forms of engagement or saying that co‐constructing knowledge is the only form of engagement that should be performed in public health research. Instead, it is hoped that the arguments presented show readers why such a form of engagement is necessary in the field of public health research to advance its moral aims relating to social justice. [p. 812]
+
+##### Undertaking engagement as the co‐construction of knowledge creates significant burdens on research users and beneficiaries that are disproportionate to the benefits they will accrue.
+
+Här skriver hon att detta må vara fallet men att det finns sätt att involvera dessa disadvantaged i denna typ av forskning som säkerställer att deras basala behov uppfylls, t.ex. genom att tilldela dem en lön eller ersättning för deras deltagande. Om detta inte går att uppbåda utan bördan är större än den förmodade belöningen så kan det vara oetiskt att bedriva denna typ av forskning och då får man försöka hitta andra individer/grupper att forska tillsammans med.
+
+#### Any substantial increase in public health research being performed as the co‐construction of knowledge will require significant changes to the research environment
+
+Som svar på det skriver hon:
+
+> While appreciating that making structural changes to the funding and education sectors will be a challenging and politically fraught process, effecting such shifts seems necessary to get closer to solving the complex problems with which public health grapples. [p. 812]
+
+
+
+
+
+
+#### Three forms of engagement used in research projects enligt författaren
+
+Artikelförfattaren listar tre sorters engagemang i forskningsprojekt:
+
+- Informing
+- Consulting
+- Co-construction of knowledge
+
+#### Vad 'co-construction of knowledge' betyder i sammanhanget
+
+Artikelförfattaren skriver att co-construction of knowledge betyder att:
+
+> ...researchers jointly construct knowledge with research users and beneficiaries; all parties design and conduct research together in ways that achieve the porposes of both sets of actors. It entails shared decision-making in all phases of research projects. Co-constructing knowledge is also a process of bringing together multiple kinds of knowledge and multiple perspectives to construct an understanding of research phenomena based on a plurality of situated knowledges. This includes knowledge and perspectives of those outside the research sector: research users and beneficiaries, be they members of communities, businesses, governments, or activist organisations.[p. 806]
+
+#### Vad 'consulting' betyder i sammanhanget
+
+> [Consulting] is characterizd by research users and beneiciaries being invited to give their input (feedback, suggestions, and critiques) on aspects of research projects but with no assurance that it will be used by those who decide. [...] Often, their consultation occurs through specifically established advisory groups. [p. 806]
+
+#### Vad 'informing' betyder i sammanhanget 
+
+> Informing means raising awareness and understanding of what research is and of already defined research projects within host communities or populations. Research users and beneficiaries are told of the outputs of decision-making in research projects but do not inform the process or decisions in any way. [p. 806]
+
+
+#### Sharp and Foster's spectrum of power sharing in health research
+
+Artikelförfattaren refererar till Sharp och Fosters spectrum of power sharing in health research:
+
+> Sharp and Foster describe a spectrum of power sharing in health research, from community dialogue through community consultation and approval to full partnership, where the latter implies the greatest community empowerment. [ref. 5] [p. 805]
+
+#### Tindana et al.'s 'community consultation' vs. 'collaborative partnership'
+
+Artikelförfattaren refererar till Tindana et al.'s 'community consultation' vs. 'collaborative partnership':
+
+> Tindana et al. distinguish between 'community consultation' and 'collaborative partnership', which means involving local stakeholders in assessing local health problems; planning, conducting // and overseeing research; and integrating research into the health care system. [ref. 7] [p. 805-806]
+
 
 - Responsible research, inequality in science and epistemic injustice: an attempt to open up thinking about inclusiveness in the context of RI/RRI
 
