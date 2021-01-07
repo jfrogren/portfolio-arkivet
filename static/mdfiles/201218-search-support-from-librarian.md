@@ -40,6 +40,8 @@ List of relevant articles:
 
 > "Results indicate that selective nonparticipation takes place in digital health research (in this case the HF-Wii study that  evaluated the impact of exergaming on the exercise capacity and daily physical activity of patients with HF. Exergame is a term that refers to video games that can beused for exercising, often at home).. and that it is associated with age and symptom severity. Gender effects cannot be proven. Such systematic selection can lead to biased research results that inappropriately inform research, policy, and practice."
 
+Men vad menas egentligen med "selective nonparticipation"? Är det forskningsledare som avstår från att tillfråga eller är det människor som pga sitt hälsotillstånd avstår från att vara med? Det är ju en väsentlig skillnad.
+
 
 ### Bindels, J., Baur, V., Cox, K., Heijing, S., & Abma, T. (2014). Older people as co-researchers: a collaborative journey. Ageing Soc, 34(6), 951-973.
 
@@ -1315,16 +1317,239 @@ Artikelförfattaren refererar till Tindana et al.'s 'community consultation' vs.
 
 > Tindana et al. distinguish between 'community consultation' and 'collaborative partnership', which means involving local stakeholders in assessing local health problems; planning, conducting // and overseeing research; and integrating research into the health care system. [ref. 7] [p. 805-806]
 
+### Responsible research, inequality in science and epistemic injustice: an attempt to open up thinking about inclusiveness in the context of RI/RRI
 
-- Responsible research, inequality in science and epistemic injustice: an attempt to open up thinking about inclusiveness in the context of RI/RRI
+I artikeln argumenterar Koch för att:
 
-- What difference does patient and public involvement make and what are its pathways to impact? Qualitative study of patients and researchers from a cohort of randomised clinical trials
+> it is time to start an interdisciplinary conversation and consider an inward dimension of responsible research: a collective duty to care for diversity and address inequalities within the scientific field. [p. 672]
 
-- Engaging the oldest old in research: lessons from the Newcastle 85+ study
+Men jag tycker att hennes argument är rätt svaga och det jag främst tog med mig är att hon refererar till följande artikel:
 
-- Using a participatory action research approach as a process for promoting the health of older people
+> Dübgen, Franziska. 2020. “Scientiﬁc Ghettos and Beyond. Epistemic Injustice in Academia and Its Eﬀects on Researching Poverty.” In Dimensions of Poverty: Measurement, Epistemic Injustices, Activism, edited by V. Beck, H. Hahn, and R. Lepenies, 77–95. Berlin: Springer.
+
+Detta kan eventuellt vara ett intressant bokkapitel att läsa.
+
+
+###  What difference does patient and public involvement make and what are its pathways to impact? Qualitative study of patients and researchers from a cohort of randomised clinical trials
+
+
+#### Resultatet
+
+> None of our informants identified PPI as having an unfavourable impact on the trial. Of the 21 CIs [chief investigators] interviewed, 14 described PPI as having an impact and seven explicitly stated that they felt PPI had not made an impact
+
+> According to informants, the opportunity for PPI to make a difference was influenced by two main factors: whether chief investigators had goals and plans for PPI and the quality of the relationship between the research team and the PPI contributors. Early involvement of PPI contributors and including them in responsive (e.g. advisory groups) and managerial (e.g. trial management groups) roles were more likely to achieve impact compared to late involvement and oversight roles (e.g. trial steering committees).
+
+#### Slutsatser
+
+> Those seeking to enhance PPI in trials should develop goals for PPI at an early stage that fits the needs of the trial, plan PPI implementation in accordance with these goals, invest in developing good relationships between PPI contributors and researchers, and favour responsive and managerial roles for contributors in preference to oversight-only roles. These features could be used by research funders in judging PPI in trial grant applications and to inform policies to optimise PPI within trials.
+
+#### Bra referenser från introduktionen
+
+##### PPI in research justified in two main ways
+
+> PPI in research has been justified in two main ways: normatively on moral, ethical or political grounds consistent with slogans like “nothing about us without us”[10,11], and substantively in terms of the PPI potential to benefit research [10].
+
+Det stämmer ju överens med hur mina tankegånga går, dvs at det handlar om etiska och epistemiologiska skäl. Desa referenser kan därför vara användbara:
+
+[10] Delbanco T, Berwick DM, Boufford JI, Edgman-Levitan S, Ollenschläger G, Plamping D, et al. (2001) Healthcare in a land called PeoplePower: nothing about me without me. Health Expect 4: 144–50.PMID: 11493320
+[11] Department of Health (2010) Equity and excellence: liberating the NHS. London: Department of Health.
+
+Kanske inte de bästa referenserna dessvärre.
+
+##### Indications that PPI can have favourable impacts
+
+> There are indications that PPI can have favourable impacts upon every stage of the research process [13,15–19] by helping to ensure that research funds are appropriately prioritised, that research evidence is relevant to patients, and by improving recruitment and retention rates and supporting the uptake of research in practice.
+
+[13] Staley K (2009) Exploring impact: Public involvement in NHS, public health and social care research. Eastleigh: INVOLVE.
+
+[15] Brett J, Staniszewska S, Mockford C, Herron-Marx S, Hughes J, Tysall C, et al. (2012) Mapping the impact of patient and public involvement on health and social care research: A systematic review. Health Expect doi:10.1111/j.1369-7625.2012.00795.x Available: http://onlinelibrary.wiley.com/doi/10.1111/j.1369-7625.2012.00795.x/abstract. Accessed 23 May 2014.
+
+[16] Barber R, Beresford P, Boote J, Cooper C, Faulker A (2011) Evaluating the impact of service user involvement on research: a prospective case study. Int J Consum Stud 35: 609–615.
+
+[17] Edwards V, Wyatt K, Logan S (2011) Consulting parents about the design of a randomized controlled trial of osteopathy for children with celebral palsy. Health expect 14: 429–438. doi: 10.1111/j.1369-7625.2010.00652.x PMID: 21244590
+
+[18] Szmukler G, Staley K, Kabir T (2011) Service user involvement in research. Asia Pac Psychiatry 3: 180–186.
+
+[19] Boote J, Baird W, Sutton A (2011) Public involvement in the design and conduct of clinical trials: a narrative review of case examples. Trials 12(Suppl 1): A82
+
+##### Indications that PPI may have unfavourable impacts upon research
+
+> Indications that PPI may have unfavourable impacts upon research [15,20] 
+
+[15] Brett J, Staniszewska S, Mockford C, Herron-Marx S, Hughes J, Tysall C, et al. (2012) Mapping the impact of patient and public involvement on health and social care research: A systematic review. Health Expect doi:10.1111/j.1369-7625.2012.00795.x Available: http://onlinelibrary.wiley.com/doi/10.1111/j.1369-7625.2012.00795.x/abstract. Accessed 23 May 2014.
+
+[20] Bengtsson-Tops A, Svensson B (2012) Mental health users’ experiences of being interviewed by another user in a research project: a qualitative study. J Ment Health 19: 237–242
+
+##### ##### Indications that PPI may have no impact at all
+
+>...or no impact at all [21] have also appeared.
+
+[21] Guarino P, Elbourne D, Carpenter J, Peduzzi P (2006) Consumer involvement in consent document development: a multicentre cluster randomized trial to assess study participants understanding. Clin Trials 3: 19–30. PMID: 16539087
+
+
+### Engaging the oldest old in research: lessons from the Newcastle 85+ study
+
+#### Rationale
+
+> In order to guarantee that the future care provided to our ageing populations is grounded in the best quality evidence, it is imperative that researchers ensure their study populations are representative and include the oldest old, the most rapidly expanding sector of the population.
+
+> Older people, especially those over 75 and those in care homes, are often unjustifiably excluded from studies [ref. 24-26].
+
+#### Syfte
+
+> In this paper, we report some of the challenges of, and successful strategies for, involving, recruiting and retaining this important age group [= Those aged 85 and over = the oldest old] in research studies.
+
+
+#### Resultat
+
+De listar följande challenges och successful strategies:
+
+- **Initial participant approach**. An initial invitation
+from a known health care professional may lead to
+more confusion than a letter from the study team.
+Photographs of researchers are useful additions to
+study information sheets. Adequate time for recruit-
+ment and data collection should be factored into
+planning.
+
+- **Engagement with family and care home staff**.
+Additional time and resources are needed, especially
+with the oldest old, to engage with family carers and
+other gatekeepers such as care home staff for those
+people living in care. Researchers should be trained
+and supported to ensure that complex situations are
+handled with sensitivity.
+
+- **Significant cognitive impairment is an issue**;
+due consideration must been given to the relevant
+ethical and legal issues, including assessment of
+capacity and consent procedures. The use of pro-
+tocols to assess capacity and to secure consent
+should be developed. Training for researchers in the
+assessment of capacity and seeking informed consent
+should be mandatory.
+
+- **Minimising participant burden**. Home visits are
+preferred by this population and may enable the par-
+ticipation of those who are frail or housebound.
+Consequently researchers’ travel costs, specialised
+portable equipment and availability of chaperones
+may need to be costed into the research. The need
+for, and the cost of, several, shorter visits to assess
+capacity, secure consent and collect all relevant data
+should be anticipated.
+
+- **Participant withdrawal**. Researchers should
+endeavour to make the research process as flexible
+as possible and may wish to consider the option of
+study suspension as an alternative to withdrawal as
+often the participant does not wish to withdraw per-
+manently but cannot accommodate study visits at
+that particular time due to other commitments.
+
+- **Communication with participants after study
+cessation**. The oldest old may derive benefits, such
+as opportunities for increased socialisation, from
+participation in research. The process of study close-
+out should be considered at the onset so that partici-
+pants are not left with a feeling of loss. A communi-
+cation strategy to update participants about the
+study progress and findings after their involvement
+ceases can be helpful.
+
+- **Engagement with stakeholders and the media**.
+Researchers should consider the need to engage with
+not only local clinicians, but also with older people’s
+voluntary organisations, the media and the local
+press. This should be proactively built into the study
+recruitment protocol.
+
+
+### Using a participatory action research approach as a process for promoting the health of older people
+
+Inte tillräckligt relevant för min studie
     
-- Beyond tokenistic involvement of older people in research -- a framework for future development and understanding
+### Beyond tokenistic involvement of older people in research -- a framework for future development and understanding
+
+#### Rationale
+
+> Research and development work in health and social care are increasingly required to involve users at all stages of the research process yet there is scant empirical evidence to support the justification of this laudable aim. Evidence does suggest that at present efforts to achieve this are primarily tokenistic and that more work is needed, both to examine what user involvement in research activity actually means, and how this can best be supported.
+
+
+#### Syfte
+
+> This paper sets out to describe developments to support involvement of older people through work at the Royal Bank of Scotland Centre for the Older Person’s Agenda and to identify a number of challenges that this has raised for researchers. These challenges have arisen out of a number of assumptions that underpin the process of user involvement. The paper discusses some of the benefits of working in partnership with older people and identifies strategic issues for consideration in order to promote future partnership working.
+
+#### Några slutsatser och reflektioner av artikelförfattarna kring user involvement
+
+
+##### Varför och hur aktiviteter utförs snarare än att de utförs  avgör graden av user involvement
+> Authors have tried to unpick definitions of involvement by representing it as levels along a continuum. The consumer model of participation would sit at one end of the continuum, with an empowerment model at the other. The difficulty with representing user involvement in this way is that it defines involvement as a set of activities rather than addressing some of the principles that should guide involvement. It does not take into account key questions about the nature of relationships in the research process. [p. 51]
+
+Bra reflektion. Istället för att att definiera graden av involvement baserat på vilken slags aktivitet det rör sig om bör fokus ligga på "the principles that should guide involvement" och "key questions about the nature of relationships in the research process" eftersom det är mer avgörande för graden av engagemang. Det de vill poängtera här är att graden av user involvement avgörs inte blott av att du gör en viss aktivitet utan varför och hur du utför den på ett visst sätt.
+
+##### Can research be done by anyone and can we disregard the experiences of the researcher?
+
+> Is it true that everyone can do research? If so why do we spend money and effort preparing academics to learn and gain extensive experience in this activity? What does doing research with users actually mean? Is everyone doing the same thing? It is not clear in the literature what is exactly meant by involvement of users in research. [p. 51]
+
+En högst relevant fråga. Dock har artikeln några år på nacken vilket gör det tveksamt om det är lämpligt att referera till att detta utgör det nuvarande kunskapsläget.
+
+##### Dangerous to assume that older people want control over the research process rather than for example a partnership
+> Literature that has identified different models of involvement and has described various levels of involvement ranging from // seeking views at one end to empowerment of older people who in turn have control over research at the other. When this is presented as a ladder (for example Hoyes & Means, 1993; Reed et al., 2004), the empowerment model sits at the top, implying that this is the gold standard in partnership/involvement activity. Few of these models have been developed with older people and it would be dangerous to assume that older people want control over the research process rather than for example a partnership, where knowledge and skills of all parties are shared and valued. There is no evidence to suggest that research made by older people has better outcomes than research made in partnership. [p. 51-52]
+
+##### Det finns oklarheter kring vad som egentligen motiverar äldre att vara med i forskning och vilken form av lärande de egentligen får ut av ett sådant engagemang
+
+> The motivation to become involved in research and development activities is not always clear. Anecdotal evidence suggests that the drivers for older people’s motivation to become involved include: wanting to give something back to their communities; wanting stimulation; having time on their hands; and wanting to make a difference. The emphasis in this evidence lies more heavily in the ‘giving’ domain rather than the receiving. Does this mean that only certain people will become involved in such an activity? What is the link between this motivation to become involved and where the power driving the activity ultimately lies? Gilbert (2004, p. 306) argues that ‘the power relationships remain stacked in favour of the professionals who retain specialist knowledge and value positions’. More attention needs to be paid to reciprocity and a commitment to learning in the process of involvement in research and development. [p. 52]
+
+#### Six key issues emerged needed to be considered in the development of any programme of involvement
+
+> By considering these assumptions six key issues emerged that needed to be considered in the development of any programme of involvement:
+
++ adopt a systematic approach to recording the processes and
+outcomes of involvement with older people – remain crit-
+ical – be open to the possibility that it may not be a good
+thing;
++ consider a set of principles rather than levels of involve-
+ment that are important to guide the process. These prin-
+ciples must emphasize equality and fairness, a clear sense of
+purpose and roles, and a commitment to learning;
++ debate what the role of the older person in the partnership
+process is, and what skills they may therefore need;
++ work with older people to explore their beliefs and values
+underpinning research and learning;
++ work with older people to explore what type of partnership
+they want;
++ consider techniques and approaches to involvement that
+would promote equal partnerships.
+
+
+#### Övriga reflektioner och tankar framåt
+
+> Formalizing the role of older people who work in partnership with the Centre to be one of ‘associate’ would enable them to have a formal role within the Centre and be offered regular opportunities to use their knowledge and skills in practice.
+
+Detta är ju något som vi på CASE har gjort genom vårt brukarråd.
+
+> Education programmes for professionals on how to facilitate involvement need to be developed. It should not be assumed that this is easy and that facilitators do not need support in developing these complex skills. In addition there needs to be a change in attitude of professionals towards partnership working with older people whereby professionals need to recognize the potential research expertise of users and to work with this.
+
+Detta ovan  är viktigt. Bara för att vi är professorer och forskare betyder det inte att även vi måste lära oss vissa skills för att detta ska fungera. Vi måste också reflektera över hur jämlika relationerna egentligen är mellan oss och de som vi involverar. 
+
+> Further development of theory that guides involvement is a priority. At present much of the theory that guides practice in relation to involvement is based on different levels of involvement in the partnership process. Theory, however, does not address the different types of support that are required at these levels, nor does it reflect organizational and process issues inherent in involvement (Reed et al., 2004).
+
+(Se citat ovan) Vad krävs det för typ av stöd för att utföra involvering på en viss nivå eller på ett viss sätt som säkerställer att uppgiften utförs på ett inkluderande och bra sätt. Här saknas kunkap, men man får ha i åtanke att artikeln är rätt gammal nu.
+
+> Exploring the concept of ‘equal but different partners’ is necessary. Professionals and service users bring different knowledge and skills to the process of partnership working. The contributions need to be more fully explored if we are to provide appropriate support that develops service users’ ‘different’ contribution. More work need to be carried out on exploring methods that challenge the power relations within the research process.
+
+Hur kan vi komplettera varandras kompetenser på ett bra sätt och hur säkerställer vi att maktrelationerna är rättvisa? Här behövs mer forskning
+
+> Evaluation of both the processes and outcomes of older people in carrying out research is required. Little is known in the field of older research about the collective and individual outcomes yet it is advocated by many, as an essential process if we are to make services more responsive to the needs of older people. Beresford (2003b, p. 57) poses the important question when referring to the way forward with research in this area when he asks, ‘Is knowledge produced from research with users more realistic and authentic than research made without this contribution?’
+
+Vad bidrar egentligen äldre personer med genom att engagera sig på detta sätt? Vad bidrar de med som kollektiv och som individer? Detta tror jag att det idag finns mycket forskning som beskriver även om det inte fanns det när denna artikel skrevs.
+
+> More opportunities need to be created for the sharing of experiences about the process of involvement in research and development work. There is a need to explore the common ground that exists between different groups, e.g. disabled people, people with mental health issues, people with learning disabilities. A fuller understanding is required in relation to barriers to involvement, how to overcome // these, and whether there are some that still need to be acknowledged
+
+Mindra silos och mer lära av varandra från angränsande områden kring vad som utgör hinder för involvering av olika grupper t.ex. personer med olika funktionshinder.
+
+
 
 - Involving older people in research: practical considerations when using the authenticity criteria in constructivist inquiry
 
@@ -1336,7 +1561,7 @@ Artikelförfattaren refererar till Tindana et al.'s 'community consultation' vs.
 
 - Culture, consent, costs and care homes: enabling older people with dementia to participate in research
 
-- Strategies to improve engagement of ‘hard to reach’older people in research on health promotion: a systematic review
+- Strategies to improve engagement of ‘hard to reach’ older people in research on health promotion: a systematic review
 
 - Who is ‘in’and who is ‘out’? Participation of older persons in health research and the interplay between capital, habitus and field
 
@@ -1358,5 +1583,5 @@ Artikelförfattaren refererar till Tindana et al.'s 'community consultation' vs.
 
 - Participatory Action Research With Older Adults: A Critical Interpretive Synthesis
 
-- Maximizing clinical research participation in vulnerable older persons: identification of barriers and motivators},
+- Maximizing clinical research participation in vulnerable older persons: identification of barriers and motivators
 
