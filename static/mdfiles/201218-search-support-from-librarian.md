@@ -696,7 +696,7 @@ Denna studie läste jag om i en tidigare artikel som utgörande en bakgrund till
 > Patient and community input to research methods and interpretation are increasingly recognized as vital to developing patient-centered care, and have proven successful in the past to promote stakeholder buy-in and tailor studies involving diverse aging populations and multiple stakeholders to be culturally responsive (Idler, Grant, Quest, Binney, & Perkins, 2015; Manson et al., 2017; Mirk et al., 2016; Miyawaki, Belza, Kohn, & Petrescu-Prahova, 2018; Primetica, Menne, Bollin, Teri, & Molea, 2015). 
 
 
-### Black--white differences in willingness to participate and perceptions about health research: results from the Population-Based Health Street Study
+### Black-white differences in willingness to participate and perceptions about health research: results from the Population-Based Health Street Study
 
 Här är egentligen främst resultatet från studien och de slutsatser som därmed kan dras intressanta. Artikelförfattarna skriver så här i andra halvan av sitt abstract:
 
@@ -1549,39 +1549,520 @@ Vad bidrar egentligen äldre personer med genom att engagera sig på detta sätt
 
 Mindra silos och mer lära av varandra från angränsande områden kring vad som utgör hinder för involvering av olika grupper t.ex. personer med olika funktionshinder.
 
+De tar även om att forskningsfinansieräer måste bli mer varse att involvering kräver resurser och att etiknämnder inte behöver vara så stelbenta i sina godkännanden utan mer flexibla och se möjligheter med involvering och vad det kan ge de som involveras.
+
+### Involving older people in research: practical considerations when using the authenticity criteria in constructivist inquiry
+
+#### Syfte
+
+> ...to identify practical suggestions that could enable other researchers to consider how quality may be evidenced using constructivist principles including the perspectives of older people and their caregivers.
+
+#### Mitt omdöme om artikeln
+Måste säga att den ironiskt nog eftersom den bl.a.handlade om att tillgängliggöra information för att lättare involvera äldre personer i forskning, var i svårtillgängligaste laget att ta till sig.
+
+En rad termer nämns men ytterst sparsamma förklaringar kring vad de egentligen betyder och hur de har vuxit fram ges. 'Constructivism' anges vara något nytt och likaså att låta äldre personer delta i forskning, men det stämmer ju inte. Tycker artikeln utgör ett bra exempel på i vilket teoretiskt vakuum 'nursing' som vetenskaplig disciplin befinner sig.
+
+### Engaging and Honoring Older Adults in Research
+
+Inte relevant för min studie.
+
+### Research participation by older adults at end of life: barriers and solutions
+
+Studien handlar inte om aktivt deltagande i forskning utan om att delta som studiesubjekt och svara på frågor om hur man upplever smärta vid cancer till exempel.
+
+### To what extent do quality-of-life ratings influence older adults’ preferences regarding future health care and research participation
+
+Studien handlar inte om aktivt deltagande i forskning utan om att delta som studiesubjekt.
+
+### Culture, consent, costs and care homes: enabling older people with dementia to participate in research
+
+Studien handlar inte om aktivt deltagande i forskning utan om att delta som studiesubjekt.
+
+### Strategies to improve engagement of ‘hard to reach’ older people in research on health promotion: a systematic review
+
+Här handlar det visserligen om deltagande som subjekt i mer sedvanliga forskningsstudier i form av health promotion-interventioner (och inte aktivt deltagande), men studien kan ändå vara relevant eftersom det kan finnas kopplingar mellan viljan att vara med i denna sorts vetenskapliga studier och den typ av studie som vi åsyftar. Vilka strategier bör då användas och vad är det för faktorer som påverkar viljan att delta? Arttikelförfattarna har gjort en systematic review och alltså granskat en rad artiklar inom området för att sammanställa resultatet och så här skriver de:
+
+> Facilitators for engaging the oldest old included gaining family support and having flexible sessions. Facilitators for BME [older people from black andminority ethnic groups] groups included building trust through known professionals/community leaders, targeting personal interests, and addressing ethnic and cultural characteristics. Among older people in deprived areas, facilitators for engagement included encouragement by peers and providing refreshments. Across all groups, barriers for engagement were deteriorating health, having other priorities and lack of transport/inaccessibility. Feeling too tired and lacking support from family members were additional barriers for the oldest old. Similarly, feeling too tired and too old to participate in research on health promotion were reported by BME groups. Barriers for BME groups included lack of motivation and self-confidence, and cultural and language differences. Barriers identified in deprived areas included use of written recruitment materials. Strategies to successfully engage with the oldest old included home visits and professionals securing consent if needed. Strategies to engage older people from BME groups included developing community connections and organising social group sessions. Strategies to engage with older people in deprived areas included flexibility in timing and location of interventions.
+
+Dock beskriver författarna att forskningen...
+
+> has been mainly descriptive and there was no high quality evidence on the effectiveness of different approaches.
+
+vilket bör ses som en begränsning i deras studie.
+
+### Who is ‘in’and who is ‘out’? Participation of older persons in health research and the interplay between capital, habitus and field
+
+#### Community engagement
+
+Här pratas om 'community engagement' som begrepp (dock utan att någon tydlig definition ges) och författarna skriver att:
+
+> Community engagement has developed into a widespread policy ideal that is viewed as intrinsically good as it promises democratic decision-making, empowerment and legitimacy (Bensing, 2000; Boote, Telford, & Cooper, 2002; Hanley, Truesdale, King, Elbourne, & Chalmers, 2001; Van de Bovenkamp, Trappenburg,& Grit, 2009). [p. 281]
+
+Vilken form antar då detta engagemang? Jo, så här skriver författarna:
+
+> This ideal has been translated into various formats and governance structures, such as patient councils, community membership of ethics committees and funding boards (Van de Bovenkamp et al., 2009). [p. 281]
+
+#### Risker med implementeringen av 'community engagement'
+
+> Despite the inclusive promise of engagement, however, risks of community exploitation and exclusion of patient perspectives are still pervasive (Gbadegesin & Wendler, 2006). [p. 281]
+
+Fokuset för att identifiera riskerna  och hitta strategier för att minska dem har enligt författarna so far antingen legat på *individual agency* (och att som ett motmedel mot det försöka göra patienter och communities mer 'health literate') eller *organizational structures* (där då fokus legat på organisatoriska "facilitators and barriers that enable or limit inclusive participation (e.g. staff capacity, financial resources and accountability requirements)"). 
+
+#### Samspelet mellan 'individual agency' och 'organizational structures' är inte tillräckligt studerat
+
+Dock menar författarna att...
+
+> ...there is still too little attention for a more detailed analysis of the interplay between individual agency and organizational structures in how inclusion and exclusion are shaped in mundane practices. [p. 282]
+
+#### Strategi för att studera samspelet mellan 'individual agency' och 'organizational structures'
+
+Och för att bättre studera detta använder de sig av följande strategi:
+
+> To better capture this dynamic interplay, we use the Bourdieusian framework of capital, habitus and field to analyse how inclusion and exclusion are processually shaped. This framework makes visible the relations between institutional context, embedded work routines and individual decisions of actors. Additionally, we use the concept of ‘micro-advantages’ (Gengler, 2014) to show how the mobilization of capital can result in subtle advantages vis-à-vis other participating actors. [p. 282]
+
+#### Det case på vilket denna strategi ska appliceras
+
+De applicerar denna strategi på följande case:
+
+> We analyse a Dutch case of target group participation in the National Program of Elderly Care (NPEC). This programme aims to improve the quality of care for frail older persons with multiple conditions by the development of (1) regional networks for care and research, in which target group panels (consisting of older persons) were positioned as important network partners; (2) transition experiments and research projects to improve the quality of care; (3) the implementation of new interventions in medical care and public health. In each, older persons were actively encouraged to participate in the evaluation, design and implementation of research and interventions. [p. 282]
+
+#### Resultat av analysen
+
+> The analysis showed the influence of established fields (medical and policy) on how participation of older persons was shaped in the beginning of the programme, leading to the inclusion of persons with specific forms of social capital and the exclusion of persons lacking this capital. The rules of engagement turned out to be hard to change. Even older persons with much social and cultural capital had difficulties in participating, leading to an increasing recognition that their perspective was used instrumentally. Members of the target group panels developed different strategies to respond to these difficulties. Overall, the voice of community members gradually led to substantive changes in the programme. The strategies of professionalization and responsibilization led to increased social, cultural and symbolic capital for particular groups, along with the obtainment of further micro-advantages. The downside is that participants lacking the right capital face ‘micro-disadvantages’ as a consequence of the highly specialized and professional field in which they were operating. [p. 291]
+
+#### Vad kan man enligt artikelförfattarna ta med sig utifrån denna analys tillbaka in i den praktiska verkligheten?
+
+Jo, följande:
+
+> There is a growing recognition that attention for ethics and politics are crucial for the development of ‘good’ community engagement practices in research. This is evidenced by the increasing number of ethical guidelines for community engagement (Lavery et al., 2010). Yet the impact of these guidelines on biomedical research has been modest (Hasnida et al., 2017; Lavery et al., 2010). Our Bourdieusian framework offers an explanation why ethical guidelines in themselves are insufficient for guaranteeing inclusive engagement. A strongly established institutional field of global health research funding leaves marginalized actors with the need to perform continuous work to have their voices taken seriously. In order to change this, we need more than just ethical guidelines and entrepreneurial individuals. Institutional work needs to be conducted on many levels, including the level of funding (creating new funding structures), research (establishing and maintaining local research infrastructures) and community (new tools and instruments for the embedding of experience-based knowledge can strengthen the capital needed for inclusive engagement). [p. 291]
+
+#### Slutord från artikelförfattarna
+
+> Our analysis shows that inclusion and exclusion are not static terms but processes that change in the course of a programme. Institutional contexts and disciplinary routines have a major influence on the ways participation is shaped, and it takes time and skill to incrementally change these contexts. We conclude that it is by definition impossible to ‘exclude exclusion’ at the start of care improvement programmes. It is only in the many pragmatic and mundane choices of ‘doing participation’ that exclusion and inclusion practices are shaped. Research would therefore benefit from a processual approach in which these mundane practices are followed overtime. Participation is ongoing work and never finished. [p. 292]
 
 
-- Involving older people in research: practical considerations when using the authenticity criteria in constructivist inquiry
+### Older care-home residents as collaborators or advisors in research: a systematic review
 
-- Engaging and Honoring Older Adults in Research
+#### Syfte
 
-- Research participation by older adults at end of life: barriers and solutions
+> to conduct a systematic review to find out to what extent and how older care-home residents have been involved in research as collaborators or advisors. 
 
-- To what extent do quality-of-life ratings influence older adults’ preferences regarding future health care and research participation
+#### Övergripande slutsatser
 
-- Culture, consent, costs and care homes: enabling older people with dementia to participate in research
+> small-scale studies involved residents as collaborators in participatory action research, whereas larger studies involved residents as consultants in advisory roles. There are multiple facilitators of and barriers to involving residents as PPI members. The reporting of PPI varies. While it is difficult to evaluate the impact of involving care-home residents on the research outcomes, impact has been demonstrated from more inclusive research processes with care-home residents. The review shows that older care-home residents can be successfully involved in the research process.
 
-- Strategies to improve engagement of ‘hard to reach’ older people in research on health promotion: a systematic review
+#### Facilitators of and barriers to involving residents as PPI members
 
-- Who is ‘in’and who is ‘out’? Participation of older persons in health research and the interplay between capital, habitus and field
+Dessa kunde tematiskt grupperas under följande kategorier:
 
-- Older care-home residents as collaborators or advisors in research: a systematic review
+> social factors, skills, resources, care-home organisational factors and the organisation of the research. [p. 341]
 
-- Research partnerships--embracing user involvement: practical considerations and reflections
+##### Social factors
 
-- Openness, inclusion and transparency in the practice of public involvement in research: A reflective exercise to develop best practice recommendations
+> The development of good relationships with residents aided involvement. Trust and transparency were important [11, 23]; residents’ trust in researcher conﬁdentiality could impact on their willingness to be involved [34, 23, 25]. Valuing residents’ involvement [32] and creating a safe space for them to voice ideas could enhance their involvement [35]. Residents’ confidence levels [34] and whether they had a low or agitated mood [29] also affected their participation, while some residents and staff could be reluctant to engage with new ideas [23]. [p. 341]
 
-- Initiating participatory action research with older adults: Lessons learned through reflexivity
+##### Skills
 
-- Challenging oneself on the threshold to the world of research--frail older people’s experiences of involvement in research
+> Resident and researcher skills could impact on resident involvement. Cognitive impairment sometimes presented a barrier, since it meant some residents had poor knowledge and negotiating skills [23] or were prevented from taking an active role in meetings [24]. Sensory impairments such as hearing difficulties and poor vision could hinder participation [25]. To accommodate the changing health of some residents, Killett et al. [29] held their final meetings with residents in care homes rather than at external venues. Researchers’ communication and interpersonal skills were essential. Investigators had to take on the role of a facilitator or mediator in meetings or negotiations [34], foster good relationships with a variety of individuals [25, 35] and offer continued encouragement and support to residents [32]. [p. 341]
 
-- Involving older people in gerontological nursing research: A discussion of five European perspectives
+##### Resources
 
-- Factors associated with refusal or acceptance of older patients (≥ 65 years) to provide consent to participate in clinical research in cardiology: a qualitative study
+> Time and money were cited as barriers. In one study, a lack of funds meant that not all residents interested in contributing to the research could be involved [32]. Action research required financial resources to allow the implementation of the changes identiﬁed [35]. Spending time gaining residents’ conﬁdence and getting to know them were essential to increasing participation but, due to ﬁnancial constraints, were difﬁcult to sustain [24, 34]. One study did not provide feedback to PPI members at its conclusion due to time limitations [27]. Two studies offered care-home residents remuneration for their involvement [28, 29]. [p. 341]
 
-- Lessons from a community-based participatory research project: Older people’s and researchers’ reflections
+##### Care-home organisational factors
 
-- Participatory Action Research With Older Adults: A Critical Interpretive Synthesis
+> A supportive organisational culture where management and staff valued the residents’ participation in research and were open to change which might enhance involvement and helped the implementation of action research [23]. In contrast, fragmented leadership and the attitudes and abilities of key powerful individuals could work against residents’ involvement [25]. [p. 341]
 
-- Maximizing clinical research participation in vulnerable older persons: identification of barriers and motivators
+##### Organisation of the research
 
+> An emergent design was seen to be important to empower residents, since it allowed them to set the agenda and have some ownership over the study [35]. Flexibility, which could similarly encourage residents’ involvement, was shown in using informal conversations or one-to-one discussions [25, 29]; identifying a main contact or source of support for residents [27, 29]; and allowing ad hoc contact with researchers [24]. However, allowing ad hoc contact with researchers could be a challenge for research staff to respond to. [p. 341]
+
+
+#### Något ordrikare slutsatser
+
+> Few studies have attempted to involve older care-home residents in the research process. Nonetheless, some have managed to do this successfully. Older care-home residents have been involved as PPI members in two ways: as collaborators in small-scale participatory action research and as advisors on large studies. Multiple barriers to and facilitators of involving residents as PPI members were identified and can be grouped under social factors, skills, resources, care-home organisational factors and the organisation of the research. All studies involving residents in research have been predominantly qualitative in design. Future research is needed to test whether care-home residents could be successfully involved in research with a quantitative design and/or as collaborators or peer researchers, particularly in large studies involving several care homes. The reporting of PPI varies. Comprehensive reporting would allow readers to better assess the impact of PPI on the research. While it is difﬁcult at present to evaluate PPI impact in research outcomes, such impact has been demonstrated in more inclusive research processes with care-home residents. [p. 343]
+
+
+### Research partnerships--embracing user involvement: practical considerations and reflections
+
+Artikelförfattaren reflekterar i artikeln över de lärdomar som kan dras kopplat till den samverkansforskning som bedrivits vid ett forskningscenter (åldrandeforskning) på Irland under åtta års tid. Den övergripande slutsatsen är: 
+
+> In summary, the author emphasises that for research partnerships involving users to be successful, they need to not only consider the most effective research methods, but also focus on the overarching purpose of the work and adopt an ethos and practice that maximises each partner’s knowledge and expertise to their full potential. [p. 221]
+
+Lite lagom vagt kanske.
+
+Denna artikel kan vara inspirerande för mig inte minst för min sista studie där jag på ett liknande sätt ska försöka sammanfatta erfarenheterna av CASE arbete med brukarmedverkan. Artiklar som denna blir av förklarliga skäl lite självhyllande, men jag tycker att den innehöll mycket bra referenser kopplade till 'user involvement'. I en starkt brittisk kontext visserligen, men jag uppfattar det som att vårt arbete vid CASE också är starkt influerat av vad britterna har gjort inom detta område. 
+
+#### The terms collaboration, cooperation, coalition, network, strategic alliance and partnership are used interchangeably
+
+> Terms such as collaboration, cooperation, coalition, network, strategic alliance and partnership are often used interchangeably (Boydell, 2007). [p. 221]
+
+Boydell, L. (2007), Partnerships: A Literature Review, Institute of Public Health in Ireland, Dublin.
+
+#### 'Empowerment' as defined by WHO
+> The World Health Organization (WHO), in their 2010 report on “User empowerment in mental health – a statement by the WHO Regional Office for Europe”, describes empowerment as the process of // taking control, taking responsibility and providing the potential to build capacity. It includes four dimensions: self-reliance, participation in decision making, dignity and respect, and belonging and contributing to a wider community. The authors indicate that “the key to empowerment is the removal of formal or informal barriers and the transformation of power relations […]. Power is central to the idea of empowerment, and one important element of empowerment strategies[…]”. [p. 221-222]
+
+World Health Organization, Regional Office for Europe & European Commission, Directorate-General for Health and Consumers (2010), “User empowerment in mental health: a statement by the WHO Regional Office for Europe – empowerment is not a destination, but a journey”, WHO, Regional Office for Europe, Copenhagen.
+
+#### Foucault om hur kunskap och makt hör samman
+
+> When writing on this issue, Foucault emphasised that power is not simply a top down issue but rather a moving one, according to context and timing. He states: “Power is everywhere” and “comes from everywhere” and viewed it as neither an agency nor a structure (Foucault, 1998, p. 63). Furthermore, for Foucault power and knowledge are inextricably related, he regarded knowledge as an exercise of power and power as a function of knowledge. Therefore, in this context power can revolve around the partnership as it can around empowerment, knowledge and expertise. [p. 222]
+
+Foucault, M. (1998), The History of Sexuality: The Will to Knowledge, Penguin, London.hh
+
+#### O'Sullivan om vad 'effective cross-sectoral research partnerships' går ut på
+
+> In summary, effective cross-sectoral research partnerships are focused on more than understanding the issues from a different perspective, or giving people an opportunity to have a say. Rather, it is recognition that those outside academia and one’s discipline, possess different knowledge and expertise which can benefit research and can help drive the change the partnership may wish to see happen. Principally, it is about appreciating the diversity of skills and knowledge that are academic, practical, policy based or from the lived experience. [p. 222]
+
+#### 'User involvement' enligt Futurage
+
+> User involvement means to concretely engage users at all stages, to design with them their role throughout the process, to take into account their needs and concerns throughout the whole process […]. This implies the need for sufficient resources, which are not only related to research funding, but also to human support. User involvement implies the sharing of research outcomes with the users who take part in the activities, as well as involving them in the evaluation and eventual follow-up (Futurage, 2011, pp. 85-6). [p. 222]
+
+Futurage (2011), A Road Map for European Ageing Research, Futureage, Sheffield.
+
+#### INVOLVE om skillnaden mellan 'user involvement', 'participation' och 'public engagement'
+
+> INVOLVE, a National Health Service advisory group, funded by the National Institute for Health Research that supports public involvement in health and social care research, provides a useful distinction:
+
+> + *User involvement*: members of the public are actively involved in research projects. In the health sector, this is increasingly referred to as PPI.
+
+> + *Participation*: describes people taking part in a research study as subjects of the research.
+
+> + *Public engagement*: information about research is provided and disseminated to the public.Activities include science festivals, open days, media and communications. The National Co-ordinating Centre for Public Engagement describes engagement as a two-way process, involving interaction and listening, with the goal of generating mutual benefit (www.invo.org.uk; www.publicengagement.ac.uk). [p. 222]
+
+#### Enligt Murtagh är 'user involvement' kontroversiellt och det har riktats kritik mot det
+
+> As Murtagh (2014a, p. 11) stated: "It is important to recognise that user involvement is itself a controversial subject. Critics point to a lack of compelling evidence that it adds value, while advocates are critical of the tokenistic nature of previous attempts to engage older people in research and advocacy." [p. 222]
+
+#### 'User involvement' används idag i syftet "to design programmes and services that are most effective"
+
+> Nevertheless, researchers, government, funders, businesses and service providers are increasingly recognising the benefits of “user” involvement to design programmes and service that are most effective. [p. 222]
+
+#### Bland de viktigaste tjänster, policies och program som samhället har till uppgift att få till på ett effektivt sätt hör de som riktar sig till vår åldrande befolkning
+
+> Nowhere is this more important than in planning and delivering services, policy and programmes for our ageing population. [p. 222]
+
+#### Issues affecting an ageing population do not respect boundaries and thus the solutions requires utilisation of knowledge and expertise from various stakeholders
+
+> The issues affecting older people, and indeed an ageing population do not respect departmental, sectoral or indeed geographical boundaries.Therefore, providing effective planning relies on the utilisation of knowledge and expertise from a range of stakeholders especially representative organisations, charities jjand older people themselves. [p. 222]
+
+
+#### Potential of 'user involvement' as described by Barnes and Taylor
+
+> The potential of user involvement for Barnes and Taylor (2009) is that it can help research have a greater impact, produce research that is considered relevant and important by older people and their organisations as well as generate data for advocacy, service delivery and policy and can develop skills amongst older people and NGOs.
+
+Barnes, M. and Taylor, S. (2009), Summary Guide of Good Practice for Involving Older People in Research, ERA-AGE, London.
+
+
+#### Academic knowledge sometimes in conflict with knowledge of policy makers, practitioners and service users
+
+> The drive of the user involvement agenda is reflected in Bannister and Hardill (2013, p. 5) who recognise that there are various forms of evidence and knowledge informing the design, delivery or evaluation of public services. Academic knowledge “sits alongside, sometimes in conflict and sometimes in harmony, with the knowledge of policy makers, practitioners and service users.” [p. 222]
+
+#### Driving premise for knowledge co-production according to Vindrola-Padros et al. is that there are multiple and coexisting forms of knowledge
+
+> Writing on the challenges of knowledge co-production, in the context of improving the quality of care, Vindrola-Padros et al. (2018) note the driving premise is that there are multiple and coexisting forms of knowledge: "The underlying assumption is that if knowledge is created through the interaction of these different groups of stakeholders, it will be able to reflect a wider range of perspectives, provide insight into the issues affecting each group, be more relevant to the local context and, therefore, more easily translatable into changes in policy and practice. (p. 1)" [p. 225]
+
+#### A strong collaborative partnership requires a logical mixture of disciplines (and personalities) to be successful
+
+> A strong collaborative partnership requires a vision and an interdisciplinary value base focused on utilising the expertise of those inside and outside one’s discipline and particularly outside the university gates. To be effective [...] it is not simply about getting people involved – rather it is about getting the right team mix. For an application to be successful on paper and in its desired outcome, it is key that there is a logical mixture of disciplines (and personalities) rather than just different disciplines, sectors and older people. It must be a grouping that will advance and actually benefit the outcome of the work and the partners involved. [p. 226]
+
+#### A strong collaborative partnership requires an approach that focuses on promoting mutual dependency to build a feeling of group ownership and responsibility
+
+> At its core there must be an ethos that promotes interdependence while respecting individual roles and expertise. [p. 226]
+
+> What is required for success is an approach that focuses on promoting mutual dependency to build a feeling of group ownership and responsibility along with momentum. [p. 226]
+
+
+####  A strong collaborative partnership requires an approach that ensures that users can be involved in a way that meets their needs, not just those of the researcher or the service planner
+
+> ...a key element of successful partnerships involves building relationships and working in partnership with service users and older people. This requires an approach that ensures that users can be involved in a way that meets their needs, not just those of the researcher or the service planner. It may seem rather obvious but clearly explaining roles and what is expected of the various partnerships helps to avoid any confusion and disappointment or alternatively maximises valuable involvement, insight and provides opportunities that may otherwise be missed. It is also important to make it clear that the research process takes time to complete in order to ensure that the results are robust and that the research in itself does not necessarily lead to the change partner participants may wish to see. [p. 226]
+
+
+#### Service users have the capacity to (alongside academics) review grants
+
+> some funders such as The Alzheimer’s Society (Sorensen, 2009) and the Public Health Agency in Northern Ireland have involved service users (families and/or people with dementia) alongside academics in reviewing grants and this model successfully shaped what was funded. [p. 227]
+
+#### 'User involvement' måste ske med lyhördhet inför hur mycket och vilken typ av involvering äldre personer själva önskar
+
+> ...as Doyle (2009) reflected, the case for user involvement must connect with the practicalities and realities of involvement, for example, how much or what type of involvement do older people actually want? [p. 227]
+
+#### Lavis et al.'s three types of research/user interaction: producer-push, user pull and exchange
+
+> Lavis et al. (cited by Bannister and Hardill, 2013, p. 5) characterise three types of research/user interaction: producer-push, user-pull and exchange: "The first of these emphasises the active role taken by researchers in communicating the messages from their research; the second highlights the need for potential research users to create an environment whereby research is actively valued, sought and used; and the third (“exchange”) outlines models of interaction between researchers and users that emphasise joint actions in the defining, creation, validation and use of research.
+
+#### Knowledge brokerage 
+
+> Knowledge brokerage forms an important function in connecting various groupings in the context of // supporting user involvement and developing cross-sectoral partnerships. Glegg and Hoens (2016) state: "Knowledge brokers [KB] bridge different disciplines and sectors by developing a common language, by fostering interactions between individuals that generate a shared understanding of their issues and objectives, and by reshaping knowledge to improve its meaningfulness and applicability across contexts. From this perspective, KBs move among groups fostering collaborative processes, with the aim of generating new “brokered” knowledge that is more robust and readily applicable within its intended local context (Meyer cited Glegg and Hoens (2016, p. 15)). [p. 227-228]
+
+#### The five domains for knowledge brokering as set out by Glegg and Hoens (2016)
+
+> ...the five domains for knowledge brokering as set out by Glegg and Hoens (2016):
+> 1. Information manager: sourcing, organising, translating and sharing ageing evidence from research, policy and practice.
+> 2. Linking agent: building connections and relationships between stakeholders – academic, charities, policy makers and older people across Ireland, North and South.
+> 3. Capacity builder: supporting and encouraging skill development, through our funding, workshops, publications and online resources as well as addressing barriers both financial and intellectual (Murtagh, 2014a, b).
+> 4. Facilitators: guiding and supporting connections across disciplines, borders and sectors including an extensive database.
+> 5. Evaluators: focusing on the end use of the research and the desired outcome and impact. [p. 228]
+
+### Initiating participatory action research with older adults: Lessons learned through reflexivity
+
+#### Syfte
+
+> In this article, we describe the initiation of a PAR project with older adults and reflect on the alignment of this process with key participatory principles and fit within typical research structures.
+
+Artikeln skildrar en form av participatorisk forskning som de är tveksamt om vi bedriver. Här utgås från en viss grupp som kan liknas vid en community och den forskning som bedrivs med dem är mer aktivistisk såsom jag tolkar beskrivningen. Artikelförfattarna använder sig hela tiden av begreppet PAR och de referenser de använder använder begreppet CBPR. HÄr är t.ex. ett utdrag ur artikeln:
+
+> Khanlou and Peter (2005) point out that researcher and participant roles are blurred in PAR, making it unclear how informed consent should be obtained, and suggest that the initiator of the research should engage community members in dialogue that could itself constitute informed consent (Khanlou & Peter, 2005).
+
+Det är inte riktigt den typen av forskning vi bedriver skulle jag starkt hävda. 
+
+#### Slutsatser
+
+> Findings point to the tensions between developing relationships over time and time-sensitive calls for funding, how traditional conceptions of research can influence creating equitable partnerships, and the need for development of ethical and publishing guidelines that address participatory approaches. These key insights can be applied to help achieve the potential of PAR: to address issues of concern by collaboratively and equitably working with the people most affected.
+
+Här är slutsatserna som dras i lite mer detalj:
+
+> First, initiating PAR with communities and developing relationships over time is in tension with funding calls that researchers and practitioners respond to. The initial stage of this project has highlighted that it is possible to engage in PAR that starts with a researcher-led idea. There is a need to build flexibility into initial project objectives and design to enable the project to evolve and new questions to form beyond the bounded project. Equitable partnerships in this instance may take longer and require greater intentionality to establish. 
+
+> Second, attending to issues of trust amongst collaborators and opening a space to develop trusting relationships is needed to form collaborative relationships. The nature of relationships and levels of trust/mistrust may be revealed over time; mistrust needs to be taken into consideration and, if possible, addressed, in order for a PAR project to progress. 
+
+> Third, implementation of PAR principles can operate on a continuum, rather than a dichotomy, in which principles are implemented to the greatest extent possible. This process requires ongoing reflexivity regarding what is happening and how principles can be better integrated into a given project. Next, creating equitable partnerships can be hindered by assumptions held by co-researchers // about their potential role in research, understandings that are likely influenced by larger social conceptions of traditional research. We found that a balance between information sharing and simply “jumping in” to a project, with reflexivity, was an effective approach that enabled all involved to learn through direct experience.
+
+> Finally, PAR principles of equitable partnerships and empowerment are balanced against REB interpretations of participants as being vulnerable and needing protection. When applying PAR approaches, an ongoing dialogue with REBs is necessary, to enable understanding of the approach by all parties and to ensure that research ethics procedures do not work against implementing PAR principles. Further development of ethical and publishing guidelines that address PAR approaches are needed
+
+#### Key principles that Participatory Action Research (PAR) (or rather CBPR) should embody
+
+> Israel et al. (2008) described key principles that PAR [My comment: or rather CBPR] should embody, including:
+> "1. Collaborative, equitable partnership in all phases of the research project
+> 2. An empowering process
+> 3. Co-learning among all partners
+> 4. Capacity building and systems change
+> 5. A balance of research and action
+> 6. Long-term involvement with a commitment to sustainability." [p. 2]
+
+Israel, B. A., Schulz, A. J., Parker, E. A., Becker, A. B., Allen, A. J., III, & Guzman, J. R. (2008). Critical issues in developing and following community based participatory research principles. In M. Minkler & N. Wallerstein (Eds.), Community-based participatory research for health: From process to outcomes (2nd ed., pp. 46–66). San Francisco: Jossey-Bass.
+
+#### More attention to issues of power relations needed within participatory research particularly related to projects involving older adults
+
+> ...more attention to issues of reflexivity, positionality, and power relations is needed within participatory research (Sultana, 2007), particularly related to projects involving older adults. [p. 2]
+
+Sultana, F. (2007). Reflexivity, positionality and participatory ethics: Negotiating fieldwork dilemmas in international research. ACME: An International E-Journal for Critical Geographies, 6(3), 374–385. Retrieved 2 April 2018
+from www.acme-journal.org/index.php/acme/article/view/786
+
+#### Initial step of PAR is forming a partnership with a community
+
+> According to Duran and colleagues (2013), the initial step of PAR is forming a partnership with a community, defined as a group of people with a shared identity such as geographical location or culture.[p. 3jj]
+
+Duran, B., Wallerstein, N., Avila, M. M., Belone, L., Minkler, M., & Foley, K. (2013). Developing and maintaining partnerships with communities. In B. A. Israel, E. Eng, A. J. Schulz, & E. A. Parker (Eds.), Methods for
+community-based participatory research for health (2nd ed.,
+pp. 43–68). San Francisco: Josey-Bass.
+
+
+### Openness, inclusion and transparency in the practice of public involvement in research: A reflective exercise to develop best practice recommendations
+
+Här används 'public involvement' som är det begrepp som jag också kommer att använda i studien. Jag kommer också att hänvisa till INVOLVE även om det är kopplat till en brittisk kontext. Det är ju trots allt så att vi i vår inriktning och i vårt upplägg har inspirerats mycket av Storbritanniens arbete med brukarinvolvering.
+
+Mot bakgrund av det är det teoretiska upplägget i introduktionen väldigt relevant för min studie och jag kan hämta mycket där från teorin. 
+
+#### Syftet
+
+> To critically reflect on the PI practices that underpinned our research project on intimacy and sexuality in care homes, to develop a series of recommendations for improving future PI activities.
+
+#### Resultat
+
+> A number of strengths and limitations of our approach to PI were identified. Clear recommendations for improving PI practice were developed for three broad areas of identified difficulty: (i) communication within and between meetings; (ii) the roles and responsibilities of team members; and (iii) PI resources and productivity.
+
+#### Definition av 'public involvement' hämtad från INVOLVE
+
+> Public involvement in research (PI) is defined as research that is “carried out ‘with’ or ‘by’ members of the public rather than ‘to’, ‘about’ or ‘for’ them.” [1] [p. 442]
+
+[1] Briefing notes for researchers: public involvement in NHS, public
+health and social care research. INVOLVE. http://www.invo.org.uk/.
+Accessed November 29, 2016.
+
+#### Vilka utgör vanligtvis 'members of the public' i 'public involvement' och varifrån hämtas de?
+
+> Members of the public involved in research are often drawn from specific target populations, such as patients, service users, or those with a shared experience or demographic characteristic, such as age group. [2] [p. 442]
+
+[2] Gradinger F, Britten N, Wyatt K, et al. Values associated with public involvement in health and social care research: a narrative review. Health Expect. 2013;16:e36‐e47.
+
+#### Public involvement increasingly recognized as important element of health and social research
+
+> PI is increasingly recognized as being an important element of health and social research, with advocates outlining its role in supporting values such as empowerment and increased transparency, [2] as well as the benefits arising from the unique knowledge and insights that members of the public can bring to research. [3] [p. 442]
+
+[2] Gradinger F, Britten N, Wyatt K, et al. Values associated with public involvement in health and social care research: a narrative review. Health Expect. 2013;16:e36‐e47.
+
+[3] Boote J, Baird W, Beecroft C. Public involvement at the design stage
+of primary health research: a narrative review of case examples.
+Health Policy. 2010;95:10‐23.
+
+#### Various guidelines exist providing advice to researchers on how to conduct effective PI
+
+> Various guidelines exist that provide advice to researchers on how to conduct effective PI. These include a comprehensive set of briefing notes from the national advisory group on service user involvement “INVOLVE,” as well as a “how-­to” guide for health and biomedical researchers. [4] [p. 442]
+
+[4] Involving users in the research process: a ‘how to’ guide for researchers. National Institute for Health Research. http://www.rds-london.nihr.ac.uk/RDSLondon/media/RDSContent/files/PDFs/Involve-Briefing-Notes.pdf. Accessed November 29, 2016.
+
+#### Chance "corridor" meetings and last-minute decision making typical of academic context could hinder effective communication in Public Involvement (PI) projects 
+
+> a reflective report by academics and patients working together in rheumatology research research [5] revealed specific examples of typical academic working practices that could hinder effective communication in PI projects. These included the chance “corridor” meetings in the workplace from which members of  the public are excluded, as well as the pace and last­minute nature that is typical of academic decision making. [p. 442]
+
+[5] Hewlett S, de Witt M, Richards P, et al. Patients and professionals
+as research partners: challenges, practicalities, and benefits. Arthritis
+Rheum. 2006;55:676‐680.
+
+#### Opportunities for less formal discussion between team members can be useful for enabling public members of the team to contribute their thoughts outside of structured meetings
+
+> ...an ethnographic study of three health­focused PI case studies reported how opportunities for less formal discussion between team members (such as phone calls and shared travel time) can be useful for enabling public members of the team to contribute their thoughts outside of structured meetings. [6] [p. 442]
+
+[6] Armstrong N, Herbert G, Aveling E-L, Dixon-Woods M, Martin G. Optimizing patient involvement in quality improvement. Health Expect. 2013;16:e36‐e47.
+
+#### Important to provide clear role descriptions in Public Involvement in research
+
+> many researchers have emphasized the importance of providing clear role descriptions in PI [Public Involvement] [6-8]
+
+[6] Armstrong N, Herbert G, Aveling E-L, Dixon-Woods M, Martin G. Optimizing patient involvement in quality improvement. Health Expect. 2013;16:e36‐e47.
+
+[7] Fairbrother P, McCloughan L, Adam G, et al. Involving patients in clinical research: the Telescot Patient Panel. Health Expect. 2013;18:661‐675.
+
+[8] Jordon M, Rowley E, Morriss RK, Manning N. An analysis of the research
+team-­service user relationship from the service user perspective: a hconsideration of ‘The three Rs’ (roles, relations, and responsibilities) for
+healthcare research organisations. Health Expect. 2014;18:2693‐2703.
+
+#### Mixed views as to whether members of the public should be given training in the roles they undertake [in public involvement in research]
+
+> ...whilst many researchers have emphasized the importance of providing clear role descriptions in PI, [6-8] there are more mixed views as to whether members of the public should be given training in the roles they undertake. Some consider this to be essential to effective PI, whilst others argue that it is unreasonable to assume that somebody with little or no research background would be able to master the higher levels of skill and understanding required for some research-­related tasks. [9] [p. 442]
+
+[6] Armstrong N, Herbert G, Aveling E-L, Dixon-Woods M, Martin G. Optimizing patient involvement in quality improvement. Health Expect. 2013;16:e36‐e47.
+
+[7] Fairbrother P, McCloughan L, Adam G, et al. Involving patients in clinical research: the Telescot Patient Panel. Health Expect. 2013;18:661‐675.
+
+[8] Jordon M, Rowley E, Morriss RK, Manning N. An analysis of the research
+team-­service user relationship from the service user perspective: a consideration of ‘The three Rs’ (roles, relations, and responsibilities) for
+healthcare research organisations. Health Expect. 2014;18:2693‐2703.
+
+[9] Gray RE, Fitch M, Davis C, Phillips C. Challenges of participatory research: reflections on a study with breast cancer self-help groupset. Health Expect. 2000;3:243‐252.
+
+#### The idea of training members of the public in research methods could be considered incompatible with the underpinning principle of public involvement
+
+> the idea of training members of the public in research methods could also be considered incompatible with the underpinning principle of valuing members of the public precisely because of the different mindsets, skills and expertise that they bring to a research team. [3] [p. 442]
+
+[3] Boote J, Baird W, Beecroft C. Public involvement at the design stage
+of primary health research: a narrative review of case examples.
+Health Policy. 2010;95:10‐23.
+
+#### More research needed on public involvement roletaking and research training for members of the public
+
+> Reflective studies that specifically consider the appropriateness of roles and training for members of the public within PI are therefore needed in order to inform this debate [on wheteher members of the public should be given training in the roles they undertake in public involvement in research]. [p. 442]
+
+#### Many issues associated with PI relate to power relationships
+
+> Many of the pervasive issues associated with PI, such as communication difficulties, and the nature of roles undertaken, relate to the power relationships that exist between members of the public and academic clinical or academic researchers. [p. 442]
+
+#### Power relationship issues in PI could be exacerbated by the internal power hierarchies that often exist hhwithin health and social care settings
+
+> Many of the pervasive issues associated with PI, such as communication difficulties, and the nature of roles undertaken, relate to the power relationships that exist between members of the public and academic clinical or academic researchers. Such issues could be exacerbated by the internal power hierarchies that often exist within health and social care settings, [10] and which risk further inhibiting effective teamwork when involving the public in multidisciplinary research teams. [p. 441]
+
+[10] Weinberg DB, Cooney-Miner D, Perloff JN, Babington L, Avgar AC. Building collaborative capacity: promoting interdisciplinary teamwork hhin the absence of formal teams. Med Care. 2011;49:716‐723.
+
+#### Non-hierarchical team structures in PI clearly beneficial but challenging  to achieve
+
+> Whilst there is clear recognition of the benefits of creating a non-­hierarchical team structure, in which the contributions of all team members are equally valued, [6],[11] successfully achieving such a flat power structure therefore remains a challenge. Indeed, even when academic members have the best intentions of eliminating power differentials, their desire to protect members of the public, for instance by minimizing burden, challenge or stress, may inadvertently contribute to power imbalances. For instance, researchers working with members of breast cancer self­help groups described how they were accused of being unconsciously paternalistic by a reviewer because they had not considered it appropriate to involve the self-help group members in the analysis of data. [9] [p. 422]
+
+[6] Armstrong N, Herbert G, Aveling E-L, Dixon-Woods M, Martin G. Optimizing patient involvement in quality improvement. Health Expect. 2013;16:e36‐e47.
+
+[9] Gray RE, Fitch M, Davis C, Phillips C. Challenges of participatory research: reflections on a study with breast cancer self-help groupset. Health Expect. 2000;3:243‐252.
+
+[11] Staniszewska S, Jones N, Newburn M, Marshall S. User involvement in the development of a research bid: barriers, enablers and impacts. Health Expect. 2007;10:173‐183.
+
+#### Recommendations for improving PPI activities 
+
+> ##### Communication
+
+> * Ground rules for communication in meetings should be collectively agreed at the start of the project, and periodically revisited. These might include procedures that enable team members to easily indicate that they do not understand or wish to say something (such as raising up their hand or a coloured card), or period checks as to whether community representatives wish to contribute or clarify anything.
+> * Community representatives should be given pens and paper during meetings, and encouraged to note down thoughts that come to them.
+> * A glossary of common terms (used by both academics and community representatives) could be built up through discussions, and used in meetings, to help team members to understand one another’s jargon.
+> * Agreement on the type, amount, and format of information sent to community representatives between meetings (including email conversations) should be agreed on an individual basis, and periodically reviewed.
+> * A ‘core plus’ approach to information sent between meetings could be considered, in which all community representatives are given a core minimum of information, but with all other information made easily available, as desired.
+> * If providing long documents (e.g. interview transcripts) it may be useful to provide summaries of key points, and clear cover letters that outline why the information has been sent, and what they are expected to do with it. Community representatives should also be reminded that they can challenge the summaries if they feel that important aspects from the longer documents have been omitted or misrepresented.
+> * Specific social meetings should be organised between academics and community representatives to break down social barriers and increase approachability.
+
+> ##### Roles and responsibilities
+> * Role descriptions that outline the type and extent of community representatives’ involvement can be helpful for agreeing and communicating expectations. Such role descriptions should be periodically reviewed and updated, as necessary.
+> * A larger team of community representatives could be involved in the project (e.g. at different times for different roles, or just to replace members who become less available) so that the sense of burden/responsibility is reduced.
+> * If community representatives are interested in developing their skills, then relevant training could be provided externally or by the research team.
+> * Separate meetings should be organised specifically for academic business, such as grant funding, journal selection etc. These meetings should be open to community representatives, and yet made clear that the information discussed is unlikely to be relevant to them. To maintain transparency and inclusivity, agendas for these meetings should be circulated in advance, and minutes made available afterwards.
+
+> ##### Resources and Productivity
+> * Clear details of a meeting’s objectives and agenda should be circulated in advance.
+> * Community representatives should be offered folders to help them to store and organise printed information generated by the study.
+> * It may be useful to have a designated member of the team (or independent person) who community representatives could approach if they have any concerns about their involvement that they do not feel comfortable raising with the wider team.
+> * Sufficient time for the additional administration and meeting time required to do PI properly should be planned and budgeted for early on.
+
+[p. 445]
+
+
+### Challenging oneself on the threshold to the world of research--frail older people’s experiences of involvement in research 
+
+#### Slutsatser
+
+> ...frail older people have a varied capacity to be involved. But in what way and how is difficult to know before [...] In collaboration with researchers, frail older people are given the chance to assess what they want to and are able to do. [p. 9]
+
+> Our results advocate that it is problematic to exclude frail older people a priori and that there is potential for new perspectives and knowledge to be shaped in the encounter and in the relationship between the researcher and the frail older person. [p. 9]
+
+> In the research relationship between the frail older person and the researcher, there are opportunities, but also obstacles based on the different worlds both come from. In research without user involvement, there are needs, perspectives and resources that run the risk of being left out. For research to be able to cater to frail older people’s needs of health services, their voices need to be heard and taken into consideration. Otherwise, there is a risk that health services will continue to treat the group of frail older people based on the wishes and perspectives of other groups. [p. 9]
+
+
+
+### Involving older people in gerontological nursing research: A discussion of five European perspectives
+
+#### The move to include patients and the public in health research began in oncology
+
+> The move to include patients and the public in health research began in oncology and from there spread to other fields including gerontology (Abma, Pittens, Visse, Elberse, & Broerse, 2015; Street, Voigt, Geyer, Manning, & Swanson, 1995). [p. 2]
+
+Abma, T. A., Pittens, C. A., Visse, M., Elberse, J. E., & Broerse, J. E. (2015).
+Patient involvement in research programming and implementation: A responsive evaluation of the dialogue model for research agenda setting. Health Expectations, 18(6), 2449–2464. <https​://doi.org/10.1111/hex.12213​>
+
+Street, R. L. Jr, Voigt, B., Geyer, C. Jr, Manning, T., & Swanson, G. P. (1995).
+Increasing patient involvement in choosing treatment for early breast cancer. Cancer, 76(11), 2275–2285.
+
+#### Lack of emphasis in doctoral programmes about the importance of involving patients and the public in the research process and how this could be done
+
+> there is a lack of emphasis in doctoral programmes about the importance of involving patients and the public in the research process and how this should be done. This may reduce the impact of nursing science and the quality of health and care long term. [p.4]
+
+
+
+###  Factors associated with refusal or acceptance of older patients (≥ 65 years) to provide consent to participate in clinical research in cardiology: a qualitative study
+
+Denna studie handlar inte om det slags deltagande vi studerar utan om ett deltagande "in a prospective randomized clinical trial in secondary prevention after acute coronary syndrome" [p. 133]
+
+### Lessons from a community-based participatory research project: Older people’s and researchers’ reflections
+
+En mycket relevant artikel om "a community-based participatory research project that centered on the design and administration of a questionnaire exploring older people’s use and perceptions of community services" [p. 244] i vilken "[t]he authors discuss both older adults’ and the researchers’ views
+of the participatory process." [p. 244] och drar följande slutsatser:
+
+> The key lessons and challenges that emerged from the research are analyzed using the nine principles of community-based participatory research outlined by Israel et al. The authors question whether older people in all instances seek extensive involvement in all aspects of participatory projects and raise a number of questions that require further analysis before a robust and viable understanding of participatory research that safeguards against the tokenistic involvement of older people can be developed. [p. 244]
+
+Denna artikel innehåller mycket teori och jag kommer att återkomma till den snart.
+
+
+
+### Participatory Action Research With Older Adults: A Critical Interpretive Synthesis
+
+En mycket bra genomgång av forskning inom området. Även om den fokuserar på PAR så tar den upp mycket kloka saker som även gäller public involvement av det intelika radikala slaget.
+
+#### One factor that may explain why academic researchers have tended to not fully involve older adults as prominent partners is the current funding environment, whereby academics often require a defined research topic to obtain funding
+
+> One factor that may explain why academic researchers have tended to not fully involve older adults as prominent partners is the current funding environment, whereby academics often require a defined research topic to obtain funding (Frisby et al., 2005; Hall & Tandon, 2017). These requirements unfortunately limit the possibilities of an emergent research design that ensures that the research priorities chosen matter to the community (Hall & Tandon, 2017). To ensure that older adults are able to shape the purpose and scope of PAR projects, there is a clear need for funding agencies to create alternative funding structures, such as planning grants for initial stages and tiered funding connected to meeting outcomes demonstrating successful partnerships (Cargo & Mercer, 2008). Such strategies would support researchers in collaborating with older adults in cycles of reflection and action that enable older adults to contribute to PAR projects so that the project’s goals and objectives are optimally relevant to them (Hall & Tandon, 2017). [p. e423]
+
+
+#### The pressure to publish makes it difficult for academic researchers to ensure that the research priorities chosen matter to the community, to involve older adults throughout the various research phases, and to involve older adults when implementing the findings in a way that encourages tangible change in the community
+
+> Unfortunately, the pressure to publish makes it difficult for academic researchers to integrate the time and processes required to ensure that the research priorities chosen matter to the community, to involve older adults throughout the various research phases, and to involve older adults when implementing the findings in a way that encourages tangible change in the community. [p. e423]
+
+#### Greater alignment is needed between the ethics guidelines of institutional review boards and the goals of PAR so that older adults can be involved as co-researchers
+
+> In addition, ethical guidelines may hinder academic researchers from meaningfully involving older adults. The emphasis on individual rights and protections embedded in the guidelines used by many ethics review boards at academic institutions may present as barriers to more collective participatory processes (Cargo & Mercer, 2008). For example, research ethics boards often want participants to sign consent forms when a project begins, which could position the older adults as participants rather than as co-researchers in an equitable partnership (Hand, Laliberte Rudman, McGrath, Donnelly, & Sands, 2019). Although obtaining consent to share information is important for academic researchers who wish to publish and present research findings, it is clear that greater alignment is needed between the ethics guidelines of institutional review boards and the goals of PAR so that older adults can be involved as co-researchers (Hand et al., 2019; Frisby et al., 2005). Specifically, researchers should engage in ongoing dialogue with research ethics boards when conducting PAR so that all parties can discuss the methodology to ensure that the institution’s ethics procedures are not working against the researchers’ implementation of PAR (Hand et al., 2019). [p. e424]
+
+
+### Maximizing clinical research participation in vulnerable older persons: identification of barriers and motivators
+
+Denna studie handlar inte om det slags deltagande vi studerar utan om ett deltagande i mer traditionella medicinska studier.
