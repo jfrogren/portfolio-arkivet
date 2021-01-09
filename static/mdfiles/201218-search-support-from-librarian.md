@@ -2034,6 +2034,9 @@ Increasing patient involvement in choosing treatment for early breast cancer. Ca
 
 Denna studie handlar inte om det slags deltagande vi studerar utan om ett deltagande "in a prospective randomized clinical trial in secondary prevention after acute coronary syndrome" [p. 133]
 
+
+
+
 ### Lessons from a community-based participatory research project: Older people’s and researchers’ reflections
 
 En mycket relevant artikel om "a community-based participatory research project that centered on the design and administration of a questionnaire exploring older people’s use and perceptions of community services" [p. 244] i vilken "[t]he authors discuss both older adults’ and the researchers’ views
@@ -2043,22 +2046,102 @@ of the participatory process." [p. 244] och drar följande slutsatser:
 
 Denna artikel innehåller mycket teori och jag kommer att återkomma till den snart.
 
+Det finns många etiketter på forskningsprojekt "that enlist the participation
+and involvement of laypeople in the research process" [p. 245], bland annat: 
 
+> "collaborative action research, action inquiry, participatory action research, and community-based participatory research (CBPR; Minkler and Wallerstein 2003)" [p. 245]. 
+
+Även om dessa metoder skiljer sig åt så delar de enligt artikelförfattarna...
+
+> "a central ethos: As Israel et al. (1998:175) stated, “each is explicitly committed to conducting research that will benefit the participants either through direct intervention or by using the results to inform action for change.” [p. 245] 
+
+Alltså antingen genom direkt handling eller genom att använda resultatet för att informera och den vägen försöka påverka och få till en förändring. Därigenom distansierar sig dessa "approaches" från den traditionella modellen för hur forskning går till...
+
+> which demarcates the researcher (as the person of knowledge) from the researched (the research subject). [p. 245]
+
+Vet inte om jag tycker att beskrivningen av the researcher som "the person of knowledge" är särskilt generös tolkning av sedvanlig forskning eftersom det är väl ändå är så att man i t.ex. kvalitativa studier är ute efter den kunskap som personer sitter inne med på något sätt. 
+
+Hur som helst, så vad som förenar dessa participativa metoder enligt artikelförfattarna (och alltså åtskiljer dem från traditionell forskning) är övertygelsen:
+
+> that research should be conducted from the perspective of those immediately concerned by the issues being investigated, rather than through the lens of researchers’ preconceptions and priorities (Cornwall and Jewkes 1995). [p. 245]
+
+och...
+
+> Many of the participatory approaches were inspired by the philosophy and work of the Brazilian educator Paulo Freire (1970, 1973), who sought to question and realign accepted power imbalances by emphasizing egalitarian relationships and focusing on the empowerment of the disadvantaged. The tradition also evolved from the work of feminist theorists, poststructuralists, and Marxist critical theorists (Wallerstein and Duran 2003). [p. 245]
+
+De har alltså sin upprinnelse i en känsla samt sannolikt belägg för att det råder en orättvis maktfördelning där en viss grupp i rättvisans namn behöver tilldelas en större makt och ett större inflytande jämfört med status quo. Artikelförfattarna skriver:
+
+> The distribution of power and the empowerment of research participants are of central concern in CBPR: It seeks to empower participants by enabling them to identify issues of relevance and possible solutions to the problems they perceive.
+
+Vidare citerar författarna Cornwall och Jewkes som skriver:
+
+> “most participatory research focuses on ‘knowledge for action’ [and emphasizes] . . . a ‘bottom-up’ approach with a focus on locally defined priorities and local perspectives” (Cornwall and Jewkes 1995:1667). [p. 245]
+
+#### The nine principles of CBPR, as advanced by Israel et al.
+
+> The nine principles of CBPR, as advanced by Israel et al. (1998:178-80), are to //
+
+> 1. recognize a community as a shared unit;
+> 2. build on strengths and resources within the community;
+> 3. facilitate collaborative, equitable involvement in all phases of the research;
+> 4. integrate knowledge and action for the mutual benefit of all partners;
+> 5. promote a colearning and empowering process that attends to social inequalities;
+> 6. facilitate a cyclical and iterative process;
+> 7. address health from both positive and ecological perspectives;
+> 8. disseminate findings and knowledge gained to all partners; and
+> 9. foster a long-term commitment by all partners. [p. 245-246]
+
+#### Ethical value and practical advantages of participatory research
+
+> Apart from the *ethical value* of promoting autonomy and recognizing the abilities and skills of older people (Walker 2007), participatory research has a number of *practical advantages*. It allows older people to assess the utility and relevance of particular projects and initiatives in the light of their needs (Davies and Nolan 2003). It seeks to empower them, strengthen community networks (Cornwall and Jewkes 1995), and increase the utility of research findings, thereby also creating the research-practice interface. Furthermore, its adoption can give added credibility to research findings in the community to which they relate (Cornwall and Jewkes 1995). [p. 246]
+
+#### The involvement of older people in the research process can be viewed along a continuum
+
+> The involvement of older people in the research process can be viewed along a continuum, from service-user informant to research analyst or, as // Walker (2007) posited, a continuum between consumerism and empowerment. [p. 246-247]
+
+#### [Consumerism] usually amounts to older persons acting as unpaid advisers and informants
+
+> [Consumerism] usually amounts to an older person’s acting as a research informant, offering his or her perspective either via an interview or as a participant on an advisory panel (Beresford 2003; Walker 2007). Such an approach, it is argued, generally does little to alter the distribution of power (Beresford 2003; Cornwall and Gaventa 2000). Involvement at this level is often tokenistic, or as Carter and Beresford (2000:12) pointed out, used as “window dressing for decisions that have really already been made to give an artificial appearance of involvement.” It is argued that much of this research has a negligible impact on the daily lives of the older people themselves and instead has “frequently resulted in service users acting as unpaid advisers and informants” (Carter and Beresford 2000:15). [p. 247]
+
+#### CBPR seeks to empower participants by giving them (co)ownership of the research process 
+
+> At the other end of the spectrum, CBPR seeks to empower participants ["by enabling them to identify issues of relevance and possible solutions to the problems they perceive" [p. 246] and] by giving them (co)ownership of the research process. In such instances, the researchers act as facilitators, helping transform the participants from passive subjects of the research project to actors and owners of the project, determining their own agenda, designing the project, and analyzing the results. [p. 247]
+
+#### Empowerment is an elusive and complex concept and it is difficult for researchers to deem whether it has been attained or not
+
+> Barnes and Walker (1998) emphasized the importance of self-empowerment and highlighted that empowerment in one area does not necessarily translate to empowerment in all aspects of an older person’s life. Empowerment, they argued, relates to broader sociopolitical and economic processes within society in general. Empowerment is therefore an elusive and complex concept: It is difficult for researchers to deem whether it has been attained or not. To develop nonhierarchical, empowering relationships, a researcher engaging in the participatory process also has to equip himself or herself with a suite of skills not required in conventional research (Dewar 2005; Stoeker 1999; Tetley and Hanson 2000). [p. 247]
+
+#### Giving older persons (co)ownership of the research process is less common in participatory research than including them as advisers/informants
+
+> With some notable exceptions (e.g., Barnes and Bennett 1998; Cook, Maltby, and Warren 2003; Dickson 2000; Joseph Rowntree Foundation 2004; Peace 1999), this approach is less common. [p. 247]
+
+#### Lack of exploration of older people's perceptions of involvement in the process - a deficiency in the participatory literature
+
+> A noticeable deficiency in the participatory research literature is the lack of exploration of older people’s perceptions of involvement in the process. This is highlighted by Fudge et al. (2007), who conducted an extensive literature review that aimed to explore the scope and extent of older people’s involvement in health research over the past 10 years. Of the 2,492 citations identified, only 30 met the inclusion criteria of following the basic tenets of participatory research. They noted the absence of evaluations of the research process from the perspective of older people and how their involvement altered the research process or outcomes. [p. 247]
+
+
+#### Deficiency in the literature related to analysis of the process from the perspective of researchers
+
+> Another deficiency in the literature relates to the analysis of the process from the perspective of researchers. Israel et al. (1998) referred to this issue and called on researchers to document the challenges they encountered and the factors that are conducive to the success of the approach. Furthermore, they suggested that such reflective exercises be centered on the nine principles of CBPR outlined above. [p. 247]
+
+#### Possible barriers inhibiting (active) involment of older persons in research projects
+
+> Possible barriers identified by Fudge et al. (2007:498) are “research skills capacity, ill health, time and resources.” Other barriers contributing to attrition cited by Warren et al. (2003:25) include self-effacement, deference to professionals, and a lack of confidence. [p. 247]
 
 ### Participatory Action Research With Older Adults: A Critical Interpretive Synthesis
 
-En mycket bra genomgång av forskning inom området. Även om den fokuserar på PAR så tar den upp mycket kloka saker som även gäller public involvement av det intelika radikala slaget.
+En mycket bra genomgång av forskning inom området. Även om den fokuserar på PAR så tar den upp mycket kloka saker som även gäller public involvement av det inte lika radikala slaget.
 
-#### One factor that may explain why academic researchers have tended to not fully involve older adults as prominent partners is the current funding environment, whereby academics often require a defined research topic to obtain funding
+#### Slutsats: One factor that may explain why academic researchers have tended to not fully involve older adults as prominent partners is the current funding environment, whereby academics often require a defined research topic to obtain funding
 
 > One factor that may explain why academic researchers have tended to not fully involve older adults as prominent partners is the current funding environment, whereby academics often require a defined research topic to obtain funding (Frisby et al., 2005; Hall & Tandon, 2017). These requirements unfortunately limit the possibilities of an emergent research design that ensures that the research priorities chosen matter to the community (Hall & Tandon, 2017). To ensure that older adults are able to shape the purpose and scope of PAR projects, there is a clear need for funding agencies to create alternative funding structures, such as planning grants for initial stages and tiered funding connected to meeting outcomes demonstrating successful partnerships (Cargo & Mercer, 2008). Such strategies would support researchers in collaborating with older adults in cycles of reflection and action that enable older adults to contribute to PAR projects so that the project’s goals and objectives are optimally relevant to them (Hall & Tandon, 2017). [p. e423]
 
 
-#### The pressure to publish makes it difficult for academic researchers to ensure that the research priorities chosen matter to the community, to involve older adults throughout the various research phases, and to involve older adults when implementing the findings in a way that encourages tangible change in the community
+#### Slutsats: The pressure to publish makes it difficult for academic researchers to ensure that the research priorities chosen matter to the community, to involve older adults throughout the various research phases, and to involve older adults when implementing the findings in a way that encourages tangible change in the community
 
 > Unfortunately, the pressure to publish makes it difficult for academic researchers to integrate the time and processes required to ensure that the research priorities chosen matter to the community, to involve older adults throughout the various research phases, and to involve older adults when implementing the findings in a way that encourages tangible change in the community. [p. e423]
 
-#### Greater alignment is needed between the ethics guidelines of institutional review boards and the goals of PAR so that older adults can be involved as co-researchers
+#### Slutsats: Greater alignment is needed between the ethics guidelines of institutional review boards and the goals of PAR so that older adults can be involved as co-researchers
 
 > In addition, ethical guidelines may hinder academic researchers from meaningfully involving older adults. The emphasis on individual rights and protections embedded in the guidelines used by many ethics review boards at academic institutions may present as barriers to more collective participatory processes (Cargo & Mercer, 2008). For example, research ethics boards often want participants to sign consent forms when a project begins, which could position the older adults as participants rather than as co-researchers in an equitable partnership (Hand, Laliberte Rudman, McGrath, Donnelly, & Sands, 2019). Although obtaining consent to share information is important for academic researchers who wish to publish and present research findings, it is clear that greater alignment is needed between the ethics guidelines of institutional review boards and the goals of PAR so that older adults can be involved as co-researchers (Hand et al., 2019; Frisby et al., 2005). Specifically, researchers should engage in ongoing dialogue with research ethics boards when conducting PAR so that all parties can discuss the methodology to ensure that the institution’s ethics procedures are not working against the researchers’ implementation of PAR (Hand et al., 2019). [p. e424]
 
