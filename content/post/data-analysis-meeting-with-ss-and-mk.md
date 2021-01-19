@@ -2,6 +2,7 @@
 title: "Data Analysis Meeting With SS and MK"
 date: 2021-01-18T17:27:12+01:00
 draft: false
+categories: ["Research methodology"]
 ---
 
 In today's meeting with SS and MK, when going through the description of the method and methodology, I realised that it was lacking essential parts. We started out in the 'Statistical Analysis' description but they thought that I included things there that should be included earlier, such as the description of how (and why) certain variables were dichotomized, etc. So, I realised that there in a section in method or methodology one needs to specify how the concepts that one uses and brings from the aim and RQs are conceptualized in this particular study. To be more specific, one needs to explain what specific questions in the survey (or taken from elsewhere, such as the perceived health question) relate to the concepts (awareness, attitudes, willingness, etc.) being used.   

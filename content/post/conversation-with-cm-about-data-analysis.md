@@ -2,6 +2,7 @@
 title: "Conversation With CM About Data Analysis"
 date: 2020-12-10T17:04:07+01:00
 draft: false
+Categories: ["Research methodology"]
 ---
 
 
