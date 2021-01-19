@@ -33,8 +33,7 @@ Om jag får tusentals träffar så kan man titta igenom de 100-200 första, det 
 Scopus:
 ABS((citizen* OR public* OR people* OR patient* OR individual* OR person* OR user*)) AND TITLE((involv* OR engag* OR participat* OR collaborat* OR user-driven OR patient-driven OR co-produc* OR transdisciplinar* OR community-based)) AND TITLE((research* OR scien*)) AND ABS((ageing OR aging OR older OR elderly OR senior*))) AND ( LIMIT-TO ( DOCTYPE,"ar" ) ) AND ( LIMIT-TO ( LANGUAGE,"English" ) ) 
 
-List of relevant articles:
-
+List of relevant articles (Dessa artiklar läste jag och sammanfattade under perioden 4-8 januari 2021)
 
 ### Poli A, Kelfve S, Klompstra L, Strömberg A, Jaarsma T, Motel-Klingebiel A Prediction of (Non)Participation of Older People in Digital Health Research: Exergame Intervention Study J Med Internet Res 2020;22(6):e17884
 
@@ -50,7 +49,7 @@ List of relevant articles:
 
 ### Awareness of and Attitudes Toward User Involvement in Research on Aging and Health: Protocol for a Quantitative Large-Scale Panel Study
 
-###  Willingness to Participate in Health Research Among Community-Dwelling Middle-Aged and Older Adults: Does Race/Ethnicity Matter?
+### Willingness to Participate in Health Research Among Community-Dwelling Middle-Aged and Older Adults: Does Race/Ethnicity Matter?
 
 ### Interdisciplinary and transdisciplinary research and practice: Balancing expectations of the ‘old’academy with the future model of universities as ‘problem solvers’
 
