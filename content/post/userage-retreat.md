@@ -2,7 +2,7 @@
 title: "UserAge Retreat"
 date: 2020-09-16T09:07:39+02:00
 draft: false
-categories: ["Conferences and seminars"]
+categories: ["Conferences and seminars", "Subject expertise"]
 ---
 
 Today we had an online 'UserAge retreat'. It was shortened and I missed having it "away from keyboard" as you say. There was too little mingling and too little chit-chat and the turntaking that these online meetings requires become a bit stiff and boring in the long run. 
