@@ -1,7 +1,7 @@
 ---
 title: "Data cleaning"
 date: 2020-09-15T10:55:10+02:00
-draft: true
+draft: false
 categories: ["Research methodology"]
 ---
 
