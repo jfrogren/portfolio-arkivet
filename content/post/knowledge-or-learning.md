@@ -1,7 +1,7 @@
 ---
 title: "Knowledge or learning?"
 date: 2020-09-09T22:32:43+02:00
-draft: true
+draft: false
 categories: ["Research methodology","Subject expertise"]
 ---
 
