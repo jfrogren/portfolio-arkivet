@@ -38,20 +38,15 @@ List of relevant articles:
 
 ### Poli A, Kelfve S, Klompstra L, Strömberg A, Jaarsma T, Motel-Klingebiel A Prediction of (Non)Participation of Older People in Digital Health Research: Exergame Intervention Study J Med Internet Res 2020;22(6):e17884
 
-### Bindels, J., Baur, V., Cox, K., Heijing, S., & Abma, T. (2014). Older people as co-researchers: a collaborative journey. Ageing Soc, 34(6), 951-973.
+### Bindels et al. (2014). Older people as co-researchers: a collaborative journey. Ageing Soc, 34(6), 951-973.
 
-
-### Marlett, N., Shklarov, S., Marshall, D., Santana, M. J., & Wasylak, T. (2015). Building new roles and relationships in research: a model of patient engagement research. Quality of Life Research, 24(5), 1057-1067.
+### Marlett et al. (2015). Building new roles and relationships in research: a model of patient engagement research. Quality of Life Research, 24(5), 1057-1067.
 
 ### Mey, E., & van Hoven, B. (2019). Managing expectations in participatory research involving older people: what’s in it for whom?. International Journal of Social Research Methodology, 22(3), 323-334.
 
 ### Serrat, R., Scharf, T., Villar, F., & Gómez, C. (2020). Fifty-five years of research into older people’s civic participation: Recent trends, future directions. The Gerontologist, 60(1), e38-e51.
 
-
-
 ### Evaluation of a research awareness training programme to support research involvement of older people with dementia and their care partners
-
-
 
 ### Awareness of and Attitudes Toward User Involvement in Research on Aging and Health: Protocol for a Quantitative Large-Scale Panel Study
 
@@ -69,27 +64,15 @@ List of relevant articles:
 
 ### Dissemination and stakeholder engagement practices among dissemination & implementation scientists: Results from an online survey
 
-
-
 ### A formative qualitative evaluation to inform implementation of a research participation enhancement and advocacy training program for diverse seniors: the DREAMS program
-
-
-
 
 ### Black-white differences in willingness to participate and perceptions about health research: results from the Population-Based Health Street Study
 
-
 ### Preparing researchers for patient and public involvement in scientific research: development of a hands-on learning approach through action research
-
-
-
 
 ### Transdisciplinary research for impact: protocol for a realist evaluation of the relationship between transdisciplinary research collaboration and knowledge translation
 
-
 ### Involving older people in research: methodological issues
-
-
 
 ### Service user involvement in nursing, midwifery and health visiting research: A review of evidence and practice
 
@@ -101,16 +84,11 @@ List of relevant articles:
     
 ### The possibility of addressing epistemic injustice through engaged research practice: Reflections on a menstruation related critical health education project in South Africa
     
-
-
 ### Hermeneutical injustice and the Social Sciences: Development policy and positional objectivity
-
-
 
 ### Participatory research and the philosophy of social science: Beyond the moral imperative
 
 ### Engagement as co-constructing knowledge: A moral necessity in public health research
-
 
 ### Responsible research, inequality in science and epistemic injustice: an attempt to open up thinking about inclusiveness in the context of RI/RRI
 
@@ -132,26 +110,15 @@ List of relevant articles:
 
 ### Strategies to improve engagement of ‘hard to reach’ older people in research on health promotion: a systematic review
 
-
-
 ### Who is ‘in’and who is ‘out’? Participation of older persons in health research and the interplay between capital, habitus and field
-
-
 
 ### Older care-home residents as collaborators or advisors in research: a systematic review
 
-
-
 ### Research partnerships--embracing user involvement: practical considerations and reflections
-
 
 ### Initiating participatory action research with older adults: Lessons learned through reflexivity
 
-
-
 ### Openness, inclusion and transparency in the practice of public involvement in research: A reflective exercise to develop best practice recommendations
-
-
 
 ### Challenging oneself on the threshold to the world of research--frail older people’s experiences of involvement in research 
 
@@ -161,9 +128,7 @@ List of relevant articles:
 
 ### Lessons from a community-based participatory research project: Older people’s and researchers’ reflections
 
-
 ### Participatory Action Research With Older Adults: A Critical Interpretive Synthesis
-
 
 ### Maximizing clinical research participation in vulnerable older persons: identification of barriers and motivators
 
