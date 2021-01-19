@@ -1,7 +1,7 @@
 ---
 title: "Half-time review"
 date: 2020-08-27
-draft: true
+draft: false
 categories: ["Research process", "Research methodology"]
 ---
 
