@@ -10,11 +10,11 @@ SS and MK were not so happy with the writing of why a logistic regression was do
 
 Furthermore we reformulated the aim and RQs so that they look like this now:
 
->Study purpose and research questions
+>Study purpose and research questions <br>
 
-> The overarching aim was to investigate the awareness and attitudes towards public involvement in research on ageing and health among 60+ citizens in Sweden. 
+> The overarching aim was to investigate the awareness and attitudes towards public involvement in research on ageing and health among 60+ citizens in Sweden. <br>
 
-> Research question 1: What are the awareness and attitudes towards active involvement in research among 60+ citizens in Sweden?
+> Research question 1: What are the awareness and attitudes towards active involvement in research among 60+ citizens in Sweden? <br>
 
 > Research question 2: How do the willingness of 60+ citizens to be actively involved in research on ageing and health relate to age, gender, level of education, economic situation, and perceived health?
  
