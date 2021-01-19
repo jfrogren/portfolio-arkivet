@@ -16,7 +16,7 @@ Here is the first image and it shows the output of a logistic regression in SPSS
 <br>
 And here is how she linked the different variables to 'willingness' through a logistic regression. <br>
 
-![Here](/images/201210-cms-logistic-regression-table.jpg) 
+![Here](/images/201210-cms-logistic-regression-table2.jpg) 
 
 
 
