@@ -1,7 +1,7 @@
 ---
 title: "UserAge workshop"
 date: 2020-09-15T21:47:09+02:00
-draft: true
+draft: false
 categories: ["Conferences and seminars"]
 ---
 
