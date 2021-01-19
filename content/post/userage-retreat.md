@@ -1,7 +1,7 @@
 ---
 title: "UserAge Retreat"
 date: 2020-09-16T09:07:39+02:00
-draft: true
+draft: false
 ---
 
 ### 9.30-9.45 Välkomna och introduktion (SI)
@@ -46,9 +46,9 @@ I artikeln som OJ hittade rekommenderas inte metoder utan om approaches för...
   + **SAPO = Syfte; Aktör; Process; Omfattning**
   + Kan inte SAPO kopplas till den metoddatabas som BS och EH ämnar bygga upp?
  
-* Presentation  av  resultat  från  Saras  studie  baserad  på  projektansökningar  till  Forte  2016 (bifogad fil med [Abstracts](/pdfs/200916-userage-retreat/abstracts.pdf))
+* Presentation  av  resultat  från  SHs  studie  baserad  på  projektansökningar  till  Forte  2016 (bifogad fil med [Abstracts](/pdfs/200916-userage-retreat/abstracts.pdf))
 
- - Sara gav bakgrund till varför hon valt att publicera i en tidskrift som heter "Social Epistemology". 
+ - SH gav bakgrund till varför hon valt att publicera i en tidskrift som heter "Social Epistemology". 
   + Forskningens roll i samhället - olika perspektiv och metoder
     - Aktionsforskning (PAR)
     - Postnormal vetenskap (PNS)
@@ -67,7 +67,7 @@ I artikeln som OJ hittade rekommenderas inte metoder utan om approaches för...
     
 * Uppföljning av insamlat material från noderna, juni 2020 (bifogad fil [UserAge projekt V återraportering](/pdfs/200916-userage-retreat/userage-projekt-V-aterrapportering.pdf))
 
- + *Sammanhangssensitiva verktyg*, föreslogs av Sara
+ + *Sammanhangssensitiva verktyg*, föreslogs av SH
 * Planering framåt
 
 ### 14.00-14.30 Kaffepaus
@@ -89,3 +89,5 @@ I artikeln som OJ hittade rekommenderas inte metoder utan om approaches för...
 
 
 ### 15.00-15.30 Diskutera nästa retreat (IRL) och nästa EAC möte (SI)
+
+Från denna punkt saknas anteckningar.
