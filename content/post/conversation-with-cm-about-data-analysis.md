@@ -9,9 +9,9 @@ Had a conversation with CM over zoom about her data analysis procedure and about
 
 ## Logistic regression table 
 
-![Here](images/201210-cms-logistic-regression-table) is the first image and it shows the output of a logistic regression in SPSS, I suppose.
+![Here](/images/201210-cms-logistic-regression-table) is the first image and it shows the output of a logistic regression in SPSS, I suppose.
 
-![Here](images/201210-cms-logistic-regression-table) is how she linked the different variables to 'willingness' through a logistic regression. 
+![Here](/images/201210-cms-logistic-regression-table) is how she linked the different variables to 'willingness' through a logistic regression. 
 
 
 
