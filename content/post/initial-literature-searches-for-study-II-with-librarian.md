@@ -1,4 +1,8 @@
-# Search support from librarian
+---
+title: "Initial literature searches for study II with librarian"
+date: 2021-12-18T15:46:29+01:00
+draft: false
+---
 
 ## Background 
 I had scheduled a time slot today with a librarian in order to get some help with conducting systematic literature searches for study II. Part of the feedback that I received in my half-time review and by my supervisors afterwards was that I need to update my theoretical understanding of the problem at stake. An efficient and recommended way of doing that was through creating adequate search strings and conduct systematic searches in various relevant databases. 
@@ -12,7 +16,7 @@ Here is the aim and research question for that study:
 
 > The analysis for the second specific aim was guided by the following research question: How do the willingness of 60+ citizens to be actively involved in research on ageing and health relate to sex, age, economic situation, level of education and perceived health?
 
-## Search sring I had created before the meeting
+## Search string I had created before the meeting
 The search string I envisioned looked like this, but when reflecting upon it the string was perhaps primarily intended as a search for the doctoral project in its entirety:
 
 ````
@@ -25,7 +29,7 @@ AND (ageing OR aging OR older OR elderly)
 
 However, the librarian thought it looked good as a starting point and together we started to create searches in different databases with this search string as a basis.
 
-## Psychinfo; Socindex; CINAHL:
+## Searches in Psychinfo; Socindex; CINAHL:
 
 The librarian thought that the database *Psychinfo* was a good starting point for my focus. This database, she explained belongs to the same group of databases as Socindex and CINAHL. We tried a number of different search strategies and search strings in primarly Psychinfo but also in the other databases and the ones considered giving the best results are listed here:
 
@@ -41,12 +45,12 @@ AB ( (citizen* OR public* OR people* OR patient* OR individual* OR person* OR us
 
 The librarian explained that if I get thousands of hits, I can just look through the first 100-200 hits, that's enough.
  
-## Scopus:
+## Searches in Scopus:
 I also conducted a few searches in good old *SCOPUS*, a database that I am more familiar with and the best search string out of the ones I tried was the following:
 
 ````
 ABS((citizen* OR public* OR people* OR patient* OR individual* OR person* OR user*)) AND TITLE((involv* OR engag* OR participat* OR collaborat* OR user-driven OR patient-driven OR co-produc* OR transdisciplinar* OR community-based)) AND TITLE((research* OR scien*)) AND ABS((ageing OR aging OR older OR elderly OR senior*))) AND ( LIMIT-TO ( DOCTYPE,"ar" ) ) AND ( LIMIT-TO ( LANGUAGE,"English" ) ) 
 ````
 
-What remains to be done now is to go through the hits I get for the various searches and identify at around 30-40 articles that seem very relevant and then read and summarize them to get a better understanding of what knowledge there is and what knowledge is lacking.
-
+## What comes next
+What is to be done next is to go through the hits I get for the various searches and identify at around 30-40 articles that seem very relevant and then read and summarize them to get a better understanding of what knowledge there is and what knowledge is lacking.
