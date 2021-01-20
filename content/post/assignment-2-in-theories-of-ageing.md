@@ -1,6 +1,6 @@
 ---
 title: "Assignment 2 in Theories of Ageing"
-date: 2020-10-05T12:55:05+02:00
+date: 2020-11-20T12:55:05+02:00
 draft: false
 categories: ["National and international cooperation with the research community", "Subject expertise"]
 ---
