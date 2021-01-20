@@ -2,6 +2,7 @@
 title: "Systematic Literature Workshop"
 date: 2020-12-03T13:42:05+01:00
 draft: false
+categories: ["Research methodology", "Subject expertise"]
 ---
 
 LU Zoom meeting: <https://lu-se.zoom.us/j/66425501873>
