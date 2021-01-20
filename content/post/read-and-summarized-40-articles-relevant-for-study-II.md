@@ -1,6 +1,6 @@
 ---
 title: "Read and Summarized 40 Articles Relevant for Study II"
-date: 2021-01-20T16:09:30+01:00
+date: 2021-01-09T16:09:30+01:00
 draft: false
 categories: ["Subject expertise"]
 ---
