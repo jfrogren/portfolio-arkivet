@@ -2,8 +2,8 @@
 title: "Specification of Aim and RQs for Study II"
 date: 2020-12-03T12:02:55+01:00
 draft: False
+categories: ["Research methodology"]
 ---
-
 I had received criticism for having an aim and research questions not specific enough for study II, so in a zoom meeting with the co-authors, the aim and research questions were specified and the result was the following writing:
 
 **Study purpose and research questions**
