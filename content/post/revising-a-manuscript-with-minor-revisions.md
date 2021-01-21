@@ -5,7 +5,7 @@ draft: false
 categories: ["Publication", "Research process", "Subject expertise", "Ethical issues"]
 ---
 
-Oskar had strated creating a [Cover letter](/pdfs/210115-cover-letter.pdf) containing a table sheet in which he had extracted and structured the reviewers' comments in the left column and then gave room to our responses in the right column.
+OJ had strated creating a [Cover letter](/pdfs/210115-cover-letter.pdf) containing a table sheet in which he had extracted and structured the reviewers' comments in the left column and then gave room to our responses in the right column.
 
 Furthermore, he had divided the work load in such a manner that I was assigned to look at and revise certain issues while my co-authors were assigned other. 
 
@@ -33,6 +33,6 @@ This was later revised by OJ and SI to the following:
 
 I think it was edited to the better, but my main reflection here does not concern that. 
 
-It is instead about the ethical aspect of asking the authors of academic articles to integrate some theory - supposingly completely new to them - into a manuscript and only give them a few days to do that. How much opportunity do you actually then offer the authors to fully understand and fairly judge this new theory? Isn't there a high risk that the authors mainly just enter something ad hoc and do not have time to think it through sufficiently? I see a clear risk here. However, on the other hand, all academics appriciate quik review processes and journals that can asure that I suppose gain in popularity. 
+It is instead about the ethical aspect of asking the authors of academic articles to integrate some theory - supposingly completely new to them - into a manuscript and only give them a few days to do that. How much opportunity do you actually then offer the authors to fully understand and fairly judge this new theory? Isn't there a high risk that the authors mainly just enter something ad hoc and do not have time to think it through sufficiently? I see a clear risk here. However, most academics also appreciate a quick review process of their manuscripts, and journals that can provide that presumably gain in popularity. 
 
-Just some thoughts after making my first real contribution in revising an academic article manuscript.
+These are just some thoughts after making my first real contribution in revising an academic article manuscript.
