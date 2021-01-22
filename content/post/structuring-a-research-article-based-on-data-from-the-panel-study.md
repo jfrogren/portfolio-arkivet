@@ -8,6 +8,7 @@ I took the initiative for a discussion with CM about structuring a research arti
 
 ## Methods
 In the method section, CM said that she made the following division:
+
 * As an overall heading: **Materials and methods**. Here the context is first described (alternatively under a separate 'Study context' heading perhaps?)
 * Then the subheading **Participants and recruitment**
 * Then the subheading **Data collection procedure**
