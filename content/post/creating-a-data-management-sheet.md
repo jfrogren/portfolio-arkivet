@@ -5,4 +5,4 @@ draft: false
 categories: ["Research method"]
 ---
 
-I should have done it long time ago, but now I finally created a [Data management sheet](/mdfiles/data-management-sheet-for-study-II.md) for describing in detail the handling of the data for my study II.  
+I should have done it long time ago, but now I finally created a [Data management sheet](https://github.com/jfrogren/portfolio-arkivet/blob/master/static/mdfiles/data-management-sheet-for-study-II.md) for describing in detail the handling of the data for my study II.  
