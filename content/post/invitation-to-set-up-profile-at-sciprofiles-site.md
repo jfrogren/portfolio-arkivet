@@ -21,7 +21,7 @@ I was told that I should create such a profile "within two days", by clicking on
 
 > 4. Please use the email address that is associated with your publications if possible.
 
-### Why create a profile on Sciprofiles.com? fs
+### Why create a profile on Sciprofiles.com?
 
 The motivatation given was that...
 
