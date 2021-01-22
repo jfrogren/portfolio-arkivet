@@ -27,9 +27,4 @@ The motivatation given was that...
 
 > [a]ll articles that you publish with MDPI will be linked to your SciProfiles page, where colleagues and peers will be able to see all of your publications, as well as your other academic contributions. Furthermore, SciProfiles will allow you to supplement your scientific profile with career milestones (affiliation changes, awards, etc.) and connections with other colleagues (similar research field, affiliation, etc.). Your NewsFeed will allow you to stay up-to-date with the latest and most cited recommended research articles.
 
-Many thanks for your kind collaboration and support in advance. If you have
-any questions, please feel free to contact info@sciprofiles.com.
-
-Best wishes,
-
-Dr. Shu-Kun Lin, Founder and President
+I suppose I should set up such a profile then, but I will wait until tomorrow before doing that.
