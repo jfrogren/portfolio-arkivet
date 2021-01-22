@@ -7,7 +7,7 @@ categories: ["National and international cooperation with the research community
 
 Soon after receiving the happy message that our article was officially accepte for publication in [IJERPH](https://web.archive.org/web/20210121233232/https://www.mdpi.com/journal/ijerph), Milan Stojanov at the IJERPH Editorial Officealso forwarded a mail from the founder and president of [Sciprofiles.com](https://web.archive.org/web/20210118231410/https://sciprofiles.com/) saying that:
 
-> In order to enhance your visibility as well as that of all of the co-authors, we would like to invite you to set up your profiles on SciProfiles (https://sciprofiles.com), which allows us to add a link for each author to their permanent homepage in the paper’s final version.
+> In order to enhance your visibility as well as that of all of the co-authors, we would like to invite you to set up your profiles on SciProfiles, which allows us to add a link for each author to their permanent homepage in the paper’s final version.
 
 ### How to create a profile on SciProfiles.com
 
