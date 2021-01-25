@@ -448,3 +448,106 @@ Question 19 in the database matched 21 in questionnaire
 Question 20 in the database matched 19 in questionnaire
 Question 21 in the database matched 20 in questionnaire
 Notes by BS, 2020-11-25
+
+
+## 2021-01-25: Omkodningar av fritextsvaren i datafilen i LUSEC
+
+Skapade en ny fil i LUSEC som jag döpte till *Target group 1 recoded open questions 2021-01-25_Joakim.sav* där jag alltså i de befintliga kolumner som fanns från Stevens omkodningar av missing fyllde i de omkodningar som MK, OJ och jag beslutat oss för när det gällde fritextsvaren.
+
+Insåg också att jag i denna fil endast listat de INTNR och kodningar där OJ,MK och jag var oense och inte omkodningarna för de INTNR där vi initialt var överens. Har slarvat lite i dikumentationen där, men i fölande [fil](/mdfiles/200915-data-cleaning-questions-for-study-II-Joakim.md) har jag listat mina initiala kategoriseringar och baserat på dem går det att räkna ut för vilka INTNR som OJ,MK och jag kategoriserat lika.
+
+Det var ju också så att vi kom överens om att #npc skulle ersättas med #nv rakt igenom för att inte komplicera saker i onödan.
+
+
+### Question 1: Har du som privatperson tidigare deltagit i forskning?
+
+#### De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt kommit överens om överens: 
+* For INTNR 19, I edited Q1.4_recode from '2' to '1' and Q1.6_recode from '1' to '2'.) and deleted the answer in Q1_Other.
+* For INTNR 27, Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 149, I edited Q1.4_recode from '2' to '1' and Q1.6_recode from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 195,  Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 295 Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 369, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
+* For INTNR 375, I edited Q1.4_recode from '2' to '1' and Q1.6_recode from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 149, Q1.1_recode,  Q1.3_recode & Q1.4_recode were already marked with '1' so no need to edit. However, I edited Q1.2_recode  and Q1.5_recode from '2' to '1' and Q1.6_recode from '1' to '2'.
+* For INTNR 615 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
+* For INTNR 674 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
+* For INTNR 712 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
+* For INTNR 759 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
+* For INTNR 775 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
+* For INTNR 818 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
+* For INTNR 851 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
+
+#### De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt: 
++ For INTNR 64, Q1.1_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 66, Q1.6_ recode was already '2' so no need to recode. However, I deleted the answer in Q1_Other. 
++ For INTNR 68, I edited Q1.6_ recode from '1' to '2' and deleted the answer in Q1_Other. 
++ For INTNR 131, I edited Q1.6_ recode from '1' to '2' and deleted the answer in Q1_Other. 
++ For INTNR 136, Q1.5_ recode was already '1' (so no need to edit), but for Q1.6_ recode I edited from '1' to '2' and deleted the answer in Q1_Other. 
++ For INTNr 190, Q1.1_ recode and Q1.3 _ recode was already '1' (so no need to edit), but for Q1.6_ recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 198, for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other..
++ For INTNR 220, I edited Q1.2_recode from '2' to '1' and Q1.6_recode from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 239, Q1.5_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 293, for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other..
++ For INTNR 349, Q1.2_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other. 
++ For INTNR 364, I edited Q1.3_recode and Q1.5_recode from '2' to '1' and Q1.6_ recode from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 465, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
++ For INTNR 477, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other..
++ For INTNR 490, Q1.2_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 512, Q1.6_recode was already'2' so no need to recode. However, I deleted the answer in Q1 _Other.
++ For INTNR 545, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
++ For INTNR 599, Q1.1_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 607, I edited Q1.6_ recode from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 701, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
++ For INTNR 721, Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 729, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
++ For INTNR 738, Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 739, I edited Q1.6_recode from '1' to '2'and deleted the answer in Q1 _Other.
++ For INTNR 761, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 777, Q1.1_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 808, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other. 
++ For INTNR 830, Q1.3_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
+
+
+### Question 3: Har du som privatperson tidigare medverkat aktivt i själva genomförandet av forskning?
+
+#### De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt kommit överens om överens: 
+
+* For INTNR 68, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 76, Q3.7_recode I edited from '1' to '2'  and deleted the answer in Q3 _Other.
+* INTNR 239, Q3.7_recode I edited from '1' to '2'.
+* INTNR 261, Q3.7_recode I edited from '1' to '2'.
+* INTNR 278, Q3.7_recode I edited from '1' to '2'.
+* INTNR 324, Q3.7_recode I edited from '1' to '2'.
+* INTNR 326, Q3.7_recode I edited from '1' to '2'.
+* INTNR 477, Q3.7_recode I edited from '1' to '2'.
+* INTNR 484, Q3.7_recode I edited from '1' to '2'.
+* INTNR 539, Q3.7_recode I edited from '1' to '2'.
+* INTNR 550, Q3.7_recode I edited from '1' to '2'.
+* INTNR 555, Q3.7_recode I kept it as a '1' (but in the free text answer I will write 'Övrigt' instead of what is written now.
+* INTNR 739, Q3.7_recode I edited from '1' to '2'.
+* INTNR 775, Q3.7_recode I edited from '1' to '2'.
+* INTNR 853, Q3.7_recode I edited from '1' to '2'.
+
+
+#### De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt: 
+
+* For INTNR 6, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
+* For INTNR 34, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
+
++ For INTNR 99, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 193, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 244, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 280, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR  356, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 518, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 545, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 576, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 591, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 604, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 617, I edited Q3.1 _ recode from '2' to '1' and Q3.7_ recode from '1' to '2' and deleted the answer in Q3_Other.
++ For INTNR 650, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 658, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 671, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
++ For INTNR 709, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
+
