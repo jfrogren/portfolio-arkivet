@@ -1,0 +1,3959 @@
+<!DOCTYPE html>  
+<html lang="SE">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>municipality-classification-table-for-study-II</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style id="mkstylesheet">
+/*
+This document has been created with Marked.app <http://marked2app.com>
+Content is property of the document author
+Please leave this notice in place, along with any additional credits below.
+---------------------------------------------------------------
+Title: Bear
+Author: Brett Terpstra
+Description: A simulation of Bear.app
+---
+*/
+
+body {
+	-webkit-font-smoothing: antialiased;
+	font-family: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	margin: 30px 0 0;
+	padding: 0;
+	background: #fff;
+	color: #303030;
+	font-size: 12px;
+	line-height: 1.5
+}
+
+#wrapper {
+	padding: 20px;
+	margin: 0 auto;
+}
+
+li {
+	font-size: 110%
+}
+
+li li {
+	font-size: 100%
+}
+
+li p {
+	font-size: 100%;
+	margin: .5em 0
+}
+
+h1 {
+	color: #000
+}
+
+h2 {
+	color: #111
+}
+
+h3 {
+	color: #111
+}
+
+h4 {
+	color: #111
+}
+
+h5 {
+	color: #111
+}
+
+h6 {
+	color: #111;
+	font-style: italic
+}
+
+p, td, div {
+	color: #111;
+	font-family: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	word-wrap: break-word
+}
+
+a {
+	color: rgba(222, 84, 86, 1.00);
+	text-decoration: none;
+	-webkit-transition: color .2s ease-in-out;
+	-moz-transition: color .2s ease-in-out;
+	-o-transition: color .2s ease-in-out;
+	-ms-transition: color .2s ease-in-out;
+	transition: color .2s ease-in-out
+}
+
+a:hover {
+	color: #3593d9
+}
+
+h1, h2, h3, h4, h5 {
+	margin: 2.75rem 0 2rem;
+	font-weight: 500;
+	line-height: 1.15
+}
+
+h1 {
+	margin-top: 0;
+	font-size: 2em
+}
+
+h2 {
+	font-size: 1.7em
+}
+
+h3 {
+	font-size: 1.2em
+}
+
+h4 {
+	font-size: 1.563em
+}
+
+h5 {
+	font-size: 1.25em
+}
+
+ul, ol, pre, table, blockquote {
+	margin-top: 2em;
+	margin-bottom: 2em
+}
+
+blockquote {
+	padding: 0 0 0 1.5em;
+	margin: 2em 0 0 -1.5em;
+	border-left: 1px solid rgba(222, 84, 86, 1.00);
+}
+
+hr {
+	border: none;
+	border-bottom: 1px solid #ddd;
+	margin: 3em 0;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+	margin-top: 0;
+	margin-bottom: 0
+}
+
+b, strong, em, small, code {
+	line-height: 1
+}
+
+.footnote {
+	color: #0d6ea1;
+	font-size: .8em;
+	vertical-align: super
+}
+
+abbr, acronym {
+	border-bottom: 1px dotted #aaa
+}
+
+#wrapper img {
+	max-width: 100%;
+	height: auto
+}
+
+dd {
+	font-size: 1em;
+	margin-bottom: 1em
+}
+
+li>p:first-of-type {
+	margin: 0
+}
+
+li p+p {
+	margin-top: 16px
+}
+
+ul, ol {
+	list-style-position: outside;
+	padding-left: 0;
+}
+
+
+ul ul, ul ol {
+	margin-bottom: .4em;
+	padding-left:  2em;
+}
+
+ul li {
+	list-style-type: disc;
+}
+
+caption, col, colgroup, table, tbody, td, tfoot, th, thead, tr {
+	border-spacing: 0
+}
+
+table {
+	border: 1px solid rgba(0, 0, 0, 0.25);
+	border-collapse: collapse;
+	display: table;
+	empty-cells: hide;
+	margin: -1px 0 1.3125em;
+	padding: 0;
+	table-layout: fixed
+}
+
+caption {
+	display: table-caption;
+	font-weight: 700
+}
+
+col {
+	display: table-column
+}
+
+colgroup {
+	display: table-column-group
+}
+
+tbody {
+	display: table-row-group
+}
+
+tfoot {
+	display: table-footer-group
+}
+
+thead {
+	display: table-header-group
+}
+
+td, th {
+	display: table-cell
+}
+
+tr {
+	display: table-row
+}
+
+table th, table td {
+	font-size: 1.1em;
+	line-height: 1.3;
+	padding: .5em 1em 0
+}
+
+table thead {
+	background: rgba(0, 0, 0, 0.15);
+	border: 1px solid rgba(0, 0, 0, 0.15);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2)
+}
+
+table tbody {
+	background: rgba(0, 0, 0, 0.05)
+}
+
+table tfoot {
+	background: rgba(0, 0, 0, 0.15);
+	border: 1px solid rgba(0, 0, 0, 0.15);
+	border-top: 1px solid rgba(0, 0, 0, 0.2)
+}
+
+figure {
+	display: inline-block;
+	overflow: hidden;
+	position: relative;
+	margin: 1em 0 2em
+}
+
+figcaption {
+	font-style: italic;
+	text-align: center;
+	background: white;
+	color: #666
+}
+
+.poetry pre {
+	display: block;
+	font-family: Georgia, Garamond, serif !important;
+	font-size: 110% !important;
+	font-style: italic;
+	line-height: 1.6em;
+	margin-left: 1em
+}
+
+.poetry pre code {
+	font-family: Georgia, Garamond, serif !important;
+	word-break: break-all;
+	word-break: break-word;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+	white-space: pre-wrap
+}
+
+blockquote p {
+	
+}
+
+sup, sub, a.footnote {
+	font-size: 1.4ex;
+	height: 0;
+	line-height: 1;
+	position: relative;
+	vertical-align: super
+}
+
+sub {
+	vertical-align: sub;
+	top: -1px
+}
+
+p {
+	font-size: 1.1429em;
+	line-height: 1.72em;
+	margin: 1.3125em 0
+}
+
+dt, th {
+	font-weight: 700
+}
+
+table tr:nth-child(odd), table th:nth-child(odd), table td:nth-child(odd) {
+	background: rgba(255, 255, 255, 0.06)
+}
+
+table tr:nth-child(even), table td:nth-child(even) {
+	background: rgba(200, 200, 200, 0.25)
+}
+
+@media print {
+	img, table, figure {
+		page-break-inside: avoid
+	}
+
+	#wrapper {
+		background: #fff;
+		color: #303030;
+		padding: 10px;
+		position: relative;
+		text-indent: 0
+	}
+
+}
+
+@media screen {
+	.inverted {
+		background: #252a2a
+	}
+
+	.inverted #wrapper {
+		background: #252a2a;
+		color: #eee
+	}
+
+	.inverted hr {
+		border-color: #333f40 !important
+	}
+
+	.inverted p, .inverted td, .inverted li, .inverted h1, .inverted h2, .inverted h3, .inverted h4, .inverted h5, .inverted h6, .inverted th, .inverted .math, .inverted caption, .inverted dt, .inverted dd {
+		color: #eee
+	}
+
+	.inverted pre {
+		background: #ccc;
+		color: #111
+	}
+
+	.inverted table {
+		background: none
+	}
+
+	.inverted table tr:nth-child(odd), .inverted table td:nth-child(odd) {
+		background: none
+	}
+
+
+	::selection {
+		background: rgba(157, 193, 200, 0.5)
+	}
+
+	h1::selection {
+		background-color: rgba(45, 156, 208, 0.3)
+	}
+
+	h2::selection {
+		background-color: rgba(90, 182, 224, 0.3)
+	}
+
+	h3::selection, h4::selection, h5::selection, h6::selection, li::selection, ol::selection {
+		background-color: rgba(133, 201, 232, 0.3)
+	}
+
+	code::selection {
+		background-color: rgba(0, 0, 0, 0.7);
+		color: #eee
+	}
+
+	code span::selection {
+		background-color: rgba(0, 0, 0, 0.7) !important;
+		color: #eee !important
+	}
+
+	a::selection {
+		background-color: rgba(255, 230, 102, 0.2)
+	}
+
+	.inverted a::selection {
+		background-color: rgba(255, 230, 102, 0.6)
+	}
+
+	td::selection, th::selection, caption::selection {
+		background-color: rgba(180, 237, 95, 0.5)
+	}
+
+}
+
+.mkstyle--swiss #wrapper aside.blurb:before {
+	margin-top: .7em
+}#mkreplaced-toc{list-style-position:inside;padding:0;margin:0 0 0 1rem;list-style-type:none}#mkreplaced-toc li::before{content:''}#mkreplaced-toc li{font-size:1rem;line-height:1.25;font-weight:normal}#mkreplaced-toc li ul{font-size:1.3rem;font-weight:300;padding:.5rem 0;margin:0 0 0 1rem}#mkreplaced-toc li.missing{list-style-type:none !important}#mkreplaced-toc.max-1 ul,#mkreplaced-toc.max1 ul{display:none}#mkreplaced-toc.max-2 ul ul,#mkreplaced-toc.max2 ul ul{display:none}#mkreplaced-toc.max-3 ul ul ul,#mkreplaced-toc.max3 ul ul ul{display:none}#mkreplaced-toc.max-4 ul ul ul ul,#mkreplaced-toc.max4 ul ul ul ul{display:none}#mkreplaced-toc.max-5 ul ul ul ul ul,#mkreplaced-toc.max5 ul ul ul ul ul{display:none}.mk-rtl{direction:rtl;text-align:right}.mkprinting,.mkprinting #wrapper{height:auto;margin-bottom:0;padding-bottom:0}.hideProgress #generated-toc,.hideProgress #firstdiff,.hideProgress #toc-title,.hideProgress #mkdocumentprogress,.hideProgress #mkincludechart,.hideProgress #mkprogressbar1,.hideProgress #mkprogressbar2,.hideProgress b.bookmark,.hideProgress .mkscrollmeter,.hideProgress #alllinks,.hideProgress #criticnav,.hideProgress .popup,.hideProgress #progressindicator,.hideProgress #mkautoscroll,.mkprinting #generated-toc,.mkprinting #firstdiff,.mkprinting #toc-title,.mkprinting #mkdocumentprogress,.mkprinting #mkincludechart,.mkprinting #mkprogressbar1,.mkprinting #mkprogressbar2,.mkprinting b.bookmark,.mkprinting .mkscrollmeter,.mkprinting #alllinks,.mkprinting #criticnav,.mkprinting .popup,.mkprinting #progressindicator,.mkprinting #mkautoscroll{display:none !important}.hideProgress .mkstyledtag,.mkprinting .mkstyledtag{display:none}.mkcolor-grammar-error,.mkcolor-spell-error{background:none;border-bottom:none}.mkprinting.mkshowcomments .mkstyledtag{display:inline;background:#ccc;padding:3px 9px;border-radius:20px;font-size:1}@media print{body{background:white;line-height:1.4}html,body,#wrapper{-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;-webkit-perspective:none !important;-webkit-text-size-adjust:none;border:0;box-sizing:border-box;float:none;margin:0;max-width:100%;padding:0;margin-top:0;width:auto}.critic #wrapper mark.crit{background-color:#fffd38 !important;text-decoration:none;color:#000}h1,h2,h3,h4,h5,h6{page-break-after:avoid}p,h2,h3{orphans:3;widows:3}section{page-break-before:avoid}pre>code{white-space:pre;word-break:break-word}#generated-toc,#firstdiff,#toc-title,#mkdocumentprogress,#mkincludechart,#mkprogressbar1,#mkprogressbar2,.mkscrollmeter,#alllinks,.popup{display:none !important}.suppressprintlinks a{border-bottom:none !important;color:inherit !important;cursor:default !important;text-decoration:none !important}.hrefafterlinktext #wrapper a:link:after,.hrefafterlinktext #wrapper a:visited:after{content:" (" attr(href) ") ";font-size:90%;opacity:.9}.nocodebreak pre{page-break-inside:avoid}img,table,figure{page-break-inside:avoid}.breakfootnotes .footnotes{page-break-before:always}.breakfootnotes .footnotes hr{display:none}#mktoctitle{display:block}#print-title{border-bottom:solid 1px #666;display:block}#wrapper pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}#wrapper #generated-toc-clone,#wrapper #mkreplaced-toc{display:block}.task-list .task-list-item{list-style-type:none !important}.task-list .gh-complete.task-list-item .task-list-item-checkbox:before{background:#838387;content:'\2713'}.task-list .task-list-item-checkbox{-webkit-appearance:none;position:relative}.task-list .task-list-item-checkbox:before{border:solid 1px #aaa;border-radius:2px;color:white;content:' ';display:block;font-weight:bold;height:1em;left:-20px;line-height:1;position:absolute;text-align:center;top:-.75em;width:1em}}
+#wrapper #generated-toc-clone,#wrapper #mkreplaced-toc,#wrapper #generated-toc-clone ul,#wrapper #mkreplaced-toc ul{list-style-position:inside}#wrapper #generated-toc-clone li.missing,#wrapper #mkreplaced-toc li.missing{list-style-type: none!important}#wrapper #generated-toc-clone ul,#wrapper #mkreplaced-toc ul{list-style-type: upper-roman}#wrapper #generated-toc-clone>ul>li>ul,#wrapper #mkreplaced-toc>li>ul {list-style-type: decimal}#wrapper #generated-toc-clone>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul{list-style-type: decimal-leading-zero}#wrapper #generated-toc-clone>ul>li>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul>li>ul{list-style-type: lower-greek}#wrapper #generated-toc-clone>ul>li>ul>li>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul>li>ul>li>ul{list-style-type: disc}#wrapper #generated-toc-clone>ul>li>ul>li>ul>li>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul>li>ul>li>ul>li>ul{list-style-type: square}#wrapper #generated-toc-clone,#wrapper #mkreplaced-toc{}
+</style>
+
+<style id="mkprintstyles">@media print{#wrapper #generated-toc-clone,#generated-toc{display:none!important}hr{border:none!important;page-break-after:always!important;background:none!important}
+html,body,#wrapper{font-size:10pt}
+}
+</style>
+
+
+  </head>
+<body class="normal firstload showpagebreaks">
+  <div id="wrapper">
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>-</title>
+  <style type="text/css">code{white-space: pre;}</style>
+
+</head>
+<body>
+
+
+
+<table>
+<colgroup>
+<col style="width: 2%" />
+<col style="width: 4%" />
+<col style="width: 7%" />
+<col style="width: 7%" />
+<col style="width: 23%" />
+<col style="width: 7%" />
+<col style="width: 20%" />
+<col style="width: 3%" />
+<col style="width: 10%" />
+<col style="width: 13%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Grupp</th>
+<th style="text-align: left;">Kommunkod</th>
+<th style="text-align: left;">Kommun namn</th>
+<th style="text-align: left;">Huvudgrupp kod</th>
+<th style="text-align: left;">Huvudgrupp namn</th>
+<th style="text-align: left;">Kommungrupp kod</th>
+<th style="text-align: left;">Kommungrupp 2017 namn</th>
+<th style="text-align: left;">Länskod</th>
+<th style="text-align: left;">Län namn</th>
+<th style="text-align: left;">Landsting/region namn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">A1</td>
+<td style="text-align: left;">0180</td>
+<td style="text-align: left;">Stockholm</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">Storstäder</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A1</td>
+<td style="text-align: left;">1280</td>
+<td style="text-align: left;">Malmö</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">Storstäder</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A1</td>
+<td style="text-align: left;">1480</td>
+<td style="text-align: left;">Göteborg</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">Storstäder</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0114</td>
+<td style="text-align: left;">Upplands Väsby</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0115</td>
+<td style="text-align: left;">Vallentuna</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0117</td>
+<td style="text-align: left;">Österåker</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0120</td>
+<td style="text-align: left;">Värmdö</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0123</td>
+<td style="text-align: left;">Järfälla</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0125</td>
+<td style="text-align: left;">Ekerö</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0126</td>
+<td style="text-align: left;">Huddinge</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0127</td>
+<td style="text-align: left;">Botkyrka</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0128</td>
+<td style="text-align: left;">Salem</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0136</td>
+<td style="text-align: left;">Haninge</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0138</td>
+<td style="text-align: left;">Tyresö</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0139</td>
+<td style="text-align: left;">Upplands-Bro</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0160</td>
+<td style="text-align: left;">Täby</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0162</td>
+<td style="text-align: left;">Danderyd</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0163</td>
+<td style="text-align: left;">Sollentuna</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0182</td>
+<td style="text-align: left;">Nacka</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0183</td>
+<td style="text-align: left;">Sundbyberg</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0184</td>
+<td style="text-align: left;">Solna</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0186</td>
+<td style="text-align: left;">Lidingö</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0187</td>
+<td style="text-align: left;">Vaxholm</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0191</td>
+<td style="text-align: left;">Sigtuna</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0192</td>
+<td style="text-align: left;">Nynäshamn</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">0305</td>
+<td style="text-align: left;">Håbo</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">03</td>
+<td style="text-align: left;">Uppsala län</td>
+<td style="text-align: left;">Region Uppsala</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1230</td>
+<td style="text-align: left;">Staffanstorp</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1231</td>
+<td style="text-align: left;">Burlöv</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1233</td>
+<td style="text-align: left;">Vellinge</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1261</td>
+<td style="text-align: left;">Kävlinge</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1262</td>
+<td style="text-align: left;">Lomma</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1263</td>
+<td style="text-align: left;">Svedala</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1264</td>
+<td style="text-align: left;">Skurup</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1287</td>
+<td style="text-align: left;">Trelleborg</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1384</td>
+<td style="text-align: left;">Kungsbacka</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Hallands län</td>
+<td style="text-align: left;">Region Halland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1401</td>
+<td style="text-align: left;">Härryda</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1402</td>
+<td style="text-align: left;">Partille</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1407</td>
+<td style="text-align: left;">Öckerö</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1415</td>
+<td style="text-align: left;">Stenungsund</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1440</td>
+<td style="text-align: left;">Ale</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1441</td>
+<td style="text-align: left;">Lerum</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1443</td>
+<td style="text-align: left;">Bollebygd</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1462</td>
+<td style="text-align: left;">Lilla Edet</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1481</td>
+<td style="text-align: left;">Mölndal</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1482</td>
+<td style="text-align: left;">Kungälv</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A2</td>
+<td style="text-align: left;">1489</td>
+<td style="text-align: left;">Alingsås</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">Storstäder och storstadsnära kommuner</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pendlingskommun nära storstad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">0181</td>
+<td style="text-align: left;">Södertälje</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">0380</td>
+<td style="text-align: left;">Uppsala</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">03</td>
+<td style="text-align: left;">Uppsala län</td>
+<td style="text-align: left;">Region Uppsala</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">0484</td>
+<td style="text-align: left;">Eskilstuna</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Södermanlands län</td>
+<td style="text-align: left;">Region Sörmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">0580</td>
+<td style="text-align: left;">Linköping</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">0581</td>
+<td style="text-align: left;">Norrköping</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">0680</td>
+<td style="text-align: left;">Jönköping</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">0780</td>
+<td style="text-align: left;">Växjö</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">07</td>
+<td style="text-align: left;">Kronobergs län</td>
+<td style="text-align: left;">Region Kronoberg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">1281</td>
+<td style="text-align: left;">Lund</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">1283</td>
+<td style="text-align: left;">Helsingborg</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">1380</td>
+<td style="text-align: left;">Halmstad</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Hallands län</td>
+<td style="text-align: left;">Region Halland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">1488</td>
+<td style="text-align: left;">Trollhättan</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">1490</td>
+<td style="text-align: left;">Borås</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">1780</td>
+<td style="text-align: left;">Karlstad</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">1880</td>
+<td style="text-align: left;">Örebro</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">1980</td>
+<td style="text-align: left;">Västerås</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">2081</td>
+<td style="text-align: left;">Borlänge</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">2180</td>
+<td style="text-align: left;">Gävle</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">2281</td>
+<td style="text-align: left;">Sundsvall</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;">Västernorrlands län</td>
+<td style="text-align: left;">Region Västernorrland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">2380</td>
+<td style="text-align: left;">Östersund</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">Jämtlands län</td>
+<td style="text-align: left;">Region Jämtland Härjedalen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">2480</td>
+<td style="text-align: left;">Umeå</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B3</td>
+<td style="text-align: left;">2580</td>
+<td style="text-align: left;">Luleå</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Större stad</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0140</td>
+<td style="text-align: left;">Nykvarn</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0319</td>
+<td style="text-align: left;">Älvkarleby</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">03</td>
+<td style="text-align: left;">Uppsala län</td>
+<td style="text-align: left;">Region Uppsala</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0330</td>
+<td style="text-align: left;">Knivsta</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">03</td>
+<td style="text-align: left;">Uppsala län</td>
+<td style="text-align: left;">Region Uppsala</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0331</td>
+<td style="text-align: left;">Heby</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">03</td>
+<td style="text-align: left;">Uppsala län</td>
+<td style="text-align: left;">Region Uppsala</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0360</td>
+<td style="text-align: left;">Tierp</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">03</td>
+<td style="text-align: left;">Uppsala län</td>
+<td style="text-align: left;">Region Uppsala</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0461</td>
+<td style="text-align: left;">Gnesta</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Södermanlands län</td>
+<td style="text-align: left;">Region Sörmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0486</td>
+<td style="text-align: left;">Strängnäs</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Södermanlands län</td>
+<td style="text-align: left;">Region Sörmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0488</td>
+<td style="text-align: left;">Trosa</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Södermanlands län</td>
+<td style="text-align: left;">Region Sörmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0561</td>
+<td style="text-align: left;">Åtvidaberg</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0582</td>
+<td style="text-align: left;">Söderköping</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0586</td>
+<td style="text-align: left;">Mjölby</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0604</td>
+<td style="text-align: left;">Aneby</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0642</td>
+<td style="text-align: left;">Mullsjö</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0643</td>
+<td style="text-align: left;">Habo</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0761</td>
+<td style="text-align: left;">Lessebo</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">07</td>
+<td style="text-align: left;">Kronobergs län</td>
+<td style="text-align: left;">Region Kronoberg</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">0764</td>
+<td style="text-align: left;">Alvesta</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">07</td>
+<td style="text-align: left;">Kronobergs län</td>
+<td style="text-align: left;">Region Kronoberg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1214</td>
+<td style="text-align: left;">Svalöv</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1257</td>
+<td style="text-align: left;">Örkelljunga</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1260</td>
+<td style="text-align: left;">Bjuv</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1265</td>
+<td style="text-align: left;">Sjöbo</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1266</td>
+<td style="text-align: left;">Hörby</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1267</td>
+<td style="text-align: left;">Höör</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1275</td>
+<td style="text-align: left;">Perstorp</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1276</td>
+<td style="text-align: left;">Klippan</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1277</td>
+<td style="text-align: left;">Åstorp</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1282</td>
+<td style="text-align: left;">Landskrona</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1284</td>
+<td style="text-align: left;">Höganäs</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1285</td>
+<td style="text-align: left;">Eslöv</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1292</td>
+<td style="text-align: left;">Ängelholm</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1381</td>
+<td style="text-align: left;">Laholm</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Hallands län</td>
+<td style="text-align: left;">Region Halland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1439</td>
+<td style="text-align: left;">Färgelanda</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1444</td>
+<td style="text-align: left;">Grästorp</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1463</td>
+<td style="text-align: left;">Mark</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1465</td>
+<td style="text-align: left;">Svenljunga</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1487</td>
+<td style="text-align: left;">Vänersborg</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1715</td>
+<td style="text-align: left;">Kil</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1761</td>
+<td style="text-align: left;">Hammarö</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1763</td>
+<td style="text-align: left;">Forshaga</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1764</td>
+<td style="text-align: left;">Grums</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1814</td>
+<td style="text-align: left;">Lekeberg</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1861</td>
+<td style="text-align: left;">Hallsberg</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1881</td>
+<td style="text-align: left;">Kumla</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1884</td>
+<td style="text-align: left;">Nora</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1907</td>
+<td style="text-align: left;">Surahammar</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">1961</td>
+<td style="text-align: left;">Hallstahammar</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">2026</td>
+<td style="text-align: left;">Gagnef</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">2082</td>
+<td style="text-align: left;">Säter</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">2262</td>
+<td style="text-align: left;">Timrå</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;">Västernorrlands län</td>
+<td style="text-align: left;">Region Västernorrland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">2309</td>
+<td style="text-align: left;">Krokom</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">Jämtlands län</td>
+<td style="text-align: left;">Region Jämtland Härjedalen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">2401</td>
+<td style="text-align: left;">Nordmaling</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">2403</td>
+<td style="text-align: left;">Bjurholm</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B4</td>
+<td style="text-align: left;">2460</td>
+<td style="text-align: left;">Vännäs</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Pendlingskommun nära större stad</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0381</td>
+<td style="text-align: left;">Enköping</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">03</td>
+<td style="text-align: left;">Uppsala län</td>
+<td style="text-align: left;">Region Uppsala</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0382</td>
+<td style="text-align: left;">Östhammar</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">03</td>
+<td style="text-align: left;">Uppsala län</td>
+<td style="text-align: left;">Region Uppsala</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0482</td>
+<td style="text-align: left;">Flen</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Södermanlands län</td>
+<td style="text-align: left;">Region Sörmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0513</td>
+<td style="text-align: left;">Kinda</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0562</td>
+<td style="text-align: left;">Finspång</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0563</td>
+<td style="text-align: left;">Valdemarsvik</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0583</td>
+<td style="text-align: left;">Motala</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0665</td>
+<td style="text-align: left;">Vaggeryd</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0682</td>
+<td style="text-align: left;">Nässjö</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0687</td>
+<td style="text-align: left;">Tranås</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0760</td>
+<td style="text-align: left;">Uppvidinge</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">07</td>
+<td style="text-align: left;">Kronobergs län</td>
+<td style="text-align: left;">Region Kronoberg</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">0763</td>
+<td style="text-align: left;">Tingsryd</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">07</td>
+<td style="text-align: left;">Kronobergs län</td>
+<td style="text-align: left;">Region Kronoberg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1315</td>
+<td style="text-align: left;">Hylte</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Hallands län</td>
+<td style="text-align: left;">Region Halland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1452</td>
+<td style="text-align: left;">Tranemo</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1466</td>
+<td style="text-align: left;">Herrljunga</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1484</td>
+<td style="text-align: left;">Lysekil</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1485</td>
+<td style="text-align: left;">Uddevalla</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1491</td>
+<td style="text-align: left;">Ulricehamn</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1762</td>
+<td style="text-align: left;">Munkfors</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1781</td>
+<td style="text-align: left;">Kristinehamn</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1785</td>
+<td style="text-align: left;">Säffle</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1860</td>
+<td style="text-align: left;">Laxå</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1882</td>
+<td style="text-align: left;">Askersund</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1885</td>
+<td style="text-align: left;">Lindesberg</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1981</td>
+<td style="text-align: left;">Sala</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">1983</td>
+<td style="text-align: left;">Köping</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">2101</td>
+<td style="text-align: left;">Ockelbo</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">2104</td>
+<td style="text-align: left;">Hofors</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">2181</td>
+<td style="text-align: left;">Sandviken</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">2305</td>
+<td style="text-align: left;">Bräcke</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">Jämtlands län</td>
+<td style="text-align: left;">Region Jämtland Härjedalen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">2326</td>
+<td style="text-align: left;">Berg</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">Jämtlands län</td>
+<td style="text-align: left;">Region Jämtland Härjedalen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">2404</td>
+<td style="text-align: left;">Vindeln</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">2409</td>
+<td style="text-align: left;">Robertsfors</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">2560</td>
+<td style="text-align: left;">Älvsbyn</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B5</td>
+<td style="text-align: left;">2582</td>
+<td style="text-align: left;">Boden</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">Större städer och kommuner nära större stad</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">Lågpendlingskommun nära större stad</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">0188</td>
+<td style="text-align: left;">Norrtälje</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">Stockholms län</td>
+<td style="text-align: left;">Region Stockholm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">0480</td>
+<td style="text-align: left;">Nyköping</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Södermanlands län</td>
+<td style="text-align: left;">Region Sörmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">0483</td>
+<td style="text-align: left;">Katrineholm</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Södermanlands län</td>
+<td style="text-align: left;">Region Sörmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">0683</td>
+<td style="text-align: left;">Värnamo</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">0781</td>
+<td style="text-align: left;">Ljungby</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">07</td>
+<td style="text-align: left;">Kronobergs län</td>
+<td style="text-align: left;">Region Kronoberg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">0880</td>
+<td style="text-align: left;">Kalmar</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">0882</td>
+<td style="text-align: left;">Oskarshamn</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">0883</td>
+<td style="text-align: left;">Västervik</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">0980</td>
+<td style="text-align: left;">Gotland</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">09</td>
+<td style="text-align: left;">Gotlands län</td>
+<td style="text-align: left;">Region Gotland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1080</td>
+<td style="text-align: left;">Karlskrona</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">Blekinge län</td>
+<td style="text-align: left;">Region Blekinge</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1082</td>
+<td style="text-align: left;">Karlshamn</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">Blekinge län</td>
+<td style="text-align: left;">Region Blekinge</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1286</td>
+<td style="text-align: left;">Ystad</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1290</td>
+<td style="text-align: left;">Kristianstad</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1293</td>
+<td style="text-align: left;">Hässleholm</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1382</td>
+<td style="text-align: left;">Falkenberg</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Hallands län</td>
+<td style="text-align: left;">Region Halland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1383</td>
+<td style="text-align: left;">Varberg</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Hallands län</td>
+<td style="text-align: left;">Region Halland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1493</td>
+<td style="text-align: left;">Mariestad</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1494</td>
+<td style="text-align: left;">Lidköping</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1496</td>
+<td style="text-align: left;">Skövde</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1499</td>
+<td style="text-align: left;">Falköping</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">1883</td>
+<td style="text-align: left;">Karlskoga</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">2080</td>
+<td style="text-align: left;">Falun</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">2084</td>
+<td style="text-align: left;">Avesta</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">2184</td>
+<td style="text-align: left;">Hudiksvall</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">2280</td>
+<td style="text-align: left;">Härnösand</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;">Västernorrlands län</td>
+<td style="text-align: left;">Region Västernorrland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">2284</td>
+<td style="text-align: left;">Örnsköldsvik</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;">Västernorrlands län</td>
+<td style="text-align: left;">Region Västernorrland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">2482</td>
+<td style="text-align: left;">Skellefteå</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">2581</td>
+<td style="text-align: left;">Piteå</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C6</td>
+<td style="text-align: left;">2584</td>
+<td style="text-align: left;">Kiruna</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">Mindre stad/tätort</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0428</td>
+<td style="text-align: left;">Vingåker</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Södermanlands län</td>
+<td style="text-align: left;">Region Sörmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0481</td>
+<td style="text-align: left;">Oxelösund</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Södermanlands län</td>
+<td style="text-align: left;">Region Sörmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0509</td>
+<td style="text-align: left;">Ödeshög</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0512</td>
+<td style="text-align: left;">Ydre</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0560</td>
+<td style="text-align: left;">Boxholm</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0584</td>
+<td style="text-align: left;">Vadstena</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Östergötlands län</td>
+<td style="text-align: left;">Region Östergötland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0617</td>
+<td style="text-align: left;">Gnosjö</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0684</td>
+<td style="text-align: left;">Sävsjö</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0686</td>
+<td style="text-align: left;">Eksjö</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0765</td>
+<td style="text-align: left;">Älmhult</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">07</td>
+<td style="text-align: left;">Kronobergs län</td>
+<td style="text-align: left;">Region Kronoberg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0767</td>
+<td style="text-align: left;">Markaryd</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">07</td>
+<td style="text-align: left;">Kronobergs län</td>
+<td style="text-align: left;">Region Kronoberg</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0821</td>
+<td style="text-align: left;">Högsby</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0834</td>
+<td style="text-align: left;">Torsås</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0840</td>
+<td style="text-align: left;">Mörbylånga</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0860</td>
+<td style="text-align: left;">Hultsfred</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0861</td>
+<td style="text-align: left;">Mönsterås</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0862</td>
+<td style="text-align: left;">Emmaboda</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">0881</td>
+<td style="text-align: left;">Nybro</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1060</td>
+<td style="text-align: left;">Olofström</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">Blekinge län</td>
+<td style="text-align: left;">Region Blekinge</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1081</td>
+<td style="text-align: left;">Ronneby</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">Blekinge län</td>
+<td style="text-align: left;">Region Blekinge</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1083</td>
+<td style="text-align: left;">Sölvesborg</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">Blekinge län</td>
+<td style="text-align: left;">Region Blekinge</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1256</td>
+<td style="text-align: left;">Östra Göinge</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1270</td>
+<td style="text-align: left;">Tomelilla</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1272</td>
+<td style="text-align: left;">Bromölla</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1273</td>
+<td style="text-align: left;">Osby</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1291</td>
+<td style="text-align: left;">Simrishamn</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1419</td>
+<td style="text-align: left;">Tjörn</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1421</td>
+<td style="text-align: left;">Orust</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1430</td>
+<td style="text-align: left;">Munkedal</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1442</td>
+<td style="text-align: left;">Vårgårda</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1445</td>
+<td style="text-align: left;">Essunga</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1446</td>
+<td style="text-align: left;">Karlsborg</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1447</td>
+<td style="text-align: left;">Gullspång</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1461</td>
+<td style="text-align: left;">Mellerud</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1470</td>
+<td style="text-align: left;">Vara</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1471</td>
+<td style="text-align: left;">Götene</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1472</td>
+<td style="text-align: left;">Tibro</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1473</td>
+<td style="text-align: left;">Töreboda</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1495</td>
+<td style="text-align: left;">Skara</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1497</td>
+<td style="text-align: left;">Hjo</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1498</td>
+<td style="text-align: left;">Tidaholm</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1760</td>
+<td style="text-align: left;">Storfors</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1862</td>
+<td style="text-align: left;">Degerfors</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1864</td>
+<td style="text-align: left;">Ljusnarsberg</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1904</td>
+<td style="text-align: left;">Skinnskatteberg</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1960</td>
+<td style="text-align: left;">Kungsör</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1962</td>
+<td style="text-align: left;">Norberg</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1982</td>
+<td style="text-align: left;">Fagersta</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">1984</td>
+<td style="text-align: left;">Arboga</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Västmanlands län</td>
+<td style="text-align: left;">Region Västmanland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">2061</td>
+<td style="text-align: left;">Smedjebacken</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">2083</td>
+<td style="text-align: left;">Hedemora</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C7</td>
+<td style="text-align: left;">2132</td>
+<td style="text-align: left;">Nordanstig</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">Pendlingskommun nära mindre stad/tätort</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">0662</td>
+<td style="text-align: left;">Gislaved</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">0685</td>
+<td style="text-align: left;">Vetlanda</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Jönköpings län</td>
+<td style="text-align: left;">Region Jönköpings län</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">0884</td>
+<td style="text-align: left;">Vimmerby</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1438</td>
+<td style="text-align: left;">Dals-Ed</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1460</td>
+<td style="text-align: left;">Bengtsfors</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1492</td>
+<td style="text-align: left;">Åmål</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1737</td>
+<td style="text-align: left;">Torsby</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1765</td>
+<td style="text-align: left;">Årjäng</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1766</td>
+<td style="text-align: left;">Sunne</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1782</td>
+<td style="text-align: left;">Filipstad</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1783</td>
+<td style="text-align: left;">Hagfors</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1784</td>
+<td style="text-align: left;">Arvika</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">1863</td>
+<td style="text-align: left;">Hällefors</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Örebro län</td>
+<td style="text-align: left;">Region Örebro län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2021</td>
+<td style="text-align: left;">Vansbro</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2062</td>
+<td style="text-align: left;">Mora</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2085</td>
+<td style="text-align: left;">Ludvika</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2121</td>
+<td style="text-align: left;">Ovanåker</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2161</td>
+<td style="text-align: left;">Ljusdal</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2182</td>
+<td style="text-align: left;">Söderhamn</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2183</td>
+<td style="text-align: left;">Bollnäs</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">Gävleborgs län</td>
+<td style="text-align: left;">Region Gävleborg</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2260</td>
+<td style="text-align: left;">Ånge</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;">Västernorrlands län</td>
+<td style="text-align: left;">Region Västernorrland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2282</td>
+<td style="text-align: left;">Kramfors</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;">Västernorrlands län</td>
+<td style="text-align: left;">Region Västernorrland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2283</td>
+<td style="text-align: left;">Sollefteå</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;">Västernorrlands län</td>
+<td style="text-align: left;">Region Västernorrland</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2303</td>
+<td style="text-align: left;">Ragunda</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">Jämtlands län</td>
+<td style="text-align: left;">Region Jämtland Härjedalen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2313</td>
+<td style="text-align: left;">Strömsund</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">Jämtlands län</td>
+<td style="text-align: left;">Region Jämtland Härjedalen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2417</td>
+<td style="text-align: left;">Norsjö</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2418</td>
+<td style="text-align: left;">Malå</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2422</td>
+<td style="text-align: left;">Sorsele</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2425</td>
+<td style="text-align: left;">Dorotea</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2462</td>
+<td style="text-align: left;">Vilhelmina</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2463</td>
+<td style="text-align: left;">Åsele</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2481</td>
+<td style="text-align: left;">Lycksele</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2505</td>
+<td style="text-align: left;">Arvidsjaur</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2510</td>
+<td style="text-align: left;">Jokkmokk</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2513</td>
+<td style="text-align: left;">Överkalix</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2514</td>
+<td style="text-align: left;">Kalix</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2518</td>
+<td style="text-align: left;">Övertorneå</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2521</td>
+<td style="text-align: left;">Pajala</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2523</td>
+<td style="text-align: left;">Gällivare</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C8</td>
+<td style="text-align: left;">2583</td>
+<td style="text-align: left;">Haparanda</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">Landsbygdskommun</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">0885</td>
+<td style="text-align: left;">Borgholm</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">Kalmar län</td>
+<td style="text-align: left;">Region Kalmar län</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">1278</td>
+<td style="text-align: left;">Båstad</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Skåne län</td>
+<td style="text-align: left;">Region Skåne</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">1427</td>
+<td style="text-align: left;">Sotenäs</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">1435</td>
+<td style="text-align: left;">Tanum</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">1486</td>
+<td style="text-align: left;">Strömstad</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Västra Götalands län</td>
+<td style="text-align: left;">Västra Götalandsregionen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">1730</td>
+<td style="text-align: left;">Eda</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Värmlands län</td>
+<td style="text-align: left;">Region Värmland</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">2023</td>
+<td style="text-align: left;">Malung-Sälen</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">2029</td>
+<td style="text-align: left;">Leksand</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">2031</td>
+<td style="text-align: left;">Rättvik</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">2034</td>
+<td style="text-align: left;">Orsa</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">2039</td>
+<td style="text-align: left;">Älvdalen</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">Dalarnas län</td>
+<td style="text-align: left;">Region Dalarna</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">2321</td>
+<td style="text-align: left;">Åre</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">Jämtlands län</td>
+<td style="text-align: left;">Region Jämtland Härjedalen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">2361</td>
+<td style="text-align: left;">Härjedalen</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">Jämtlands län</td>
+<td style="text-align: left;">Region Jämtland Härjedalen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">2421</td>
+<td style="text-align: left;">Storuman</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">Västerbottens län</td>
+<td style="text-align: left;">Region Västerbotten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C9</td>
+<td style="text-align: left;">2506</td>
+<td style="text-align: left;">Arjeplog</td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">Mindre städer/tätorter och landsbygdskommuner</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">Landsbygdskommun med besöksnäring</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Norrbottens län</td>
+<td style="text-align: left;">Region Norrbotten</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+<!-- ##END MARKED WRAPPER## -->
+    </div>
+</body>
+</html>
