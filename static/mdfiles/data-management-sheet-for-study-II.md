@@ -515,19 +515,19 @@ Det var ju också så att vi kom överens om att #npc skulle ersättas med #nv r
 
 * For INTNR 68, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
 * INTNR 76, Q3.7_recode I edited from '1' to '2'  and deleted the answer in Q3 _Other.
-* INTNR 239, Q3.7_recode I edited from '1' to '2'.
-* INTNR 261, Q3.7_recode I edited from '1' to '2'.
-* INTNR 278, Q3.7_recode I edited from '1' to '2'.
-* INTNR 324, Q3.7_recode I edited from '1' to '2'.
-* INTNR 326, Q3.7_recode I edited from '1' to '2'.
-* INTNR 477, Q3.7_recode I edited from '1' to '2'.
-* INTNR 484, Q3.7_recode I edited from '1' to '2'.
-* INTNR 539, Q3.7_recode I edited from '1' to '2'.
-* INTNR 550, Q3.7_recode I edited from '1' to '2'.
-* INTNR 555, Q3.7_recode I kept it as a '1' (but in the free text answer I will write 'Övrigt' instead of what is written now.
-* INTNR 739, Q3.7_recode I edited from '1' to '2'.
-* INTNR 775, Q3.7_recode I edited from '1' to '2'.
-* INTNR 853, Q3.7_recode I edited from '1' to '2'.
+* INTNR 239, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 261, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 278, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 324, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 326, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 477, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 484, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 539, Q3.7_recode I edited from '1' to '2'and deleted the answer in Q3 _Other.
+* INTNR 550, Q3.7_recode I edited from '1' to '2'and deleted the answer in Q3 _Other.
+* INTNR 555, Q3.7_recode I kept it as a '1' and in the free text answer I wrote 'Övrigt' instead of what was written.
+* INTNR 739, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 775, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
+* INTNR 853, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
 
 
 #### De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt: 
