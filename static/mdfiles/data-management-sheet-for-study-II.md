@@ -672,7 +672,7 @@ Omkodningar gjordes enligt följande. #nv motsvarar här '2' och följande INTNR
 * 861 - #nv
 
 ##### Svar som klassades som tillhörande redan befintliga kategorier
-Följande INTNR kodades om till att variabeln Q8g_DK_recode för dem markerades med '2' + att en etta ('1') fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).
+Följande INTNR kodades om till att variabeln Q8g_DK_recode för dem markerades med '2'.
 
 * 46 – 8e
 * 48 – 8b
@@ -735,7 +735,7 @@ Omkodningar gjordes enligt följande. #nv motsvarar här '2' och följande INTNR
   + 880 - #nv
   
 ##### Svar som klassades som tillhörande redan befintliga kategorier
-Följande INTNR kodades om till att variabeln Q8g_DK_recode för dem markerades med '2' + att en etta ('1') fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).
+Följande INTNR kodades om till att variabeln Q8g_DK_recode för dem markerades med '2'.
 
   + 60 - 8c
   * 190 - 8c + 8d
@@ -793,3 +793,65 @@ Följande INTNR erhöll eller fick behålla en etta ('1') för variabeln Q8g_DK_
   + 697 ('Som försöksperson') - #pc medverkan som försöksperson/respondent
   + 804 ('skulle kunna svara på frågor') - #pc medverkan som försöksperson/respondent
   * 833 ('hjälpa till med att svara på frågor') - #pc medverkan som försöksperson/respondent
+
+
+
+### Question 9: Via vilka kanaler föredrar du att bli informerad om möjligheter att medverka aktivt i forskning om åldrande och hälsa?
+
+Skapade en ny kolumn:
+
+* Q9._Other_recode till höger om Q9._Other_.
+
+För de övriga Fråga 9-alternativen fanns redan _recode_-varianter så jag ändrade i dessa befintliga och skapade inga nya kopior. HÄr nedan beskrivs vilka omkodningar som gjordes.
+
+
+#### De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat fritextsvaren olika initialt, vid efterföljande diskussion kom överens om: 
+
+##### Not valid answers
+Omkodningar gjordes enligt följande. #nv motsvarar här '2' och följande INTNR kodades alltså om till '2' i Q9_10_recode i de fall där de inte redan var kategoriserade som '2'.
+
+* 181 - #nv
+* 723 - #nv
+
+##### Svar som klassades som tillhörande redan befintliga kategorier
+Följande INTNR kodades om till att variabeln Q9_10_recode för dem markerades med '2' + att en etta ('1') fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).
+
+* 330 – 9.9
+* 402 – 9.4
+* 555 – 9.4
+* 775 – 9.8
+
+##### Svar som ansågs giltiga och inte tillhörande befintliga kategorier
+Följande INTNR erhöll eller fick behålla en etta ('1') för variabeln Q9_10_recode och under variabeln Q9_Other_recode fylldes 'Övrigt' i istället för det befintliga fritextsvaret.
+
+[Inga INTNR här] 
+
+
+#### De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:
+
+##### Not valid answers
+Omkodningar gjordes enligt följande. #nv motsvarar här '2' och följande INTNR kodades alltså om till '2' i Q9_10_recode i de fall där de inte redan var kategoriserade som '2'.
+
++ 280 - #nv
++ 456 - #nv
++ 806* - #nv [= redan markerad som '99']
++ 825 - #nv
++ 853 ('via vänner ochh bekanta')#pc - är egentligen svar på nästa fråga, alltså #nv
+
+##### Svar som klassades som tillhörande redan befintliga kategorier
+Följande INTNR kodades om till att variabeln Q9_10_recode för dem markerades med '2' + att en etta ('1') fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).
+
++ 136 - 9.4 
++ 184 - 9.4 
++ 220 - 9.7
++ 320 - 9.4
++ 390 - 9.4
++ 414 - 9.4 
++ 641 - 9.1 
+
+##### Svar som ansågs giltiga och inte tillhörande befintliga kategorier 
+Följande INTNR erhöll eller fick behålla en etta ('1') för variabeln Q9_10_recode och under variabeln Q9_Other_recode fylldes 'Övrigt' i istället för det befintliga fritextsvaret.
+
++ 590 - ('Jag vill ha information som är väldigt riktad till mig som individ och inte till för stora grupper') #pc - Övrigt
++ 733 ('Uppsökande verksamhet') #pc - Övrigt
+ 
