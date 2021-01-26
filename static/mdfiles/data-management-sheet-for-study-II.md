@@ -462,14 +462,8 @@ Det var ju också så att vi kom överens om att #npc skulle ersättas med #nv r
 ### Question 1: Har du som privatperson tidigare deltagit i forskning?
 
 #### De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt kommit överens om överens: 
-* For INTNR 19, I edited Q1.4_recode from '2' to '1' and Q1.6_recode from '1' to '2'.) and deleted the answer in Q1_Other.
-* For INTNR 27, Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
-* For INTNR 149, I edited Q1.4_recode from '2' to '1' and Q1.6_recode from '1' to '2' and deleted the answer in Q1_Other.
-* For INTNR 195,  Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
-* For INTNR 295 Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
-* For INTNR 369, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
-* For INTNR 375, I edited Q1.4_recode from '2' to '1' and Q1.6_recode from '1' to '2' and deleted the answer in Q1_Other.
-* For INTNR 149, Q1.1_recode,  Q1.3_recode & Q1.4_recode were already marked with '1' so no need to edit. However, I edited Q1.2_recode  and Q1.5_recode from '2' to '1' and Q1.6_recode from '1' to '2'.
+
+##### Not valid answers
 * For INTNR 615 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
 * For INTNR 674 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
 * For INTNR 712 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
@@ -478,41 +472,60 @@ Det var ju också så att vi kom överens om att #npc skulle ersättas med #nv r
 * For INTNR 818 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
 * For INTNR 851 for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other.
 
+
+##### Svar som klassades som tillhörande redan befintliga kategorier
+* For INTNR 19, I edited Q1._4_recode from '2' to '1' and Q1._6_recode from '1' to '2'.) and deleted the answer in Q1_Other.
+* For INTNR 27, Q1._4_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 149, I edited Q1._4_recode from '2' to '1' and Q1._6_recode from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 195,  Q1._4_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 295 Q1._4_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 369, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
+* For INTNR 375, I edited Q1._4_recode from '2' to '1' and Q1._6_recode from '1' to '2' and deleted the answer in Q1_Other.
+* For INTNR 149, Q1._1_recode,  Q1._3_recode & Q1._4_recode were already marked with '1' so no need to edit. However, I edited Q1._2_recode  and Q1._5_recode from '2' to '1' and Q1._6_recode from '1' to '2'.
+
+
+
 #### De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt: 
-+ For INTNR 64, Q1.1_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
-+ For INTNR 66, Q1.6_ recode was already '2' so no need to recode. However, I deleted the answer in Q1_Other. 
-+ For INTNR 68, I edited Q1.6_ recode from '1' to '2' and deleted the answer in Q1_Other. 
-+ For INTNR 131, I edited Q1.6_ recode from '1' to '2' and deleted the answer in Q1_Other. 
-+ For INTNR 136, Q1.5_ recode was already '1' (so no need to edit), but for Q1.6_ recode I edited from '1' to '2' and deleted the answer in Q1_Other. 
-+ For INTNr 190, Q1.1_ recode and Q1.3 _ recode was already '1' (so no need to edit), but for Q1.6_ recode I edited from '1' to '2' and deleted the answer in Q1_Other.
+
+##### Not valid answers
++ For INTNR 66, Q1._6_recode was already '2' so no need to recode. However, I deleted the answer in Q1_Other. 
++ For INTNR 68, I edited Q1._6_ recode from '1' to '2' and deleted the answer in Q1_Other. 
++ For INTNR 131, I edited Q1._6_ recode from '1' to '2' and deleted the answer in Q1_Other. 
 + For INTNR 198, for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other..
-+ For INTNR 220, I edited Q1.2_recode from '2' to '1' and Q1.6_recode from '1' to '2' and deleted the answer in Q1_Other.
-+ For INTNR 239, Q1.5_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
 + For INTNR 293, for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1 _Other..
-+ For INTNR 349, Q1.2_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other. 
-+ For INTNR 364, I edited Q1.3_recode and Q1.5_recode from '2' to '1' and Q1.6_ recode from '1' to '2' and deleted the answer in Q1_Other.
 + For INTNR 465, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
 + For INTNR 477, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other..
-+ For INTNR 490, Q1.2_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
-+ For INTNR 512, Q1.6_recode was already'2' so no need to recode. However, I deleted the answer in Q1 _Other.
 + For INTNR 545, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
-+ For INTNR 599, Q1.1_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
 + For INTNR 607, I edited Q1.6_ recode from '1' to '2' and deleted the answer in Q1_Other.
 + For INTNR 701, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
-+ For INTNR 721, Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
 + For INTNR 729, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other.
-+ For INTNR 738, Q1.4_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
 + For INTNR 739, I edited Q1.6_recode from '1' to '2'and deleted the answer in Q1 _Other.
-+ For INTNR 761, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1_Other.
-+ For INTNR 777, Q1.1_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 761, I edited Q1._6_recode from '1' to '2' and deleted the answer in Q1_Other.
 + For INTNR 808, I edited Q1.6_recode from '1' to '2' and deleted the answer in Q1 _Other. 
-+ For INTNR 830, Q1.3_recode was already '1' (so no need to edit), but for Q1.6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 512, Q1.6_recode was already'2' so no need to recode. However, I deleted the answer in Q1 _Other.
+
+
+##### Svar som klassades som tillhörande redan befintliga kategorier
++ For INTNR 64, Q1._1_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 136, Q1._5_ recode was already '1' (so no need to edit), but for Q1.6_ recode I edited from '1' to '2' and deleted the answer in Q1_Other. 
++ For INTNr 190, Q1.1_ recode and Q1.3 _ recode was already '1' (so no need to edit), but for Q1.6_ recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 220, I edited Q1._2_recode from '2' to '1' and Q1._6_recode from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 239, Q1._5_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 349, Q1._2_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other. 
++ For INTNR 364, I edited Q1._3_recode and Q1._5_recode from '2' to '1' and Q1.6_ recode from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 490, Q1._2_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 599, Q1._1_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 721, Q1._4_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 738, Q1._4_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 777, Q1._1_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
++ For INTNR 830, Q1._3_recode was already '1' (so no need to edit), but for Q1._6_recode I edited from '1' to '2' and deleted the answer in Q1_Other.
 
 
 ### Question 3: Har du som privatperson tidigare medverkat aktivt i själva genomförandet av forskning?
 
-#### De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt kommit överens om överens: 
+#### De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt kommit överens om: 
 
+##### Not valid answers
 * For INTNR 68, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
 * INTNR 76, Q3.7_recode I edited from '1' to '2'  and deleted the answer in Q3 _Other.
 * INTNR 239, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
@@ -524,17 +537,18 @@ Det var ju också så att vi kom överens om att #npc skulle ersättas med #nv r
 * INTNR 484, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
 * INTNR 539, Q3.7_recode I edited from '1' to '2'and deleted the answer in Q3 _Other.
 * INTNR 550, Q3.7_recode I edited from '1' to '2'and deleted the answer in Q3 _Other.
-* INTNR 555, Q3.7_recode I kept it as a '1' and in the free text answer I wrote 'Övrigt' instead of what was written.
 * INTNR 739, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
 * INTNR 775, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
 * INTNR 853, Q3.7_recode I edited from '1' to '2' and deleted the answer in Q3 _Other.
 
+##### Svar som ansågs giltiga och inte tillhörande befintliga kategorier
+* INTNR 555, the open question answer in Q3._Other_("Jag har en forskarbakgrund och har som privatperson och i andra professionalla rollen medverkat i forskningsprocesser") was considered valid and not belonging to an existing category so it was kept intact. 
 
 #### De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt: 
 
+##### Not valid answers
 * For INTNR 6, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
 * For INTNR 34, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
-
 + For INTNR 99, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
 + For INTNR 193, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
 + For INTNR 244, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
@@ -545,9 +559,237 @@ Det var ju också så att vi kom överens om att #npc skulle ersättas med #nv r
 + For INTNR 576, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
 + For INTNR 591, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
 + For INTNR 604, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
-+ For INTNR 617, I edited Q3.1 _ recode from '2' to '1' and Q3.7_ recode from '1' to '2' and deleted the answer in Q3_Other.
 + For INTNR 650, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
 + For INTNR 658, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
 + For INTNR 671, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
 + For INTNR 709, I edited Q3.7_recode from '1' to '2' and deleted the answer in Q3 _Other.
 
+##### Svar som klassades som tillhörande redan befintliga kategorier
++ For INTNR 617, I edited Q3.1 _ recode from '2' to '1' and Q3.7_ recode from '1' to '2' and deleted the answer in Q3_Other.
+
+### Question 4: Om du tidigare inte har medverkat aktivt i forskning, vilken var anledningen?
+
+#### De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt kommit överens om överens: 
+
+##### Not valid answers
++ For INTNR 53, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
++ For INTNR 105, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
++ For INTNR 129, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
++ For INTNR 131, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
++ For INTNR 184, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
++ For INTNR 209, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
++ For INTNR 289, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
++ For INTNR 313, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other. 
++ For INTNR 357, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
++ For INTNR 478, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
++ For INTNR 857, I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4 _Other.
+
+##### Svar som klassades som tillhörande redan befintliga kategorier
++ For INTNR 58, Q4_11_recode was already '1' so no need to recode + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 292, Q4_1_recode was already '1' so no need to recode + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 399,  I edited Q4._11_recode from '2' to '1' + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 488, Q4._1_recode was already '1' so no need to recode + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 600, I edited Q4._1_recode from '2' to '1' + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 691,  I edited Q4._7_recode from '2' to '1' + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 859,  Q4._7_recode was already '1' so no need to recode + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
+
+
+#### De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt: 
+
+##### Not valid answers
++ For INTNR 293, I edited Q4_12_recode from '1' to '2' and deleted the answer in Q4 _Other.- #nv
++ For INTNR 516, I edited Q4_12_recode from '1' to '2' and deleted the answer in Q4 _Other.- #nv
++ For INTNR 644, I edited Q4_12_recode from '1' to '2' and deleted the answer in Q4 _Other.- #nv
++ For INTNR 733, I edited Q4_12_recode from '1' to '2' and deleted the answer in Q4 _Other.- #nv
+
+##### Svar som klassades som tillhörande redan befintliga kategorier
++ For INTNR 31,  I edited Q4._11_recode from '2' to '1' + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 149,  I edited Q4._8_recode from '2' to '1' + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 220,  Q4._1_recode was already '1' so no need to recode + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 300,  Q4._1_recode was already '1' so no need to recode + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 377,  I edited Q4._11_recode from '2' to '1' + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 400, Q4._12_recode was already '2' so no need to recode + I deleted the answer in Q4._Other_.
++ For INTNR 404, Q4._12_recode was already '2' so no need to recode + Q4._1_recode was already '1' so no need to recode + I deleted the answer in Q4._Other_.
++ For INTNR 528, Q4._1_recode was already '1' so no need to recode + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 564,  I edited Q4._11_recode from '2' to '1' + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 734,  Q4._1_recode was already '1' so no need to recode + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 779, I edited Q4._7_recode from '2' to '1' + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
++ For INTNR 825,  Q4._1_recode was already '1' so no need to recode + I edited Q4._12_recode from '1' to '2' and deleted the answer in Q4._Other_.
+
+
+##### Svar som ansågs giltiga och inte tillhörande befintliga kategorier
++ For INTNR 370,the open question answer in Q4._Other_("Inte utbildad i forskning") was considered valid and not belonging to an existing category so it was kept intact.
++ For INTNR 864, the open question answer in Q4._Other_ ("Tveksamt om privatpersoner ska agera aktivt. Forskningens objektivitet mycket viktig.") was considered valid and not belongng to an existing category so it was kept intact. However, Q4._12_recode was '2' (even if it had an open question answer to it), so I edited it to '1'.
+
+
+### Question 8a-g: Om du fick möjlighet, hur sannolikt är det att du skulle vilja medverka genom att…
+
+Skapade två nya kolumner:
+
+* Q8g_DK_recode till höger om Q8g_DK
+* Q8g_recode (för fritextsvaren)till höger om Q8g
+
+Upptäckte dock att vi har missat att kategorisera ett antal fritextsvar. De flesta var sådana som svarat 'Nej', 'Vet inte' eller 'Inget' (eller något motsvarande) och som jag således i Q8g_recode_ kodade om som '2' istället för '1'. Det var följande INTNR som gjort det: 23; 44; 76; 113; 120; 127; 136; 155; 176; 188; 199; 215; 220; 224; 237; 251; 285; 300; 314; 323; 327; 330; 349; 353; 386; 399; 420; 429; 434; 456; 459; 463; 487; 501; 518; 528; 551; 565; 598; 618; 622; 623; 628; 642; 652; 658; 693; 721; 733; 734; 748; 779; 802; 807; 815; 822; 829; 840; 841; 843; 847; 853; 855; 878.
+
+Det vill säga 64 stycken, vilket är påfallande många. Vet inte hur jag har kunnat missa dem.
+
+Därtill var det ett fåtal ytterliggare fritextsvar som inte kategoriserats, nämligen följande:
+* INTNR 46: "Det är väl att man sprider det i sin krets och debatterar privat om olika resultat i sådan forskning."
+* INTNR 66: "Svara på enkätfrågor, ge synpunkter på ett frågeformulär."
+* INTNR 491: "Sprida kunskap till vänner och bekanta."
+* INTNR 739: "Vill vara lite delaktig i forskning".
+
+Här gjorde jag så att jag kategoriserade 46, 491 och 739 som 'Not valid' och 66 som 8d ["ge synpunkter på ett frågeformulär"] (OBS! (d var redan ifyllt med en etta så här krävdes ingen omkodning) + den nyskapade kategorin 'Medverkan som försöksperson eller respondent'.
+
+
+#### De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt kommit överens om: 
+
+
+##### Not valid answers
+Omkodningar gjordes enligt följande. #nv motsvarar här '2' och följande INTNR kodades alltså om till '2' i de fall där de inte redan var kategoriserade som '2'
+
+* 6 - #nv
+* 102 - #nv
+* 103 - #nv
+* 107 - #nv
+* 184 - #nv
+* 196 - #nv
+* 358 - #nv
+* 390 - #nv
+* 414 - #nv
+* 423 - #nv
+* 430 - #nv
+* 503 - #nv
+* 507 - #nv
+* 514 - #nv
+* 538 - #nv
+* 555 - #nv
+* 575 - #nv
+* 580 - #nv 
+* 613 - #nv
+* 624 - #nv
+* 670 - #nv
+* 861 - #nv
+
+##### Svar som klassades som tillhörande redan befintliga kategorier
+Följande INTNR kodades om till att variabeln Q8g_DK_recode för dem markerades med '2' + att en etta ('1') fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).
+
+* 46 – 8e
+* 48 – 8b
+* 143 – 8d
+* 235 – 8e
+* 253 - 8c
+* 296 – 8a
+* 491 – 8e
+* 520 – 8e
+* 562 – 8e
+
+##### Svar som ansågs giltiga och inte tillhörande befintliga kategorier
+Följande INTNR erhöll eller fick behålla en etta ('1') för variabeln Q8g_DK_recode och under variabeln Q8g_recode fylldes 'Medverkan som försöksperson eller respondent' i istället för det befintliga fritextsvaret.
+
+
+* 11 (‘Fysisk undersökning’) - #pc Medverkan som försöksperson eller respondent
+* 53 (‘Genom enkäter, helst via internet’) - #pc medverkan som försöksperson/respondent
+* 99 (‘Enkäter, provtagningar eller tester’) - #pc medverkan som försöksperson/respondent
+* 111 (‘Delta i utvärderingar i första hand via internet’) - #pc medverkan som försöksperson/respondent
+* 281 (‘Genom enkätundersökning’) - #pc medverkan som försöksperson/respondent
+* 490 (‘medverka genom att besvara frågor och genom min egen erfarenhet’) - #pc medverkan som försöksperson/respondent
+* 558 (‘sms, mail’) - #pc medverkan som försöksperson/respondent
+* 602 ('att bli intervjuad i dessa frågorna') - #pc medverkan som försöksperson/respondent
+* 625 (‘svara på frågor’) - #pc medverkan som försöksperson/respondent
+* 705 (‘Jag har inga problem att svara på enkäter samt lämna uppgifter om mig själv till forskningen. Jag har alltid godkänt att sjukvården får använda resultat samt prover från mig i forskningssyfte. Jag anser att patienterna ska vara mycket mer delaktiga i sin behandling om dom vill men det är väldigt svårt att få vara det. för er information har jag haft cancer två gånger, oberoende av varandra. Jag har gått på kontroller i 16 år. Jag har varit med att starta en cancerpatientförening (Sarcomföreningen’) och suttit i dess styrelse de två första åren.’)  - #pc medverkan som försöksperson/respondent
+* 712 (‘om det är samtal’) - #pc medverkan som försöksperson/respondent
+* 740 (‘Ge skriftliga synpunkter’) - #pc medverkan som försöksperson/respondent
+* 772 (‘Fysiska tester’) - #pc medverkan som försöksperson/respondent
+* 809 (‘Testa nya behandlingsformer’) - #pc medverkan som försöksperson/respondent
+
+
+
+
+#### De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt: 
+
+Beslutet som MK, OJ och jag gjorde att skapa en ny kategori med namnet "medverkan som försöksperson/respondent" påverkade även retroaktivt de kategoriseringar vi gjort enskilt och där vi då varit överens om att ett svar var "Not valid" om det omfattade en icke aktiv medverkan. Jag gjorde därför om dessa uppenbara svar på en medverkan i forskning som inte var aktiv och kategoriserade dem som tillhörande vår nyskapade kategori.
+
+##### Not valid answers
+Omkodningar gjordes enligt följande. #nv motsvarar här '2' och följande INTNR kodades alltså om till '2' i de fall där de inte redan var kategoriserade som '2'
+
+  + 13 - #nv
+  + 17 - #nv
+  + 124 - #nv
+  + 144 - #nv
+  + 148 - #nv
+  + 180 - #nv
+  + 292 - #nv
+  * 409 - #nv
+  + 448 - #nv
+  + 460 - #nv
+  + 478 - #nv
+  + 494 - #nv
+  + 604 - #nv
+  * 709 - #nv 
+  + 738 - #nv
+  + 751 - #nv
+  + 765 - #nv
+  + 832 - #nv
+  + 866 - #nv
+  + 880 - #nv
+  
+##### Svar som klassades som tillhörande redan befintliga kategorier
+Följande INTNR kodades om till att variabeln Q8g_DK_recode för dem markerades med '2' + att en etta ('1') fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).
+
+  + 60 - 8c
+  * 190 - 8c + 8d
+  * 250 - 8e
+  * 259 - 8e
+  + 265 - 8e
+  * 321 - 8b
+  + 326 - 8c
+  + 350 - 8e
+  * 360 - 8a
+  * 402 - 8e
+  + 439 - 8a
+  + 443 - 8a 
+  + 560 - 8a
+  * 578 - 8a
+  + 600 - 8a
+  * 699 - 8e
+  + 725 - 8a
+  * 735 - 8b
+  * 775 - 8a
+  + 864 - 8b
+  * 875 - 8e
+  
+##### Svar som ansågs giltiga och inte tillhörande befintliga kategorier 
+Följande INTNR erhöll eller fick behålla en etta ('1') för variabeln Q8g_DK_recode och under variabeln Q8g_recode fylldes 'Medverkan som försöksperson eller respondent' i istället för det befintliga fritextsvaret.
+
+  + 3 ('Fylla i frågeformulär') - #pc medverkan som försöksperson/respondent
+  + 28  ('Kan svara på enkäter och telefonfrågor') - #pc medverkan som försöksperson/respondent
+  + 30 ('Endast svara på enkäter') - #pc medverkan som försöksperson/respondent
+  * 35 ('T.ex. vara med och ge synpunkter på medicin/infusion som jag själv använder') - #pc medverkan som försöksperson/respondent
+  + 41 ('svara på enkäter som nu') - #pc medverkan som försöksperson/respondent
+  * 83 ('Frågor till mig om hur jag som äldre mår och hur jag lever') - #pc medverkan som försöksperson/respondent
+  + 118 ('Är med på att testa min kropp') - #pc medverkan som försöksperson/respondent
+  + 128 ('försökskanin') - #pc medverkan som försöksperson/respondent
+  + 153 ('Svara på enkäter eller telefonintervju, t.ex.') - #pc medverkan som försöksperson/respondent
+  + 198 ('T.ex. delta i liknande intervjuer som den här') - #pc medverkan som försöksperson/respondent
+  + 203 ('Jag kan tänka mig lämna prover i forskningssyfte') - #pc medverkan som försöksperson/respondent
+  + 232 ('Svara på enkät') - #pc medverkan som försöksperson/respondent
+  + 268 ('prova nya mediciner') - #pc medverkan som försöksperson/respondent
+  + 267 ('Genom att tala om hur jag mår') - #pc medverkan som försöksperson/respondent
+  + 347 ('Svar på frågor - enkäter')  - #pc medverkan som försöksperson/respondent
+  + 370 ('Skulle kuna tänka sig att vara försöksperson') - #pc medverkan som försöksperson/respondent
+  * 416 ('Ja genom telefonintervjuer och enkäter') - #pc medverkan som försöksperson/respondent
+  + 422 ('Skulle kunna tänka mig att testa nya mediciner') - #pc medverkan som försöksperson/respondent
+  + 432 ('Svara på enkäter, delta i kroppsliga undersökningar') - #pc medverkan som försöksperson/respondent
+  + 511 ('Ställa upp som försöksperson') - #pc medverkan som försöksperson/respondent
+  + 544 ('Att själv delta som "forskningsobjekt") - #pc medverkan som försöksperson/respondent
+  + 545 ('Vill vara en helt vanlig person i projektet "försöksperson" (ej involverad i själva forskargruppen)') - #pc medverkan som försöksperson/respondent
+  + 586 ('Besvara enkäter') - #pc medverkan som försöksperson/respondent
+  + 590 ('Skulle kunna tänka mig att vara föremål för själva forskningen, som "försökskanin') - #pc medverkan som försöksperson/respondent
+  + 614 ('Kan tänka sig t.ex. medicinsk forskning att delta i. Bra att se egna resultat samt vara till hjälp för andra i framtiden.') - #pc medverkan som försöksperson/respondent
+  + 636 ('Svara på enkät/frågor för något forskningsprojekt') - #pc medverkan som försöksperson/respondent
+  + 650 ('I princip svarar jag gärna på enkätfrågor när det gäller åldrande och hälsa. Svarar på enkät är ok men att rekrytera och så kan vara för mycket för en privatperson') - #pc medverkan som försöksperson/respondent
+  + 689 ('Intervju, provtagning') - #pc medverkan som försöksperson/respondent
+  + 697 ('Som försöksperson') - #pc medverkan som försöksperson/respondent
+  + 804 ('skulle kunna svara på frågor') - #pc medverkan som försöksperson/respondent
+  * 833 ('hjälpa till med att svara på frågor') - #pc medverkan som försöksperson/respondent
