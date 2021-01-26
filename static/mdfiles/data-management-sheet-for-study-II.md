@@ -922,3 +922,292 @@ Följande INTNR kodades om till att variabeln Q10_9_recode för dem markerades m
 Följande INTNR erhöll eller fick behålla en etta ('1') för variabeln Q10_9_recode och under variabeln Q10_Other_recode fylldes 'Myndigheter' i istället för det befintliga fritextsvaret.
 
 + 60 ('...från olika myndigheter') #pc 'Myndigheter'
+
+
+## Återstående omkodningar
+
+Det återstår en hel del att omkoda (se nedanståend markdownkommentar) men dessa frågor är av mindre relevans för den pågående studie II så jag avvaktar med dem.
+
+
+<!-- ---
+
+### Q11
+* Ingenting att kommentera här. I de fall där värde saknas är det 'Missing value', i övriga fall de alternativ som har angetts.
+
+---
+
+### Q12: Vad skulle kunna motivera dig att medverka aktivt i forskning om åldrande och hälsa?
+#### Givna svarsalternativ
+* 12.1 Att få förtur till tjänster (t.ex hälso- och sjukvård, social omsorg, service, boende etc)
+* 12.2 Att få känna mig betydelsefull
+* 12.3 Att få reda på mer om min situation
+* 12.4 Att bidra till samhället
+* 12.5 Att du inte har något att förlora
+* 12.6 Att forskningen bör gå framåt (dvs. någon måste ställa upp)
+* 12.7 Att få kontakt med andra i samma situation
+* 12.8 Att vara hjälpsam mot forskaren
+* 12.9 Att få bättre tjänster, produkter
+* 12.10 Att få reda på vad studien kommer att leda till
+* 12.11 Att forskningen handlar om något som du tycker är viktigt
+* 12.12 Annat, nämligen
+* 12.13 Inget, du vill inte medverka aktivt i forskning
+
+#### Instructions for categorizing open question answers below
+1. Does it fit in one (or several) of the given category/ies?
+   - YES! recode it to that/those category/ies, e.g. 12.1-13
+   - NO! Go to 2.
+2. Is it an answer that you consider valid to the question being asked?
+   - YES! - Go to 3.
+   - NO! - Mark with '#nv' (=not valid) and if you like, write why you consider answer not valid
+3. Does the answer correspond to a new category?
+   - YES! - Mark with the suggested new category name.
+   - NO! - Go to 4.
+4. Does the answer have the potential to belong to a new category?
+   - YES!- Mark with '#pc' (=potential category)
+   - NO! - Mark with '#npc' (=not potential category)
+#### Open question answers
+
+* INTNR:
+  + 6 ('Viktigt att man ser människan i forskningen och lyssnar på människan') #pc
+  + 20 ('Att hitta lösningar på problem, som nya hjälpmedel eller ngt som är utformat fel som påverkar åldrande via dålig kvalitet på hjälpmedel som hjälper äldre som har problem med armar och ben..[...]..hemtjänsten gör ju ett jättebra fotarbete men det behövs påfyllning från forskning inte så långa glapp mellan de på golvet och forskningen läkare uppdateras men det ska även undersköterskor och de på golvet också få..är önskvärt') 12.9 + 12.4?
+  + 60 ('Jag är intresserad av ämnet och det motiverar mig') 12.11 eller #pc - "viktigt" och "intressant" inte riktigt samma sak
+  + 64 ('Att andra äldre, som kommer efter mig kan få hjälp/förbättringar genom de rön forskningen kommer fram till') 12.4 + 12.6 + 12.9
+  + 130 ('för att må bättre') #pc
+  + 136 ('att man gör något positivt för andra') 12.4
+  + 155 ('Att jag själv skulle ha personlig nytta av forskningsresultatet och att andra också skulle få nytta av det') #pc
+  + 161 ('Få ekonomisk ersättning') #pc
+  + 185 ('Ekonomisk ersättning kan motivera många') #pc el. #npc beroende på om man svarar för sig själv eller för andrs --- Även dig?
+  + 220 ('Att jag själv skulle få hjälp med mina problem. Att jag själv skulle få god kontakt med en forskningsexpert på min hälsa. Jag skulle tänka mig att donera min kropp så att forskarna skulle undersöka min kropp efter min död för att kunna bidra till ett svar på vad det är jag lider av') 12.3 + 12.4
+  + 321 ('Om jag blev kontaktad så skulle jag vara motiverad') #nv
+  + 323 ('Att få veta vad forskningen kommer att leda till i framtiden för mina barn och barnbarn. Att jag känner att jag litar på forskarna skulle motivera mig att delta') - här är det två svar 12.10 + tilltro till forskare #pc
+  + 327 ('Brist på tid') #nv
+  + 339 ('Att få känna mig trygg') #pc
+  + 367 ('ersättning') #pc
+  + 375 ('Att jag får förtroende för forskare') #pc
+  + 448 ('Ekonomisk ersättning vore bra') #pc
+  + 452 ('...om det handlar om sjukvård och mediciner som blir bättre') 12.9
+  + 459 ('Intresse för ämnet. Jag vill få mer kunskap i ämnet') #pc - de nuvarande kategorierna täcker inte riktigt in vad detta svar omfattar
+  + 520 ('Samhällsnyttan och för den enskilda individen är viktig') 12.4 + lite vagt vad 'den enskilda individen åsyftar #npc
+  + 538 ('Om jag blev kontaktad av rätt personer som jag känner förtroende för') #pc - återigen förtroende
+  + 590 ('Om jag själv skulle kunna få en bättre hälsa av att delta') #pc
+  + 634 ('Politiker tar del av forskningen och använder sig av den i praktiken') #pc
+  + 733 ('För att jag själv är i den målgruppen') #npc - lite för vagt för att kunna kategorisera
+  + 775 ('viktigt område och behöver belysas') 12.11
+  + 779 ('Om jag fick en seriös förfrågan, beroende på vem som ställer frågan. Om det är en seriös aktör så är jag intresserad') #pc - återigen förtroende
+  + 781 ('Att det sker i --- kommun') #pc - återigen villkorat denna gång beroende på var
+  + 810 ('Professionell nivå på forskningen med lämplig ersättning') #pc - återigen kopplat till forskningens seriositet + ersättning
+  + 818 ('Forskning som verkligen kan göra skillnad. Bli mer involverad, inte bara informerad') #pc - återigen villkorat avhängit forskningens kvalitet
+  
+
+---
+
+### Q13: Vad skulle du uppleva som hinder för att medverka aktivt i forskning om åldrande och hälsa?
+#### Givna svarsalternativ
+* 13.1 Min brist på förståelse för forskning
+* 13.2 Svårigheter att förstå de sätt som forskare uttrycker sig på
+* 13.3 Forskarnas brist på kompetens vad gäller att engagera privatpersoner
+* 13.4 Skillnader i förväntningar mellan forskare och mig själv
+* 13.5 Olikheter mellan deltagare
+* 13.6 Brist på tid
+* 13.7 Alltför krävande för mig
+* 13.8 Egen privat situation
+* 13.9 Tror inte att det leder till förändringar av min situation
+* 13.10 Annat, nämligen
+
+#### Instructions for categorizing open question answers below
+1. Does it fit in one (or several) of the given category/ies?
+   - YES! recode it to that/those category/ies, e.g. 13.1-9
+   - NO! Go to 2.
+2. Is it an answer that you consider valid to the question being asked?
+   - YES! - Go to 3.
+   - NO! - Mark with '#nv' (=not valid) and if you like, write why you consider answer not valid
+3. Does the answer correspond to a new category?
+   - YES! - Mark with the suggested new category name.
+   - NO! - Go to 4.
+4. Does the answer have the potential to belong to a new category?
+   - YES!- Mark with '#pc' (=potential category)
+   - NO! - Mark with '#npc' (=not potential category)
+
+#### Open question answers
+* INTNR:
+  + 20 ('Det skulle vara att ämnet ligger oerhört långt från mig, men det är bara ett antagande') #pc - om den omfattar ämne jag inte kan knyta an till
+  + 35 ('Fysiskt avstånd') #pc - vi har bara angett tid, skulle behöva addera distans
+  + 49 ('Ämne som inte intresserar mig') #pc - ämne som intresserar mig
+  + 53 ('Dofter. Min fru har SHR och dofter fastnar i hår och kläder, vilket jag då tar med hem och kan orsaka symptom för henne. KOL har jag själv och därför är dofter inte heller bra för mig.') 13.8 (#pc egen eller anhörigs sjukdom kanske skulle förtydligas)
+  + 58 ('Jag upplever att jag är för gammal') - 13.8 el #pc - frågan hur "privat" ett försämrat hälsotillstånd pga ålder är.
+  + 60 ('Eventuell brist på intresse för det aktuella ämnet') #pc
+  + 64 ('Att, såsom varande icke-akademiker, har svårt att förstå vad som förväntas av mig och hur jag kan bidra konstruktivt.') 13.1
+  + 82 ('Om jag känner att jag nödvändigt måste delta är det ngt annat, men jag är gammal...') #pc
+  + 96 ('anhörigvårdare') 13.8?
+  + 99 ('Smärtsamma prover/tester') 13.7
+  + 117 ('Eventuellt brist på intresse') #pc
+  + 124 ('Är idag frisk och vital men om detta förändras negativt är det naturligtvis ett hinder') 13.8?
+  + 129 ('Att man saknar de rätta grundkunskaperna om t.ex. tillvägagångssätt') 13.1? el. 13.7?
+  + 137 ('Förbättringar för andra') #nv
+  + 175 ('Är ofta utomlands') #pc
+  + 210 ('Ett hinder kan vara att personer i fyrtioårsåldern dominerar i samhället') #npc - lite oklart argument
+  + 225 ('Ovilja att vara med helt enkelt') #pc ointresse för ämnet
+  + 234 ('Vill inte hålla på med stillasittande administration') #pc
+  + 252 ('finns inga hinder förutsatt att jag förstår det jag ska göra') 13.1
+  + 266 ('om jag måste åka till annan ort som jag inte känner mig bekväm med') #pc
+  + 267 ('Jag tycker jag kanske inte kan se relevansen i vissa saker, att jag inte förstår riktigt varför man ska forska om just det') #pc
+  + 292 ('Om det skulle kosta mig rent ekonomiskt') #pc - ekonomi
+  + 297 ('jag är inte motiverad') #pc
+  + 314 ('Att forskningsområdet inte känns viktigt') #pc
+  + 315 ('Tycker både ja och nej delvis på alla frågor. För många och för lika alternativ.') #nv -- kritik mot sättet frågan är formulerad
+  + 316 ('Dålig inriktning, onödigt forskningsmål') #pc
+  + 317 ('om de inte skulle intressera mig, ett smalt ämne där jag ej har intresse exempelvis') #pc
+  + 323 ('Att jag inte skulle käna tillit till forskarna skulle vara ett hinder att delta') #pc tillit
+  + 331 ('Gammal, borde vara pigare för att orka med') 13.7
+  + 336 ('Ointresse') #pc
+  + 341 ('jag är inte intresserad') #pc
+  + 367 ('Upplägg och omfattning. Vet inget om ämnet') #pc
+  + 375 ('Att jag får förtroende för forskarna och att dom lyssnar på oss som deltar och medborgarna gör dom ej det vill jag inte vara med') #pc tillit och förtroende
+  + 378 ('min ålder - 97 år') #pc el. 13.8
+  + 379 ('Projekt som jag inte anser meningsfulla') #pc
+  + 387 ('Min ålder=85 år') #pc
+  + 392 ('Svårt att välja svar') #nv -- kritik mot frågan
+  + 402 ('Integritetsskyddet') #pc - tillit förtroende
+  + 408 ('Hörselnedsättning') 13.7? + 13.8?
+  + 409 ('Om man uppfattar det som otydlig och dålig kvalitet på forskningen kan det vara ett hinder för mig att delta aktivt i den') #pc
+  + 411 ('Kostnader för att delta') #pc
+  + 423 ('Ej intresserad') #pc
+  + 430 ('inget') #pc -- inget-kategori saknas
+  + 445 ('Kan inte svara på denna fråga') #nv 
+  + 448 ('Känner sig inte som äldre') 13.2? -- lite oklart vad detta kan kategoriseras som
+  + 452 ('Jag hittar inget hinder, kan delta, men isf skulle det vara sjukdom om jag ej kan') 13.8
+  + 462 ('Jag är inte intresserad') #pc
+  + 471 ('Min höga ålder (92 år)') #13.8
+  + 482 ('Vill ej vara med') #pc
+  + 508 ('Forskningens fokus, vilka frågor som utforskas') #pc
+  + 519 ('Avstånd') #pc
+  + 521 ('Jag är gammal och har gjort mitt för samhället') #pc
+  + 522 ('ser inget hinder att deltaga') #pc
+  + 538 ('min ålder i sådana fall, är en gammal gubbe') #pc
+  + 546 ('Inte motiverad') #pc
+  + 564 ('Hög åldern är en svårighet') #pc
+  + 576 ('Vet ej') #nv
+  + 577 ('Vill inte') #pc
+  + 581 ('Inget egentligt intresse') #pc
+  + 590 ('Jag arbetar fortfarande') 13.6? (här anges att man är upptagen med annat, implicit att man inte har tid)
+  + 605 ('Kommunikationen att ta sig till möten') #pc
+  + 606 ('Beroende på omfattning') #pc -- återigen det beror på
+  + 669 ('Bra att många ställer upp') #nv
+  + 674 ('fysisk handikapp, åldern') #pc
+  + 696 ('vet ej') #nv
+  + 698 ('Brist på intresse') #pc
+  + 725 ('Måttligt intresserad') #pc
+  + 738 ('åldersrelaterat och har svårt att medverka på grund av att jag bor långt borta') #pc
+  + 764 ('I min ålder blir jag lat och bekväm') 13.8?
+  + 765 ('Ingenting specifikt skulle hindra mig från att deltaga') #pc - 'inget' saknar kategori
+  + 775 ('Ser inget hinder egentligen, gäller ju plats och tidpunkt') #pc
+  + 779 ('Om det inte är tillräckligt intressant då ä det ett hinder för mig') #pc
+  + 781 ('Ingen bil. Får inte kosta pengar, typ tågbiljett') #pc
+  + 783 ('Jag vill ha en bred information innan vad forskningen handlar om i detalj och vad den leder till..') #pc -- återigen villkorat
+  + 785 ('Forskarna som ofta är för unga för att förstå hur en gammal människa känner') 13.3 (13.4?)
+  + 791 ('Jag har det bra som det är och har inte tid, då skulle min vardag ändras och det vill jag ej') 13.6 + 13.8
+  + 810 ('Beredd att medverka som testperson av utveckling med datastyrda hjälpmedel') #pc -- villkorat, beror på område
+  + 861 ('Är det inte intressant vill jag ej vara med') #pc
+  + 864 ('Min uppfattning att forskningens integritet kan rubbas') #pc
+
+
+### Q14
+Ingenting att kommentera här. Alternativen är '1' och '2' och vissa är missing. 
+
+### Q14_Open
+Här behöver alternativen kategoriseras om vi är intresserade av vilka organisationer de är med i. Detta gör jag inte nu.
+
+### Q15.1-5
+* Varför kommer inte denna fråga efter fråga 14 i formuläret? Vad var tanken med i vilken följd frågorna kommer?
+* När det kommer till 'annat område' var man intresserad av vilket område?
+* Inget konstigt i datan: '1', '2' eller missing
+* Frågan om datan där inget alternativ är angett på 15.1-5 ska tolkas som 'Missing' eller som 'Nej' återstår att besluta om.
+
+### Q16
+Inget att kommentera här heller.
+
+### Q17
+Inget att kommentera här heller.  
+  
+### Q18
+Inget att kommentera här heller.
+
+### Q18_Other
+
+* INTNR:
+  + 54 ('Jobbar i min skog och fastighet')
+  + 62 ('Arbetar och pensionär')
+  + 148 ('Pensionär samt hemarbetare inom trädgården då vi har stort hus samt trädgård')
+  + 190 ('timanställd ssk i vård')
+  + 193 ('håller på att skriva en bok med anledning av tidigare forskningsområdet')
+  + 250 ('Ingår i en grupp som har studerar')
+  + 253 ('stöd till anhörig 35 år som haft cancer och som får urusel hjälp av AF')
+  + 275 ('Arbetar 1-2 dag/vecka + pensionär')
+  + 290 ('Bokning av [ohörbart] föreningslokal, trapphusvärd')
+  + 296 ('Sjukersättning')
+  + 349 ('Pensionär, arbetar på timme inom apoteksutbildning')
+  + 351 ('Jobbar lite i egen firma')
+  + 379 ('pensionär och förvärvsarbetar 6 timmar/dag')
+  + 439 ('Arbetar 30%')
+  + 496 ('Familjerådgivare inom Malmöstad, extra arbete')
+  + 522 ('deltidsarbetande pensionär')
+  + 597 ('Författare')
+  + 657 ('"Sjukpensionär"')
+  + 741 ('Aktivitetsstöd')
+  + 760 ('Bussförare och pastor')
+  + 877 ('Volontärarbeten ca 20h/vecka')
+
+### Q19 
+* Varför ligger frågan ej i ordningsföljd?
+* Inget att kommentera i övrigt
+
+### Q19_Others
+* INTNR:
+  + 25 ('Även olika utbildningar inom polisyrket')
+  + 74 ('högskolestudier mindre än 3 år')
+  + 113 ('Arbetsmiljöutbildning'...)
+  + 139 ('Folkskola')
+  + 190 ('viss forskarutbildning inom humaniora C- och D-kurser')
+  + 212 ('barnskötarutbildning')
+  + 223 ('Yrkesskola 3,5 år i Tyskland')
+  + 227 ('Livets hårda skola')
+  + 238 ('Yrkesskola metall + Js1 och Js2')
+  + 305 ('Sjömansexamen i England')
+  + 306 ('Engelsk Sjömansexamen')
+  + 327 ('Legitimerad psykolog. Utbildning till psykoterapeut')
+  + 349 ('Kurs för sysselsättningshandledare')
+  + 369 ('Läkarutbildning')
+  + 375 ('Folkskola samt realskola samt privat special kurser inom staten och mitt arbete inom kriminalvården')
+  + 379 ('Folkskola + yrkesskola')
+  + 407 ('Seminarium före högskolan, förskolärarutbildning')
+  + 419 ('Diverse fackliga kurser')
+  + 465 ('Barnskötare')
+  + 512 ('hemteknisk yrkesskola')
+  + 559 ('Kontorsutbildning')
+  + 646 ('Vägmästareutbildning') (=Jägmastarutbildning?i)
+  + 674 ('Fortbildning på arbetet på onkologen')
+  + 675 ('Datakurs i AMS regi 3 mån')
+  + 740 ('Småskollärarrutbildning')
+  + 781 ('Callcenterutbildning, datakörkort')
+  + 848 ('Undersköterska')
+  + 854 ('1 termin högskola, kurser')
+  + 860 ('Hushållsskola, hemvårdarinne-skola')
+  
+### Q20 
+Inget att kommentera 
+  
+### Q21 
+Inget att kommentera 
+
+### Q22
+Inget att kommentera 
+
+### Q22b
+* Här behöver det göras en data cleaning av språken, men detta är ej viktigt för min studie så det avvaktar jag med.
+
+### Q23-27
+Inget att kommentera
+
+### Q28 
+Många 'missing' som är oklart om de motsvarar '2' eller 'Missing'. Kanske inte spelar så stor roll dock. Här räcker det nog att räkna '1':or.
+-->
