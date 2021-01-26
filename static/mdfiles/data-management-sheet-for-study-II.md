@@ -855,3 +855,70 @@ Följande INTNR erhöll eller fick behålla en etta ('1') för variabeln Q9_10_r
 + 590 - ('Jag vill ha information som är väldigt riktad till mig som individ och inte till för stora grupper') #pc - Övrigt
 + 733 ('Uppsökande verksamhet') #pc - Övrigt
  
+###
+#####
+#######
+
+### Question 10:Av vem/vilka föredrar du att få information om möjligheter att medverka aktivt i forskning om åldrande och hälsa, som privatperson?
+
+Skapade en ny kolumn:
+
+* Q10._Other_recode till höger om Q10._Other_.
+
+För de övriga Fråga 10-alternativen fanns redan _recode_-varianter så jag ändrade i dessa befintliga och skapade inga nya kopior. Här nedan beskrivs vilka omkodningar som gjordes.
+
+
+#### De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat fritextsvaren olika initialt, vid efterföljande diskussion kom överens om: 
+
+
+
+##### Not valid answers
+Omkodningar gjordes enligt följande. #nv motsvarar här '2' och följande INTNR kodades alltså om till '2' i Q10_9_recode i de fall där de inte redan var kategoriserade som '2'.
+
+* 113 - #nv
+* 538 - #nv
+* 555 - #nv
+* 757 - #nv
+* 785 - #nv
+* 825 - #nv
+
+
+##### Svar som klassades som tillhörande redan befintliga kategorier
+Följande INTNR kodades om till att variabeln Q10_9_recode för dem markerades med '2' + att en etta ('1') fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).
+
+* 162 – 10.1
+* 181 – 10.1
+* 602 – 10.8 (lägg till kollegor till nästa enkät!)
+
+##### Svar som ansågs giltiga och inte tillhörande befintliga kategorier
+Följande INTNR erhöll eller fick behålla en etta ('1') för variabeln Q9_10_recode och under variabeln Q10_Other_recode fylldes 'Övrigt' i istället för det befintliga fritextsvaret.
+
+[Inga INTNR här] 
+
+
+#### De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:
+
+##### Not valid answers
+Omkodningar gjordes enligt följande. #nv motsvarar här '2' och följande INTNR kodades alltså om till '2' i Q10_9_recode i de fall där de inte redan var kategoriserade som '2'.
+
++ 280 - #nv
++ 286 - #nv 
++ 356 - #nv 
++ 368 - #nv 
++ 459 - #nv
++ 525 - #nv
++ 774 - #nv 
+
+##### Svar som klassades som tillhörande redan befintliga kategorier
+Följande INTNR kodades om till att variabeln Q10_9_recode för dem markerades med '2' + att en etta ('1') fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).
+
++ 220 - 10.2
++ 323 - 10.2
++ 467 - 10.2
++ 590 - 10.5
+
+
+##### Svar som ansågs giltiga och inte tillhörande befintliga kategorier 
+Följande INTNR erhöll eller fick behålla en etta ('1') för variabeln Q10_9_recode och under variabeln Q10_Other_recode fylldes 'Myndigheter' i istället för det befintliga fritextsvaret.
+
++ 60 ('...från olika myndigheter') #pc 'Myndigheter'
