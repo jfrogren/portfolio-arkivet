@@ -2,7 +2,7 @@
 title: "Deciding on What to Include in the Analysis of Study II"
 date: 2021-01-27T14:03:07+01:00
 draft: false
-categories: ["Research procces", "Research methodology"]
+categories: ["Research process", "Research methodology"]
 ---
 
 So, what should I include in the analysis of study II? Well, to begin with in order to decide that I need to back to the overarching aim and the research questions. As of now, I have written that: 
