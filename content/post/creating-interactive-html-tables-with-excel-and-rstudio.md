@@ -27,3 +27,5 @@ To create what looks like DataTables, an R package called [DT](https://web.archi
 To then export this table, select `Export` followed by `Save as Web Page` in the menu just above the window where the table is visible. 
 
 Done.
+
+P.S. There are also ways of making these tables [downloadable](https://web.archive.org/web/20201022182632/https://martinctc.github.io/blog/vignette-downloadable-tables-in-rmarkdown-with-the-dt-package/). However, I don't see a need for that at the moment. 
