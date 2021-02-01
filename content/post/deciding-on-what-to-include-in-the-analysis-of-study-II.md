@@ -40,7 +40,6 @@ I will now try to list more in detail what kind of analyses I find necessary to 
 * What characterizes the participants' municipalities of residence in relation to structural parameters such as population and commuting patterns
 
 ### 3.1.2. Perceived health
-
 * What characterizes the perceived health of the participants?
 
 ### 3.1.3. Earlier experience of being involved in research
@@ -62,33 +61,22 @@ I will now try to list more in detail what kind of analyses I find necessary to 
 ### 3.2.3. Perceived obstacles for not getting actively involved in research
 * What are the obstacles or hindrances, for not getting involved actively in research, most emphasized by the respondents?
 
-
-
 ## 3.3. Awareness of public involvement in research on ageing and health among 60+ citizens in Sweden
-
 * How aware of the possibility to be actively involved in research in ageing and health are 60+ citizens in Sweden?
 
-
 ## 3.4. Attitudes towards public involvement in research on ageing and health among 60+ citizens in Sweden
-
 * What are the attitudes of 60+ citizens in Sweden towards public involvement in research on ageing and health?
 
 
 ## 3.5. Willingness to be actively involved in research on ageing and health
-
 * How willing are the respondents to be actively involved in research on ageing and health?
 
 ### 3.5.1. Preferred kind of research involvement of respondents willing to be actively involved
-
 * What kind of research involvement is preferred by respondents willing to be actively involved? 
 
-
 ### 3.5.2 Preferred ways of getting informed about the possibilities to get actively involved in research (by the respondents willing to be actively involved)  
-
 * Through *which channels* do respondents who state that they are willing to be actively involved in research want to be reached?
-
 * *By whom* do the participants who state that they are willing to be actively involved in research want to be reached?
-
 
 ### 3.5.3. Relation between willingness and demographics and health 
 * How do the willingness of 60+ citizens to be actively involved in research on ageing and health relate to age, sex, level of education, economic situation, and perceived health?
