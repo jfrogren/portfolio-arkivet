@@ -1,0 +1,909 @@
+<!DOCTYPE html>  
+<html lang="SE">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>data-management-sheet-for-study-II</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style id="mkstylesheet">
+body{-webkit-font-smoothing:antialiased;font-family:"Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;margin:30px 0 0;padding:0;background:#fff;color:#303030;font-size:14px;line-height:1.45}#wrapper{padding:20px}li{font-size:110%}li li{font-size:100%}li p{font-size:100%;margin:.5em 0}h1{color:#000}h2{color:#111}h3{color:#111}h4{color:#111}h5{color:#111}h6{color:#111;font-style:italic}p,td,div{color:#111;font-family:"Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;word-wrap:break-word}a{color:#0d6ea1;text-decoration:none;-webkit-transition:color .2s ease-in-out;-moz-transition:color .2s ease-in-out;-o-transition:color .2s ease-in-out;-ms-transition:color .2s ease-in-out;transition:color .2s ease-in-out}a:hover{color:#3593d9}h1,h2,h3,h4,h5{margin:2.75rem 0 1rem;font-weight:600;line-height:1.15}h1{margin-top:0;font-size:3.052em}h2{font-size:2.441em}h3{font-size:1.953em}h4{font-size:1.563em}h5{font-size:1.25em}ul,ol,pre,table,blockquote{margin-top:.625em;margin-bottom:.625em}hr{border:1px solid;margin:-1px 0}ul ul,ol ol,ul ol,ol ul{margin-top:0;margin-bottom:0}b,strong,em,small,code{line-height:1}.footnote{color:#0d6ea1;font-size:.8em;vertical-align:super}abbr,acronym{border-bottom:1px dotted #aaa}#wrapper img{max-width:100%;height:auto}dd{font-size:1em;margin-bottom:1em}li>p:first-of-type{margin:0}li p+p{margin-top:16px}ul,ol{padding-left:2.5rem}#wrapper ol{list-style-position:outside}ul ul,ul ol{margin-bottom:.4em}caption,col,colgroup,table,tbody,td,tfoot,th,thead,tr{border-spacing:0}table{border:1px solid rgba(0,0,0,0.25);border-collapse:collapse;display:table;empty-cells:hide;margin:-1px 0 1.3125em;padding:0;table-layout:fixed}caption{display:table-caption;font-weight:700}col{display:table-column}colgroup{display:table-column-group}tbody{display:table-row-group}tfoot{display:table-footer-group}thead{display:table-header-group}td,th{display:table-cell}tr{display:table-row}table th,table td{font-size:1.1em;line-height:1.3;padding:.5em 1em 0}table thead{background:rgba(0,0,0,0.15);border:1px solid rgba(0,0,0,0.15);border-bottom:1px solid rgba(0,0,0,0.2)}table tbody{background:rgba(0,0,0,0.05)}table tfoot{background:rgba(0,0,0,0.15);border:1px solid rgba(0,0,0,0.15);border-top:1px solid rgba(0,0,0,0.2)}figure{display:inline-block;overflow:hidden;position:relative;margin:1em 0 2em}figcaption{font-style:italic;text-align:center;background:white;color:#666}.poetry pre{display:block;font-family:Georgia,Garamond,serif !important;font-size:110% !important;font-style:italic;line-height:1.6em;margin-left:1em}.poetry pre code{font-family:Georgia,Garamond,serif !important;word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;white-space:pre-wrap}blockquote p{font-size:110%;font-style:italic;line-height:1.6em}sup,sub,a.footnote{font-size:1.4ex;height:0;line-height:1;position:relative;vertical-align:super}sub{vertical-align:sub;top:-1px}p{font-size:1.1429em;line-height:1.3125em;margin:1.3125em 0}dt,th{font-weight:700}table tr:nth-child(odd),table th:nth-child(odd),table td:nth-child(odd){background:rgba(255,255,255,0.06)}table tr:nth-child(even),table td:nth-child(even){background:rgba(200,200,200,0.25)}@media print{img,table,figure{page-break-inside:avoid}#wrapper{background:#fff;color:#303030;padding:10px;position:relative;text-indent:0}}@media screen{.inverted{background:#252a2a}.inverted #wrapper{background:#252a2a;color:#eee}.inverted hr{border-color:#333f40 !important}.inverted p,.inverted td,.inverted li,.inverted h1,.inverted h2,.inverted h3,.inverted h4,.inverted h5,.inverted h6,.inverted th,.inverted .math,.inverted caption,.inverted dt,.inverted dd{color:#eee}.inverted pre{background:#ccc;color:#111}.inverted table{background:none}.inverted table tr:nth-child(odd),.inverted table td:nth-child(odd){background:none}.inverted a{color:#acd1d5}::selection{background:rgba(157,193,200,0.5)}h1::selection{background-color:rgba(45,156,208,0.3)}h2::selection{background-color:rgba(90,182,224,0.3)}h3::selection,h4::selection,h5::selection,h6::selection,li::selection,ol::selection{background-color:rgba(133,201,232,0.3)}code::selection{background-color:rgba(0,0,0,0.7);color:#eee}code span::selection{background-color:rgba(0,0,0,0.7) !important;color:#eee !important}a::selection{background-color:rgba(255,230,102,0.2)}.inverted a::selection{background-color:rgba(255,230,102,0.6)}td::selection,th::selection,caption::selection{background-color:rgba(180,237,95,0.5)}}.mkstyle--swiss #wrapper aside.blurb:before{margin-top:.7em}
+#mkreplaced-toc{list-style-position:inside;padding:0;margin:0 0 0 1rem;list-style-type:none}#mkreplaced-toc li::before{content:''}#mkreplaced-toc li{font-size:1rem;line-height:1.25;font-weight:normal}#mkreplaced-toc li ul{font-size:1.3rem;font-weight:300;padding:.5rem 0;margin:0 0 0 1rem}#mkreplaced-toc li.missing{list-style-type:none !important}#mkreplaced-toc.max-1 ul,#mkreplaced-toc.max1 ul{display:none}#mkreplaced-toc.max-2 ul ul,#mkreplaced-toc.max2 ul ul{display:none}#mkreplaced-toc.max-3 ul ul ul,#mkreplaced-toc.max3 ul ul ul{display:none}#mkreplaced-toc.max-4 ul ul ul ul,#mkreplaced-toc.max4 ul ul ul ul{display:none}#mkreplaced-toc.max-5 ul ul ul ul ul,#mkreplaced-toc.max5 ul ul ul ul ul{display:none}.mk-rtl{direction:rtl;text-align:right}.mkprinting,.mkprinting #wrapper{height:auto;margin-bottom:0;padding-bottom:0}.hideProgress #generated-toc,.hideProgress #firstdiff,.hideProgress #toc-title,.hideProgress #mkdocumentprogress,.hideProgress #mkincludechart,.hideProgress #mkprogressbar1,.hideProgress #mkprogressbar2,.hideProgress b.bookmark,.hideProgress .mkscrollmeter,.hideProgress #alllinks,.hideProgress #criticnav,.hideProgress .popup,.hideProgress #progressindicator,.hideProgress #mkautoscroll,.mkprinting #generated-toc,.mkprinting #firstdiff,.mkprinting #toc-title,.mkprinting #mkdocumentprogress,.mkprinting #mkincludechart,.mkprinting #mkprogressbar1,.mkprinting #mkprogressbar2,.mkprinting b.bookmark,.mkprinting .mkscrollmeter,.mkprinting #alllinks,.mkprinting #criticnav,.mkprinting .popup,.mkprinting #progressindicator,.mkprinting #mkautoscroll{display:none !important}.hideProgress .mkstyledtag,.mkprinting .mkstyledtag{display:none}.mkcolor-grammar-error,.mkcolor-spell-error{background:none;border-bottom:none}.mkprinting.mkshowcomments .mkstyledtag{display:inline;background:#ccc;padding:3px 9px;border-radius:20px;font-size:1}@media print{body{background:white;line-height:1.4}html,body,#wrapper{-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;-webkit-perspective:none !important;-webkit-text-size-adjust:none;border:0;box-sizing:border-box;float:none;margin:0;max-width:100%;padding:0;margin-top:0;width:auto}.critic #wrapper mark.crit{background-color:#fffd38 !important;text-decoration:none;color:#000}h1,h2,h3,h4,h5,h6{page-break-after:avoid}p,h2,h3{orphans:3;widows:3}section{page-break-before:avoid}pre>code{white-space:pre;word-break:break-word}#generated-toc,#firstdiff,#toc-title,#mkdocumentprogress,#mkincludechart,#mkprogressbar1,#mkprogressbar2,.mkscrollmeter,#alllinks,.popup{display:none !important}.suppressprintlinks a{border-bottom:none !important;color:inherit !important;cursor:default !important;text-decoration:none !important}.hrefafterlinktext #wrapper a:link:after,.hrefafterlinktext #wrapper a:visited:after{content:" (" attr(href) ") ";font-size:90%;opacity:.9}.nocodebreak pre{page-break-inside:avoid}img,table,figure{page-break-inside:avoid}.breakfootnotes .footnotes{page-break-before:always}.breakfootnotes .footnotes hr{display:none}#mktoctitle{display:block}#print-title{border-bottom:solid 1px #666;display:block}#wrapper pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}#wrapper #generated-toc-clone,#wrapper #mkreplaced-toc{display:block}.task-list .task-list-item{list-style-type:none !important}.task-list .gh-complete.task-list-item .task-list-item-checkbox:before{background:#838387;content:'\2713'}.task-list .task-list-item-checkbox{-webkit-appearance:none;position:relative}.task-list .task-list-item-checkbox:before{border:solid 1px #aaa;border-radius:2px;color:white;content:' ';display:block;font-weight:bold;height:1em;left:-20px;line-height:1;position:absolute;text-align:center;top:-.75em;width:1em}}
+#wrapper #generated-toc-clone,#wrapper #mkreplaced-toc,#wrapper #generated-toc-clone ul,#wrapper #mkreplaced-toc ul{list-style-position:inside}#wrapper #generated-toc-clone li.missing,#wrapper #mkreplaced-toc li.missing{list-style-type: none!important}#wrapper #generated-toc-clone ul,#wrapper #mkreplaced-toc ul{list-style-type: upper-roman}#wrapper #generated-toc-clone>ul>li>ul,#wrapper #mkreplaced-toc>li>ul {list-style-type: decimal}#wrapper #generated-toc-clone>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul{list-style-type: decimal-leading-zero}#wrapper #generated-toc-clone>ul>li>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul>li>ul{list-style-type: lower-greek}#wrapper #generated-toc-clone>ul>li>ul>li>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul>li>ul>li>ul{list-style-type: disc}#wrapper #generated-toc-clone>ul>li>ul>li>ul>li>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul>li>ul>li>ul>li>ul{list-style-type: square}#wrapper #generated-toc-clone,#wrapper #mkreplaced-toc{}
+</style>
+
+<style id="mkprintstyles">@media print{#wrapper #generated-toc-clone,#generated-toc{display:none!important}hr{border:none!important;page-break-after:always!important;background:none!important}
+html,body,#wrapper{font-size:10pt}
+}
+</style>
+
+
+  </head>
+<body class="normal showpagebreaks">
+  <div id="wrapper">
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>-</title>
+  <style type="text/css">code{white-space: pre;}</style>
+
+</head>
+<body>
+
+
+
+<h1 id="data-management-sheet-for-study-ii">Data Management Sheet for Study II</h1>
+<h2 id="oj-finalized-his-categorization-of-open-question-answers">2020-10-01: OJ finalized his categorization of open question answers</h2>
+<ul>
+<li><a href="/pdfs/201001-OJs-categorization-of-open-question-answers.pdf">Här</a> är OJs kategoriseringar</li>
+</ul>
+<h2 id="jf-finalized-his-categorization-of-open-question-answers">2020-10-22: JF finalized his categorization of open question answers</h2>
+<ul>
+<li><a href="/htmlfiles/201011-JFs-categorization-of-open-question-answers">Här</a> är mina kategoriseringar</li>
+</ul>
+<h2 id="mk-finalized-her-categorization-of-open-question-answers">2020-10-22: MK finalized her categorization of open question answers</h2>
+<ul>
+<li><a href="/pdfs/201122-MKs-categorization-of-open-question-answers.pdf">Här</a> är MKs kategoriseringar</li>
+</ul>
+<h2 id="online-meeting-with-oj-and-mk-to-agree-on-categorization-of-open-question-answers">2020-11-06: Online meeting with OJ and MK to agree on categorization of open question answers</h2>
+<p><a href="/pdfs/201106-Agreed-upon-categorization-of-open-question-answers.pdf">Här</a> är dokumentationen av våra slutgiltiga kategoriseringar. Det som anges först (på den plats där INTNR är listade) är JF:s svar markerade med ett J, det som anges därefter är MK:s eller OJ:s, markerade med M eller O. Det som anges sist, efter bindestrecket, är det som vi gemensamt kom överens om att svaret skulle kategoriseras som.</p>
+<h2 id="userage-panelstudy-meeting-on-data-cleaning">2020-11-24: UserAge Panelstudy, meeting on data cleaning</h2>
+<p>Attending: BS, MK &amp; SS</p>
+<p>Against the background of the discovery of data quality problems and lack of documentation of data cleaning procedures by Sifo/Kantar a meeting was held to review the issues and set up a process for a final cleaning of the data sets.</p>
+<p>Some recurrent patterns had been detected in the data. Though each item in multiple choice questions should always be coded Yes or No, in a substantial number of cases only positive answers were recorded. It was decided that if this was done a consistent manner, the missing responses could be replaced by No. In case there was a mix, some Yes, some No and some missing, it was decided to not to replace missing answers with No as the respondent intention was not clear. Steve will write a syntax to execute the replacement of missing values with No codes. The syntax will be applied to all multiple choice questions (1, 3, 4, 9, 10, 12, 13, 16?). The syntax will be validated by test running and review of output files.</p>
+<p>If all options for question 3 are answered No, question 4 should be answered, otherwise the respondent should skip question 4. It was decided Steve will check if this is consistently coded in the database.</p>
+<p>Question 7 is a filter question: if answer is Yes or Maybe, questions 8-10 should be answered, if answer No, questions 8-10 should be skipped. It was decided that if questions 8-10 were entirely skipped, but answer for question 7 missing, it could be replaced by No. If questions 8-10 were answered, but 7 missing, it was decided it could be replaced by Yes/Maybe after manual check.</p>
+<p>For questions where a response option leads to question of specification, it was decided missing values could be replaced by valid response if a specifying text was provided. This applies to questions 3, 4, 8g, 9, 10, 12, 13, 14, 18, 22.</p>
+<p>Missing values in all other instances (not mentioned above) should remain as missing values. It was decided however, that “system missing” should be replaced by missing code 99 (and recorded as missing code in SPSS, so it is not included in calculations).</p>
+<p>Additionally, it was discovered during the meeting that the numbering of some questions in the data set did not match the numbering on the questionnaire. This concerned:</p>
+<ul>
+<li>Question 15 in the database matched 17 in questionnaire</li>
+<li>Question 16 in the database matched 15 in questionnaire</li>
+<li>Question 17 in the database matched 16 in questionnaire</li>
+<li>Question 19 in the database matched 21 in questionnaire</li>
+<li>Question 20 in the database matched 19 in questionnaire</li>
+<li>Question 21 in the database matched 20 in questionnaire</li>
+</ul>
+<p>Notes by BS, 2020-11-25</p>
+<h2 id="erhöll-uppdaterad-fil-där-missing-data-kodats-om">2021-01-12: Erhöll uppdaterad fil där missing data kodats om</h2>
+<p>SS förklarade att filen finns i min mapp i LUSEC under namnet <em>Target group 1 recoded missing 2021-01-12</em> och vi gick igenom filen tilsammans.</p>
+<h2 id="omkodning-av-fritextsvaren-i-befintliga-eller-nyskapade-kategorier">2021-01-15 - 2021-02-03: Omkodning av fritextsvaren i befintliga eller nyskapade kategorier</h2>
+<p>Skapade en ny fil i LUSEC som jag döpte till <em>Target group 1 recoded open questions 2021-01-25_Joakim.sav</em> där jag alltså i de befintliga kolumner som fanns från SS:s omkodningar av missing fyllde i de omkodningar som MK, OJ och jag beslutat oss för när det gällde fritextsvaren.</p>
+<p>Insåg också att jag i <a href="/pdfs/201106-Agreed-upon-categorization-of-open-question-answers.pdf">denna fil</a> endast listat de INTNR och kodningar där OJ,MK och jag var oense och inte omkodningarna för de INTNR där vi initialt var överens. Har slarvat lite i dokumentationen där, men i följande <a href="/htmlfiles/201011-JFs-categorization-of-open-question-answers">fil</a> har jag listat mina initiala kategoriseringar och baserat på dem går det att räkna ut för vilka INTNR som OJ,MK och jag kategoriserat lika (och inte bara olika).</p>
+<p>Det var ju också så att vi kom överens om att #npc skulle ersättas med #nv rakt igenom för att inte komplicera saker i onödan.</p>
+<h3 id="question-1-har-du-som-privatperson-tidigare-deltagit-i-forskning">Question 1: Har du som privatperson tidigare deltagit i forskning?</h3>
+<p>För Fråga 1-alternativen fanns redan <em>recode</em>-varianter så jag ändrade i dessa befintliga och skapade inga nya kopior. Här nedan beskrivs vilka omkodningar som gjordes.</p>
+<p>(OBS! För fråga 1 raderade jag (texten i) fritextsvaren i Q1_Other_ efter korrekt omkodning (kategorisering) av svaren. Dessa återfinns i korrekt version i filen <em>Target group 1 recoded missing 2021-01-12</em>)</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-efter-att-ha-kategoriserat-fritextsvaren-olika-initialt-vid-efterföljande-diskussion-kommit-överens-om">De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat fritextsvaren olika initialt, vid efterföljande diskussion kommit överens om:</h4>
+<h5 id="not-valid-answers">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q1_6_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>369 - #nv</li>
+<li>615 - #nv</li>
+<li>674 - #nv</li>
+<li>712 - #nv</li>
+<li>759 - #nv</li>
+<li>775 - #nv</li>
+<li>818 - #nv</li>
+<li>851 - #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q1_6_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>19 - 1.4</li>
+<li>27 - 1.4</li>
+<li>149 - 1.4</li>
+<li>195 - 1.4</li>
+<li>295 - 1.4</li>
+<li>375 - 1.4</li>
+<li>149 - 1.1 + 1.2 + 1.3 + 1.4 + 1.5</li>
+</ul>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-kategoriserat-lika-initialt">De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:</h4>
+<h5 id="not-valid-answers-1">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q1_6_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>66</li>
+<li>68</li>
+<li>131</li>
+<li>198</li>
+<li>293</li>
+<li>465</li>
+<li>477</li>
+<li>545</li>
+<li>607</li>
+<li>701</li>
+<li>729</li>
+<li>739</li>
+<li>761</li>
+<li>808</li>
+<li>512</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-1">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q1_6_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>64 - 1.1</li>
+<li>136 - 1.5</li>
+<li>190 - 1.1 + 1.3</li>
+<li>220 - 1.2</li>
+<li>239 - 1.5</li>
+<li>349 - 1.2</li>
+<li>364 - 1.3 + 1.5</li>
+<li>490 - 1.2</li>
+<li>599 - 1.1</li>
+<li>721 - 1.4</li>
+<li>738 - 1.4</li>
+<li>777 - 1.1</li>
+<li>830 - 1.3</li>
+</ul>
+<h3 id="question-3-har-du-som-privatperson-tidigare-medverkat-aktivt-i-själva-genomförandet-av-forskning">Question 3: Har du som privatperson tidigare medverkat aktivt i själva genomförandet av forskning?</h3>
+<p>Skapade en ny kolumn:</p>
+<ul>
+<li>Q3._Other_recode till höger om Q3._Other_.</li>
+</ul>
+<p>För de övriga Fråga 3-alternativen fanns redan <em>recode</em>-varianter så jag ändrade i dessa befintliga och skapade inga nya kopior. Här nedan beskrivs vilka omkodningar som gjordes.</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-efter-att-ha-kategoriserat-fritextsvaren-olika-initialt-vid-efterföljande-diskussion-kommit-överens-om-1">De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat fritextsvaren olika initialt, vid efterföljande diskussion kommit överens om:</h4>
+<h5 id="not-valid-answers-2">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q3_7_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>68</li>
+<li>76</li>
+<li>239</li>
+<li>261</li>
+<li>278</li>
+<li>324</li>
+<li>326</li>
+<li>477</li>
+<li>484</li>
+<li>539</li>
+<li>550</li>
+<li>739</li>
+<li>775</li>
+<li>853</li>
+</ul>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-kategoriserat-lika-initialt-1">De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:</h4>
+<h5 id="not-valid-answers-3">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande: #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q3_7_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>6</li>
+<li>34</li>
+<li>99</li>
+<li>193</li>
+<li>244</li>
+<li>280</li>
+<li>356</li>
+<li>518</li>
+<li>545</li>
+<li>576</li>
+<li>591</li>
+<li>604</li>
+<li>650</li>
+<li>658</li>
+<li>671</li>
+<li>709</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-2">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q3_7_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>617 - 3.1</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q3_7_recode och under variabeln Q3_Other_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<p>1 = Övrigt</p>
+<ul>
+<li>555 - #pc (“Jag har en forskarbakgrund och har som privatperson och i andra professionalla rollen medverkat i forskningsprocesser”) - Övrigt</li>
+</ul>
+<h3 id="question-4-om-du-tidigare-inte-har-medverkat-aktivt-i-forskning-vilken-var-anledningen">Question 4: Om du tidigare inte har medverkat aktivt i forskning, vilken var anledningen?</h3>
+<p>Skapade en ny kolumn: * Q4._Other_recode till höger om Q4._Other_.</p>
+<p>För de övriga Fråga 4-alternativen fanns redan <em>recode</em>-varianter så jag ändrade i dessa befintliga och skapade inga nya kopior. Här nedan beskrivs vilka omkodningar som gjordes.</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-efter-att-ha-kategoriserat-fritextsvaren-olika-initialt-vid-efterföljande-diskussion-kommit-överens-om-2">De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat fritextsvaren olika initialt, vid efterföljande diskussion kommit överens om:</h4>
+<h5 id="not-valid-answers-nv">Not valid answers (#nv)</h5>
+<p>Omkodningar gjordes enligt följande: #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q4_12_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>53</li>
+<li>105</li>
+<li>129</li>
+<li>131</li>
+<li>184</li>
+<li>209</li>
+<li>289</li>
+<li>313</li>
+<li>357</li>
+<li>478</li>
+<li>857</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-3">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q4_12_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>58 - 4.11</li>
+<li>292 - 4.1</li>
+<li>399 - 4.11</li>
+<li>488 - 4.1</li>
+<li>600 - 4.1</li>
+<li>691 - 4.7</li>
+<li>859 - 4.7</li>
+</ul>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-kategoriserat-lika-initialt-2">De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:</h4>
+<h5 id="not-valid-answers-4">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande: #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q4_12_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>293</li>
+<li>516</li>
+<li>644</li>
+<li>733</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-4">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q4_12_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>31 - 4.11</li>
+<li>149 - 4.8</li>
+<li>220 - 4.1</li>
+<li>300 - 4.1</li>
+<li>377 - 4.11</li>
+<li>400 - 4.12</li>
+<li>404 - 4.12</li>
+<li>528 - 4.1</li>
+<li>564 - 4.11</li>
+<li>734 - 4.1</li>
+<li>779 - 4.7</li>
+<li>825 - 4.1</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-1">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q4_12_recode och under variabeln Q4_Other_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li><p>1 = Övrigt</p></li>
+<li><p>370 -(“Inte utbildad i forskning”) - #pc Övrigt</p></li>
+<li><p>864 - (“Tveksamt om privatpersoner ska agera aktivt. Forskningens objektivitet mycket viktig.”) - #pc Övrigt</p></li>
+</ul>
+<h3 id="question-8a-g-om-du-fick-möjlighet-hur-sannolikt-är-det-att-du-skulle-vilja-medverka-genom-att">Question 8a-g: Om du fick möjlighet, hur sannolikt är det att du skulle vilja medverka genom att…</h3>
+<p>Skapade två nya kolumner: * Q8g_DK_recode till höger om Q8g_DK * Q8g_recode (för fritextsvaren) till höger om Q8g</p>
+<p>Upptäckte dock att vi har missat att kategorisera ett antal fritextsvar. De flesta var sådana som svarat ‘Nej’, ‘Vet inte’ eller ‘Inget’ (eller något motsvarande) och som jag således i Q8g_recode_ kodade om som ‘2’ istället för ‘1’. Det var följande INTNR som gjort det: 23; 44; 76; 113; 120; 127; 136; 155; 176; 188; 199; 215; 220; 224; 237; 251; 285; 300; 314; 323; 327; 330; 349; 353; 386; 399; 420; 429; 434; 456; 459; 463; 487; 501; 518; 528; 551; 565; 598; 618; 622; 623; 628; 642; 652; 658; 693; 721; 733; 734; 748; 779; 802; 807; 815; 822; 829; 840; 841; 843; 847; 853; 855; 878.</p>
+<p>Det vill säga 64 stycken, vilket är påfallande många. Vet inte hur jag har kunnat missa dem.</p>
+<p>Därtill var det ett fåtal ytterliggare fritextsvar som inte kategoriserats, nämligen följande: * INTNR 46: “Det är väl att man sprider det i sin krets och debatterar privat om olika resultat i sådan forskning.” * INTNR 66: “Svara på enkätfrågor, ge synpunkter på ett frågeformulär.” * INTNR 491: “Sprida kunskap till vänner och bekanta.” * INTNR 739: “Vill vara lite delaktig i forskning”.</p>
+<p>Här gjorde jag så att jag kategoriserade 46, 491 och 739 som ‘Not valid’ och 66 som 8d [“ge synpunkter på ett frågeformulär”] + den nyskapade kategorin ‘Medverkan som försöksperson eller respondent’.</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-efter-att-ha-kategoriserat-dem-olika-initialt-kommit-överens-om">De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt kommit överens om:</h4>
+<h5 id="not-valid-answers-5">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande: #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q8g_DK_recode i de fall där de inte redan var kategoriserade som ‘2’:</p>
+<ul>
+<li>6 - #nv</li>
+<li>102 - #nv</li>
+<li>103 - #nv</li>
+<li>107 - #nv</li>
+<li>184 - #nv</li>
+<li>196 - #nv</li>
+<li>358 - #nv</li>
+<li>390 - #nv</li>
+<li>414 - #nv</li>
+<li>423 - #nv</li>
+<li>430 - #nv</li>
+<li>503 - #nv</li>
+<li>507 - #nv</li>
+<li>514 - #nv</li>
+<li>538 - #nv</li>
+<li>555 - #nv</li>
+<li>575 - #nv</li>
+<li>580 - #nv</li>
+<li>613 - #nv</li>
+<li>624 - #nv</li>
+<li>670 - #nv</li>
+<li>861 - #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-5">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q8g_DK_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>46 – 8e</li>
+<li>48 – 8b</li>
+<li>143 – 8d</li>
+<li>235 – 8e</li>
+<li>253 - 8c</li>
+<li>296 – 8a</li>
+<li>491 – 8e</li>
+<li>520 – 8e</li>
+<li>562 – 8e</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-2">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q8g_DK_recode och under variabeln Q8g_recode fylldes ‘Medverkan som försöksperson eller respondent’ i istället för det befintliga fritextsvaret.</p>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q8g_DK_recode och under variabeln Q8g_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li><p>1 = Medverkan som försöksperson eller respondent</p></li>
+<li><p>11 (‘Fysisk undersökning’) - #pc Medverkan som försöksperson eller respondent</p></li>
+<li><p>53 (‘Genom enkäter, helst via internet’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>99 (‘Enkäter, provtagningar eller tester’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>111 (‘Delta i utvärderingar i första hand via internet’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>281 (‘Genom enkätundersökning’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>490 (‘medverka genom att besvara frågor och genom min egen erfarenhet’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>558 (‘sms, mail’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>602 (‘att bli intervjuad i dessa frågorna’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>625 (‘svara på frågor’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>705 (‘Jag har inga problem att svara på enkäter samt lämna uppgifter om mig själv till forskningen. Jag har alltid godkänt att sjukvården får använda resultat samt prover från mig i forskningssyfte. Jag anser att patienterna ska vara mycket mer delaktiga i sin behandling om dom vill men det är väldigt svårt att få vara det. för er information har jag haft cancer två gånger, oberoende av varandra. Jag har gått på kontroller i 16 år. Jag har varit med att starta en cancerpatientförening (Sarcomföreningen’) och suttit i dess styrelse de två första åren.’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>712 (‘om det är samtal’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>740 (‘Ge skriftliga synpunkter’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>772 (‘Fysiska tester’) - #pc medverkan som försöksperson/respondent</p></li>
+<li><p>809 (‘Testa nya behandlingsformer’) - #pc medverkan som försöksperson/respondent</p></li>
+</ul>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-kategoriserat-lika-initialt-3">De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:</h4>
+<p>Beslutet som MK, OJ och jag gjorde att skapa en ny kategori med namnet “medverkan som försöksperson/respondent” påverkade även retroaktivt de kategoriseringar vi gjort enskilt och där vi då varit överens om att ett svar var “Not valid” om det omfattade en icke aktiv medverkan. Jag gjorde därför om dessa uppenbara svar på en medverkan i forskning som inte var aktiv och kategoriserade dem som tillhörande vår nyskapade kategori.</p>
+<h5 id="not-valid-answers-nv-1">Not valid answers (#nv)</h5>
+<p>Omkodningar gjordes enligt följande: #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q8g_DK_recode i de fall där de inte redan var kategoriserade som ‘2’:</p>
+<ul>
+<li>13 - #nv</li>
+<li>17 - #nv</li>
+<li>124 - #nv</li>
+<li>144 - #nv</li>
+<li>148 - #nv</li>
+<li>180 - #nv</li>
+<li>292 - #nv</li>
+<li>409 - #nv</li>
+<li>448 - #nv</li>
+<li>460 - #nv</li>
+<li>478 - #nv</li>
+<li>494 - #nv</li>
+<li>604 - #nv</li>
+<li>709 - #nv</li>
+<li>738 - #nv</li>
+<li>751 - #nv</li>
+<li>765 - #nv</li>
+<li>832 - #nv</li>
+<li>866 - #nv</li>
+<li>880 - #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-6">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q8g_DK_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>60 - 8c</li>
+<li>190 - 8c + 8d</li>
+<li>250 - 8e</li>
+<li>259 - 8e</li>
+<li>265 - 8e</li>
+<li>321 - 8b</li>
+<li>326 - 8c</li>
+<li>350 - 8e</li>
+<li>360 - 8a</li>
+<li>402 - 8e</li>
+<li>439 - 8a</li>
+<li>443 - 8a</li>
+<li>560 - 8a</li>
+<li>578 - 8a</li>
+<li>600 - 8a</li>
+<li>699 - 8e</li>
+<li>725 - 8a</li>
+<li>735 - 8b</li>
+<li>775 - 8a</li>
+<li>864 - 8b</li>
+<li>875 - 8e</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-3">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q8g_DK_recode och under variabeln Q8g_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li><p>1 = Medverkan som försöksperson eller respondent</p>
+<ul>
+<li>3 (‘Fylla i frågeformulär’) - #pc medverkan som försöksperson/respondent</li>
+<li>28 (‘Kan svara på enkäter och telefonfrågor’) - #pc medverkan som försöksperson/respondent</li>
+<li>30 (‘Endast svara på enkäter’) - #pc medverkan som försöksperson/respondent</li>
+<li>35 (‘T.ex. vara med och ge synpunkter på medicin/infusion som jag själv använder’) - #pc medverkan som försöksperson/respondent</li>
+<li>41 (‘svara på enkäter som nu’) - #pc medverkan som försöksperson/respondent</li>
+<li>83 (‘Frågor till mig om hur jag som äldre mår och hur jag lever’) - #pc medverkan som försöksperson/respondent</li>
+<li>118 (‘Är med på att testa min kropp’) - #pc medverkan som försöksperson/respondent</li>
+<li>128 (‘försökskanin’) - #pc medverkan som försöksperson/respondent</li>
+<li>153 (‘Svara på enkäter eller telefonintervju, t.ex.’) - #pc medverkan som försöksperson/respondent</li>
+<li>198 (‘T.ex. delta i liknande intervjuer som den här’) - #pc medverkan som försöksperson/respondent</li>
+<li>203 (‘Jag kan tänka mig lämna prover i forskningssyfte’) - #pc medverkan som försöksperson/respondent</li>
+<li>232 (‘Svara på enkät’) - #pc medverkan som försöksperson/respondent</li>
+<li>268 (‘prova nya mediciner’) - #pc medverkan som försöksperson/respondent</li>
+<li>267 (‘Genom att tala om hur jag mår’) - #pc medverkan som försöksperson/respondent</li>
+<li>347 (‘Svar på frågor - enkäter’) - #pc medverkan som försöksperson/respondent</li>
+<li>370 (‘Skulle kuna tänka sig att vara försöksperson’) - #pc medverkan som försöksperson/respondent</li>
+<li>416 (‘Ja genom telefonintervjuer och enkäter’) - #pc medverkan som försöksperson/respondent</li>
+<li>422 (‘Skulle kunna tänka mig att testa nya mediciner’) - #pc medverkan som försöksperson/respondent</li>
+<li>432 (‘Svara på enkäter, delta i kroppsliga undersökningar’) - #pc medverkan som försöksperson/respondent</li>
+<li>511 (‘Ställa upp som försöksperson’) - #pc medverkan som försöksperson/respondent</li>
+<li>544 (’Att själv delta som “forskningsobjekt”) - #pc medverkan som försöksperson/respondent</li>
+<li>545 (‘Vill vara en helt vanlig person i projektet “försöksperson” (ej involverad i själva forskargruppen)’) - #pc medverkan som försöksperson/respondent</li>
+<li>586 (‘Besvara enkäter’) - #pc medverkan som försöksperson/respondent</li>
+<li>590 (‘Skulle kunna tänka mig att vara föremål för själva forskningen, som "försökskanin’) - #pc medverkan som försöksperson/respondent</li>
+<li>614 (‘Kan tänka sig t.ex. medicinsk forskning att delta i. Bra att se egna resultat samt vara till hjälp för andra i framtiden.’) - #pc medverkan som försöksperson/respondent</li>
+<li>636 (‘Svara på enkät/frågor för något forskningsprojekt’) - #pc medverkan som försöksperson/respondent</li>
+<li>650 (‘I princip svarar jag gärna på enkätfrågor när det gäller åldrande och hälsa. Svarar på enkät är ok men att rekrytera och så kan vara för mycket för en privatperson’) - #pc medverkan som försöksperson/respondent</li>
+<li>689 (‘Intervju, provtagning’) - #pc medverkan som försöksperson/respondent</li>
+<li>697 (‘Som försöksperson’) - #pc medverkan som försöksperson/respondent</li>
+<li>804 (‘skulle kunna svara på frågor’) - #pc medverkan som försöksperson/respondent</li>
+<li>833 (‘hjälpa till med att svara på frågor’) - #pc medverkan som försöksperson/respondent</li>
+</ul></li>
+</ul>
+<h3 id="question-9-via-vilka-kanaler-föredrar-du-att-bli-informerad-om-möjligheter-att-medverka-aktivt-i-forskning-om-åldrande-och-hälsa">Question 9: Via vilka kanaler föredrar du att bli informerad om möjligheter att medverka aktivt i forskning om åldrande och hälsa?</h3>
+<p>Skapade en ny kolumn:</p>
+<ul>
+<li>Q9._Other_recode till höger om Q9._Other_.</li>
+</ul>
+<p>För de övriga Fråga 9-alternativen fanns redan <em>recode</em>-varianter så jag ändrade i dessa befintliga och skapade inga nya kopior. Här nedan beskrivs vilka omkodningar som gjordes.</p>
+<h4 id="ojs-förslag-på-gruppering-av-kategorier">OJs förslag på gruppering av kategorier</h4>
+<p>OJ föreslog att kategorierna kunde grupperas enligt följande:</p>
+<h5 id="personal-communication">Personal communication</h5>
+<ul>
+<li>9.1 Utskick med brev (Personal communication)</li>
+<li>9.4 Personligt telefonsamtal, möte (Personal communication)</li>
+<li>9.5 E-post (Personal communication)</li>
+<li>9.6 SMS (Personal communication)</li>
+</ul>
+<h5 id="mass-media">Mass media</h5>
+<ul>
+<li>9.2 Annons eller artikel i tidning (mass media)</li>
+<li>9.3 Internet/sociala medier (mass media)</li>
+<li>9.7 Tv/radio (mass media)</li>
+<li>9.9 Annons på anslagstavla (mass media)</li>
+</ul>
+<h5 id="public-event">Public event</h5>
+<ul>
+<li>9.8 Offentligt möte, konferens eller föreläsning (Public event)</li>
+</ul>
+<p>Detta kan göras med utgångspunkt i det befintliga datasetet men det är ingen prioritet att göra det just nu som jag ser det.</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-efter-att-ha-kategoriserat-fritextsvaren-olika-initialt-vid-efterföljande-diskussion-kommit-överens-om-3">De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat fritextsvaren olika initialt, vid efterföljande diskussion kommit överens om:</h4>
+<h5 id="not-valid-answers-6">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q9_10_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>181 - #nv</li>
+<li>723 - #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-7">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q9_10_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>330 – 9.9</li>
+<li>402 – 9.4</li>
+<li>555 – 9.4</li>
+<li>775 – 9.8</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-4">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q9_10_recode och under variabeln Q9_Other_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li>1 = Övrigt</li>
+</ul>
+<p>[Inga INTNR här]</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-kategoriserat-lika-initialt-4">De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:</h4>
+<h5 id="not-valid-answers-7">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q9_10_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>280 - #nv</li>
+<li>456 - #nv</li>
+<li>806* - #nv [= redan markerad som ‘99’]</li>
+<li>825 - #nv</li>
+<li>853 (‘via vänner ochh bekanta’)#pc - är egentligen svar på nästa fråga, alltså #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-8">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q9_10_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>136 - 9.4</li>
+<li>184 - 9.4</li>
+<li>220 - 9.7</li>
+<li>320 - 9.4</li>
+<li>390 - 9.4</li>
+<li>414 - 9.4</li>
+<li>641 - 9.1</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-5">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q9_10_recode och under variabeln Q9_Other_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li><p>1 = Övrigt</p></li>
+<li><p>590 - (‘Jag vill ha information som är väldigt riktad till mig som individ och inte till för stora grupper’) #pc - Övrigt</p></li>
+<li><p>733 (‘Uppsökande verksamhet’) #pc - Övrigt</p></li>
+</ul>
+<h3 id="question-10av-vemvilka-föredrar-du-att-få-information-om-möjligheter-att-medverka-aktivt-i-forskning-om-åldrande-och-hälsa-som-privatperson">Question 10:Av vem/vilka föredrar du att få information om möjligheter att medverka aktivt i forskning om åldrande och hälsa, som privatperson?</h3>
+<p>Skapade en ny kolumn:</p>
+<ul>
+<li>Q10._Other_recode till höger om Q10._Other_.</li>
+</ul>
+<p>För de övriga Fråga 10-alternativen fanns redan <em>recode</em>-varianter så jag ändrade i dessa befintliga och skapade inga nya kopior. Här nedan beskrivs vilka omkodningar som gjordes.</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-efter-att-ha-kategoriserat-fritextsvaren-olika-initialt-vid-efterföljande-diskussion-kom-överens-om">De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat fritextsvaren olika initialt, vid efterföljande diskussion kom överens om:</h4>
+<h5 id="not-valid-answers-8">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q10_9_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>113 - #nv</li>
+<li>538 - #nv</li>
+<li>555 - #nv</li>
+<li>757 - #nv</li>
+<li>785 - #nv</li>
+<li>825 - #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-9">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q10_9_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>162 – 10.1</li>
+<li>181 – 10.1</li>
+<li>602 – 10.8 (lägg till kollegor till nästa enkät!)</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-6">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q9_10_recode och under variabeln Q10_Other_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li>1 = Övrigt</li>
+</ul>
+<p>[Inga INTNR här]</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-kategoriserat-lika-initialt-5">De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:</h4>
+<h5 id="not-valid-answers-9">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q10_9_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>280 - #nv</li>
+<li>286 - #nv</li>
+<li>356 - #nv</li>
+<li>368 - #nv</li>
+<li>459 - #nv</li>
+<li>525 - #nv</li>
+<li>774 - #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-10">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q10_9_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>220 - 10.2</li>
+<li>323 - 10.2</li>
+<li>467 - 10.2</li>
+<li>590 - 10.5</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-7">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q10_9_recode och under variabeln Q10_Other_recode fylldes ‘Övrigt’ i istället för det befintliga fritextsvaret.</p>
+<ul>
+<li>60 (‘…från olika myndigheter’) #pc ‘Övrigt’</li>
+</ul>
+<!-- ---
+
+### Q11
+* Ingenting att kommentera här. I de fall där värde saknas är det 'Missing value', i övriga fall de alternativ som har angetts.
+
+--->
+<h3 id="question-12-vad-skulle-kunna-motivera-dig-att-medverka-aktivt-i-forskning-om-åldrande-och-hälsa">Question 12: Vad skulle kunna motivera dig att medverka aktivt i forskning om åldrande och hälsa?</h3>
+<p>Skapade en ny kolumn:</p>
+<ul>
+<li>Q12._Other_recode till höger om Q12._Other_.</li>
+</ul>
+<p>För de övriga Fråga 12-alternativen fanns redan <em>recode</em>-varianter så jag ändrade i dessa befintliga och skapade inga nya kopior. Här nedan beskrivs vilka omkodningar som gjordes.</p>
+<p>OBS! Insåg att det var väldigt många (uppskattningsvis 150-200) som angett ‘1’ på fråga 12_12 trots att det inte angetts något fritextsvar. Oklart varför. Bestämde mig därför att koda om alla 1:or till 2:or förutom i de fall där valida fritextsvar angetts, alltså sådana svar som kunnat kodats om till någon av fritextkategorierna nedan.</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-efter-att-ha-kategoriserat-dem-olika-initialt-kommit-överens-om-överens">De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt kommit överens om överens:</h4>
+<h5 id="not-valid-answers-10">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q12_12_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>733 (‘För att jag själv är i den målgruppen’) - #nv</li>
+<li>781 (‘Att det sker i —kommun’) - #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-11">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q12_12_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>64 (‘Att andra äldre, som kommer efter mig kan få hjälp/förbättringar genom de rön forskningen kommer fram till’) – 12.9 + 12.4</li>
+<li>321 (‘Om jag blev kontaktad så skulle jag vara motiverad’) – 12.2</li>
+<li>459 (‘Intresse för ämnet. Jag vill få mer kunskap i ämnet’) – 12.11 (lägg till viktigt+intressant i nästa enkät + lägg till att lära sig något nytt)</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-8">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q12_9_recode och under variabeln Q12_Other_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li><p>1 = The conviction that the involvement enriches the research</p></li>
+<li><p>2 = That I trust the researchers and the research</p></li>
+<li><p>3 = The conviction that I can get a better health through involvement</p></li>
+<li><p>4 = Financial compensation</p></li>
+<li><p>5 = The conviction that it really leads to change</p></li>
+<li><p>155 (‘Att jag själv skulle ha personlig nytta av forskningsresultatet och att andra också skulle få nytta av det’) – 12.4 (+ #pc egennytta)*</p></li>
+</ul>
+<p>*Kommentar: Det är oklart vad som åsyftas med “personlig nytta” i detta fall. Mot bakgrund av att det blir mycket tolkning har jag valt att endast koda om denna till 12.4. och ej skapa en ny kategori som heter ‘Egennytta’.</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-kategoriserat-lika-initialt-6">De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:</h4>
+<h5 id="not-valid-answers-11">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q12_12_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>327 - #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-12">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q12_12_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>20 - 12.9</li>
+<li>60 - 12.11</li>
+<li>136 - 12.4</li>
+<li>220 - 12.3 + 12.4</li>
+<li>452 - 12.9</li>
+<li>775 - 12.11</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-9">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q12_12_recode och under variabeln Q12_Other_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li>1 = The conviction that the involvement enriches the research</li>
+<li>2 = That I trust the researchers and the research</li>
+<li>3 = The conviction that I can get a better health through involvement</li>
+<li>4 = Financial compensation</li>
+<li>5 = The conviction that it really leads to change</li>
+</ul>
+<h6 id="ny-kategori-1.-the-conviction-that-the-involvement-enriches-the-research">Ny kategori: 1. The conviction that the involvement enriches the research</h6>
+<ul>
+<li>6 (‘Viktigt att man ser människan i forskningen och lyssnar på människan’) #pc - Sharing common values (Gemensam värdegrund - Personcentrering vilar på personfilosofins tankar kring vad det innebär att vara en människa)</li>
+</ul>
+<h5 id="ny-kategori-2.-that-i-trust-the-researchers-and-the-research">Ny kategori: 2. That I trust the researchers and the research</h5>
+<ul>
+<li>323 (‘Att få veta vad forskningen kommer att leda till i framtiden för mina barn och barnbarn. Att jag känner att jag litar på forskarna skulle motivera mig att delta’) - 12.10 + #pc - Sharing common values (Gemensam värdegrund - känsla av tillit)</li>
+<li>339 (‘Att få känna mig trygg’) #pc - Sharing common values (Gemensam värdegrund - känsla av trygghet)</li>
+<li>375 (‘Att jag får förtroende för forskare’) #pc - YES! Sharing common values (Gemensam värdegrund - känsla av förtroende)</li>
+<li>538 (‘Om jag blev kontaktad av rätt personer som jag känner förtroende för’) #pc - Sharing common values (Gemensam värdegrund - känsla av förtroende)</li>
+<li>779 (‘Om jag fick en seriös förfrågan, beroende på vem som ställer frågan. Om det är en seriös aktör så är jag intresserad’) #pc - Sharing common values (Gemensam värdegrund - känsla av tillit) AND #pc: Att någon frågade</li>
+</ul>
+<h6 id="ny-kategori-3.-the-conviction-that-i-can-get-a-better-health-through-involvement">Ny kategori: 3. The conviction that I can get a better health through involvement</h6>
+<ul>
+<li>130 (‘för att må bättre’) #pc - Egennytta (with subcategories see above)</li>
+<li>520 - 12.4 + #pc - Egennytta</li>
+<li>590 (‘Om jag själv skulle kunna få en bättre hälsa av att delta’) #pc - Egennytta</li>
+</ul>
+<h6 id="financial-compensation">4. Financial compensation</h6>
+<ul>
+<li>161 (‘Få ekonomisk ersättning’) #pc - att jag får ekonomisk ersättning (subkategori till egennytta)</li>
+<li>185 (‘Ekonomisk ersättning kan motivera många’) #pc - att jag får ekonomisk ersättnin (subkategori till egennytta)</li>
+<li>367 (‘ersättning’) #pc - att jag får ekonomisk ersättning</li>
+<li>448 (‘Ekonomisk ersättning vore bra’) #pc - att jag får ekonomisk ersättning (subkategori till egennytta)</li>
+<li>810 (‘Professionell nivå på forskningen med lämplig ersättning’) #pc - Sharing common values (Gemensam värdegrund - känsla av tillit) AND #pc: att jag får ekonomisk ersättning (subkategori till egennytta)</li>
+</ul>
+<h6 id="ny-kategori-5.-the-conviction-that-it-really-leads-to-change">Ny kategori: 5. The conviction that it really leads to change</h6>
+<ul>
+<li>634 (‘Politiker tar del av forskningen och använder sig av den i praktiken’) #pc - Att det verkligen leder till förändring!</li>
+<li>818 (‘Forskning som verkligen kan göra skillnad. Bli mer involverad, inte bara informerad’) #pc - Att det verkligen leder till förändring!</li>
+</ul>
+<hr />
+<h3 id="q13-vad-skulle-du-uppleva-som-hinder-för-att-medverka-aktivt-i-forskning-om-åldrande-och-hälsa">Q13: Vad skulle du uppleva som hinder för att medverka aktivt i forskning om åldrande och hälsa?</h3>
+<p>Skapade en ny kolumn:</p>
+<ul>
+<li>Q13._Other_recode till höger om Q13._Other_.</li>
+</ul>
+<p>För de övriga Fråga 13-alternativen fanns redan <em>recode</em>-varianter så jag ändrade i dessa befintliga och skapade inga nya kopior. Här nedan beskrivs vilka omkodningar som gjordes.</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-efter-att-ha-kategoriserat-dem-olika-initialt-därefter-kommit-överens-om">De omkodningar som vi (MK, OJ och jag) efter att ha kategoriserat dem olika initialt därefter kommit överens om:</h4>
+<h5 id="not-valid-answers-12">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q13_10_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<p>[inget]</p>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-13">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q13_10_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>58 (‘Jag upplever att jag är för gammal’) - 13.7 + 13.8 (slå ihop 13.7 + 13.8?)</li>
+<li>64 – 13.1 + 13.3</li>
+<li>82 – 13.7</li>
+<li>124 - 13.7 + 13.8</li>
+<li>129 – 13.1</li>
+<li>210 – 13.4</li>
+<li>252 – 13.1 + 13.2 + 13.3</li>
+<li>378 – 13.7 + 13.8</li>
+<li>387 – 13.7 + 13.8</li>
+<li>448 – 13.4</li>
+<li>452 – 13.7 + 13.8</li>
+<li>471 – 13.7 + 13.8</li>
+<li>521 – 13.7 + 13.8</li>
+<li>538 – 13.7 + 13.8</li>
+<li>564 – 13.7 + 13.8</li>
+<li>590 – 13.6</li>
+<li>606 – 13.6 + 13.7</li>
+<li>674 – 13.7 + 13.8</li>
+<li>738 – 13.7 + 13.8</li>
+<li>764 – 13.7 + 13.8</li>
+<li>783 – 13.3</li>
+<li>791 (‘Jag har det bra som det är och har inte tid, då skulle min vardag ändras och det vill jag ej’) – 13.6 (lägg eventuellt till brist på intresse till nästa gång).</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-10">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q13_10_recode och under variabeln Q13_Other_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li>1 = Not thinking to have the experience required</li>
+<li>2 = Physical distance to research site</li>
+<li>3 = Lack of interest in the subject</li>
+<li>4 = Lack of relevance</li>
+<li>5 = Not receiving sufficient financial compensation</li>
+<li>6 = I don’t know</li>
+<li>7 = Lack of trust and/or respect</li>
+<li>8 = Issues of the protection of privacy</li>
+<li>9 = There are no obstacles</li>
+<li>10 = Independence of research can be threatened</li>
+</ul>
+<p>[inga INTNR]</p>
+<h4 id="de-omkodningar-som-vi-mk-oj-och-jag-kategoriserat-lika-initialt-7">De omkodningar som vi (MK, OJ och jag) kategoriserat lika initialt:</h4>
+<h5 id="not-valid-answers-13">Not valid answers</h5>
+<p>Omkodningar gjordes enligt följande. #nv motsvarar här ‘2’ och följande INTNR kodades alltså om till ‘2’ i Q13_10_recode i de fall där de inte redan var kategoriserade som ‘2’.</p>
+<ul>
+<li>137 - #nv</li>
+<li>669 - #nv</li>
+</ul>
+<h5 id="svar-som-klassades-som-tillhörande-redan-befintliga-kategorier-14">Svar som klassades som tillhörande redan befintliga kategorier</h5>
+<p>Följande INTNR kodades om till att variabeln Q13_10_recode för dem markerades med ‘2’ + att en etta (‘1’) fylldes i för de befintliga kategorierna som fritextsvaren motsvarade (i de fall där det inte redan var en etta).</p>
+<ul>
+<li>53 - 13.8</li>
+<li>96 - 13.8</li>
+<li>99 - 13.7</li>
+<li>331 - 13.7</li>
+<li>408 - 13.7</li>
+<li>785 - 13.3 + 13.4</li>
+</ul>
+<h5 id="svar-som-ansågs-giltiga-och-inte-tillhörande-befintliga-kategorier-11">Svar som ansågs giltiga och inte tillhörande befintliga kategorier</h5>
+<p>Följande INTNR erhöll eller fick behålla en etta (‘1’) för variabeln Q13_10_recode och under variabeln Q13_Other_recode fylldes en siffra för aktuell kategori i istället för det befintliga fritextsvaret enligt följande:</p>
+<ul>
+<li>1 = Not thinking to have the experience required</li>
+<li>2 = Physical distance to research site</li>
+<li>3 = Lack of interest in the subject</li>
+<li>4 = Lack of relevance</li>
+<li>5 = Not receiving sufficient financial compensation</li>
+<li>6 = I don’t know</li>
+<li>7 = Lack of trust and/or respect</li>
+<li>8 = Issues of the protection of privacy</li>
+<li>9 = There are no obstacles</li>
+<li>10 = Independence of research can be threatened</li>
+</ul>
+<h6 id="ny-kategori-1.-not-thinking-to-have-the-experience-required">Ny kategori: 1. Not thinking to have the experience required</h6>
+<ul>
+<li>20 (‘Det skulle vara att ämnet ligger oerhört långt från mig, men det är bara ett antagande’) #pc - Att jag inte tror att jag har de erfarenheter som efterfrågas</li>
+<li>367 (‘Upplägg och omfattning. Vet inget om ämnet’) #pc - Att jag inte tror att jag har de erfarenheter som efterfrågas</li>
+</ul>
+<h6 id="ny-kategori-2.-physical-distance-to-research-site">Ny kategori: 2. Physical distance to research site</h6>
+<ul>
+<li>35 (‘Fysiskt avstånd’) #pc - Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs)</li>
+<li>175 (‘Är ofta utomlands’) #pc - Physical distance to research site (Svårigheter att infinna mig om forskningen genomförs på en viss plats)</li>
+<li>266 (‘om jag måste åka till annan ort som jag inte känner mig bekväm med’) #pc - Physical distance to research site (Svårigheter att infinna mig om forskningen genomförs på en viss plats)</li>
+<li>519 (‘Avstånd’) #pc - Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs)</li>
+<li>605 (‘Kommunikationen att ta sig till möten’) #pc - Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs)</li>
+<li>775 (‘Ser inget hinder egentligen, gäller ju plats och tidpunkt’) - #pc - Inget hindrar mig idag! + Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs)</li>
+</ul>
+<h6 id="ny-kategori-3.-lack-of-interest-in-the-subject">Ny kategori: 3. Lack of interest in the subject</h6>
+<ul>
+<li>49 (‘Ämne som inte intresserar mig’) #pc - Brist på intresse för ämnet</li>
+<li>60 (‘Eventuell brist på intresse för det aktuella ämnet’) #pc - Brist på intresse för ämnet</li>
+<li>117 (‘Eventuellt brist på intresse’) #pc - Brist på intresse för ämnet</li>
+<li>225 (‘Ovilja att vara med helt enkelt’) #pc - Brist på intresse för ämnet</li>
+<li>234 (‘Vill inte hålla på med stillasittande administration’) #pc - Brist på intresse för ämnet</li>
+<li>297 (‘jag är inte motiverad’) #pc - #pc - Brist på intresse för ämnet</li>
+<li>317 (‘om de inte skulle intressera mig, ett smalt ämne där jag ej har intresse exempelvis’) #pc - Brist på intresse för ämnet</li>
+<li>336 (‘Ointresse’) #pc - Brist på intresse för ämnet</li>
+<li>341 (‘jag är inte intresserad’) #pc - Brist på intresse för ämnet</li>
+<li>423 (‘Ej intresserad’) #pc - Brist på intresse för ämnet</li>
+<li>462 (‘Jag är inte intresserad’) #pc - Brist på intresse för ämnet</li>
+<li>482 (‘Vill ej vara med’) #pc - Brist på intresse för ämnet</li>
+<li>508 (‘Forskningens fokus, vilka frågor som utforskas’) #pc - Brist på intresse för ämnet</li>
+<li>546 (‘Inte motiverad’) #pc - Brist på intresse/motivation för ämnet</li>
+<li>577 (‘Vill inte’) #pc - Brist på intresse för ämnet</li>
+<li>581 (‘Inget egentligt intresse’) #pc - Brist på intresse/motivation för ämnet</li>
+<li>698 (‘Brist på intresse’) #pc - Brist på intresse för ämnet</li>
+<li>725 (‘Måttligt intresserad’) #pc - Brist på intresse för ämnet</li>
+<li>779 (‘Om det inte är tillräckligt intressant då ä det ett hinder för mig’) #pc - Brist på intresse för ämnet</li>
+<li>861 (‘Är det inte intressant vill jag ej vara med’) #pc - Brist på intresse för ämnet</li>
+</ul>
+<h6 id="ny-kategori-4.-lack-of-relevance">Ny kategori: 4. Lack of relevance</h6>
+<ul>
+<li>267 (‘Jag tycker jag kanske inte kan se relevansen i vissa saker, att jag inte förstår riktigt varför man ska forska om just det’) #pc - Brist på relevans – det kommer verkligen inte att göra någon skillnad</li>
+<li>314 (‘Att forskningsområdet inte känns viktigt’) #pc - Brist på relevans – det kommer verkligen inte att göra någon skillnad</li>
+<li>316 (‘Dålig inriktning, onödigt forskningsmål’) #pc - Brist på relevans – det kommer verkligen inte att göra någon skillnad</li>
+<li>379 (‘Projekt som jag inte anser meningsfulla’) #pc - Brist på relevans – det kommer verkligen inte att göra någon skillnad</li>
+<li>409 (‘Om man uppfattar det som otydlig och dålig kvalitet på forskningen kan det vara ett hinder för mig att delta aktivt i den’) #pc - Brist på relevans – det kommer verkligen inte att göra någon skillnad</li>
+</ul>
+<h6 id="ny-kategori-5.-not-receiving-sufficient-financial-compensation">Ny kategori: 5. Not receiving sufficient financial compensation</h6>
+<ul>
+<li>292 (‘Om det skulle kosta mig rent ekonomiskt’) #pc - Ingen ekonomisk ersättning.</li>
+<li>411 (‘Kostnader för att delta’) #pc - Ingen ekonomisk ersättning</li>
+<li>781 (‘Ingen bil. Får inte kosta pengar, typ tågbiljett’) #pc - Ingen ekonomisk ersättning</li>
+</ul>
+<h6 id="ny-kategori-6.-i-dont-know">Ny kategori: 6. I don’t know</h6>
+<ul>
+<li>315 (‘Tycker både ja och nej delvis på alla frågor. För många och för lika alternativ.’) #pc - I don’t know</li>
+<li>392 (‘Svårt att välja svar’) #pc - I don’t know</li>
+<li>445 (‘Kan inte svara på denna fråga’) #pc - I don’t know</li>
+<li>576 (‘Vet ej’) #pc - I don’t know</li>
+<li>696 (‘vet ej’) #pc - I don’t know</li>
+</ul>
+<h6 id="ny-kategori-7.-lack-of-trust-andor-respect">Ny kategori: 7. Lack of trust and/or respect</h6>
+<ul>
+<li>323 (‘Att jag inte skulle känna tillit till forskarna skulle vara ett hinder att delta’) #pc - Brist på gemensam värdegrund - avsaknad av tillit</li>
+<li>375 (‘Att jag får förtroende för forskarna och att dom lyssnar på oss som deltar och medborgarna gör dom ej det vill jag inte vara med’) #pc - Brist på gemensam värdegrund - avsaknad av tillit</li>
+</ul>
+<h6 id="ny-kategori-8.-issues-of-the-protection-of-privacy">Ny kategori: 8. Issues of the protection of privacy</h6>
+<ul>
+<li>402 (‘Integritetsskyddet’) #pc - Issues of the protection of</li>
+</ul>
+<h6 id="ny-kategori-9.-there-are-no-obstacles">Ny kategori: 9. There are no obstacles</h6>
+<ul>
+<li>430 (‘inget’) #pc - Inget hindrar mig idag!</li>
+<li>522 (‘ser inget hinder att deltaga’) #pc - Inget hindrar mig idag!</li>
+<li>765 (‘Ingenting specifikt skulle hindra mig från att deltaga’) #pc - Inget hindrar mig idag!</li>
+<li>775 (‘Ser inget hinder egentligen, gäller ju plats och tidpunkt’) - #pc - Inget hindrar mig idag! + Physical distance to research site (Svårigheter att infinna mig på den plats där forskningen genomförs)</li>
+<li>810 (‘Beredd att medverka som testperson av utveckling med datastyrda hjälpmedel’) #pc - Inget hindrar mig idag!</li>
+</ul>
+<h6 id="ny-kategori-10.-independence-of-research-can-be-threatened">Ny kategori: 10. Independence of research can be threatened</h6>
+<ul>
+<li>864 (‘Min uppfattning att forskningens integritet kan rubbas’) #pc - Forskningens oberoende kan hotas</li>
+</ul>
+<hr />
+<h2 id="återstående-omkodning-av-fritextsvar-som-kvarstår">2021-02-03: Återstående omkodning av fritextsvar som kvarstår</h2>
+<p>Fritextsvaren för följande frågor återstår att koda om. Detta avvaktar jag tills vidare med då det inte är så angeläget för den studie jag nu håller på med.</p>
+<h3 id="q14">Q14</h3>
+<p>Ingenting att kommentera här. Alternativen är ‘1’ och ‘2’ och vissa är missing.</p>
+<h3 id="q14_open">Q14_Open</h3>
+<p>Här behöver alternativen kategoriseras om vi är intresserade av vilka organisationer de är med i. Detta gör jag inte nu.</p>
+<h3 id="q15.1-5">Q15.1-5</h3>
+<ul>
+<li>Varför kommer inte denna fråga efter fråga 14 i formuläret? Vad var tanken med i vilken följd frågorna kommer?</li>
+<li>När det kommer till ‘annat område’ var man intresserad av vilket område?</li>
+<li>Inget konstigt i datan: ‘1’, ‘2’ eller missing</li>
+<li>Frågan om datan där inget alternativ är angett på 15.1-5 ska tolkas som ‘Missing’ eller som ‘Nej’ återstår att besluta om.</li>
+</ul>
+<h3 id="q16">Q16</h3>
+<p>Inget att kommentera här heller.</p>
+<h3 id="q17">Q17</h3>
+<p>Inget att kommentera här heller.</p>
+<h3 id="q18">Q18</h3>
+<p>Inget att kommentera här heller.</p>
+<h3 id="q18_other">Q18_Other</h3>
+<ul>
+<li>INTNR:
+<ul>
+<li>54 (‘Jobbar i min skog och fastighet’)</li>
+<li>62 (‘Arbetar och pensionär’)</li>
+<li>148 (‘Pensionär samt hemarbetare inom trädgården då vi har stort hus samt trädgård’)</li>
+<li>190 (‘timanställd ssk i vård’)</li>
+<li>193 (‘håller på att skriva en bok med anledning av tidigare forskningsområdet’)</li>
+<li>250 (‘Ingår i en grupp som har studerar’)</li>
+<li>253 (‘stöd till anhörig 35 år som haft cancer och som får urusel hjälp av AF’)</li>
+<li>275 (‘Arbetar 1-2 dag/vecka + pensionär’)</li>
+<li>290 (‘Bokning av [ohörbart] föreningslokal, trapphusvärd’)</li>
+<li>296 (‘Sjukersättning’)</li>
+<li>349 (‘Pensionär, arbetar på timme inom apoteksutbildning’)</li>
+<li>351 (‘Jobbar lite i egen firma’)</li>
+<li>379 (‘pensionär och förvärvsarbetar 6 timmar/dag’)</li>
+<li>439 (‘Arbetar 30%’)</li>
+<li>496 (‘Familjerådgivare inom Malmöstad, extra arbete’)</li>
+<li>522 (‘deltidsarbetande pensionär’)</li>
+<li>597 (‘Författare’)</li>
+<li>657 (‘“Sjukpensionär”’)</li>
+<li>741 (‘Aktivitetsstöd’)</li>
+<li>760 (‘Bussförare och pastor’)</li>
+<li>877 (‘Volontärarbeten ca 20h/vecka’)</li>
+</ul></li>
+</ul>
+<h3 id="q19">Q19</h3>
+<ul>
+<li>Varför ligger frågan ej i ordningsföljd?</li>
+<li>Inget att kommentera i övrigt</li>
+</ul>
+<h3 id="q19_others">Q19_Others</h3>
+<ul>
+<li>INTNR:
+<ul>
+<li>25 (‘Även olika utbildningar inom polisyrket’)</li>
+<li>74 (‘högskolestudier mindre än 3 år’)</li>
+<li>113 (‘Arbetsmiljöutbildning’…)</li>
+<li>139 (‘Folkskola’)</li>
+<li>190 (‘viss forskarutbildning inom humaniora C- och D-kurser’)</li>
+<li>212 (‘barnskötarutbildning’)</li>
+<li>223 (‘Yrkesskola 3,5 år i Tyskland’)</li>
+<li>227 (‘Livets hårda skola’)</li>
+<li>238 (‘Yrkesskola metall + Js1 och Js2’)</li>
+<li>305 (‘Sjömansexamen i England’)</li>
+<li>306 (‘Engelsk Sjömansexamen’)</li>
+<li>327 (‘Legitimerad psykolog. Utbildning till psykoterapeut’)</li>
+<li>349 (‘Kurs för sysselsättningshandledare’)</li>
+<li>369 (‘Läkarutbildning’)</li>
+<li>375 (‘Folkskola samt realskola samt privat special kurser inom staten och mitt arbete inom kriminalvården’)</li>
+<li>379 (‘Folkskola + yrkesskola’)</li>
+<li>407 (‘Seminarium före högskolan, förskolärarutbildning’)</li>
+<li>419 (‘Diverse fackliga kurser’)</li>
+<li>465 (‘Barnskötare’)</li>
+<li>512 (‘hemteknisk yrkesskola’)</li>
+<li>559 (‘Kontorsutbildning’)</li>
+<li>646 (‘Vägmästareutbildning’) (=Jägmastarutbildning?i)</li>
+<li>674 (‘Fortbildning på arbetet på onkologen’)</li>
+<li>675 (‘Datakurs i AMS regi 3 mån’)</li>
+<li>740 (‘Småskollärarrutbildning’)</li>
+<li>781 (‘Callcenterutbildning, datakörkort’)</li>
+<li>848 (‘Undersköterska’)</li>
+<li>854 (‘1 termin högskola, kurser’)</li>
+<li>860 (‘Hushållsskola, hemvårdarinne-skola’)</li>
+</ul></li>
+</ul>
+<h3 id="q20">Q20</h3>
+<p>Inget att kommentera</p>
+<h3 id="q21">Q21</h3>
+<p>Inget att kommentera</p>
+<h3 id="q22">Q22</h3>
+<p>Inget att kommentera</p>
+<h3 id="q22b">Q22b</h3>
+<ul>
+<li>Här behöver det göras en data cleaning av språken, men detta är ej viktigt för min studie så det avvaktar jag med.</li>
+</ul>
+<h3 id="q23-27">Q23-27</h3>
+<p>Inget att kommentera</p>
+<h3 id="q28">Q28</h3>
+<p>Många ‘missing’ som är oklart om de motsvarar ‘2’ eller ‘Missing’. Kanske inte spelar så stor roll dock. Här räcker det nog att räkna ‘1’:or.</p>
+</body>
+</html>
+
+<!-- ##END MARKED WRAPPER## -->
+    </div>
+</body>
+</html>
