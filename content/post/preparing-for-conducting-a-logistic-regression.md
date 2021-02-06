@@ -9,7 +9,11 @@ In a meeting with SS, he explained to me that in order to conduct a logistic reg
 
 ### 1. Motivate the predictors (independant variables) chosen
 
-Firstly, one needs to decide on which predictors to include and motivate why they should be included. This should be motivated theoretically based on what is known through earlier research in the field. As in my case, after discussing with SS I decided to add 'Earlier experience of being actively involved in research' as an additional predictor to the list of already decided-upon predictors. Thus, the list of predictors (independant variables) for willingness to be actively involved in research decided-upon that I would like to include in the model are (with the variable names in SPSS in parenthesis):
+Firstly, one needs to decide on which predictors to include and motivate why they should be included. This should be motivated theoretically based on what is known through earlier research in the field. 
+
+#### The predictors I have chosen for the logistic regression
+As in my case, after discussing with SS I decided to add 'Earlier experience of being actively involved in research' as an additional predictor to the list of already decided-upon predictors. Thus, the list of predictors (independant variables) for willingness to be actively involved in research decided-upon that I would like to include in the model are (with the variable names in SPSS in parenthesis):
+##
 
 * Age (AGE)
 * Sex (GENDER) 
@@ -17,8 +21,8 @@ Firstly, one needs to decide on which predictors to include and motivate why the
 * Economic situation (Q21) 
 * Self-rated health (Q27)
 * Birthplace ("Är du född i ett annat land än Sverige) (Q22)
-* Municipality classification (MunicipalityClassification)
-* Earlier experience of active involvement (ActivelyInvolved)
+* Kommunklassificering (MunicipalityClassification)
+* Earlier experience of being actively involved in research (ActivelyInvolved)
 
 For the lastly listed independant variable, I realised that I needed to create a new variable which goes something like this:
   
@@ -42,13 +46,28 @@ In the book it is recommended to run **Descriptive Statistics** on each of the p
 
 My question here is: How do you know if the numbers are limited, and what is considered limited. Is there a form of measure for this?
 
-Anyways, I decided to run Descriptive Statistics in SPSS on each of the chosen variables and the result is presented [here]()
+
+
+Anyways, I decided to run Descriptive Statistics in SPSS on each of the chosen variables and the result is presented here:
+
+##### Running Descripive Statistics in SPSS
+
+* Overview with focus on frequency
+
+  ![](/images/210206-descriptive-overview.jpg)
 
 * Age (AGE)
   + Scale
+
+  ![](/images/210206-age-pie-chart.jpg)
+
+
 * Sex (GENDER) 
   + 1 = Man
   + 2 = Kvinna
+  
+  ![](/images/210206-sex-table.jpg)
+
 * Level of education (Q19_recode)
   + 1 = Grundskola 
   + 2 = Gymnasium 
@@ -56,21 +75,39 @@ Anyways, I decided to run Descriptive Statistics in SPSS on each of the chosen v
   + 4 = Eftergymnasial utbildning, tre år eller mer
   + 5 = Forskarutbildning
   + 6 = Annat/vill ej uppge
+  
+  ![](/images/210206-education-table.jpg)
+  ![](/images/210206-education-pie-chart.jpg)
+
 * Economic situation (Q21) 
   + 1 = Dålig
   + 2 = Någorlunda
   + 3 = God
   + 4 = Mycket god
   + 5 = Utmärkt
+  
+  ![](/images/210206-economy-table.jpg)
+  ![](/images/210206-economy-pie-chart.jpg)
+  
+  
 * Self-rated health (Q27)
   + 1 = Dålig
   + 2 = Någorlunda
   + 3 = God
   + 4 = Mycket god
   + 5 = Utmärkt
+  
+  ![](/images/210206-self-rated-health-table.jpg)
+  ![](/images/210206-self-rated-health-pie-chart.jpg)
+  
+  
 * Birthplace ("Är du född i ett annat land än Sverige) (Q22)
   + 1 = Ja
   + 2 = Nej
+  
+  ![](/images/210206-country-born-table.jpg)
+  ![](/images/210206-country-born-pie-chart.jpg)
+  
 * Kommunklassificering (MunicipalityClassification)
   + A1 = Large cities
   + A2 = Commuting municipalities near large cities
@@ -82,9 +119,16 @@ Anyways, I decided to run Descriptive Statistics in SPSS on each of the chosen v
   + C8 = Rural municipalities
   + C9 = Rural municipalities with a visitor industry
   
-* Have been actively involved in research (ActivelyInvolved)
+  ![](/images/210206-municipality-classification-table.jpg)
+  ![](/images/210206-municipality-classification-pie-chart.jpg)
+  
+* Have been actively involved in research? (ActivelyInvolved)
   + 1 = Yes 
   + 2 = No
+  
+  ![](/images/210206-active-involvement-table.jpg)
+  ![](/images/210206-active-involvement-pie-chart.jpg)
+
 
 #### Multicollinearity
 
