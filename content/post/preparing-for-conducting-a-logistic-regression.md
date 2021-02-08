@@ -350,9 +350,8 @@ Another potential coorrelation could be betwen *Kommunklassificering* and
 ##### Age (AGE) and Kommunklassificering (MunicipalityClassification_Recode_for_LR_)
 * There is also a potential correlation between *Age* and *Kommunklassificering* Their correlation looks like this:
 
-As for *Sex*, *Birthplace* and *Have been actively involved in research?*, these variables contain only two categories, which I judge are too few categories to have a potential to be correlated to any other variables.
+As for *Sex*, *Birthplace* and *Have been actively involved in research?*, these variables contain only two categories, which I judge are too few categories to have a potential to be correlated to any other variables. -->
 
--->
 
 ---
 
@@ -366,9 +365,8 @@ Here is the **Residuals table** I got when I follwed to instructions on page 169
 ![](/images/210208-residuals-statistics-table.jpg)
 
 
-
-
 ---
+
 
 ### 3. Prepare the data
 
