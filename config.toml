@@ -8,8 +8,6 @@ enableEmoji = true
 theme = "even"
 enableGitInfo = false # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
 
-enableEmoji = true # to use Emoji emoticons like :smile: in Markdown.
-
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsOptions = "linenos=table"
 pygmentsCodefences = true
@@ -31,7 +29,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   filename = "sitemap.xml"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/" # As described here: https://bookdown.org/yihui/blogdown/configuration.html
+  post = "/:year/:month/:day/:slug/" # As described here: https://bookdown.org/yihui/blogdown/configuration.html
 
 [[menu.main]]             # config your menu              # 配置目录
   name = "Home"
