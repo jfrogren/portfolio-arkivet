@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis meeting With SS"
+title: "Data analysis meeting with SS"
 date: 2021-02-09
 draft: false
 categories: ["Research methodology"]
@@ -7,20 +7,54 @@ categories: ["Research methodology"]
 
 SS and I had a meeting in which I presented the analyses I have done so far and he commented on it. Below I will present a summary of what we discussed and agreed on:
 
-* The instruments and measures that are brought up in the methods section, must be more explicitely motivated. There are propably good reason for including these instruments and measures in this particular study. However, the reasons given and how these instruments and measures connect to the research questions are not sufficiently explained at the moment.
+### 1. Measures brought up in methods not sufficiently explained and motivated
 
-* SS gave the advice to gather the measures that we designed under a heading called something like 'Study-specific questions'. This section should start out with a paragraph on how we developed our questionnaire with the particular questions used, then describe the ones that we are going to use in this paper.
+* **PROBLEM**: The instruments and measures that are brought up in the methods section, must be more explicitely motivated. There are propably good reasons for including these instruments and measures in this particular study. However, the reasons given and how these instruments and measures connect to the research questions are not sufficiently explained at the moment.
 
-* 'Home municipality classification' is not an easily understood name for the phenomenon we refer to; another term needs to be used. And this is also a good example of a measure that I need to motivate better why it is important to include; What will these municipality classifications tell us? Also, should we really include all nine categories? It is quiet much considering that we are mainly interested in how the urban vs. rural influence on awareness, attitudes and willingness. Furthermore: Is the distribution typical of Sweden? – A good reason to include such a measure would otherwise be as a means to understand better how representative the sample is of the general (60+) population. Even though that this is something that then would be brought up in the discussion rather than here, I should bear that in mind when bringing the measure up here. 
 
-* It was decided (in dialogue with SI as well who dropped in to listen to discussion towards the end) that in this study we will not include 'Motivations and obstacles related to public involvement in research'. Rather, it will have to be the subject of another study.
+* **ILLUSTRATION OF PROBLEM**: The suggested name, *Home municipality classification*, is not an easily understood name for the phenomenon we refer to; another term needs to be used. 
 
-* As of the measure of the preferred kind of research involvement of respondents willing to be actively involved, it is currently introduced in the methods secton in the following way:
+    And this is also a good example of a measure that I need to motivate better why it is important to include; What will these municipality classifications tell us? Also, should we really include all nine categories? It is quiet much considering that we are mainly interested in how the urban vs. rural influence on awareness, attitudes and willingness. 
+
+    Furthermore: Is the distribution typical of Sweden? – A good reason to include such a measure would otherwise be as a means to understand better how representative the sample is of the general (60+) population. Even though that this is something that then would be brought up in the discussion rather than here, I should bear that in mind when bringing the measure up here. 
+
+* **SOLUTION**: SS gave the advice to gather the measures that we designed under a heading called something like 'Study-specific questions'. This section should start out with a paragraph on how we developed our questionnaire with the particular questions used, then describe the ones that we are going to use in this paper.
+
+### 2. Preferred kind of research involvement  - include but move to descriptive section 
+As of the measure of the preferred kind of research involvement of respondents willing to be actively involved, it is currently introduced in the methods secton in the following way:
 
   > In order to find out the preferred kind of research involvement of respondents willing to be actively involved, these participants were also asked to take a stand on the statement “If you were given the opportunity, how likely is it that you would like to participate by...” followed by six different examples of active involvement such as “being part of a user council, reference group, board or the like?” and an open answer option. Participants were here assigned five response options ranging from "Not at all" to "Very much".
 
   However, SS rightly pointed out that this measure does not - as of now - connect to any of the research question for the study. In dialogue with SI, we agreed though that this measure is still highly relevant for the focus of the study BUT it should be moved to the descriptives section rather then put here.
+  
+### 3. Motivations and obstacles - exclude from study
+It was decided (in dialogue with SI as well who dropped in to listen to discussion towards the end) that in this study we will not include 'Motivations and obstacles related to public involvement in research'. Rather, it will have to be the subject of another study.
 
+### 4. Move description of categorization of open-ended questions
+The description of how we (OJ, MK & I) went about categorizing the open-ended questions should be moved from the 'Data Analysis' section to the place where the study questionnaire is described.
+
+### 5. Awareness - needs further analysis
+So far, I have only presented how many people were aware of the possibility to be actively involved in research. However, that is not enough in terms of analysis. SS pointed out that an outspoken goal for UserAge is to change peoples’ awareness (but not specifically to change their attitudes). In ordefr to be able to do that, it is not sufficient to just know this, but I also need to investigate and analyze how awareness relates to demographics, self-rated health and economic situation, etc. We decided that rather than presenting these results in an independent table, I could preferrably integrate it into the current Table 1 by adding a few culumns to it, as described here below.
+
+### 6. Table 1
+
+#### a) Give *Table 1* a more adequate title and look over its content
+In the 'Results' section, Table 1 is referred to as illustrating the "demographics" of the study population. However, in the table 'Self-rated health' is included which is not considered part of the 'demographics'. Thus, the heading of the table needs to be changed. 
+
+Also, Table 1 as of now contains stuff that are not relevant to the paper. Either these variables need to be added to the method if they are motivated to include, otherwise they need to be deleted from the table.
+
+#### b) Add column for awareness
+We agreed that I should add a column for awareness (Yes/No) so that it gets a similar look as Table 3. In terms of further analyses needed for this variable, I need to add a chi square test on differences.  This means I also have to read about how to avoid type II errors. Anyways, I need to test this in some way and add those values (OR?) in the table and maybe an asterisk indicating that it is significant. Also, in all table of this kind I need to include both frequence and the *n* number.
+
+
+### 7. Add (n=...) after percentage in the Results' running text
+Not just in the tables but also in running text, after a percentage is given I should also provid the reader with the *n* number.
+
+### 8. Interest - no table needed
+Here we agreed ot necessary with a table which only contains two rows, so in other words I should delete Table 4.
+
+### 9. Attitudes - sufficient level of analysis
+As for attitudes, due partly to the complexity of the question, we (SS, SI and I) agreed that the current Figure 1 represent a sufficient level of analysis for this variable.
 
 
 <!--
