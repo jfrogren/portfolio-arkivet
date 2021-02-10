@@ -31,8 +31,8 @@ $deputy-color: nth($theme-color-list, 2) !default;
 
 
 // ========== Color ========== //
-$black: #0a0a0a !default;
-$white: #fefefe !default;
+$black: #111111;
+$white: #fffff8;
 $light-gray: #e6e6e6 !default;
 $gray: #cacaca !default;
 $dark-gray: #8a8a8a !default;
@@ -61,7 +61,7 @@ $global-font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !def
 $global-serif-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
 
 // Background color of the site.
-$global-background: $white !default;
+$global-background:  #fffff8;
 
 // Headings font size of the site.
 $global-headings: (
