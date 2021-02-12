@@ -65,22 +65,42 @@ So far, I have only presented how many people were aware of the possibility to b
 # 6. Table 1
 
 ## a) Give *Table 1* a more adequate title and look over its content
-In the 'Results' section, Table 1 is referred to as illustrating the "demographics" of the study population. However, in the table 'Self-rated health' is included which is not considered part of the 'demographics'. Thus, the heading of the table needs to be changed. 
+```{marginfigure} 
+*Table 1*
+![Table 1](table-demographics-of-panel-study.png)
+```` 
+In the 'Results' section, *Table 1* is referred to as illustrating the "demographics" of the study population. However, in the table 'Self-rated health' is included which is not considered part of the 'demographics'. Thus, the heading of the table needs to be changed. 
 
-Also, Table 1 as of now contains stuff that are not relevant to the paper. Either these variables need to be added to the method if they are motivated to include, otherwise they need to be deleted from the table.
+Also, *Table 1* as of now contains stuff that are not relevant to the paper. Either these variables need to be added to the method if they are motivated to include, otherwise they need to be deleted from the table.
 
 ## b) Add column for awareness
-We agreed that I should add a column for awareness (Yes/No) so that it gets a similar look as Table 3. In terms of further analyses needed for this variable, I need to add a chi square test on differences.  This means I also have to read about how to avoid type II errors. Anyways, I need to test this in some way and add those values (OR?) in the table and maybe an asterisk indicating that it is significant. Also, in all table of this kind I need to include both frequence and the *n* number.
+```{marginfigure} 
+*Table 3*
+![Table 3](table-participants-characteristics-and-associations-with-willingness.png)
+```` 
+We agreed that I should add a column for awareness (Yes/No) so that it gets a similar look as *Table 3*. In terms of further analyses needed for this variable, I need to add a chi square test on differences.  This means I also have to read about how to avoid type II errors. Anyways, I need to test this in some way and add those values (OR?) in the table and maybe an asterisk indicating that it is significant. Also, in all table of this kind I need to include both frequence and the *n* number.
 
 
 # 7. Add (n=...) after percentage in the Results' running text
-Not just in the tables but also in running text, after a percentage is given I should also provid the reader with the *n* number.
+Not just in the tables but also in running text, after a percentage is given I should also provide the reader with the *n* number.
 
 # 8. Interest - no table needed
-Here we agreed ot necessary with a table which only contains two rows, so in other words I should delete Table 4.
+```{marginfigure} 
+*Table 4*
+![Table 4](table-interest-in-research.png)
+```` 
+Here we agreed that it is not necessary with a table which only contains two rows, so in other words I should delete *Table 4*.
 
 # 9. Attitudes - sufficient level of analysis
-As for attitudes, due partly to the complexity of the question, we (SS, SI and I) agreed that the current Figure 1 represent a sufficient level of analysis for this variable.
+```{marginfigure} 
+*Figure 1*
+![Figure 1](figure-attitudes-to-public-involvement.png)
+```` 
+As for attitudes, due partly to the complexity of the question, we (SS, SI and I) agreed that the current *Figure 1* represent a sufficient level of analysis for this variable.
+
+
+
+
 
 <!--
 
