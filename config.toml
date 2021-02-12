@@ -104,7 +104,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = []
+  customCSS = ["css/tufte.css"]
   customJS = []
 
   uglyURLs = false          # please keep same with uglyurls setting
@@ -205,3 +205,12 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 #  section = ["HTML", "RSS"]
 #  taxonomy = ["HTML", "RSS"]
 #  taxonomyTerm = ["HTML"]
+
+# use the goldmark markdown renderer, and set unsafe: true
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
+
+# ignore .Rmd files because blogdown will compile them to .html, and it suffices for Hugo to use the .html files
+ignorefiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]

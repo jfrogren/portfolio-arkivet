@@ -902,37 +902,55 @@ Inget att kommentera här heller.
 * Inget att kommentera i övrigt
 
 ### Q19_Others
+
+<!--
+
+Vilken är din högsta utbildning?
+
+Svarsalternativen är här:
+
++ 1. Grundskola (folkskola/flickskola/realskola)
++ 2. Gymnasium (folkhögskola)
++ 3. Eftergymnasial utbildning, mindre än tre år (yrkeshögskola/kvalificerad yrkesutbildning)
++ 4. Eftergymnasial utbildning, tre år eller mer
++ 5. Forskarutbildning☐Annat/vill ej uppge
+
+Orkar inte hålla på att dividera med MK och OJ här utan jag gör bedömningarna och omkodningarna själv på eget bevåg
+
+-->
+
 * INTNR:
-  + 25 ('Även olika utbildningar inom polisyrket')
-  + 74 ('högskolestudier mindre än 3 år')
-  + 113 ('Arbetsmiljöutbildning'...)
-  + 139 ('Folkskola')
-  + 190 ('viss forskarutbildning inom humaniora C- och D-kurser')
-  + 212 ('barnskötarutbildning')
-  + 223 ('Yrkesskola 3,5 år i Tyskland')
-  + 227 ('Livets hårda skola')
-  + 238 ('Yrkesskola metall + Js1 och Js2')
-  + 305 ('Sjömansexamen i England')
-  + 306 ('Engelsk Sjömansexamen')
-  + 327 ('Legitimerad psykolog. Utbildning till psykoterapeut')
-  + 349 ('Kurs för sysselsättningshandledare')
-  + 369 ('Läkarutbildning')
-  + 375 ('Folkskola samt realskola samt privat special kurser inom staten och mitt arbete inom kriminalvården')
-  + 379 ('Folkskola + yrkesskola')
-  + 407 ('Seminarium före högskolan, förskolärarutbildning')
-  + 419 ('Diverse fackliga kurser')
-  + 465 ('Barnskötare')
-  + 512 ('hemteknisk yrkesskola')
-  + 559 ('Kontorsutbildning')
-  + 646 ('Vägmästareutbildning') (=Jägmastarutbildning?i)
-  + 674 ('Fortbildning på arbetet på onkologen')
-  + 675 ('Datakurs i AMS regi 3 mån')
-  + 740 ('Småskollärarrutbildning')
-  + 781 ('Callcenterutbildning, datakörkort')
-  + 848 ('Undersköterska')
-  + 854 ('1 termin högskola, kurser')
-  + 860 ('Hushållsskola, hemvårdarinne-skola')
-  
+  + 25 ('Även olika utbildningar inom polisyrket') - har redan svarat '3'
+  + 74 ('högskolestudier mindre än 3 år') - 19.4
+  + 113 ('Arbetsmiljöutbildning'...) - 6 - #pc 'Övrigt'
+  + 139 ('Folkskola') - 19.1
+  + 190 ('viss forskarutbildning inom humaniora C- och D-kurser') - 19.5
+  + 212 ('barnskötarutbildning') - 19.2
+  + 223 ('Yrkesskola 3,5 år i Tyskland') - 19.3
+  + 227 ('Livets hårda skola') - har redan svarat '1'
+  + 238 ('Yrkesskola metall + Js1 och Js2') - 19.3
+  + 305 ('Sjömansexamen i England') - 19.3
+  + 306 ('Engelsk Sjömansexamen') - 19.3
+  + 327 ('Legitimerad psykolog. Utbildning till psykoterapeut') - 19.4
+  + 349 ('Kurs för sysselsättningshandledare') - 6 - #pc 'Övrigt'
+  + 369 ('Läkarutbildning') - 19.4
+  + 375 ('Folkskola samt realskola samt privat special kurser inom staten och mitt arbete inom kriminalvården') - 6 - #pc 'Övrigt'
+  + 379 ('Folkskola + yrkesskola') - 19.3
+  + 407 ('Seminarium före högskolan, förskolärarutbildning') - 19.3
+  + 419 ('Diverse fackliga kurser') - har redan svarat '3'
+  + 465 ('Barnskötare') - 19.2
+  + 512 ('hemteknisk yrkesskola') - 19.3
+  + 559 ('Kontorsutbildning') - 6 - #pc 'Övrigt'
+  + 646 ('Vägmästareutbildning') (=Jägmastarutbildning?i) - 19.4
+  + 674 ('Fortbildning på arbetet på onkologen') - 6 - #pc 'Övrigt'
+  + 675 ('Datakurs i AMS regi 3 mån') - har redan svarat '3'
+  + 740 ('Småskollärarrutbildning') - 6 - #pc 'Övrigt'
+  + 781 ('Callcenterutbildning, datakörkort') - har redan svarat '2'
+  + 848 ('Undersköterska') - 19.3
+  + 854 ('1 termin högskola, kurser') - 19.3
+  + 860 ('Hushållsskola, hemvårdarinne-skola') - Har redan svarat '1'
+ 
+ 
 ### Q20 
 Inget att kommentera 
   

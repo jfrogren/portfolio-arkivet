@@ -1,0 +1,188 @@
+---
+title: "Notes from discussing data analyses with SS"
+date: 2021-02-09
+draft: false
+categories: ["Research methodology"]
+runningheader: "" # only for pdf output
+subtitle: "" # only for html output
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+---
+
+<!-- 
+
+Figures:
+
+  Margin figures
+```md
+```{r fig-margin, fig.margin = TRUE, fig.cap = "MPG vs horsepower, colored by transmission.", fig.width=3.5, fig.height=3.5, cache=TRUE, message=FALSE}
+library(ggplot2)
+mtcars2 <- mtcars
+mtcars2$am <- factor(
+  mtcars$am, labels = c('automatic', 'manual')
+)
+ggplot(mtcars2, aes(hp, mpg, color = am)) +
+  geom_point() + geom_smooth() +
+  theme(legend.position = 'bottom')
+```
+```
+
+  Arbitrary margin figures:
+  ```md
+  ```{marginfigure}
+  We know from _the first fundamental theorem of calculus_ that for $x$ in $[a, b]$:
+  $$\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x).$$
+  ```
+  ```
+
+
+  Full-width figures:
+```md
+  ```{r fig-fullwidth, fig.width = 10, fig.height = 2, fig.fullwidth = TRUE, fig.cap = "A full width figure.", warning=FALSE, message=FALSE, cache=TRUE}
+  ggplot(diamonds, aes(carat, price)) + geom_smooth() +
+  facet_grid(~ cut)
+  ```
+```
+Arbitrary Full Width Content:
+
+```md
+::: {.fullwidth}
+Any _full width_ content here.
+:::
+```
+```md
+::: {.fullwidth}
+Any _full width_ content here.
+:::
+```
+
+Main Column figures:
+```md
+```{r fig-main, fig.cap = "A figure in the main column.", cache=TRUE}
+ggplot(diamonds, aes(cut, price)) + geom_boxplot()
+```
+```
+Sidenotes:
+```md
+^[This is a sidenote that was entered using a footnote.] 
+```
+Margin notes:
+```md
+`r margin_note("This is a margin note.  Notice that there is no number preceding the note.")`
+```
+References:
+```md
+- "For example, we can cite R here [@rauner2018]". 
+- To enable this feature, you must set `link-citations: yes` in the YAML metadata, and the version of `pandoc-citeproc` should be at least 0.7.2.
+```
+Tables:
+```md
+```{r}
+knitr::kable(
+  mtcars[1:6, 1:6], caption = 'A subset of mtcars.'
+)
+```
+```
+
+Block quotes:
+```md
+> "If it weren't for my lawyer, I'd still be in prison. It went a lot faster with two people digging."
+>
+> `r tufte::quote_footer('--- Joe Martin')`
+```
+
+-->
+
+SS and I had a meeting in which I presented the analyses I have done so far and he commented on it. [Here](/htmlfiles) are the notes from what we discussed and agreed on:
+`r margin_note("Except for this feedback, I also need to take into account the comments I received on the manuscript by OJ and SI, but their comments I will go through next.")`
+
+### 1. Measures brought up in methods not sufficiently explained and motivated
+
+* **PROBLEM**: The instruments and measures that are brought up in the methods section, must be more explicitely motivated. There are propably good reasons for including these instruments and measures in this particular study. However, the reasons given and how these instruments and measures connect to the research questions are not sufficiently explained at the moment.
+
+* **ILLUSTRATION OF PROBLEM**: The suggested name, *Home municipality classification*, is not an easily understood name for the phenomenon we refer to; another term needs to be used. 
+
+    And this is also a good example of a measure that I need to motivate better why it is important to include; What will these municipality classifications tell us? Also, should we really include all nine categories? It is quiet much considering that we are mainly interested in how the urban vs. rural influence on awareness, attitudes and willingness. 
+
+    Furthermore: Is the distribution typical of Sweden? – A good reason to include such a measure would otherwise be as a means to understand better how representative the sample is of the general (60+) population. Even though that this is something that then would be brought up in the discussion rather than here, I should bear that in mind when bringing the measure up here. 
+
+* **SOLUTION**: SS gave the advice to gather the measures that we designed under a heading called something like 'Study-specific questions'. This section should start out with a paragraph on how we developed our questionnaire with the particular questions used, then describe the ones that we are going to use in this paper.
+
+### 2. Preferred kind of research involvement  - include but move to descriptive section 
+As of the measure of the preferred kind of research involvement of respondents willing to be actively involved, it is currently introduced in the methods secton in the following way:
+
+  > In order to find out the preferred kind of research involvement of respondents willing to be actively involved, these participants were also asked to take a stand on the statement “If you were given the opportunity, how likely is it that you would like to participate by...” followed by six different examples of active involvement such as “being part of a user council, reference group, board or the like?” and an open answer option. Participants were here assigned five response options ranging from "Not at all" to "Very much".
+
+  However, SS rightly pointed out that this measure does not - as of now - connect to any of the research question for the study. In dialogue with SI, we agreed though that this measure is still highly relevant for the focus of the study BUT it should be moved to the descriptives section rather then put here.
+  
+### 3. Motivations and obstacles - exclude from study
+It was decided (in dialogue with SI as well who dropped in to listen to discussion towards the end) that in this study we will not include 'Motivations and obstacles related to public involvement in research'. Rather, it will have to be the subject of another study.
+
+### 4. Move description of categorization of open-ended questions
+The description of how we (OJ, MK & I) went about categorizing the open-ended questions should be moved from the 'Data Analysis' section to the place where the study questionnaire is described.
+
+### 5. Awareness - needs further analysis
+So far, I have only presented how many people were aware of the possibility to be actively involved in research. However, that is not enough in terms of analysis. SS pointed out that an outspoken goal for UserAge is to change peoples’ awareness (but not specifically to change their attitudes). In ordefr to be able to do that, it is not sufficient to just know this, but I also need to investigate and analyze how awareness relates to demographics, self-rated health and economic situation, etc. We decided that rather than presenting these results in an independent table, I could preferrably integrate it into the current Table 1 by adding a few culumns to it, as described here below.
+
+### 6. Table 1
+
+#### a) Give *Table 1* a more adequate title and look over its content
+In the 'Results' section, Table 1 is referred to as illustrating the "demographics" of the study population. However, in the table 'Self-rated health' is included which is not considered part of the 'demographics'. Thus, the heading of the table needs to be changed. 
+
+Also, Table 1 as of now contains stuff that are not relevant to the paper. Either these variables need to be added to the method if they are motivated to include, otherwise they need to be deleted from the table.
+
+#### b) Add column for awareness
+We agreed that I should add a column for awareness (Yes/No) so that it gets a similar look as Table 3. In terms of further analyses needed for this variable, I need to add a chi square test on differences.  This means I also have to read about how to avoid type II errors. Anyways, I need to test this in some way and add those values (OR?) in the table and maybe an asterisk indicating that it is significant. Also, in all table of this kind I need to include both frequence and the *n* number.
+
+
+### 7. Add (n=...) after percentage in the Results' running text
+Not just in the tables but also in running text, after a percentage is given I should also provid the reader with the *n* number.
+
+### 8. Interest - no table needed
+Here we agreed ot necessary with a table which only contains two rows, so in other words I should delete Table 4.
+
+### 9. Attitudes - sufficient level of analysis
+As for attitudes, due partly to the complexity of the question, we (SS, SI and I) agreed that the current Figure 1 represent a sufficient level of analysis for this variable.
+
+<!--
+
+### 
+3.7 - Måste kolla om att man har fyllt 'Övrigt' här om det verkligen är aktivt deltagande.
+
+
+### Actively involved as a confounder
+- Put "Have you been actively involved.." as a confounder
+
+- Bivariate analysis was skipped. Should it be included? Maybe since it is not so theoretically-driven. With co-variates...
+- In an explanatory analysis it could be good
+
+Do a bivariate analysis for each of the predictive variables towards the dependent variable.
+
+Susanne Ullén -- a statistician that can be contacted once I get a grip of the material. She can help has with the validity. Book a meeting with her together with Steven (and Susanne) - book an online meeting with her now. She needs about two weeks notice in advance. Book 1-1.5 hour with her. 
+
+Collinearity analysis
+Bivariate analysis
+
+
+    
+
+Using Multivariate Statistics
+Tabachnik & Fidell
+-->
