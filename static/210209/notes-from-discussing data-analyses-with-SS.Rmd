@@ -81,7 +81,7 @@ Also, *Table 1* as of now contains stuff that are not relevant to the paper. Eit
 We agreed that I should add a column for awareness (Yes/No) so that it gets a similar look as *Table 3*. In terms of further analyses needed for this variable, I need to add a chi square test on differences.  This means I also have to read about how to avoid type II errors. Anyways, I need to test this in some way and add those values (OR?) in the table and maybe an asterisk indicating that it is significant. Also, in all table of this kind I need to include both frequence and the *n* number.
 
 
-# 7. Add (n=...) after percentage in the Results' running text
+# 7. Add *n* after % in running text
 Not just in the tables but also in running text, after a percentage is given I should also provide the reader with the *n* number.
 
 # 8. Interest - no table needed
