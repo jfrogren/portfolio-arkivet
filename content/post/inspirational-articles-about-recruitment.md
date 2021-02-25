@@ -2,7 +2,7 @@
 title: "Inspirational Articles About Recruitment"
 date: 2021-02-04T11:22:17+01:00
 draft: false
-categories: [""]
+categories: ["Research methodology"]
 ---
 
 SI sent some links to use as inspiration for our work when writing about recruitment and the low recruitment rates we had in our study. Here they are:
