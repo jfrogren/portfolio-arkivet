@@ -17,7 +17,7 @@ As I started going through the list, I realised that the most challenging part w
 > Kapedani H., Herssens J., Verbeeck G. (2018) The ComfortTool - Assessing perceived indoor environmental comfort improvements in four deep energy home renovations
 
 
-> Brambilla A., Maino R., Mangili S., Capolongo S. (2020) Built Environment and Alzheimer. Quality Evaluation of Territorial Structures for Patients with Dementia. https://doi.org/10.1007/978-3-030-52869-0_15
+> Brambilla A., Maino R., Mangili S., Capolongo S. (2020) Built Environment and Alzheimer. Quality Evaluation of Territorial Structures for Patients with Dementia. <https://archive.fo/3Lwn7>
 
 I downloaded these articles and started reading them to gain some insights about what kind of theory that the reviewer refered to and what to make of it. I found that I could relate more to the article by Kapedani et al. and while reading it I took some [notes](https://github.com/jfrogren/bibnotes/blob/master/kapedani2018.md). I did not find the article by Brambilla et al. interesting enough to take notes. 
 
