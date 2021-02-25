@@ -35,9 +35,10 @@ This was an initial meeting for the 'Housing Experiment' project that we at CASE
 
 Initially, SI described that due to COVID-19, the project will not contain a co-operation between pupils and older people but they will both be involved in the project but work separately.
 
-Next, I described my PhD project and what part I perceived that Bostadsförsöket and the particular study I planned to conduct within it had.  explained that my doctoral project is about studying different methods or forms for conducting collaborative research or involving people who are not researchers in the research process in research on aging and health. SI filled in and gave a little more context to my story.
+Next, I described my PhD project and what part I perceived that Bostadsförsöket and the particular study I planned to conduct within it had.  explained that my doctoral project is about studying different methods or forms for conducting collaborative research or involving people who are not researchers^[Oskars kommentar: "Alternativ i vårat fall:....people outside the university...Motiv:
+Medborgare som deltar kan mycket väl vara forskarutbildade.Tidigare har jag använt ...non-academic... or ...outside academia... med det blir inte helt korrekt för att t ex forskningsinstitut, FoU-enheter räknas som academia, kanske dessutom även alla akemiker. VA kan i så fall beskrivas som en intermediär organisation."] in the research process in research on aging and health. SI filled in and gave a little more context to my story.
 
-MB explained that citizen research has historically been about the possibility of large datasets, but also in the process to let people get a better idea of what research is. Then we went in to discuss the study structure and focus.
+MB explained that citizen science has historically been about the possibility of large datasets, but also in the process to let people get a better idea of what research is. Then we went in to discuss the study structure and focus.
 
 When it comes to previous years' mass experiments, MB said that what has been done in terms of evaluations are surveys afterwards with teachers - where they have stated what the participation possibly gave in the form of added value. MB explained that what he thought was exciting in this mass experiment was the opportunity to longitudinally follow some individuals before and after their participation and study what this participation had given them in the form of e.g. knowledge and awareness of research.
 
@@ -55,7 +56,7 @@ Furthermore, MB told that V&A has a registration form where there are many teach
 
 It is extra interesting, MB emphasized, that in this case there are two different target groups, partly seniors and partly students and teachers.
 
-OJ mentioned ABF and Vuxenskolan when it came to learning and thought about how the contacts that CASE had there could be used. He also said that, in this case, it could be said to be about two kinds of awareness, partly awareness of research as such and what it entails, but also awareness of accessibility in housing, ie the issue itself. OJ also mentioned the difference between a formative and a summative evaluation.
+OJ mentioned ABF and Vuxenskolan when it came to learning and thought about how the contacts that CASE had there could be used. He also said that, in this case, it could be said to be about two kinds of awareness, partly awareness of research as such and what it entails, but also awareness of accessibility in housing, ie the issue itself. OJ also mentioned the difference between a formative and a summative evaluation^["Indicators on a process- and impact-level..." according to Kieslinger et al. The Challenge of Evaluation: An Open Framework for Evaluating Citizen Science Activities.]
 
 I emphasized that it is important that it is not just an evaluation of the app itself but that the article has a wider ambition than that.
 
