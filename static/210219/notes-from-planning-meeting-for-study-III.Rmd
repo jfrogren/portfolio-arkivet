@@ -1,0 +1,87 @@
+---
+title: "Anteckningar från planeringsmöte för studie III"
+date: "2021-02-19"
+draft: false
+categories: ["Research methodology"]
+runningheader: "Anteckningar från planeringsmöte för studie III" # only for pdf output
+subtitle: "" # only for html output
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: 
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+På detta uppföljningsmöte deltog MG, OJ och jag. Det blev en ganska spretig diskussion men jag ska försöka sammanfatta huvuddragen av den här.
+
+## Studiens syfte
+Beträffande studiens syfte pratade vi en hel del om *lärande*. I föregående mötesdiskussion med MB framkom att vad som främst är intressant utifrån ett Citizen Science-perspektiv handlar mycket om vad människor som deltar *lär sig*. Om det ökar deras medvetenhet om forskning är ju det en form av lärande (och det var främst detta som MB åsyftade), men det kan också finnas andra saker som man kan lära sig. För att knyta an till diskussionen på föregående möte kan det i detta fall handla om sakfrågan det vill säga att lära sig mer om tillgänglighet i bostäder. 
+
+MG pratade om att de som deltar dock sannolikt lär sig en ganska begränsad del. OJ betonade att lärandet också handlar om att förstå och tolka det här analysverktyget. OJ betonade också att när MB beskrev det utifrån ett elevperspektiv så handlar det om att när lärare ställer frågor till sina elever, så kopplar lärarna detta också till läroplanen och den undervisning som bedrivs. Skulle detta kunna överföras på pensionärsföreningar på något sätt? OJ föreslog att vi hur som helst i studien skulle fokusera på det individuella lärandet, och alltså inte gå in på HUR äldre vill delta. Det individuella lärandet kan då handla dels om forskning, men också om sakfrågan det vill säga tillgänglighet i bostäder, och även om att använda digital teknik av detta slag.
+
+Sammanfattningsvis kan man då säga att vad vi vill undersöka när det kommer till det individuella lärandet är lärande i form av ökad medvetenhet om:
+
+- Forskning
+- Sakfrågan (tillgänglighet i bostadsmiljöer)
+- Att använda digital teknik av detta slag
+
+För att återknyta till studiens ursprungsplan så handlade den om *intresse för*
+och *kapacitet att* delta i forskning på det här sättet. Detta kom vi fram till att vi också bör ställa några frågor om detta.
+
+Vi hade därefter en fördjupat diskussion om vilka lärandemålen för projektet egentligen var och om de var explicit formulerade som lärandemål. Såsom vi resonerade kom vi fram till att på ett övergripande plan handlar målen för projektet om att underöka intresset och förmågan att delta. OJ tog upp att man kan se projektet i olika faser och ut efter det bedöma vad som är lärandemålen i varje enskild fas. Initialt handlar det då om att planera och finansiera, därefter om projektledning och genomförande, och slutligen om utvärdering. Det är dock ett perspektiv som handlar om vad vi som forskare lär oss och inte specifikt om vad deltagarna lär sig, även om det naturligtvis finns starka beröringspunkter. 
+
+När det kommer mer till målen för deltagarna så handlar det om att öka människors medvetenhet om hälsoaspekter av tillgänglighet; om att de ska bli mer kritiska konsumenter och ha med ett tillgänglighetstänk i sitt agerande; om tekniken och att använda en app.
+
+Vad har vi för lärandemål när det gäller forskning? Vill vi att folk ska bli mer medvetna om det. Här tog jag upp att ett lärandemål, förutsatt att den inlagda tillgänglighetsdatan under projektets gång presenterades på ett tydligt och lättbegripligt sätt, skulle kunna vara att ställa frågor om att tolka data. Det skulle kunna vara ett sätt att närma sig deras förmåga till kritiskt tänkande. Dock framförde MG och OJ att det finns en osäkerhetsfaktor i hur visuellt, lättbegripligt och kontinuerligt tillgänglighetsdata kommer att presenteras på hemsidan.
+
+MG pratade därefter om att det fanns olika typer av kunskapsmål, som var proximala och distala. Hon föreslog också att vi skulle kunna titta på appen och sen formulera frågor som man kan tänka lära sig av appen och analysverktyget utifrån dess upplägg. 
+
+## Metod
+När det kommer till metod för att undersöka det som vi avser undersöka så handlar det om att skicka ut en enkät till ett antal lokalföreningar i god tid före Bostadsförsöket. Antingen att vi själva skickar ett sådant mejl eller att vi går genom ordförande eller sekreterare i en förening och skickar ut informationen till föreningens medlemmar den vägen. Sen att vi gör en uppföljningsenkät på det som också går ut till samma medlemmar. Vi vet sedan tidigare att i snitt 50% av föreningsmedlemmar i pensionärsföreningar har angett sina epostadresser när de blivit medlemmar och att sådana register alltså finns att tillgå vid kontakt med styrelsen i en förening. Det är något oklart hur många svar vi egentligen behöver. Vad som är ett litet och stort deltagande är svårt att säga. MG nämnde att om vi skulle lyckas nå 4-5000 medlemmar så räcker det om det är 10% som svarar för att vi ska få ett bra urval.
+
+Vi diskuterade också möjlgheten att komplettera dessa enkäter med en fokusgrupp före och efter Bostadsförsöket där vi skulla ställa tematiska frågor. Dock menade MG att det blir en form av grupplärande också och att det är svårt att veta vad individerna själva har tänkt. Därtill är det mycket jobb med att samla in och framförallt analysera den här sortens data. Kanske vore det bättre att, om vi var ute efter kvalitativ data, använda oss att försöka rekrytera personer som hörde av sig till supporten och ha kortare intervjuer med dem.
+
+## Beröringspunkt mellan syfte och metod
+MG poängterade att man kan kan dra många slutsatser kring rekrytering även om man bara fokuserar på lärandeprocessen.
+
+## Beslut fattade och vägen framåt
+Efter diskussioner om olika saker beslutade vi oss för följande:
+
+- **Skapa före-efter-enkät till några specifika lokalföreningar i Skåne.** <br>
+Vi får pinpointa några olika pensionärsföreningar och sen ha någon förening kopplad till Neuroförbundet så att funktionshinder-perspektivet också inkluderas. Vi skulle kunna hitta en lista att ta fram. Här är på att-göra-listan att ta fram en sådan lista. Skulle behöva vara via föreningar som är med i projektet, och alltså måste vi också hitta ett sätt att säkerställa att de vill delta i projektet.
+
+- **Formulera forskningsplan.** <br> 
+Vi beslutade att jag på en A4-sida i god tid innan nästa möte ^[När detta möte äger rum står längst ner i dessa anteckningar.] (helst 24h innan) formulerar ett utkast till en forskningsplan där det står beskrivet vad det är vi ämnar göra. För att underlätta samarbete i formulerandet av detta gemensamma dokument beslutade vi oss för att använda Google Docs och att jag inkluderar en länken till detta dokument i mejlet som jag skickar ut. Detta dokument ska då innehålla:
+  a) *Beskrivning av projektet*: Kort inledning om att bostadsförsöket ska ske (själva insatsen) och vad vi tänker oss att det kan leda till.
+  b) *Syfte med vår studie*: Forskningsfråga och beskrivning vad är det som ska undersökas.
+  c) *Metod*: Beskrivning av hur vi ämnar undersöka det.
+  d) *Utkast till enkät*: På den andra sidan av dokumentet gör jag ett första utkast till en enkät, med ämnesområden som rubriker och ett antal frågor under varje rubrik. 
+
+
+- **Återkommande möten framöver**. <br> 
+Vi beslutade oss också för att ha regelbundna möten framöver för att säkerställa att arbetet fortskrider som det ska. Följande mötestider bokades in framöver: 
+    + Fredag 26/2 kl. 8.30-9.30
+    + Fredag 5/3 kl. 8.30-9.30
+    + Fredag 12/3 kl. 8.30-9.30
+
+
+
