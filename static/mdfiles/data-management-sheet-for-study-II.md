@@ -970,3 +970,6 @@ Inget att kommentera
 Många 'missing' som är oklart om de motsvarar '2' eller 'Missing'. Kanske inte spelar så stor roll dock. Här räcker det nog att räkna '1':or.
 
 
+## 2021-02-22: Created new file and translated variables
+
+Today I created  anew file called "Target group 1 recoded open questions 2021-02-22" and in this file I translated all the dependent and independent vriables that I will be using. 
