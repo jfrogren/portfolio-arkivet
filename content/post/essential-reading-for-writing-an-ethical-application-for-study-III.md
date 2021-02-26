@@ -5,7 +5,7 @@ draft: false
 categories: ["Research process", "Research methodology", "Subject expertise", "Ethical issues"]
 ---
 
-MG sent a mail today suggesting some relevant literature about Citizen Science as well as on how to write an Ethical application for a research study. 
+MG sent a mail today suggesting some relevant literature about citizen science (CS) as well as on how to write an Ethical application for a research study. 'when going through the literature about CS, I see clear similarities with the literature on *wicked problems* and on motivations for transdisciplinary science. They all share the same foundational view that there is an unavoidable subjectivity in the perception and understanding of problems that at least to some extent have a social character. 
 
 ## Citizen Science
 - Compilation of material from a course that MG took a year ago on Citizen Science]
