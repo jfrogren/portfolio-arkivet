@@ -32,13 +32,13 @@ MG sent a mail today suggesting some relevant literature about Citizen Science a
         - [Tuesday Session "Reporting back from the workshops - Fishbowl discussion"](https://www.cswinterschool.uzh.ch/dam/jcr:274bec57-765f-41e4-84d2-5b90679887ab/Tuesday%20Session_Reporting%20Back%20from%20Workshops_Fishbowl.pdf)
         - [Wednesday Session "Reporting back from the workshops - Mentimeter results"](https://www.cswinterschool.uzh.ch/dam/jcr:c72a3788-bd49-4eef-80dd-d328c04766db/Wednesday%20Session_Reporting%20Back%20from%20Workshops_Mentimeter%20Results.pdf)
         - [Friday Session - "Reporting back and Evaluation of the Winter School"](https://www.cswinterschool.uzh.ch/dam/jcr:a517e641-62f4-4ef1-81c0-768991857379/Friday%20Session_Reporting%20back%20and%20Evaluation.pdf)
-    + [Further reading material and resources](https://www.cswinterschool.uzh.ch/en/csschool/Reading-material.html)
+    + [Further reading material and resources](https://archive.fo/r0H5p)<!-- https://www.cswinterschool.uzh.ch/en/csschool/Reading-material.html) -->
       
 - [Medborgarforskning.se](https://archive.fo/99GbH) 
 - Hecker, Susanne, et al., eds. ["Citizen science: innovation in open science, society and policy"](/pdfs/hecker2018.pdf). UCL Press, 2018.
 - Kieslinger, Barbara, et al. ["The challenge of evaluation: An open framework for evaluating citizen science activities."](/pdfs/kieslinger2017.pdf) (2017).
-- Phillips, Tina B., et al. ["Engagement in science through citizen science: Moving beyond data collection."](/pdfs/phillips2019.pdf) Science Education 103.3 (2019): 665-690.
-- Jordan, Rebecca C., Heidi L. Ballard, and Tina B. Phillips. ["Key issues and new approaches for evaluating citizen‐science learning outcomes."](/pdfs/jordan2012.pdf) Frontiers in Ecology and the Environment 10.6 (2012): 307-309.
+- Phillips, Tina B., et al. [Engagement in science through citizen science: Moving beyond data collection.](/pdfs/phillips2019.pdf) Science Education 103.3 (2019): 665-690.
+- Jordan, Rebecca C., Heidi L. Ballard, and Tina B. Phillips. [Key issues and new approaches for evaluating citizen‐science learning outcomes.](/pdfs/jordan2012.pdf) Frontiers in Ecology and the Environment 10.6 (2012): 307-309.
 
 
 ## Ethical approval
