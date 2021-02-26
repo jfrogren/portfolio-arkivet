@@ -61,6 +61,6 @@ What will be discussed at the first meeting on the 11th, SI further explained, i
 ### 3. Other questions
 JF's delay is becoming a very serious issue. SI will inform the head of a department about the situations and what measures should be taken. 
 
-### 4. Next supervision
+## 4. Next supervision
 Next supervision will be on **1 March 2021 at 10.30-12.00**. JF will send the updated manuscript to the supervisors on 23 February.
 
