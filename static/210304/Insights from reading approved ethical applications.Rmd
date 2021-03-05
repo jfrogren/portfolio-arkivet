@@ -1,0 +1,270 @@
+---
+title: "Insights from reading approved ethical applications"
+date: "2021-03-04"
+draft: false
+categories: [""]
+runningheader: "Insights from reading approved ethical applications" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+header-includes:
+   - \usepackage{coffee4}
+
+---
+
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+
+
+<!-- Insåg att följande hörde till en senare del av ansökan och därför avvaktade jag med denna del: 
+
+## Titel
+Skulle behöva en 'catchy' titel som inte är alltför lång. Kanske kan jag använda Sustain@Home - xstudie om y
+
+
+## Syfte och frågeställningar
+När det gäller syfte och frågeställningar inleds det med en populärvetenskaplig sammanfattning på cirka 300 ord. Här kan jag ta med följande meningar:
+* Studien är en delstudie (studie X) inom forskningsprojektet Sustain@Home, vilket fokuserar på hur... 
+* I dagligt tal konstaterar man ofta att X, men det finns ju X och man kan fråga sig Y.
+* Vi vill undersöka...
+* Vi kommer att utveckla ny kunskap om...
+* Vi vill identifiera skillnader och likheter mellan...
+* För att kunna belysa frågeställningarna ur olika perspektiv genomförs projektet av forskare med olika bakgrund och kunskap
+* Olika metoder används inom forskningsprojektet för att få fram så bred och nyanserad kunskap som möjligt. Fokusgruper (studie 1 inom Sustain@Home) med 
+vardera deltagare från respektive åldersgrupp har genomförts efter etiskt tillstånd från X. Aktuell etikansökan anser bara studie X.
+* Kunskap om X samt hur dessa faktorer hör samman med aktivitet och hälsa när vi åldras är en viktig förutsättning för att möta människors faktiska behov. Kunskapen från Sustain@Home kan användas för X. Projektets resultat kan också användas för Y.
+
+-->
+
+Med utgångspunkt i [projektansökan för Sustain@Home]() och tidigare beviljade etikansökningar, och i huvudsak den för [GenerationTech]() har jag nu börjat skissa på en etikansökan egen för studien kopplad till 'Bostadsförsöket'. Det vi kom överens om på det förra mötet - MG, OJ och jag - var att jag skulle börja med att formulera en forskningspla som man sedan kan utgå ifrån nä man fyller i övriga dokument som krävs för en etikensökan. Jag tog som sagt itu med uppgiften genom att lusläsa tidigare ansökningar och nu ser forskningsplanen ut så här (hittills): 
+
+
+
+# Sustain@Home 'Bostadsförsöket' - en utvärdering av äldre medborgares upplevelse av att delta i ett massexperiment om tillgänglighet i bostäder
+
+## Syfte och vetenskapliga frågeställningar (1-2 meningar) 
+Det övergripande syftet är att utvärdera äldre medborgares upplevelse av att delta i ett massexperiment om tillgänglighet i bostäder
+
+## Frågeställningar
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8.
+
+
+## Områdesöversikt
+### Aktuellt projekt (250-300 ord)
+Sustain@Home är ett FORTE-finansierat projekt vars övergripande syfte är att generera ny kunskap om utmaningar och möjligheter kring äldres bostäder och därmed bidra till en forskningsunderbyggd och socialt hållbar bostadspolitik som stödjer delaktighet och aktivt medborgarskap. Projektet genomförs inom Centre for Ageing and Supportive Environments (CASE) som är en tvärvetenskaplig forskningsmiljö med ett välutvecklat nätverk av doktorander, postdoktorer och seniora forskare.
+
+Projektet utgår från teorier om interaktionen mellan människa och miljö från hälsovetenskap och åldrandeforskning, och den allmänt accepterade hypotesen att miljöfaktorer, såsom t.ex. brister i bostadsmiljön (Alley et al. 2009), är avgörande faktorer för människors hälsa (Chatterji et al. 2015). Projektet är tvärvetenskapligt och gränsöverskridande och omfattar fyra studier varav denna studie utgör den tredje studien i ordningsföljd. Den föregås av en kvalitativ intervjustudie om att åldras med funktionshinder i utsatta områden (ej del av denna ansökan, godkänd av X i Y med Dnr Z), och en kvalitativ studie om kritiska incidenter i mötet mellan bostadsförsörjning, vård och sociala tjänster (ej del av denna ansökan, godkänd av X i Y med Dnr Z). Denna, den tredje studien i projektet utgörs av en utvärdering av äldre medborgares upplevelse av att delta i ett så kallat massexperiment (en form av medborgarforskning) benämnt 'Bostadsförsöket' som syftar till att engagera skolungdomar och äldre medborgare att parallellt samla in tillgänglighetsdata i den egna bostaden med hjälp av en app på en surfplatta. Den teoretisk konceptuella modell som ligger till grund för appens utformning är Housing Enabler (ref)...
+
+Kunskap om äldres upplevelse av att delta i ett massexperiment kan användas för att... Kommunikation och översättning av kunskap är centralt i projektet, med målet att uppnå största möjliga synlighet och användning i resultaten kommer sådana aktiviteter att omfatta vetenskapliga, samhälleliga, politiska och praktiska aspekter.      
+
+### Bakgrund (200-250 ord)
+Forskning saknas om X (ref). Trots att Y, adresseras sällan Z. XX spelar en betydelsefull roll i smmanhang XX/pga YY (ref). Många studier handlar om X, Y och Z (ref). Få studier uppmärksammar X (ref). Därför kommer vi att studera X ur ett brett perspektiv som omfattar...
+
+### Projektbeskrivning
+#### Design (60-70 ord)
+Den aktuella studien har en mixed-methods design med data insamlad dels via en enkät i grupper valda utefter kriterie z och dels genom kvalitativa intervjuer.
+Data insamlingen genomför av X.
+
+#### Rekrytering och urval (250 ord)
+
+##### Enkät
+Deltagarna kommer att väljas efter kriterie x och representera normalpopulationen i åldersgruppen 60+. Åldersgruppen stratifieras på kön
+Baserat på befolkningsdata från 2016 (Statistiska Centralbyrån) består gruppen X av ca Y (X% kvinnor). Med ett konfidensintervall på 95% och felmarginal på 4 beräknar vi att ett urval om totalt 3598 (skriv in siffra) (Cochran 1977) är tillräckligt för att kunna dra statistiskt säkerställda slutsatser. Baserat på tidigare erfarenheter av enkätstudier genomförda i Sverige förväntar vi oss en svarsfrekvens på 50-60% (Ryan et al. 2016). Mot denna bakgrund och för att ha ett tillräckligt populationsunderlag kommer vi att använda [beskriv] strategin]. Rekrytering av deltagare ur detta underlag kommer att ske till att X män och x kvinnor ingår. Deltagarna kommer att inkluderas efter informerat samtycke, i enlighet med bilaga (nr X). Samtliga deltagare kommer att tilldelas ett löpnummer.
+
+##### Intervjustudie 
+
+#### Procedur/genomförande (400-500 ord)
+
+##### Enkäten
+För studiens syfte har en enkät utformats av forskargruppen (Bilaga X), baserad på befintlig forskningslitteratur. Enkäten kommer ordagrant att omvandlas till ett webb-formulär för att kunna besvaras online. Formuläret kommer att publiceras på säker webbplats i enlighet med General Data Protection Regulation.
+
+Innan den fullständiga datainsamlingen påbörjas kommer forskargruppen genomföra en pilotstudie med X deltagare. Pilotstudien kommer att genomföras med X personer ur CASE brukarråd som anses utgöra ett urval av den internetanvändande gruppen personer 60 år och äldre i Sverige. Eventuell revidering av enkät genomförs av forskargruppen innan den fullständiga datainsamlingen påbörjas. En forskare från forskargruppen kommer att stå till JF:s förfogande under hela genomförandet.
+
+Deltagarna kommer att kontaktas av X genom epost/brev, för informerat samtycke enligt bilaga X. I brevet hänvisas till en webbversion av enkäten och deltagarna tilldelas unika inloggningsuppgifter.
+
+En första påminnelse skickas postalt till deltagarna efter en vecka, tillsammans med informationsbrev (Bilaga X), hänvisning till webbenkät och inloggningsuppgifter.
+
+Om svar uteblir från deltagare kommer efter 2-3 veckor en påminnelse om att besvara webbenkäten att gå ut. Upp till X försök att få deltagaren att besvara webenkäten kommer att göras.
+
+Kvalitetskontroll för att säkerställa att frågorna inte missförstås, att data överensstämmer med deltagarnas svar och är korrekt, fullständigt samt logiskt registrerade i databasen, genomförs av X. Eventuella ändringar som behöver göras för att säkerställa detta kommuniceras med forskargruppen. Datainsamlingen kommer även att göras tillgänglig för monotorering av forskare från forskargruppenenligt följande: när [x%]  enkäterna besvarats granskas data för att identifiera eventuella systematiska fel i datainsamlingen.
+  
+##### Intervjuerna 
+
+#### Analys (1-2 meningar)
+Data kommer att analyseras med vedertagna metoder samt med hänsyn till typ av data (kvalitativ respektive kvantitativ, normalfördelning, etc.) inklusive skalnivå.
+
+#### Hantering av insamlad data (250 ord)
+##### Enkäten
+Ett krypterat system kommer att användas i samband med datainsamlingen för att garantera att de uppgifter som deltagarna lämnar i enkäten hanteras konfidentiellt i enlighet med GDPR. När datainsamlingen är komplett kommer data (dvs svar på enkäten) att omvandlas till en krypterad fil (kompatibel för export till SPSS, STATA, SAS, etc.) och levereras tillsammans med en kodbok till forskargruppen. Databasen kommer att inkludera svaren såsom de är ifyllda av deltagaren. En teknisk rapport som översiktligt beskriver genomförandet, bortfallsanalys och metodik kommer också levereras.
+
+X kommer således att avidentifiera deltagarnas svar på enkätfrågorna så att forskargruppen inte får tillgång till identifierande uppgifter såsom namn, personnummer eller adress. Ålder samt postnummer för hemadress kommer dock att ingå i databasen för att kunna iaktta eventuell betydelse av ålder eller bostadsort för resultaten. Avidentifierade data kommer sedan att skickas till forskargruppens datahanteringsansvarige, biträdande forskare, dr. X. När resultaten rapporteras kommer således inga enskilda individer kunna identifieras.
+
+Data kommer att lagras i avidentifierat skick vid i en databas som endast forskare som är involverade i projektet har åtkomst till. För att skydda data i projektet mot obehörig åtkomst kommer plattformen LUSEC vid, Medicinska fakulteten, Lunds universitet att användas. I LUSEC har data stark kryptering och är endast åtkomliga efter tvåfaktorautentisering och selektiv behörighetskontroll. Dr X kommer på delegation av projektansvarig (professor Susanne Iwarsson) att administrera vilka forskare som ges behörighet att komma åt data i LUSEC.
+
+Materialet kommer att arkiveras under 10 år. Ingen journalföring förekommer eftersom projektet inte har någon koppling till hälso- och sjukvårdsinsatser. 
+
+##### Intervjuerna
+
+        
+#### Redogörelser för tidigare erfarenheter av vald metod (60-70 ord)
+Genomförande av enkätstudier är vanligt förekommande inom medicinsk och hälsovetenskaplig forskning och anses inte medföra några egentliga risker för de som medverkar. Projektet drivs av seniora forskare (SI, MG) med lång erfarenhet av forskning som bygger på frågeformulär och självskattningsinstrument som resulterat i ett stort antal originalartiklar publicerade i välrenommerade internationella tidskrifter.
+   
+
+#### Forskningsetiska överväganden (200 ord)
+Potentiella deltagare kommer att erhålla både muntlig information om studien och ge sitt informerade samtycke i samband med datainsamlingen genom att besvara enkäten. Det finns även möjlighet att kontakta forskarna för ytterligare information inför informerat samtycke.
+
+Information lämnas om att allt deltagande i studien är frivilligt och att det finns möjlighet att när som helst avbryta sitt deltagande.  
+
+Studien bedöms inte innebära någon risk för skada eller obehag för deltagarna.
+
+Enkäten beräknas ta 10-15 minuter att besvara, vilket anses vara en rimlig tid som inte kommer att belasta deltagarna nämnvärt. 
+
+Deltagarna kommer att informeras om att de när som helst kan avbryta eller välja att inte svara på specifika frågor utan att uppge någon anledning.
+
+Deltagandet förväntas inte att innebära några för- eller nackdelar för den enskilde individen.
+
+Alla resultat kommer att redovisas i avidentifierat skick så att inga resultat kommer att kunna knytas till enskilda individer. 
+
+Resultaten kommer att ingå i en doktorsavhandling och spridas till andra forskare vid vetenskapliga konferenser och publicering i välrenommerade internationella vetenskapliga tidskrifter. Projektet är finansierat av X och deras krav på open access kommer att efterlevas. Vetenskaplig publicering förväntas ske under 2021-2022. Resultaten kommer även att kommuniceras populärvetenskapligt. 
+
+#### Studiens betydelse (2550-300 ord)
+Forskning saknas om X
+
+Få studier har övergripande fokuserat på åldrande och x med särskild uppmärksamhet på y och z.
+
+Genom ökad kunskap om x kan samhället [eller annan instans/aktör] på ett bättre sätt möta y:s faktiska behov.
+
+Ökad kunskap om X:s attityder och erfarenheter, behov och önskemål kommer att få betydelse för att y
+
+Denna studie utgör det X:e steget (y motsvarar första steget) i ett större projekt som syftar till att z... och utgör en viktig grund för att studera området ur ett bredare befolkningsperspektiv.
+
+Att förstå x och dess betydelse för y bidrar till projektets samhällsrelevans liksom till potentialen för gränsöverskridande forskning inom detta område.
+
+Vi kommer också att rapportera om det finns några könsskillnader som är värda att uppmärksamma.
+
+Resultaten kan bidra till utvecklingen av hälsofrämjande och förebyggande insatser på individ, grupp och samhällsnivå. 
+   - Studien kan ligga till grund för utbildning av yrkesgrupper inom hälso- och sjukvård och socialtjänst, inklusive utveckling av insatser i hemmet för att stödja aktivt och hälsosamt åldrande.
+   - Kommunikation och översättning av kunskap är centralt i projektet. Med målet att uppnå största möjliga synlighet och användning av resultaten kommer sådana aktiviteter att omfatta vetenskapliga, samhälleliga, politiska och praktiska aspekter. 
+   
+#### Tidplan (4-5 meningar)
+Rekryteringen av deltagare planeras starta i maj 2021. Datainsamlingen kommer därefter att påbörjas och avslutas senast i oktober 2021. Materialet kommer att bearbetas under hösten 2021 och våren 2022, följt av rapportering av resultat från våren 2022 och framåt.  
+
+### Referenser
+
+## Enkäten
+
+### Titel
+
+### Brevets formulering
+
+Hej,
+
+Vill du delta i ett forskningsprojekt om... 
+I detta brev får du information om projektet och vad det innebär att delta.
+
+[3-4 meningar om rationale]
+
+Tanken med forskningsprojektet X är att utveckla ny kunskap om...
+
+I forskningsprojektet vill vi även undersöka X. [1-2 förklarande meningar]. Utifrån dina och andra deltagares svar vill vi utveckla ny kunskap om hur...
+
+**Hur går studien till?**
+Om du väljer att delta kommer du att få besvara en webbenkät som det tar ungefär 10-15 minuter att besvara. Enkäten skickas ut till cirka [antal] personer som är..[urvalskriterie].
+
+**Vad händer med mina uppgifter?**
+Datainsamlingen genomförs av forskare inom Cenree for Ageing and Supportive Environments (CASE) vid Lunds universitet. Våra kontaktuppgifter hittar du längst ner i detta brev.
+
+X har fått dina adressuppgifter genom [beskriv hur] från X:s adressregister. Dina svar i enkäten lagras på ett säker sätt av [beskriv av vem]. X kommer dock inte att behålla något av materialet, utan överlämna dina enkätsvar avidentifierade, det vill säga utan ditt namn, personnummer eller adress, till forskarna. Dina svar kommer bara att användas av forskare för att besvara studiens syfte. Materialet kommer att arkiveras i tio år och i enlighet med EU:s dataskyddsförordning, General Data Protection Regulation (GDPR), i en säker portal som bara projektets forskare har tillgång till.
+
+**Hur får jag information om resultatet av studien?**
+Resultatet kommer att presenteras på gruppnivå i vetenskapliga och populärvetenskapliga sammanhang. Ingen utomstående kan komma att identifiera dig. Studien kommer också att ingå i en doktorsavhandling.
+
+**Deltagandet är frivilligt**
+Ditt deltagande i studien är helt frivilligt och innebär inget ytterligare åtagande. Du kan också avstå från att besvara enstaka frågor och kan när som helst avbryta ditt deltagande. Om du väljer att delta så är nästa steg att fylla i enkäten som du når via länken nedan. Om du inte vill delta behöver du inte göra något, men en första och en andra påminnelse kommer att skickas per [mail/brev] till personer som inte besvarat enkäten. 
+
+Du kan besvara enkäten via nedanstående länk som du skriver in i webbläsaren på din dator eller surfplatta. 
+
+Länk:https://sifologin.tns-sifo.se
+Användarnamn: [här anges ett användarnamn som är unikt för varje deltagare] 
+Lösenord: [här anges ett lösenord som är unikt för varje deltagare] 
+
+**Om du undrar något**
+Har du några frågor om undersökningen är du välkommen att kontakta forskare vid Lunds universitet:
+Anna Andersson: via telefon [telefonnummer], eller e-post [e-postadress].
+
+**Ansvarig för studien**
+Forskningshuvudman är Institutionen för hälsovetenskaper, Medicinska fakulteten vid Lunds universitet. Samtliga forskare i denna studie är verksamma där.  Vetenskapligt ansvarig forskare för studien är:  
+Susanne Iwarsson, professor i gerontologi  
+Telefon: 046-222 19 40  
+E-post: <susanne.iwarsson@med.lu.se>
+
+
+### Enkät för Sustain@Home 'Bostadsförsöket'
+I denna enkät finns frågor om [en mening om innehåll]. Med x avser vi y. Inga svar är rätt eller fel utan vi är intresserade av din uppfattning kring dessa frågor.
+
+#### Ämnesområde 1
+1. [Fråga 1]
+   Svarsalternativ: x/y/z
+2. [Fråga 2]
+   Svarsalternativ: x/y/z
+3. [Fråga 3]
+   Svarsalternativ: x/y/z
+
+#### Ämnesområde 1
+1. [Fråga 1]
+   Svarsalternativ: x/y/z
+2. [Fråga 2]
+   Svarsalternativ: x/y/z
+3. [Fråga 3]
+   Svarsalternativ: x/y/z
+   
+#### Ämnesområde 1
+1. [Fråga 1]
+   Svarsalternativ: x/y/z
+2. [Fråga 2]
+   Svarsalternativ: x/y/z
+3. [Fråga 3]
+   Svarsalternativ: x/y/z
+   
+   
+#### Frågor om dig själv 
+
+21. Födelseår:
+22. Kön: (man/kvinna) 
+23. Hemkommun/Postnummer:
+24. Mitt civilstånd är:  Svarsalternativ: gift el. sambo / ensamstående / skild / änka el. änkling / aldrig gift 
+25. Antal personer i mitt hushåll:  a.som är under 18 år......... b.över 18 år (inklusive dig själv)..........
+26. Hur länge har du bott i Sverige? Sedan jag föddes/ Sedan jag var barn el. ungdom/Sedan jag var 18 år eller äldre 
+27.Om du är född i ett annat land, ange vilket: (Bosnien/Finland/Irak/Iran/f.d. Juguslavien/Polen/Somalia/Syrien/Turkiet/Tyskland/Annat..ange vilket)
+28.Vilken är din högsta utbildning?  Obs! Ange endast ett alternativ. Svarsalternativ: Grundskola, folkskola, realskola eller liknande / Gymnasieutbildning / Yrkesskola, yrkeshögskola eller liknande / Universitets- eller högskoleutbildning  
+29.Min huvudsakliga sysselsättning är för närvarande:  Svarsalternativ: Studier / yrkesverksam / föräldraledig / pensionär / annat, vad?....... 
+31.I allmänhet, skulle du vilja säga att din hälsa är?  
+Svarsalternativ: Utmärkt / mycket god / god / någorlunda / dålig 
+32. Hur skulle du beskriva din ekonomiska situation? 
+Svarsalternativ: Utmärkt / mycket god / god / någorlunda / dålig 

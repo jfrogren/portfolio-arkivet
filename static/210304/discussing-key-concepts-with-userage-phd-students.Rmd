@@ -1,0 +1,52 @@
+---
+title: "Discussing key concepts with UserAge PhD students"
+date: "2021-03-04"
+draft: false
+categories: [""]
+runningheader: "Discussing key concepts with UserAge PhD students" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    latex_engine: xelatex
+tufte::tufte_book:
+  citation_package: natbib
+  latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+
+AW tog anteckningar under mötet och de ser ut så här:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

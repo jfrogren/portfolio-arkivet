@@ -1,0 +1,87 @@
+---
+title: "Data analysis meeting with SU, SI and SS"
+date: "2021-03-04"
+draft: false
+categories: [""]
+runningheader: "Data analysis meeting with SU, SI and SS" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    latex_engine: xelatex
+tufte::tufte_book:
+  citation_package: natbib
+  latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+
+<!-- ### Nationality
+
+RL, OJ and SI provide JF with their feedback on the latest manuscript. RL wondered where nationality was to be found in the data since you could find it in the theories. I explained that since it was not included explicitly in the research question and very broad a question I had chosen not to include it. It was decided that I should include it and make it part of demographics.
+
+
+
+### Age categories
+
+I need to add STD, and variance for age in table 3. OJ was missing age categories and RL as well wondered about comparing age groups since it was often done in other studies from CASE. If the age groups are an interesting to break down, it is simply about descriptives then, SI argued. To start with, in table 2, I could add the age groups in order to give the reader a bit more info: 60-69; 70-79; 80-89: 90+. Could be interesting because that is what has been done earlier at CASE, RL said.
+
+
+### Clearer description of how the regression follow on the descriptives and the bivariate analysis
+Typically when you do the bivariate you do a cut-off and decide what to include and not in further analyses. HEre, it not sufficiently clear for the reader how you went from one analysis to the next.
+
+### Dig more into health status 
+Another key question is health status. There is a negative correlation between willingness, we need to dig in more here... 
+Self-rated health is a complicated matter - rod see a conflict between the introduction and the discussion - can it be sorted out. He think that is really critical. SI said that the results are as they are and it is more linking the introduction to the discussion. We have only got the subjective matter, we have to work with what we got.
+
+However, OJ pointed out that we in the survet also included a frailty scale. It was decided that I should add and analyze frailty as well. There might be a correlation between frailty and self-rated health and then I will just move a long with the one with strongest correlation.
+
+### Municipality of residence
+Smaller in the village than cities in terms of willingness. However, only write in the results the significant or not.
+
+-->
+
+<!-- MEETING with SS
+
+If you do not put in the variables as categorical, it considered them as a continous variables. It poses any problem, I asked. It will give you an overall effect of say education as a continous label, but you don't know where the significance is. For the municipalites as well as health
+
+-->
+
+* Mycket deskriptivt och sen jämför de som vill delta....
+* Utgör de bivariatea analyserna resultat eller som steg vidare i analysen...
+
+* All the descriptives is a pre-step becuse it is new data that has not been described before... 
+
+* The thing with regressionmodel is that you an do it for several reason
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
