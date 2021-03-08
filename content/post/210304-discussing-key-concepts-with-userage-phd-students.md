@@ -2,7 +2,7 @@
 title: "Discussing key concepts with UserAge PhD students"
 date: 2021-03-04T13:17:49+01:00
 draft: false
-categories: [""]
+categories: ["Subject expertise"]
 ---
 
 ## What?
