@@ -12,8 +12,12 @@ Twice a year we - the PhD students of the UserAge program - have agreed upon hav
 As usual, the discussion went a bit all over the place but it still felt very meaningful. I think my biggest take-home was to not underestimate the value of what the [stakeholders outside the academy](/pdfs/jonson2021.pdf), or whatever one decides to call them, gain from being involved in reaserch. That is a factor or reason that is worth including since it cannot be neglected. I have tended to slightly ignore it and focus more on the other bigger reasons, like as a means to make our democracy more inclusive or as a means to create socially robust knowledge. However, the aspect of what the persons involved gain from their involvement deserves attention. Not least since within occupational therapy, participation is central as a means to better health. I think that my lack of knowledge in this discipline is part of the reason why I have not realised earlier on the necessity of including this aspect. 
 
 ## Additional notes
-In addition to these short reflections, AW also took some notes during the meeting and they can be found [here](/210304/discussing-key-concepts-with-userage-phd-students.html).
+In addition to these short reflections, AW also took some notes during the meeting and they can be found [here](/pdfs/210304-dialogmote-III-minnesanteckningar.pdf).
 
+## Texts mentioned by AW during the discussion
+
+* [Varför är det så snårigt? - begrepp relaterade till samverkansmeritering](/pdfs/210304-varfor-ar-det-sa-snarigt.pdf)
+* [FORMAS - Inkluderande forskning och innovation](/pdfs/210304-inkluderande-forskning-och-innovation.pdf)
 
 ## Next discussion
 We also decided that the next discussion will take place on **Tuesday 21 September at 13.30-15.30** on [Zoom](https://hkr-se.zoom.us/j/9980513021) as well. And the topic of that discussion will be "Stora perspektiv på sanning, ontologi och epistemologi" [Great perspectives on truth, ontology and epistemology ]. As a preparation we will read the following texts:
