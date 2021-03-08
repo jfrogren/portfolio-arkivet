@@ -17,6 +17,7 @@ In addition to these short reflections, AW also took some notes during the meeti
 
 ## Next discussion
 We also decided that the next discussion will take place on **Tuesday 21 September at 13.30-15.30** on [Zoom](https://hkr-se.zoom.us/j/9980513021) as well. And the topic of that discussion will be "Stora perspektiv på sanning, ontologi och epistemologi" [Great perspectives on truth, ontology and epistemology ]. As a preparation we will read the following texts:
+
 * Uggla, Bengt Kristensson. [En strävan efter sanning: vetenskapens teori och praktik](https://archive.fo/23Ier). Studentlitteratur, 2019.
 * Linell, Per. ["Bara prat?" - Om socialkonstruktivismen som vanställande och vanställd](/pdfs/linell2006.pdf). In M. Kylhammar & J.-F. Battail (Eds.), _Det vanställda ordet_ (pp. 152-193). Stockholm: Carlssons, 2006. 
 * Westergren, Albert, et al. ["Next of kin participation in the care of older persons in nursing homes: A pre–post non-randomised educational evaluation, using within-group and individual person-level comparisons."](/pdfs/westergren2021.pdf) Plos one 16.1 (2021): e0244600. - OBS! Only read the text marked in yellow in the discussion part of this article. 
