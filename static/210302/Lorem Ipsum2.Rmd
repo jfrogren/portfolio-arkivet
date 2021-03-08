@@ -1,0 +1,72 @@
+---
+title: "Lorem Ipsum"
+date: "2021-03-02"
+draft: false
+categories: [""]
+runningheader: "Lorem Ipsum" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_handout:
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+header-includes:
+   - \usepackage{coffee4}
+   - \usepackage{wine}
+
+---
+
+
+
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+\cofeAm{1}{1.0}{0}{5.5cm}{3cm}
+\cofeDm{1}{0.4}{23}{2.5cm}{-8.5cm}
+\cofeDm{0.6}{0.2}{56}{-2.5cm}{6.5cm}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida rutrum quisque non tellus. Fermentum dui faucibus in ornare quam viverra orci sagittis eu. Sit amet cursus sit amet dictum sit. Fusce ut placerat orci nulla pellentesque dignissim enim sit. Leo a diam sollicitudin tempor id eu nisl. Velit ut tortor pretium viverra suspendisse potenti nullam ac. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Ornare aenean euismod elementum nisi quis eleifend. Vitae purus faucibus ornare suspendisse sed nisi lacus sed. Erat nam at lectus urna duis convallis. Duis convallis convallis tellus id interdum velit. Laoreet sit amet cursus sit amet dictum sit amet justo. In hac habitasse platea dictumst vestibulum rhoncus est. Enim tortor at auctor urna. Sed arcu non odio euismod lacinia at quis. Tristique senectus et netus et.
+
+Odio eu feugiat pretium nibh ipsum. Iaculis at erat pellentesque adipiscing. Leo vel orci porta non pulvinar neque laoreet suspendisse. Lorem donec massa sapien faucibus. Feugiat vivamus at augue eget. Ultrices in iaculis nunc sed augue lacus viverra vitae. Venenatis urna cursus eget nunc. Iaculis nunc sed augue lacus viverra vitae. Malesuada fames ac turpis egestas integer eget aliquet nibh. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Ultrices tincidunt arcu non sodales neque sodales ut. Nec sagittis aliquam malesuada bibendum arcu. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Vestibulum sed arcu non odio euismod lacinia at. Faucibus in ornare quam viverra orci sagittis eu volutpat. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed.
+
+Mattis aliquam faucibus purus in massa tempor nec. Auctor urna nunc id cursus metus aliquam. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Nulla posuere sollicitudin aliquam ultrices sagittis. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Metus dictum at tempor commodo ullamcorper a lacus.
+
+Nisl tincidunt eget nullam non. Amet nulla facilisi morbi tempus iaculis urna. Tortor posuere ac ut consequat semper viverra nam. Porttitor leo a diam sollicitudin tempor. Bibendum ut tristique et egestas quis ipsum. Dignissim convallis aenean et tortor at risus viverra. Varius duis at consectetur lorem donec massa. Tristique risus nec feugiat in fermentum posuere urna. Pharetra et ultrices neque ornare aenean euismod elementum nisi. Lectus sit amet est placerat in.
+
+Scelerisque felis imperdiet proin fermentum leo vel orci porta non. Sit amet facilisis magna etiam tempor orci eu lobortis. Nunc sed augue lacus viverra vitae. Vel fringilla est ullamcorper eget nulla facilisi. Elementum sagittis vitae et leo duis ut diam quam. Porttitor lacus luctus accumsan tortor posuere ac ut. Orci a scelerisque purus semper. Odio tempor orci dapibus ultrices in iaculis nunc. Magna eget est lorem ipsum dolor sit amet consectetur. Netus et malesuada fames ac turpis.
+
+\cofeDm{1}{0.4}{90}{-5cm}{-7cm}
+\cofeBm{0.6}{0.9}{78}{-5.5cm}{-8.5cm}
+\cofeCm{0.6}{0.5}{12}{-4cm}{-4cm}
+
+
+Enim sed faucibus turpis in eu mi bibendum neque egestas. Eu non diam phasellus vestibulum lorem sed. Ac felis donec et odio pellentesque. Et malesuada fames ac turpis egestas. Convallis tellus id interdum velit laoreet id donec ultrices. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Condimentum mattis pellentesque id nibh. Quis ipsum suspendisse ultrices gravida dictum fusce ut. Feugiat in ante metus dictum at. Quam adipiscing vitae proin sagittis. Etiam sit amet nisl purus in. Donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. A diam sollicitudin tempor id eu nisl. Nisi vitae suscipit tellus mauris a diam maecenas sed.
+
+Lamcorper dignissim cras tincidunt lobortis feugiat. Aliquam ultrices sagittis orci a scelerisque purus semper. Amet aliquam id diam maecenas ultricies mi eget mauris pharetra. Cras semper auctor neque vitae tempus quam pellentesque nec nam. At volutpat diam ut venenatis. Orci eu lobortis elementum nibh tellus molestie nunc non.
+
+Quam elementum pulvinar etiam non quam lacus suspendisse. Lectus quam id leo in vitae turpis massa. Erat nam at lectus urna duis. Euismod lacinia at quis risus. Malesuada bibendum arcu vitae elementum curabitur vitae nunc. Quis varius quam quisque id diam vel quam. Augue lacus viverra vitae congue eu consequat ac felis. Id venenatis a condimentum vitae sapien pellentesque habitant. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Odio facilisis mauris sit amet massa vitae tortor condimentum. Sed faucibus turpis in eu mi bibendum neque. Donec massa sapien faucibus et molestie ac feugiat. Aliquet sagittis id consectetur purus ut. Nisl rhoncus mattis rhoncus urna neque viverra justo. Commodo ullamcorper a lacus vestibulum sed arcu. Nunc eget lorem dolor sed viverra ipsum nunc aliquet. At consectetur lorem donec massa sapien faucibus et molestie. Ut tortor pretium viverra suspendisse. Sed vulputate mi sit amet mauris commodo quis imperdiet. Mi ipsum faucibus vitae aliquet nec ullamcorper.
+
+Fermentum iaculis eu non diam phasellus vestibulum lorem. Nunc pulvinar sapien et ligula ullamcorper. Turpis in eu mi bibendum neque egestas congue quisque egestas. Scelerisque felis imperdiet proin fermentum leo vel orci porta non. Sit amet facilisis magna etiam tempor orci eu lobortis. Nunc sed augue lacus viverra vitae. Vel fringilla est ullamcorper eget nulla facilisi. Elementum sagittis vitae et leo duis ut diam quam. Porttitor lacus luctus accumsan tortor posuere ac ut. Orci a scelerisque purus semper. Odio tempor orci dapibus ultrices in iaculis nunc. Magna eget est lorem ipsum dolor sit amet consectetur. Netus et malesuada fames ac turpis.
+
+Enim sed faucibus turpis in eu mi bibendum neque egestas. Eu non diam phasellus vestibulum lorem sed. Ac felis donec et odio pellentesque. Et malesuada fames ac turpis egestas. Convallis tellus id interdum velit laoreet id donec ultrices. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Rutrum tsum faucibus vitae aliquet nec ullamcorper sit. Aliquet nec ullamcorper sit amet risus nullam eget felis eget. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque. Magna fringilla urna porttitor rhoncus dolor purus non enim praesent. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis. Semper auctor neque vitae tempus quam. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Aliquam ultrices sagittis orci a scelerisque purus semper. Amet aliquam id diam maecenas ultricies mi eget mauris pharetra. Cras semper auctor neque vitae tempus quam pellentesque nec nam. At volutpat diam ut venenatis. Orci eu lobortis elementum nibh tellus molestie nunc non.
+
+Quam elementum pulvinar etiam non quam lacus suspendisse. Lectus quam id leo in vitae turpis massa. Erat nam at lectus urna duis. Euismod lacinia at quis risus. Malesuada bibendum arcu vitae elementum curabitur vitae nunc. Quis varius quam quisque id diam vel quam. Augue lacus viverra vitae congue eu consequat ac felis. Id venenatis a condimentum vitae sapien pellentesque habitant. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Odio facilisis mauris sit amet massa vitae tortor condimentum. Sed faucibus turpis in eu mi bibendum neque. Donec massa sapien faucibus et molestie ac feugiat. Aliquet sagittis id consectetur purus ut. Nisl rhoncus mattis rhoncus urna neque viverra justo. Commodo ullamcorper a lacus vestibulum sed arcu. Nunc eget lorem dolor sed viverra ipsum nunc aliquet. At consectetur lorem donec massa sapien faucibus et molestie. Ut tortor pretium viverra suspendisse. Sed vulputate mi sit amet mauris commodo quis imperdiet. Mi ipsum faucibus vitae aliquet nec ullamcorper.
+
+\cofeBm{0.5}{0.6}{78}{-7.5cm}{8.5cm}
+\cofeCm{0.5}{0.5}{12}{-4cm}{-10cm}
+\cofeCm{0.6}{0.6}{56}{-2.5cm}{0.5cm}
+\cofeDm{0.8}{0.4}{20}{9cm}{7cm}

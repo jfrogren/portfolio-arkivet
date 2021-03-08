@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.2.12)  25 FEB 2021 08:20
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.3.2)  2 MAR 2021 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **notes-from-initial-meeting-with-science-and-public-representative.tex
 (./notes-from-initial-meeting-with-science-and-public-representative.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-06>
+L3 programming layer <2021-02-18>
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-handout.cl
 s
 Document Class: tufte-handout 2015/06/21 v3.5.2 Tufte-handout class
@@ -20,21 +20,21 @@ s/joafr/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks15
 \XKV@tempa@toks=\toks16
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count173
+\XKV@depth=\count175
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count174
-\calc@Bcount=\count175
+\calc@Acount=\count176
+\calc@Bcount=\count177
 \calc@Adimen=\dimen138
 \calc@Bdimen=\dimen139
 \calc@Askip=\skip47
 \calc@Bskip=\skip48
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count176
+\calc@Ccount=\count178
 \calc@Cskip=\skip49
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
@@ -58,9 +58,9 @@ Package pdftexcmds Info: \pdfdraftmode not found.
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-\hw@charcount=\count177
-\hw@wordcount=\count178
-\hw@maxprintline=\count179
+\hw@charcount=\count179
+\hw@wordcount=\count180
+\hw@maxprintline=\count181
 )
 Class tufte-handout Info: Loading the base class `article'
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -68,14 +68,14 @@ Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count180
-\c@section=\count181
-\c@subsection=\count182
-\c@subsubsection=\count183
-\c@paragraph=\count184
-\c@subparagraph=\count185
-\c@figure=\count186
-\c@table=\count187
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
 \abovecaptionskip=\skip50
 \belowcaptionskip=\skip51
 \bibindent=\dimen140
@@ -88,19 +88,19 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-02-06 L3 programming layer (loader) 
+Package: expl3 2021-02-18 L3 programming layer (loader) 
 
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.de
 f
-File: l3backend-xetex.def 2021-02-06 L3 backend support: XeTeX
+File: l3backend-xetex.def 2021-02-18 L3 backend support: XeTeX
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count188
-\l__color_backend_stack_int=\count189
-\g__graphics_track_int=\count190
+\c__kernel_sys_dvipdfmx_version_int=\count190
+\l__color_backend_stack_int=\count191
+\g__graphics_track_int=\count192
 \l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count191
-\g__pdf_backend_annotation_int=\count192
-\g__pdf_backend_link_int=\count193
+\g__pdf_backend_object_int=\count193
+\g__pdf_backend_annotation_int=\count194
+\g__pdf_backend_link_int=\count195
 ))
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse-202
 0-10-01.sty
@@ -110,17 +110,17 @@ Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count194
-\l__fontspec_language_int=\count195
-\l__fontspec_strnum_int=\count196
-\l__fontspec_tmp_int=\count197
-\l__fontspec_tmpa_int=\count198
-\l__fontspec_tmpb_int=\count199
-\l__fontspec_tmpc_int=\count266
-\l__fontspec_em_int=\count267
-\l__fontspec_emdef_int=\count268
-\l__fontspec_strong_int=\count269
-\l__fontspec_strongdef_int=\count270
+\l__fontspec_script_int=\count196
+\l__fontspec_language_int=\count197
+\l__fontspec_strnum_int=\count198
+\l__fontspec_tmp_int=\count199
+\l__fontspec_tmpa_int=\count266
+\l__fontspec_tmpb_int=\count267
+\l__fontspec_tmpc_int=\count268
+\l__fontspec_em_int=\count269
+\l__fontspec_emdef_int=\count270
+\l__fontspec_strong_int=\count271
+\l__fontspec_strongdef_int=\count272
 \l__fontspec_tmpa_dim=\dimen141
 \l__fontspec_tmpb_dim=\dimen142
 \l__fontspec_tmpc_dim=\dimen143
@@ -159,176 +159,7 @@ LaTeX Info: Redefining \LaTeXe on input line 219.
 \l__xetex_show_hyphens_temp_box=\box49
 \l__xetex_show_hyphens_final_box=\box50
 \g__xetex_show_hyphens_word_box=\box51
-)
-
-Package fontspec Warning: AAT feature 'Numbers=OldStyle' (21,0) not available
-(fontspec)                in font 'ETBembo'.
-
-
-Package fontspec Warning: AAT feature 'Numbers=OldStyle' (21,0) not available
-(fontspec)                in font 'ETBembo'.
-
-
-Package fontspec Warning: AAT feature 'Numbers=OldStyle' (21,0) not available
-(fontspec)                in font 'ETBembo/B'.
-
-
-Package fontspec Warning: AAT feature 'Numbers=OldStyle' (21,0) not available
-(fontspec)                in font 'ETBembo/I'.
-
-
-Package fontspec Warning: AAT feature 'Numbers=OldStyle' (21,0) not available
-(fontspec)                in font 'ETBembo/BI'.
-
-
-Package fontspec Info: Font family 'ETBembo(0)' created for font 'ETBembo'
-(fontspec)             with options
-(fontspec)             [Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"ETBembo/AAT:mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"ETBembo/B/AAT:mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"ETBembo/I/AAT:mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"ETBembo/BI/AAT:mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
-
-
-Package fontspec Info: Gill Sans scale = 0.9389286817023559.
-
-
-Package fontspec Warning: OpenType feature 'Numbers=Lowercase' (onum) not
-(fontspec)                available for font 'Gill Sans' with script
-(fontspec)                'CustomDefault' and language 'Default'.
-
-
-Package fontspec Info: Gill Sans scale = 0.9389286817023559.
-
-
-Package fontspec Warning: OpenType feature 'Numbers=Lowercase' (onum) not
-(fontspec)                available for font 'Gill Sans' with script
-(fontspec)                'CustomDefault' and language 'Default'.
-
-
-Package fontspec Info: Gill Sans/B scale = 0.8420191029116879.
-
-
-Package fontspec Warning: OpenType feature 'Numbers=Lowercase' (onum) not
-(fontspec)                available for font 'Gill Sans/B' with script
-(fontspec)                'CustomDefault' and language 'Default'.
-
-
-Package fontspec Info: Gill Sans/I scale = 0.9258601249326656.
-
-
-Package fontspec Warning: OpenType feature 'Numbers=Lowercase' (onum) not
-(fontspec)                available for font 'Gill Sans/I' with script
-(fontspec)                'CustomDefault' and language 'Default'.
-
-
-Package fontspec Info: Gill Sans/BI scale = 0.8420191029116879.
-
-
-Package fontspec Warning: OpenType feature 'Numbers=Lowercase' (onum) not
-(fontspec)                available for font 'Gill Sans/BI' with script
-(fontspec)                'CustomDefault' and language 'Default'.
-
-
-Package fontspec Info: Font family 'GillSans(0)' created for font 'Gill Sans'
-(fontspec)             with options
-(fontspec)             [Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle,Scale=M
-atchLowercase].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9389286817023559]"Gill
-(fontspec)             Sans/OT:language=dflt;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.8420191029116879]"Gill
-(fontspec)             Sans/B/OT:language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.9258601249326656]"Gill
-(fontspec)             Sans/I/OT:language=dflt;mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.8420191029116879]"Gill
-(fontspec)             Sans/BI/OT:language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
-
-
-Package fontspec Info: DejaVu Sans Mono scale = 0.7721016403414054.
-
-
-Package fontspec Info: DejaVu Sans Mono scale = 0.7721016403414054.
-
-
-Package fontspec Info: DejaVu Sans Mono/B scale = 0.7721016403414054.
-
-
-Package fontspec Info: DejaVu Sans Mono/I scale = 0.7721016403414054.
-
-
-Package fontspec Info: DejaVu Sans Mono/BI scale = 0.7721016403414054.
-
-
-Package fontspec Info: Font family 'DejaVuSansMono(0)' created for font
-(fontspec)             'DejaVu Sans Mono' with options
-(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
-Space,Mapping=tex-text,Scale=MatchLowercase].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.7721016403414054]"DejaVu Sans
-(fontspec)             Mono/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.7721016403414054]"DejaVu Sans
-(fontspec)             Mono/B/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.7721016403414054]"DejaVu Sans
-(fontspec)             Mono/I/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.7721016403414054]"DejaVu Sans
-(fontspec)             Mono/BI/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip52
@@ -363,8 +194,8 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen153
-\Hy@linkcounter=\count271
-\Hy@pagecounter=\count272
+\Hy@linkcounter=\count273
+\Hy@pagecounter=\count274
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
 )
@@ -377,7 +208,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count273
+\Hy@SavedSpaceFactor=\count275
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
 )
@@ -390,7 +221,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count274
+\c@Hy@tempcnt=\count276
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -403,7 +234,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count275
+\Fld@menulength=\count277
 \Field@Width=\dimen155
 \Fld@charsize=\dimen156
 Package hyperref Info: Hyper figures OFF on input line 6075.
@@ -420,8 +251,8 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count276
-\c@Item=\count277
+\Hy@abspage=\count278
+\c@Item=\count279
 )
 Package hyperref Info: Driver: hxetex.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
@@ -431,10 +262,10 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \pdfm@box=\box53
-\c@Hy@AnnotLevel=\count278
-\HyField@AnnotCount=\count279
-\Fld@listcount=\count280
-\c@bookmark@seq@number=\count281
+\c@Hy@AnnotLevel=\count280
+\HyField@AnnotCount=\count281
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
 
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
 k.sty
@@ -478,9 +309,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count282
-\Gm@cntv=\count283
-\c@Gm@tempcnt=\count284
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
 \Gm@bindingoffset=\dimen157
 \Gm@wd@mp=\dimen158
 \Gm@odd@mp=\dimen159
@@ -492,8 +323,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks20
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count285
-\cp@tempcnt=\count286
+\c@cp@cntr=\count287
+\cp@tempcnt=\count288
 )
 \@tufte@overhang=\skip69
 \@tufte@fullwidth=\skip70
@@ -507,10 +338,20 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \pl@lab=\toks21
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks22
+\SOUL@lasttoken=\toks23
+\SOUL@cmds=\toks24
+\SOUL@buffer=\toks25
+\SOUL@token=\toks26
+\SOUL@spaceskip=\skip76
+\SOUL@ttwidth=\dimen165
+\SOUL@uldp=\dimen166
+\SOUL@ulht=\dimen167
 )
-
-Class tufte-handout Warning: Couldn't locate `soul' package
-
+LaTeX Info: Redefining \allcapsspacing on input line 737.
+LaTeX Info: Redefining \smallcapsspacing on input line 737.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -534,60 +375,60 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip76
-\bibsep=\skip77
+\bibhang=\skip77
+\bibsep=\skip78
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count287
+\c@NAT@ctr=\count289
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
 )
 No file notes-from-initial-meeting-with-science-and-public-representative.bbl.
-\c@@tufte@num@bibkeys=\count288
+\c@@tufte@num@bibkeys=\count290
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/sauerj/optparams.sty
 Package: optparams 2004/08/14 v0.9 multiple optional parameters in macros
 )
-\@tufte@sidenote@vertical@offset=\skip78
+\@tufte@sidenote@vertical@offset=\skip79
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
 \@tufte@margin@floatbox=\box54
 \@tufte@figure@box=\box55
 \@tufte@caption@box=\box56
-\@tufte@caption@vertical@offset=\skip79
-\@tufte@float@contents@width=\skip80
+\@tufte@caption@vertical@offset=\skip80
+\@tufte@float@contents@width=\skip81
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip81
-\f@nch@O@elh=\skip82
-\f@nch@O@erh=\skip83
-\f@nch@O@olh=\skip84
-\f@nch@O@orh=\skip85
-\f@nch@O@elf=\skip86
-\f@nch@O@erf=\skip87
-\f@nch@O@olf=\skip88
-\f@nch@O@orf=\skip89
+\f@nch@headwidth=\skip82
+\f@nch@O@elh=\skip83
+\f@nch@O@erh=\skip84
+\f@nch@O@olh=\skip85
+\f@nch@O@orh=\skip86
+\f@nch@O@elf=\skip87
+\f@nch@O@erf=\skip88
+\f@nch@O@olf=\skip89
+\f@nch@O@orf=\skip90
 )
-\tufteskipamount=\skip90
+\tufteskipamount=\skip91
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count289
+\c@tracingmulticols=\count291
 \mult@box=\box57
-\multicol@leftmargin=\dimen165
-\c@unbalance=\count290
-\c@collectmore=\count291
-\doublecol@number=\count292
-\multicoltolerance=\count293
-\multicolpretolerance=\count294
-\full@width=\dimen166
-\page@free=\dimen167
-\premulticols=\dimen168
-\postmulticols=\dimen169
-\multicolsep=\skip91
-\multicolbaselineskip=\skip92
+\multicol@leftmargin=\dimen168
+\c@unbalance=\count292
+\c@collectmore=\count293
+\doublecol@number=\count294
+\multicoltolerance=\count295
+\multicolpretolerance=\count296
+\full@width=\dimen169
+\page@free=\dimen170
+\premulticols=\dimen171
+\postmulticols=\dimen172
+\multicolsep=\skip92
+\multicolbaselineskip=\skip93
 \partial@page=\box58
 \last@line=\box59
-\maxbalancingoverflow=\dimen170
+\maxbalancingoverflow=\dimen173
 \mult@rightbox=\box60
 \mult@grightbox=\box61
 \mult@gfirstbox=\box62
@@ -629,20 +470,20 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box98
 \@tempa=\box99
 \@tempa=\box100
-\c@minrows=\count295
-\c@columnbadness=\count296
-\c@finalcolumnbadness=\count297
-\last@try=\dimen171
-\multicolovershoot=\dimen172
-\multicolundershoot=\dimen173
+\c@minrows=\count297
+\c@columnbadness=\count298
+\c@finalcolumnbadness=\count299
+\last@try=\dimen174
+\multicolovershoot=\dimen175
+\multicolundershoot=\dimen176
 \mult@nat@firstbox=\box101
 \colbreak@box=\box102
-\mc@col@check@num=\count298
+\mc@col@check@num=\count300
 ))) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks22
+\@emptytoks=\toks27
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -650,55 +491,55 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
-\@mathmargin=\skip93
+\@mathmargin=\skip94
 For additional information on amsmath, use the `?' option.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
-\ex@=\dimen174
+\@emptytoks=\toks28
+\ex@=\dimen177
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen175
+\pmbraise@=\dimen178
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count299
+\inf@bad=\count301
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count300
-\leftroot@=\count301
+\uproot@=\count302
+\leftroot@=\count303
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count302
-\DOTSCASE@=\count303
+\classnum@=\count304
+\DOTSCASE@=\count305
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
 \Mathstrutbox@=\box103
 \strutbox@=\box104
-\big@size=\dimen176
+\big@size=\dimen179
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count304
-\c@MaxMatrixCols=\count305
+\macc@depth=\count306
+\c@MaxMatrixCols=\count307
 \dotsspace@=\muskip17
-\c@parentequation=\count306
-\dspbrk@lvl=\count307
-\tag@help=\toks24
-\row@=\count308
-\column@=\count309
-\maxfields@=\count310
-\andhelp@=\toks25
-\eqnshift@=\dimen177
-\alignsep@=\dimen178
-\tagshift@=\dimen179
-\tagwidth@=\dimen180
-\totwidth@=\dimen181
-\lineht@=\dimen182
-\@envbody=\toks26
-\multlinegap=\skip94
-\multlinetaggap=\skip95
-\mathdisplay@stack=\toks27
+\c@parentequation=\count308
+\dspbrk@lvl=\count309
+\tag@help=\toks29
+\row@=\count310
+\column@=\count311
+\maxfields@=\count312
+\andhelp@=\toks30
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks31
+\multlinegap=\skip95
+\multlinetaggap=\skip96
+\mathdisplay@stack=\toks32
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
@@ -712,41 +553,41 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen183
-\lightrulewidth=\dimen184
-\cmidrulewidth=\dimen185
-\belowrulesep=\dimen186
-\belowbottomsep=\dimen187
-\aboverulesep=\dimen188
-\abovetopsep=\dimen189
-\cmidrulesep=\dimen190
-\cmidrulekern=\dimen191
-\defaultaddspace=\dimen192
-\@cmidla=\count311
-\@cmidlb=\count312
-\@aboverulesep=\dimen193
-\@belowrulesep=\dimen194
-\@thisruleclass=\count313
-\@lastruleclass=\count314
-\@thisrulewidth=\dimen195
+\heavyrulewidth=\dimen186
+\lightrulewidth=\dimen187
+\cmidrulewidth=\dimen188
+\belowrulesep=\dimen189
+\belowbottomsep=\dimen190
+\aboverulesep=\dimen191
+\abovetopsep=\dimen192
+\cmidrulesep=\dimen193
+\cmidrulekern=\dimen194
+\defaultaddspace=\dimen195
+\@cmidla=\count313
+\@cmidlb=\count314
+\@aboverulesep=\dimen196
+\@belowrulesep=\dimen197
+\@thisruleclass=\count315
+\@lastruleclass=\count316
+\@thisrulewidth=\dimen198
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/units/units.sty
 Package: units 1998/08/04 v0.9b Typesetting units
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip96
-\L@UnitsRaiseTextstyle=\skip97
-\L@UnitsRaiseScriptstyle=\skip98
+\L@UnitsRaiseDisplaystyle=\skip97
+\L@UnitsRaiseTextstyle=\skip98
+\L@UnitsRaiseScriptstyle=\skip99
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box105
 \UL@hyphenbox=\box106
-\UL@skip=\skip99
-\UL@hook=\toks28
-\UL@height=\dimen196
-\UL@pe=\count315
-\UL@pixel=\dimen197
+\UL@skip=\skip100
+\UL@hook=\toks33
+\UL@height=\dimen199
+\UL@pe=\count317
+\UL@pixel=\dimen256
 \ULC@box=\box107
 Package: ulem 2019/11/18
-\ULdepth=\dimen198
+\ULdepth=\dimen257
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/morefloats/morefloats.sty
 Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
 Package morefloats Info: Maximum number of possible floats asked for: 36
@@ -815,33 +656,29 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 75.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/ETBembo(0)/m/n on input line 75.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 75.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/ETBembo(0)/m/n on input line 75.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/ETBembo(0)/m/n --> TU/ETBembo(0)/m/n on input line 7
-5.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/ETBembo(0)/m/it on input line 75.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/ETBembo(0)/b/n on input line 75.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/GillSans(0)/m/n on input line 75.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/DejaVuSansMono(0)/m/n on input line
- 75.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/ETBembo(0)/m/n --> TU/ETBembo(0)/b/n on input line 7
-5.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/ETBembo(0)/b/it on input line 75.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/GillSans(0)/b/n on input line 75.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/DejaVuSansMono(0)/b/n on input line
- 75.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 75.
 Package hyperref Info: Link coloring OFF on input line 75.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -852,7 +689,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ing.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count316
+\c@section@level=\count318
 )
 LaTeX Info: Redefining \ref on input line 75.
 LaTeX Info: Redefining \pageref on input line 75.
@@ -900,26 +737,51 @@ LaTeX Info: Redefining \selectfont on input line 75.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \langwohyphens=\language3
+LaTeX Font Info:    Trying to load font information for U+msa on input line 104
+.
+(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 104
+.
+(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Marginpar on page 1 moved.
+
 [1
 
 ]
 
-Class tufte-handout Warning: Proper spacing of ALL-CAPS letters has not been se
-t up.
-This message occurred on input line 188.
+Package fontspec Warning: \addfontfeature(s) ignored on line 191; it cannot be
+(fontspec)                used with a font that wasn't selected by a fontspec
+(fontspec)                command.
+(fontspec)                 
+(fontspec)                 The current font is "\TU/lmr/m/n/10 ".
+(fontspec)                  The requested feature is "LetterSpace=10". 
 
 [2]
 
-Class tufte-handout Warning: Proper spacing of ALL-CAPS letters has not been se
-t up.
-This message occurred on input line 246.
+LaTeX Warning: Marginpar on page 3 moved.
+
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 241; it cannot be
+(fontspec)                used with a font that wasn't selected by a fontspec
+(fontspec)                command.
+(fontspec)                 
+(fontspec)                 The current font is "\TU/lmr/m/n/10 ".
+(fontspec)                  The requested feature is "LetterSpace=10". 
 
 [3]
 No file notes-from-initial-meeting-with-science-and-public-representative.bbl.
 
-Class tufte-handout Warning: Proper spacing of ALL-CAPS letters has not been se
-t up.
-This message occurred on input line 261.
+Package fontspec Warning: \addfontfeature(s) ignored on line 272; it cannot be
+(fontspec)                used with a font that wasn't selected by a fontspec
+(fontspec)                command.
+(fontspec)                 
+(fontspec)                 The current font is "\TU/lmr/m/n/10 ".
+(fontspec)                  The requested feature is "LetterSpace=10". 
 
 [4] (./notes-from-initial-meeting-with-science-and-public-representative.aux)
 Package rerunfilecheck Info: File `notes-from-initial-meeting-with-science-and-
@@ -927,13 +789,13 @@ public-representative.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14711 strings out of 479210
- 270090 string characters out of 5873874
- 652282 words of memory out of 5000000
- 33977 multiletter control sequences out of 15000+600000
- 404160 words of font info for 62 fonts, out of 8000000 for 9000
+ 14809 strings out of 478931
+ 269455 string characters out of 5866285
+ 666884 words of memory out of 5000000
+ 34369 multiletter control sequences out of 15000+600000
+ 409088 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 120i,11n,142p,345b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 118i,11n,120p,342b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on notes-from-initial-meeting-with-science-and-public-representa
 tive.pdf (4 pages).

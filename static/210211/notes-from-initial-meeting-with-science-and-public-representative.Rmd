@@ -7,7 +7,7 @@ runningheader: "Notes from initial meeting with Science & Public representative"
 subtitle: "" # only for html output
 author: "Joakim Frögren"
 output:
-  tufte::tufte_html: default
+
   tufte::tufte_handout: 
     citation_package: natbib
     latex_engine: xelatex

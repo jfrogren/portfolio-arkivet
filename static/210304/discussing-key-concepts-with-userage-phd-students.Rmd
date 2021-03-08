@@ -7,7 +7,6 @@ runningheader: "Discussing key concepts with UserAge PhD students"
 subtitle: ""
 author: "Joakim Frögren"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout:
     latex_engine: xelatex
 tufte::tufte_book:

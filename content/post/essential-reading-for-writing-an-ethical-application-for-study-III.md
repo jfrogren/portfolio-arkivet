@@ -9,7 +9,7 @@ MG sent a mail today suggesting some relevant literature about citizen science (
 
 ## Sustain@Home
 [Here](/pdfs/sustain-at-home-project-application.pdf) is the project application for *Sustain@Home*, which entails four sub-projects of which Bostadsförsöket is project number three.
-
+ 
 ## Citizen Science
 - Compilation of material from a course that MG took a year ago on Citizen Science]
     + Introduction to Citizen Science by Bruno Strasser

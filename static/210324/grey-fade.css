@@ -1,0 +1,6 @@
+.grey-fade {
+  font-weight: 100;
+  background: -webkit-linear-gradient(#D3D3D3, #505050);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

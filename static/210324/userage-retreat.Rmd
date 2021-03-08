@@ -1,0 +1,76 @@
+---
+title: "UserAge-retreat presentation"
+subtitle: "of my doctoral studies"
+author: "Joakim Frögren"
+institute: "Department of Health Sciences, Lund University"
+date: "2021-03-24"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    css: [xaringan-themer.css, cols.css, center.css, grey-fade.css, header-footer.css, navy-slide.css, userage-slide.css]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [inverse, left, middle]
+      ratio: '16:9'
+      beforeInit: ["macros.js", "cols_macro.js"]
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#000080",
+  header_font_family = ("TeX Gyre Termes"),
+  header_font_url    = "http://fonts.cdnfonts.com/css/tex-gyre-termes",
+  text_font_google   = google_font("Roboto"),
+  text_font_size     = "28px",
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+
+class: userage-slide
+
+# Ethical & Epistemic Contributions & Challenges of various Collaborative Approaches in Research on Ageing and Health
+
+ - Joakim Frögren, doktorand, Lunds universitet
+ - Susanne Iwarsson, huvudhandledare, Lunds universitet
+ - Oskar Jonsson, biträdande handledare, Lunds universitet
+ - Roderick Lawrence, biträdande handledare, University of Geneva
+
+<img src="images/case-logo-svensk.png" width="240px" style="vertical-align:middle;margin:5px 5px">
+
+???
+
+
+---
+
+class: userage-slide
+
+# Delarbetena som ingår i avhandlingen
+
+
+- **Studie I**: Jonsson, Frögren, Haak, Slaug, Iwarsson:<br>*Understanding the wicked problem of providing accessible housing for the ageing population in Sweden* - publicerad 28 januari 2021 i tidskriften IJERPH
+
+--
+
+- **Studie II**: Frögren, Schmidt, Kylén, Jonsson, Slaug, Iwarsson:<br>*Awareness of and attitudes towards public involvement in research on ageing and health among 60+ citizens in Sweden* - i manus, skickas in under våren
+
+--
+
+- **Studie III**: Frögren et al.: *’The Housing Experiment’: Senior citizens' experience of being involved in a Citizen Science 'mass experiment’* - datainsamling september
+
+--
+
+- **Studie IV**: Under diskussion
+
+
+???
+
+The phd project is not an isolated project but belongs to a research program called UserAge which is a six-year program entaila four universities, and also user representatives in form of for example representatives of senior citizens, and also a group of international scientific experts.
+
+My PhD project is not the only one but there are three other PhD students doing projects within the frames of the research program, each of us belonging to one of the universities involved.
+
+The focus of the research program is different kinds of user involvement in research. 
