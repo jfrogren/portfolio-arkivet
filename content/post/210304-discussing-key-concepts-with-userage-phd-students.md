@@ -8,6 +8,9 @@ categories: ["Subject expertise"]
 ## What?
 Twice a year we - the PhD students of the UserAge program - have agreed upon having a theoretically driven discussion moderated or framed by AW. This time it was about key concepts that we will use in our dissertation and how we motivate and define them. Before the meeting we were also asked to read [the following article](/pdfs/jonson2021.pdf). I had also sent my kappa. 
 
+## Notes from reading the preparatory material 
+[Here](https://github.com/jfrogren/bibnotes/blob/master/jonson2021.md) are the notes from my reading of the article we were expected to read to prepare for the meeting.
+
 ## Short reflections on the event
 As usual, the discussion went a bit all over the place but it still felt very meaningful. I think my biggest take-home was to not underestimate the value of what the [stakeholders outside the academy](/pdfs/jonson2021.pdf), or whatever one decides to call them, gain from being involved in reaserch. That is a factor or reason that is worth including since it cannot be neglected. I have tended to slightly ignore it and focus more on the other bigger reasons, like as a means to make our democracy more inclusive or as a means to create socially robust knowledge. However, the aspect of what the persons involved gain from their involvement deserves attention. Not least since within occupational therapy, participation is central as a means to better health. I think that my lack of knowledge in this discipline is part of the reason why I have not realised earlier on the necessity of including this aspect. 
 
