@@ -1,0 +1,82 @@
+---
+title: "Anteckningar från möte med MG & OJ om studie III"
+date: "2021-03-05"
+draft: false
+categories: ["Research methodology"]
+runningheader: "Anteckningar från möte med MG & OJ om studie III" # only for pdf output
+subtitle: "" # only for html output
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: 
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+Tills mötet hade jag arbetat vidare med [dokumentet i Google Docs](https://docs.google.com/document/d/1pWNFZsRyFbtK4zD3nIcnRd2j1APo_HpvdR8rq7b1ytk/edit). Dock hade jag inte i tid lyckats färdigställa något material för MG och OJ att läsa och begrunda vilket inte var bra. Återigen misslyckades jag med att hålla deadline och mejla ett utkast 24h innan mötet. Det kändes verkligen inte bra, utan jag skämdes naturligtvis. Hur som helst så resulterade mötet i en nödvändig diskussion om att helt sonika försöka sätta ned foten snarast möjligt och bestämma vilken sorts studie vi egentligen ämnade göra. 
+
+Jag hade i mitt utkast sneglat flitigt på forskningsplanen för ett annat projekt vid CASE, nämligen [GenerationTech](https://lu.app.box.com/file/543618969229) och där framkom att vid den enkätstudie som där gjorts hade Kantar Sifo (KS) varit de som implementerat det hela och de hade gjort en rad uppgifter inklusive skicka ut påminnelser och anonymisering av data. Vid min studie III stod det klart att något anlitande av KS inte var aktuellt och i takt med det växte mina tvivel om hur vi skulle hinna med allt om vi förutom en före- & efterenkät, därtill även planerade någon form av kvalitativ del, såsom att försöka fång de äldre deltagarnas 'narrativ' som RL hade föreslagit.
+
+Efter diskussioner åt olika håll, insåg såväl MG, OJ och jag att det brann rätt mycket i knutarna och att det nog gällde att välja antigen enkätstudie eller en kvalitativt inriktade studie, och att ett sådant beslut behövde fattas snarast möjligt. Så här formulerade MG de valmöjligheter vi stod inför:
+
+> A) Före-efterenkät till 3-4 föreningar i Skåne med mestadels slutna svarsalternativ och kvantitativ metod.
+
+> B) Individuella intervjuer med personer som kontaktar supporten under september månad, mestadels kvalitativ metod.
+
+OJ lade till ett alternativ, nämligen...
+
+> C) Individuella före- och efterintervjuer med äldre personer som rekryteras via 3-4 föreningar i Skåne, mestadels kvalitativ metod.
+
+Genom ett demokratiskt fattat beslut, bestämde vi oss då för det första alternativet, enkätstudien, men att vi därtill skulle inkludera i enkätstudien möjligheten att få använda citat och utdrag från Facebook-supporten för att på detta sätt kunna berika den kvantitativa datan.
+
+Som en konsekvens av vårt beslut menade åtminstone OJ och jag att det då inte längre går att tala om äldre personers *upplevelser* av att vara medforskare^[I mitt utkast till projektplan hade jag angett titeln "En utvärdering av äldre medborgares/medforskares upplevelse av att delta i ett massexperiment om tillgänglighet i bostäder".] OJ föreslog istället att arbetstiteln skulle vara "Äldre personers syn på medborgarforskning" medan jag föreslog "Äldre personers syn på att vara medforskare i ett massexperiment".
+
+De dokument som behöver färdigställas är följande:
+
+* 00-bilagan
+* 01-bilagan
+* Bilaga – Projektplanen
+* Bilaga – Informerat samtycke
+* Bilaga – Frågeguiden / enkät
+* Bilaga – SI:s CV
+
+Tidsplanen ser ut så här:
+
+* Vecka 14 (6 april): Vi skickar materialet till SI
+* Vecka 15 (12 april): Vi skickar allt material till Dan
+* Vecka 15 (16 april): Dan skickar in ansökan
+
+
+Till nästa gång^[Eller snarare till 24h innan nästa möte, dvs. till 11 mars kl. 08.30]:
+
+* Läs [Kieslinger-artikeln](https://portfolio.arki.vet/pdfs/kieslinger2017.pdf)
+* JF skriver bakgrund om Bostadsförsöket
+* JF, OJ och MG skriver varsitt utkast till enkätfrågor grundade på syftet och Kieslinger-artikeln
+
+OJ kom också med en relevant fråga mejlledes efter mötet, nämligen om de enkätfrågor vi tar fram till nästa torsdag ska rikta sig till såväl:
+
+> 1. De som väljer att svara på enkäten. Dvs även de som inte avser delta som medborgarforskare i massexperimentet såsom JFs tidigare föreslagna frågor i befintligt dokument.
+
+> 2. De som avser att delta som medborgarforskare i massexperimentet enligt JFs studieplan:
+”… how senior citizens experienced to be part of the mass experiment with an emphasis on learning outcomes and experienced difficulties.”
+
+Eller endast till den andra gruppen. Denna fråga hade jag svårt att besvara och således blev det inte att jag skickade något svar.
+
