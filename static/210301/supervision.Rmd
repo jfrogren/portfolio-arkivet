@@ -7,6 +7,7 @@ runningheader: "Notes from Joakim’s supervision"
 subtitle: ""
 author: "Joakim Frögren"
 output:
+  tufte::tufte_html: default
   tufte::tufte_handout:
     latex_engine: xelatex
 tufte::tufte_book:
@@ -61,7 +62,7 @@ One thing that is not sufficiently explored in the analysis and in the discussio
 The non-significant correlation in awareness in relation to municipal classification.
 ![](awareness-in-municipalities.png)
 ```
-I pointed out that the results indicated 10% higher awareness of the possibility to be actively involved in research among people living in large cities compared to people living in rural municipalities, even though the p-value was not sufficiently low to indicated any significant difference. However, SI asked me not to speak of any differences in the results if they were not significant.
+I pointed out that the results indicated 10% higher awareness of the possibility to be actively involved in research among people living in large cities compared to people living in rural municipalities, even though the p-value was not sufficiently low to indicate any significant difference. However, SI asked me not to speak of any correlation in the results if it was not significant.
 
 
 
