@@ -7,7 +7,6 @@ runningheader: "Notes from Joakim’s supervision"
 subtitle: ""
 author: "Joakim Frögren"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout:
     latex_engine: xelatex
 tufte::tufte_book:
@@ -76,5 +75,5 @@ In a discussion with SI about my precarious situation with regard to the time I 
 SI will next check with my former main supervisor at BTH if he agrees that this article is included in my dissertation. Before the summer, SI explained, we must also meet the head of department EA and have a dialogue with her that the conditions have been updated.
 
 # 4. Next supervision
-What remains to be done is to push the data analysis further and to describe it more explicitly in the method section, as well as revise the introduction and discussion. The next supervision was set for **Tuesday 30 March at 10.30**. I will mail the manuscript to the OJ, SI and RL a week before that, i.e. on Tuesday 23 March. 
+What remains to be done is to push the data analysis further and to describe it more explicitly in the method section, as well as revise the introduction and discussion. The next supervision was set for **Tuesday 30 March at 10.30 - 12.00** and will be held via Zoom on [\textcolor{blue}{\uline{this link}}](https://lu-se.zoom.us/j/65572600320). I will mail the manuscript to the OJ, SI and RL a week before that, i.e. on Tuesday 23 March. 
 
