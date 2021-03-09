@@ -7,7 +7,6 @@ runningheader: "Notes from Joakim’s supervision"
 subtitle: ""
 author: "Joakim Frögren"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout:
     latex_engine: xelatex
 tufte::tufte_book:
@@ -58,7 +57,12 @@ It was pointed out by the supervisors that one of the biggest shortcomings with 
 One thing that is not sufficiently explored in the analysis and in the discussion is how health relates to willingness, and how the results relate to previous research. It appears in the results that there seems to be a negative correlation between self-rated health and willingness, but what does that mean? Furthermore, the current manuscript suggests that the result indicates a conflict with previous research, but in that case this is something that needs to be developed further. It was stated during the supervision that the instrument *self-rated health* is not straightforward because it is precisely a subjective self-assessment measure, but that it seems to be the health measure that is available. However, OJ pointed out that we in the survey also included a frailty scale based on three or four questions. It was decided that I should add and analyze frailty as well. There might be a correlation between frailty and self-rated health and then I will just move a long with the one with strongest correlation.
 
 ## Municipality of residence - no significance, no mentioning
-I pointed out that the results indicated 10% lower awareness of the possibility to be actively involved in research even though the p-value was not sufficiently low to indicated any significance. However, SI rightly pointed out that only write in the results the significant or not.
+```{marginfigure}
+The non-significant correlation in awareness in relation to municipal classification.
+![](awareness-in-municipalities.png)
+```
+I pointed out that the results indicated 10% higher awareness of the possibility to be actively involved in research among people living in large cities compared to people living in rural municipalities, even though the p-value was not sufficiently low to indicated any significant difference. However, SI asked me not to speak of any differences in the results if they were not significant.
+
 
 
 # 2. Study III
