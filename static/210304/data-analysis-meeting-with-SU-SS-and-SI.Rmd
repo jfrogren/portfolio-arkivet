@@ -30,58 +30,28 @@ knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 
+Initially, SU wanted to know the purpose of why the analyzes were done at all. I explained that it was about the fact that in the study it was a lot about presenting descriptive data, but that in addition I also want to compare those who want to participate with those who did not want to participate in a more detailed way. Thus, the bivariate analyzes in some cases constitute results in themselves, while for just *willingness* they constitute a sub-step that makes it possible to proceed with the analysis to a multivariable analysis. SU emphasized that a regression model can be made for many different reasons and that it was important to clearly explain why it was considered appropriate in this particular case. 
 
-<!-- ### Nationality
+SU agreed with SS that for *awareness* and *previous active involvement* I should use Chi square, alternatively in cases where it was a question of ordinal and nominal scale with more answer options than two (or three?) I would use Mann-Whitney or Wilcoxsons non-parametric tests ^[This means in practice using Mann-Whitney or Wilcoxson on all variables except age and sex]. 
 
-RL, OJ and SI provide JF with their feedback on the latest manuscript. RL wondered where nationality was to be found in the data since you could find it in the theories. I explained that since it was not included explicitly in the research question and very broad a question I had chosen not to include it. It was decided that I should include it and make it part of demographics.
+An alternative to the current presentation of data in Tables 2 and 3 would instead be to present, for example, level of education in a way that describes that "Among those who are willing, how many have elementary school as their highest education level, high school,etc.?" The way in which it is best to present the result in this case is connected with how I intend to conduct the discussion and which result then best illustrates the arguments I wish to present.   
 
+SS pointed out that it is not clear that healthier people necessarily would be more aware/ or willing. Rather, it could be argued they could presumably be motivated by their health issues and thus better aware and more willing.
 
+Furthermore, Table 4 was considered redundant and I was asked to remove it. Figure 1 was considered good as it was, but I was asked to create a similar figure for the contents of Table 5 and thus replace that table with a figure. 
 
-### Age categories
+When it came to willingness in Table 6, SU agreed with SS that instead of doing a Chi square test, I should perform a series of bivariate logistical regressions, variable by variable. Then, before the multivariate logistic regression, I should decide on a cut-off value ^ [Usually at .1 or .2, but here I was asked to, based on previous similar studies, suggest which p-value I considered appropriate to take the variable further to that analysis. However, this p-value should not be presented in any table, but the only table reported for willingness is the one based on the next multivariable logistic regression, and OR should be included instead of the p-value. 
 
-I need to add STD, and variance for age in table 3. OJ was missing age categories and RL as well wondered about comparing age groups since it was often done in other studies from CASE. If the age groups are an interesting to break down, it is simply about descriptives then, SI argued. To start with, in table 2, I could add the age groups in order to give the reader a bit more info: 60-69; 70-79; 80-89: 90+. Could be interesting because that is what has been done earlier at CASE, RL said.
+Furthermore, SU agreed with SS that there was nothing that justified a division into age categories. 
 
+However, when it came to Level of education, SU thought that the number of respondents who had 'Research education' was so small that that group could advantageously be incorporated into the category 'College 3 years or more'. 
 
-### Clearer description of how the regression follow on the descriptives and the bivariate analysis
-Typically when you do the bivariate you do a cut-off and decide what to include and not in further analyses. HEre, it not sufficiently clear for the reader how you went from one analysis to the next.
+Regarding self-rated health, SI and SS pointed out that it was unclear whether the current response options really corresponded to the actual instrument. Here I was asked to ensure that this was the case and to use these response options and no others. These options were also used for self-rated economy, so even there I needed to ensure they were correctly formulated. 
 
-### Dig more into health status 
-Another key question is health status. There is a negative correlation between willingness, we need to dig in more here... 
-Self-rated health is a complicated matter - rod see a conflict between the introduction and the discussion - can it be sorted out. He think that is really critical. SI said that the results are as they are and it is more linking the introduction to the discussion. We have only got the subjective matter, we have to work with what we got.
+Furthermore, it was decided that I will bring in frailty as an additional variable here, motivating this decision by stating that they were both initially considered relevant to include. To check how to frame frailty in this context, SI recommended me to - rather than contact Synneve, as MK had suggested - go to her papers and see for myself how frailty is been defined, brought up and framed there.
 
-However, OJ pointed out that we in the survet also included a frailty scale. It was decided that I should add and analyze frailty as well. There might be a correlation between frailty and self-rated health and then I will just move a long with the one with strongest correlation.
+As a general rule, a subgroup in that one brings to a multivariate analysis should not contain less than 10 respondents. Thus, self-rated health is at the border with exactly 10 respondents in one of the subgroups. For multivariate analysis I should choose the group that is big enough as = 0, because the confidence interval in the subsequent groups will follow from that. SU explained that one can in principle choose any of the categories, but one should also be able to argue theoretically why a certain category was chosen. I explained that I had planned to use the first response option as = 0, but that it then made sense to transform the five categories related to self-rated health and self-rated economy into three. this would also make the table for the next multivariate logistic regression less extensive and easier to interpret. Thus, keeping the middle category intact but merge the first and second, as well as the fourth and fifth was decided as a good way forward. SU also emphasized that I need to have the same groups for univariable and multivariable analysis. However, for the analysis of awareness and previous active involvement, which will be kept on a descriptive level, I can keep the five categories.
 
-### Municipality of residence
-Smaller in the village than cities in terms of willingness. However, only write in the results the significant or not.
+Next, when it comes to checking the interdependence between the independent variables, SU recommended VIF as a suitable alternative to the conventional correlation matrix. The VIF value should be above .70 or .80 in order to be a problem correlation-wise.
 
--->
-
-<!-- MEETING with SS
-
-If you do not put in the variables as categorical, it considered them as a continous variables. It poses any problem, I asked. It will give you an overall effect of say education as a continous label, but you don't know where the significance is. For the municipalites as well as health
-
--->
-
-* Mycket deskriptivt och sen jämför de som vill delta....
-* Utgör de bivariatea analyserna resultat eller som steg vidare i analysen...
-
-* All the descriptives is a pre-step becuse it is new data that has not been described before... 
-
-* The thing with regressionmodel is that you an do it for several reason
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+When it comes to the multivariable logistical regression, it emerged that I initially thought correctly when I marked the categorical variables as categorical and that this is how I should do so that they are not handled as continuous, which they otherwise are.  Furthermore, SU ageed with SS that it made sense to enter all independent variables except previous active involvement as 'Block 1' and previous active involvement as 'Block 2'. However, when I describe what I have done, I should not employ the term 'block', but rather write: "In the first model we used age , sex etc as the independent level.. then there was a second model were we included previous active involvmenet as a confounder."
