@@ -1,0 +1,116 @@
+---
+title: "Anteckningar från möte med MG och OJ"
+date: "2021-03-12"
+draft: false
+runningheader: "Anteckningar från möte med MG och OJ"
+subtitle: "" # only for html output
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: 
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+
+# Metoddiskussion: Funderingar och lösningar på potentiella metodologiska problem eller issues
+Det var framförallt metod som diskuterades under mötet.
+
+## Vilka ska få efterenkäten?
+* De som inte svarat efter två påminnelse bör inte få någon efterenkät, alltså  måste vi få tillgång till vilka som svarat. 
+
+## Rekryteringsutmaningar: Låg svarsfrekvens
+
+* Vi diskuterade att det kanske svårt rekrytera deltagare till främst förstudien. MG la fram iden om att de skulle får en mugg eller en trisslott.
+
+## Strategi för att komma till bukt med låg svarsfrekvens: 
+
+* Jobba mot föreningar där vi redan har etablerat kontakter och i etikansökan skriva att vi kommer att kontakta mellan 3 och 8 lokalföreningar.
+  + Stig Ålund
+  + Per Andersson
+  + Annelie af Klintberg - Staffanstorp
+  + Tore Kvist - Hässleholm
+  + Lena Larsson - PRO -Eslöv
+* En styrelse i lokalförening skulle nog tycka att det var intressant., men problem kan vara att medlemmarna inte lika intresserade.
+
+## Rekryteringsutmaningar: Adekvat urval som (något sånär speglar populationen)
+
+* Ett sätt att få med människor som bor i olika sorters bostäder.
+* När det gäller bostad får vi ta det vi får...vi kan försöka rikta oss...till t.ex. Klippan och Malmö...
+
+## Implementeringsutmaningar: Hur registrera sitt intresse att delta i enkäten
+
+Fundering kring hur folk ska registrera sig om det ska gå ut ett mejl eller om det också ska gå ut en mejl. I etikansökan öppna upp för att rekrytera på andra sätt...
+
+## Implementeringsutmaningar: Säker datahantering
+
+* Skapa en säker enkät? Vem har kompetens för SUNET service... de: "V LU:s server... webbenkäter på hemsidan. Lösning: Skriv i etikansökan: "För insamling och lagring av data  kommer vi att använda ett digitalt system som är godkänt av Lunds universitet.
+
+## Implementeringsutmaningar: Till vilka skicka enkät nummer två?
+Skickar bara enkät två till de som har besvarat helt eller delvis enkät ett.
+
+## Vad kommer dessa grupper ha för kunskap/kännedom om 'Bostadsförsöket' innan enkätförfrågan går ut; vad vill vi att de ska ha för förkunskap och hur ska vi i så fall uppnå det?
+
+* Om man trycker upp en broschyr som en pdf...föreslog OJ... 
+* Har du hört talas om 'Bostadsförsöket'? - en enkätfråga?
+* Vad vill vi mer veta om enkät 1, hur mycket de känner till om vad som ska utföras, om massexperiment som fenomen...medborgaforskning,
+
+## Vad vill vi egentligen undersöka?
+Det vi vill undersöka är om det är skillnad i kunskap, intresse och kapacitet före och efter enligt deras egna utsagor
+* Finns en ambition hos oss att föra ut kunskap...
+* Finns det något i bostadsförsöket som talar om förbättrade hälsa som mål undrade OJ. Enligt MG finns det.
+
+OJ betonade att det är viktigt poängtera för deltagarna att man testar interventionen inte personen (men är det det vi gör verkligen funderar jag).
+
+Ett resultat är också att man gör något gemensamt att göra det.. en outcome kan också vara att man har kul och känner en gemenskap... 
+OJ betonade att de... vill vi veta vad de har lärt sig 
+
+## Vad är det för intervention de får:
+
+* Användande av appen
+* Videofilmer där man lär sig
+* Analysverktyget, att få en översikt över den egna bostaden
+
+## Hur undersöker vi vilka delar av interventionen de har exponerats för?
+
+* Vad stämmer in på dig, vad har du gjort....
+
+## Vilken utgör den bakgrundsinformation om deltagare som är relevant?
+
+Vi vill ta in tillräckligt mycket bakgrundskunskap 
+
+## Metodologisk utmaning att enkäten i sig utgör en faktor som kan ses som en del av det vi undersöker
+
+Utvärderingen är lätt också en faktor som ger en effekt men samtidigt är nog det det bästa vi kan göra konstaterade vi.
+
+## Nästa möte
+Torsdag kl. 13.30 till 16.30. MG joinar 14.30.
+
+## Till nästa gång:
+
+* Börja fylla i formulären (00:an + 01:an) och att formulera enkäten till nästa gång
+* Rekrytering kommer att ske via lokalförenigar som vi har 
+* När jag jobbar på enkäten, haka inte upp på formuleringar, utan fokusera på att få ett bra skelett först och främst....när jag känner att flödet stannar upp så gå vidare...
+
+* MG och OJ kollar upp om det finns pengar till någon gåva + vilken sorts enkätsystem som ska göras... MG kollar om hur de skrev för agate-s ansökan om critical incidents, hur de skrev där.
+
+* "icke-representativt bekvämlighetsurval"
+* Skicka något ett dygn innan.... 

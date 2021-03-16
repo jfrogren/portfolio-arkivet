@@ -1,0 +1,94 @@
+---
+title: "Notes from presentation by Strasser on Citizen Science"
+author: "Joakim Frögren"
+date: "3/16/2021"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: 
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+
+Här tas Tjernobyl upp och det faktum att det var "amatörer" som väl förmodligen bidrog med mycket kunskap kring rapporter om hur strålningen spred sig och vad den tog sig för uttryck (misstänker att det är det det handlar om). 
+
+Andra katastrofer illustreras likaså och det görs reklam för något som kallas publiclab.org där man som privatperson verkar kunna få tillgång till ett enkelt labbmaterial med vars hjälp man kan "lifting the citizen to the level of the expert".
+
+Trump nämns och hans påstående om hur många som var på invigningen samt bildbevis på hur det såg ut, "alternative facts"
+
+Ett citat från en brittisk parlamentsledamot Michael Gove:
+
+> "I think that the people of this country have had enough of experts with organisations [...] with acronyms-saying that they know what is best and getting it consistently wrong."
+
+Min kommentar: Det är ju denna självklara piedestal som de etablerade medierna satt sig på som Trump ifrågasatte och fick folk att börja ifrågasätta. Var inte det bra på ett sätt?
+
+Men här tas också upp att det handlar om att "strike the right balance between empowering citizens and trivializing experts"
+
+Här kommer man in på vilken roll som medforskare ska inta. ska de vara "computers", "analyzers", "sensors","self-reporters" eller "makers"? Jag får intryck av att det verkar finnas en gråskala här i vilken utsträckning de uppmuntras att enbart agera sensorer till att utgöra makers.
+
+En definition av citizen science ges, nämligen följande av OED (2014): "scienific *work* undertaken by members of the *general public*, often in collaboration with or under the direction of prfessional *scientists* and scientific institutions."
+
+En fråga tas upp kring vad man ska benämna medforskarna som deltar. General public? Amateurs? Lay people?
+
+Likadant om var forskningen sker. I det egna hemmet?
+
+Frågor väcks också om tiden, sker "forskningen" på fritiden eller när sker den?
+
+Här menar föredragshållaren att det var först på slutet av 1800-talet som det skedde en "professionalization of sciences" och i ett citat från en tidskrift benämn 'Popular Science' från 1902 utrycks: "The era of the amateur scientist is passing; science must now be advanced by the expert"
+
+Min kommentar: Med andra ord, utgör alltså amatörismen skulle man kunna säga ursprungsformen för hur vetenskapen har sett ut och tagit sig uttryck fram till ganska sent. Något som man inte får intryck av när man lyssnar på vetenskapens experter idag.
+
+Här verkar föredragshållaren driva tesen att det i början av 1900-talet skedde en "co-creation of the professional and the amateur". 
+
+Frankenstein tas upp här också. En tidig filmversion kom 1931.
+
+Sedan är det detta med klyftan mellan "sciences and the public" och den illustreras av Dr. Strangelove från 1964. 
+
+Jag tänker att kanske ledde atombomben här ett uppvaknande... 
+
+Här talas också om hur denna professionalisering av vetenskaperna blev "bridged (and sustained) by science popularization" och exempel ges på tidskrifter från 1920-talet om 'Popular Science' och 'La Science et la vie' och som tydligt andas en teknisk framtidsoptimism med vetenskapliga förtecken 
+
+Följande bild visas upp som illustrerar hur det publika deltagandet i forskning haft sin lägsta nivå omkring 1950, medan det före 1900 och efter 2000 varit ett betydligt mer publikt deltagande i forskning. Detta är en intressant tanke och idé, men jag vet inte hur väl den går att belägga.
+
+Enligt föredragshållaren handlar denna nedgång om: "not just the exclusion of citizens from science, but the exclusion of scientists from society".
+
+Det är bra fångat, tycker jag, och det är denna utveckling som citizen science vill motverka är mitt intryck då. Det finns alltså en risk med att vetenskapen och forskningen professionaliseras, men samtidigt är väl det en oundviklig utveckling tänker jag, eftersom den kunskap vi utvecklar blir alltmer nischad och sofistikerad och för att kunna göra innovationer inom till exempel bioteknik så kräver det en lång förkunskap om var kunskapsläget är och vilken sorts kunskap som saknas.
+
+Föredragshållaren poängterar att det handlar om "not only *outreach* but also *inreach*" som jag tolkar som att det handlar om att de professionella forskarna också måste bli bättre på att låta samhället komma till dem.
+
+Så hur ser framtiden ut då, vad väntar?
+
+Jo, föredragshålleren nämner "Institutionalization of citizen science" och exemplifierar med en rad rapporter som beskriver institutioners strategier för att bedriva citizen science.
+
+En viktig aspekt som lyfts är också att "43% of 24-34 year old have completed tertiary education" (OECD 2016)
+
+Här nämns "Citizen science as a tool for education" men det är lite oklart vad som åsyftas.
+
+Mot slutet av presentationen tas det upp huruvida citizen science lämpligast bör betraktas som "a tool for governing the critique of science" (jag asscierar här till sanktionerat motstånd och brukarinvolvering) eller som en "cheerleader for science", eller som en "techno-critique" (behöver världen mer "stuff"? - något som belyses av en viss D. Chachra i artikeln "Why I am not a maker" från The Atlantic 2015)
+
+Det som föredragshållaren tycks mena är att de stora frågorna för citizen science handlar om:
+
+* empowering
+* epistemic justice
+* reduction of inequalities
+* proper place of science in democracy
+
+Slutligen görs reklam för sajten: citizensciences.net.
