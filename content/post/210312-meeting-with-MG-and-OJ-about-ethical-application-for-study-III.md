@@ -1,6 +1,6 @@
 ---
 title: "Meeting with MG & OJ about Ethical Application for Study III"
-date: 2021-03-16T11:49:13+01:00
+date: 2021-03-12T11:49:13+01:00
 draft: false
 categories: ["Research method"]
 ---
