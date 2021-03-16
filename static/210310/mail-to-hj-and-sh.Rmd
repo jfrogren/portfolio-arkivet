@@ -1,0 +1,49 @@
+---
+title: "Mail to HJ & SH linking their writing to Citizen Science"
+author: "Joakim Frögren"
+date: "3/16/2021"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: 
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+Hej HJ & SH,
+
+Vi UserAge-doktorander diskuterade er artikel om SAPO-modellen under Alberts ledning vid vår senaste så kallade dialogmöte i förra veckan. Jag läste den med stor behållning och tycker att ni överlag lyckas mycket väl navigera i och beskriva det snåriga landskapet som  samverkan mellan forskare och aktörer utanför akademin inom området äldre och åldrande utgör. Jag hade också inför mötet gjort en inledande skiss på min kappa (se bifogad fil) som vi också diskuterade och det var intressant att relatera den historieskrivning jag gör där med den som ni gör i er artikel. Ni får därför gärna läsa den om ni har tid och lust. Läsningen av er artikel fick mig att inse att jag missat en del i min beskrivning som ju som sagt bara är en initial skiss. Men jag tycker också att det i läsning av min kappaskiss framkommer att den historieskrivning ni gör kopplad till real-world problems , där ni nämner Mode 2 och Bremmer, är bristfällig.
+ 
+Jag menar att när det kommer till syftet med samverkan, så har samverkan mellan aktörer utanför akademin i syfte att ta sig an real-world problems och ta fram kunskap som forskare själva inte kunnat få fram en lång historia som börjar med att amatörer hjälpte mer etablerade vetenskapsmän att samla in data. När sedan vetenskapen och forskningen professionaliserades allt mer under slutet av 1800-talet och första halvan av 1900-talet så innebar det i viss mån att vetenskapen fjärmade sig från folket/verkligheten och att forskare istället inom många discipliner utgick ifrån ideala förhållanden och från att människor var rationella, när man satt i sina elfenbenstorn och gjorde modeller. Men under 40-talet och framåt insåg forskare inom management science att man måsta försöka ta sig ut i myllan och inte kan sitta på sin kammare för att beskriva människors handlande i en ideal verklighet. Och då började de inom detta område beskriva hur människor i praktiken inte handlade så rationellt som man teoretiskt kunde förmoda,  grundat i att vi i den faktiska verkligheten inte hade begränsat med tid och resurser. Studier av hur människor ute i verkligheten fattar beslut och agerar ledde till att beslutsfattande intog en central roll inom management science. Tankar som tog sig vidare in i mer design och arkitektur/planning studies/environmental  studies. Här började man inse att problem av en social natur inte liknade matematiska problem utan att dessa problem var ”lömska” (wicked) och krävde en rad olika perspektiv och samverkan för att bättre kunna begripas. Det är utifrån den bakgrunden som sedan tankar om vikten av transdisciplinaritet inom forskning och  Mode 2 har vuxit fram.
+ 
+Jag förstår att ni av utrymmesskäl inte kan göra en sådan beskrivning inom er artikel, men jag vill hävda att inkluderandet av Bammer i detta sammanhang och IAP2-spektrumet gör att fokus hamnar alltför mycket på  en maktanalys när det i detta stycke borde ha ett starkare fokus på epistemologi och ha en riktning mot vad för slags kunskap man önskar få fram och varför. Ni nämner Lawrence och transdisciplinaritet men  bara kort. Det finns naturligtvis en stark koppling mellan etik/demokrati och vilken sorts kunskap man får fram och vems verklighet som beskrivs. Dock tycker jag att alla dessa indelningar som gjorts i Arnsteins anda kring att kategorisera samverkan hierarkiskt kopplat till hur stort inflytande brukare eller andra aktörer tilldelas inte är så fruktbara, just eftersom de mer eller mindre explicit representerar en politisk maktanalys när det som borde stå främst i fokus är syftet och där kunskap (eftersom vi sysslar med forskning!) borde inta en central roll. Jag förstår att ni också genom er modell strävar efter en annan slags modell än denna. Men borde inom forskning inte syftet att få fram kunskap vara det centrala, och de andra anledningarna som har med utökad demokrati och empowerment och alltså är av mer politisk natur utgöra medel för att uppnå denna kunskap snarare än mål i sig själva? Om man pratar om att ta fram modeller i syfte att vägleda så vore det för mig åtminstone centralt att sätta kunskapen som främsta mål medan en demokratisk representation och empowerment mer är att betrakta som sekundära mål i så fall.
+ 
+Inför skrivandet av min tredje artikel som handlar om medborgarforskning, läste jag nyligen en mycket tankeväckande artikel (se bifogad artikel ”strasser2019.pdf”) (som jag hämtat en del inspiration från i denna text)  där en indelning istället görs i epistemiska praktiker, alltså kopplat till vilken kunskapsmässig funktion/roll medborgarna eller medforskarna som deltar förväntas inta/fylla i processen. Här görs indelningen i: ”sensing”; ”computing”; ”analyzing”; ”self-reporting” och ”making”. Vidare skriver de att:
+ 
+”This typology does not imply any hierarchy between the different kinds, they are simply qualitatively different, and often hybrid, modes of knowledge production. These practices are ideal types, not natural kinds that could uniquely define the “nature” of participatory projects. Their purpose is to help us analyze (not classify) participatory projects in terms of their different knowledge practices. “Sensing,” for example, might be a dominant practice in a nature observation project, which also involves “analyzing” data and “making” instruments as a more minor component.”
+ 
+Jag tycker de är något på spåren i denna indelning eftersom de så tydligt placerar syftet i centrum samt att syftet här är just av epistemisk natur. En annan artikel (Se bifogad artikel ”lang2012.pdf”) jag också nyligen läst är också ett lästips för att bättre förstå hur forskare som sysslar med samverkan i syfte att först och främst lösa real-world problems resonerar. Förhoppningsvis kan läsningen av dessa texter inspirera er.
+ 
+Ser fram emot en fortsatt dialog.
+ 
+Med vänlig hälsning 
+
+JF
+
