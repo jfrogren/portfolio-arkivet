@@ -7,8 +7,11 @@ categories: ["Research process", "Publication"]
 
 In order to try to structure the remaining work with my Study II - which at the moment feels a bit overwhelming to be honest considering that I during the last weeks have been focusing so hard on the ethical application for Study III - I decided to try to create an action list of the tasks that needs to be done.
 
+## Submission guidelines
+
 I have also had a look at the [submission guidelines for PLOS One](https://archive.ph/Eo8uf), which is the journal that we have discussed that we will try to publish in.
 
+## Action list for manuscript editing
 Anyway, here is the action list of what needs to be done related to the manuscript for Study II:
 
 1. **Include nationality as an independent variable** <!--:white_check_mark:--> <br> Since it according to RL is an aspect mentioned in the literature as being related to willingness to be involved in research. 
