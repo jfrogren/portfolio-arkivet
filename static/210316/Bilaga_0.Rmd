@@ -1,0 +1,358 @@
+---
+title: "Ansökan om etikprövning för studie III"
+date: "2021-03-16"
+draft: false
+runningheader: "Ansökan om etikprövning för studie III"
+subtitle: "Bilaga 0: Allmän information och underskrifter" # only for html output
+author: "JF, OJ, MG"
+output:
+  word_document
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+# 1. Allmän information och underskrifter
+
+## 1.1. Titel på forskningsprojektet
+
+<!-- Ange en beskrivande titel på svenska. Titeln ska gå att förstå för en lekman. -->
+
+En utvärdering av äldre personers syn på att delta i massexperimentet ‘Bostadsförsöket’
+
+## Avgiftskategori
+
+## 1.2. Hur många forskningshuvudmän kommer att ingå i forskningsprojektet?
+<!-- Forskningshuvudman: Den statliga myndighet eller fysiska eller juridiska person i vars verksamhet forskningen utförs. En fysisk person kan endast undantagsvis vara forskningshuvudman. -->
+
+Välj en eller flera
+
+<!--Om en: Avgiften för ansökan är 5000 kronor. -->
+
+### 1.2.1. [Om Flera] Har samtliga forskningspersoner ett omedelbart samband med endast en av forskningshuvudmännen?
+<!--Forskningsperson: De levande människor som forskningen avser.            
+Omedelbart samband: Forskningspersoner inkluderas i forskningen hos endast en av de forskningshuvudmän som ingår i projektet. -->
+
+Ja/Nej
+
+<!-- Om Ja: Avgiften för ansökan är 5 000 kronor.
+Om Nej: Avgiften för ansökan är 16 000 kronor. -->
+
+## 1.3. Avser forskningen klinisk läkemedelsprövning?
+<!-- Klinisk läkemedelsprövning: Klinisk undersökning på människor av ett läkemedels egenskaper. -->
+
+Nej
+
+<!-- Om Ja: Avgiften för ansökan är 16 000 kronor oavsett om en eller fler huvudmän deltar i projektet. -->
+
+### 1.3.1. [Om Ja 1.3] Ange EudraCT-nummer
+<!--YYYY-NNNNNN-CC -->
+
+## 1.4. Ska endast befintliga personuppgifter behandlas i projektet?
+<!-- Ett JA-svar innebär att projektet endast kommer att behandla (exempelvis bearbeta, sammanställa eller samköra) personuppgifter som redan finns i olika register. Det vill säga inga nya personuppgifter kommer att samlas in för att genomföra forskningen. -->
+
+Nej
+
+<!--Om Ja: Avgiften för ansökan är 5 000 kronor oavsett om en eller flera huvudmän deltar i projektet. -->
+
+## 1.5. Önskas ett rådgivande yttrande?
+<!-- Om forskningen i ansökan bedöms vara av det slag som inte kräver godkännande av Etikprövningsmyndigheten kan myndigheten ge ett rådgivande yttrande. I ett rådgivande yttrande kan Etikprövningsmyndigheten till exempel meddela att man inte ser några etiska hinder för projektets genomförande. -->
+
+Nej
+
+## ANSVARIGA OCH MEDVERKANDE FORSKARE OCH FORSKNINGSHUVUDMÄN
+
+## 1.6. Ansvarig huvudman för forskningen (forskningshuvudman)
+<!-- Forskningshuvudman: Den statliga myndighet eller fysiska eller juridiska person i vars verksamhet forskningen utförs. En fysisk person kan endast undantagsvis vara forskningshuvudman. 
+Max 100 tecken -->
+
+## 1.7. Behörig företrädare för forskningshuvudmannen
+Namn Efternamn
+
+Titel som innebär ett verksamhetsansvar
+
+E-postadress (obligatorisk uppgift)
+
+## 1.8. Övriga forskningshuvudmän som deltar i projektet:
+Som deltagande forskningshuvudman räknas den huvudman inom vars verksamhet forskning kommer att bedrivas, det vill säga där forskningspersoner kommer att inkluderas och/eller där data kommer att behandlas och bearbetas. 
+Max 2000 tecken
+
+## 1.9. Huvudansvarig forskare för projektet (kontaktperson):
+
+* Susanne Iwarsson
+* susanne.iwarsson@med.lu.se
+* Mobiltelefonnummer
+* Institution/hemvist som forskare är verksam vid
+
+## 1.10 Är den huvudansvariga forskaren disputerad?
+<!-- Huvudregeln är att den ansvariga forskaren ska vara disputerad inom relevant ämnesområde alternativt inneha motsvarande kompetens. Den som är huvudansvarig forskare ansvarar för att andra medverkande som ska genomföra projektet har tillräcklig kompetens (vetenskaplig och klinisk). Vid läkemedelsprövning ska huvudansvarig forskare dessutom ha tillräcklig kunskap om ”Good Clinical Practice” (GCP). 
+I undantagsfall kan icke disputerad forskare godtas om annan medverkande disputerad forskare uttalat att forskningen sker under aktivt överinseende av denne. Uttalandet ska vara skriftligt och CV för den disputerade ska bifogas. 
+I den mån sökanden begär att forskningen ska få genomföras utan att en disputerad forskare medverkar får en bedömning ske av samtliga omständigheter i det enskilda fallet. Kompetensen ska bedömas i relation till den forskning som är aktuell och till de etiska frågeställningar som forskningen kan antas ge upphov till. Krav bör kunna ställas på att personen i fråga behärskar aktuella vetenskapliga metoder och i övrigt har visat sig lämpad att hantera ett sådant ansvar. Forskaren i fråga ska också ha erfarenhet av att ta ställning till forskningsetiska problem (se prop. 2002/03:50 s. 100).  -->
+
+Ja
+
+### 1.10.1. [Om Nej 1.10] Ange namnet på den [disputerade] forskare som kommer utöva att aktivt överinseende över forskningen.
+<!--Ett skriftligt uttalande om aktivt överinseende samt CV för den som utövar aktivt överinseende ska bifogas ansökan.   
+Namn Efternamn
+Titel
+E-postadress -->
+
+## 1.11 Andra medverkande forskare:
+
+Ange namn, titel och funktion på de forskare som ska medverka i projektet.
+[Namn, tjänstetitel, organisation, kompetens] Max 500 tecken
+
+
+## Övrig information 
+
+## 1.12 Avser ansökan forskning som inbegriper äggdonation?
+
+Nej
+
+## 1.13. Avser ansökan forskning med läkemedel för genterapi eller somatisk cellterapi eller läkemedel som innehåller genetiskt modifierade organismer?
+
+Nej
+
+## 1.14. Avser ansökan forskning med xenogen cellterapi?
+
+Nej
+
+## 1.15. Kommer joniserande strålning ingå i forskningsprojektet?
+<!-- Med joniserande strålning avses partikelstrålning eller elektromagnetisk strålning som har tillräcklig energi för att jonisera materia. Om joniserad strålning ska ingå i projektet ska ifylld stråldosbilaga bifogas ansökan. -->
+
+Nej
+
+## 1.16 Kommer biologiskt material från människor att nyinsamlas för projektet?
+<!-- Frågan avser nyinsamling av biologiskt material (prover) från människor, dvs. material som samlas in specifikt för detta projekt. -->
+
+Nej
+
+## 1.17. Planerar projektet att använda biologiskt material från människor från en eller flera befintliga provsamlingar?
+<!-- Frågan avser om man för detta projekt kommer att begära tillgång till biologiskt material eller prover som samlats in tidigare. -->
+
+Nej
+
+## 1.18. Avser forskningen klinisk prövning av medicinteknisk produkt? 
+<!-- Kliniska prövning av medicinteknisk produkt: Systematisk undersökning som involverar en eller flera försökspersoner för att bedöma en medicinteknisk produkts säkerhet eller prestanda. -->
+
+Ja/Nej
+
+### 1.18.1 [Om Ja 1.16] Ange om möjligt prövningens CIV-ID 
+<!-- CIV-ID fås från Läkemedelsverket. Lämnas tomt om CIV-ID inte finns. 
+CIV-YY-MM-XXXXXX -->
+
+## Bilageförteckning
+## 1.19. Ange vilka bilagor som medföljer ansökan.  
+
+
+### 1.19.1. Kompletterande bilageförteckning
+
+[Kompletterande bilageförteckning] Max 2000 tecken
+
+
+## Underskrift och intygande 
+
+**Titel på forskningsprojektet (samma som angavs under 1.1)**
+
+En utvärdering av äldre personers syn på att delta i massexperimentet ‘Bostadsförsöket’
+
+## 1.20. Intygande
+
+I och med att ansökan undertecknas intygar du som är ansvarig forskare samt du som är behörig företrädare följande;
+
+* Att den information som lämnas i ansökan om etikprövning och samtliga medföljande bilagor är riktig och fullständig. 
+* Att verksamhetsansvariga i samtliga medverkande verksamheter är informerade om forskningsprojektets innehåll och utförande och att de har samtyckt till att delta i studien.
+* Att du säkerställt att det i samtliga medverkande verksamheter finns resurser som garanterar forskningspersonernas säkerhet och integritet vid genomförandet av den forskning som beskrivs i ansökan.
+* Att ansvarig forskare ges rätt att företräda huvudmannen i alla framtida kontakter med Etikprövningsmyndigheten som rör detta forskningsprojekt samt ansöka om ändringar i forskningsprojektet. 
+* Att du tagit del av Etikprövningsmyndighetens information om hantering av personuppgifter på myndighetens webbplats.
+
+
+
+
+–––––––––––––––––––––––––––––––––––––
+
+* Underskrift ansvarig forskare
+* Namn Efternamn
+* Titel 
+* Datum
+
+
+–––––––––––––––––––––––––––––––––––––
+
+* Underskrift behörig företrädare för forskningshuvudman
+* Namn Efternamn (ska vara samma person som angetts under p. 1.7)
+* Titel som innebär ett verksamhetsansvar
+* Datum 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<table>
+		<tbody>
+			<tr>
+				<td width="117">
+					<p><strong>Dimension</strong></p>
+				</td>
+				<td width="177">
+					<p><strong>Milj&ouml;hinder/tillg&auml;nglighet</strong></p>
+				</td>
+				<td width="163">
+					<p><strong>Forskninsgprojekt &amp; Cit Sci</strong></p>
+				</td>
+				<td width="144">
+					<p><strong>Teknikanv&auml;ndning</strong></p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">
+					<p><strong>Kunskap</strong></p>
+				</td>
+				<td width="177">
+					<p>&Ouml;kade kunskaper om milj&ouml;hinder</p>
+				</td>
+				<td width="163">
+					<p>&Ouml;kade kunskaper om att delta i ett forskningsprojekt</p>
+				</td>
+				<td width="144">
+					<p>&Ouml;kade kunskaper i att anv&auml;nda en ny app</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">
+					<p><strong>&nbsp;</strong></p>
+				</td>
+				<td width="177">
+					<p>&Ouml;kade kunskaper om hinder som orsakar tillg&auml;nglighetsproblem</p>
+				</td>
+				<td width="163">
+					<p>&nbsp;</p>
+				</td>
+				<td width="144">
+					<p>&Ouml;kade kunskaper om att anv&auml;nda en hemsida</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">
+					<p><strong>&nbsp;</strong></p>
+				</td>
+				<td width="177">
+					<p>&Ouml;kad kunskap om egna bostadens milj&ouml;hinder</p>
+				</td>
+				<td width="163">
+					<p>&nbsp;</p>
+				</td>
+				<td width="144">
+					<p>&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">
+					<p><strong>&nbsp;</strong></p>
+				</td>
+				<td width="177">
+					<p>&Ouml;kade kunskaper om egna bostadens tillg&auml;nglighetsproblem</p>
+				</td>
+				<td width="163">
+					<p>&nbsp;</p>
+				</td>
+				<td width="144">
+					<p>&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">
+					<p><strong>&nbsp;</strong></p>
+				</td>
+				<td width="177">
+					<p>&Ouml;kade kunskaper om vikten av tillg&auml;ngliga bost&auml;der f&ouml;r h&auml;lsosamt &aring;ldrande</p>
+				</td>
+				<td width="163">
+					<p>&nbsp;</p>
+				</td>
+				<td width="144">
+					<p>&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">
+					<p><strong>Intresse/motivation</strong></p>
+				</td>
+				<td width="177">
+					<p>&Ouml;kat intresse f&ouml;r fr&aring;gor som r&ouml;r tillg&auml;ngligt boende</p>
+				</td>
+				<td width="163">
+					<p>&Ouml;kat intresse f&ouml;r att delta i Citizen science projekt</p>
+				</td>
+				<td width="144">
+					<p>&Ouml;kat intresse f&ouml;r att anv&auml;nda appar och hemsidor</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">
+					<p><strong>Beteende/engagemang</strong></p>
+				</td>
+				<td width="177">
+					<p>Man anv&auml;nder kunskaperna om milj&ouml;hinder och tillg&auml;nglighet</p>
+				</td>
+				<td width="163">
+					<p>Man hj&auml;lper till att f&aring; flera att medverka i projektet</p>
+				</td>
+				<td width="144">
+					<p>Man laddar ner fler appar eller anv&auml;nder fler hemsidor</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">
+					<p><strong>&nbsp;</strong></p>
+				</td>
+				<td width="177">
+					<p>&nbsp;</p>
+				</td>
+				<td width="163">
+					<p>Man sprider kunskapen fr&aring;n projektet till andra</p>
+				</td>
+				<td width="144">
+					<p>&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">
+					<p><strong>&nbsp;</strong></p>
+				</td>
+				<td width="177">
+					<p>&nbsp;</p>
+				</td>
+				<td width="163">
+					<p>Man kan t&auml;nka sig delta andra forskningsprojekt</p>
+				</td>
+				<td width="144">
+					<p>&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="117">&nbsp;</td>
+				<td width="177">&nbsp;</td>
+				<td width="163">&nbsp;</td>
+				<td width="144">&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+	<p>&nbsp;</p>
+</body>
+</html>

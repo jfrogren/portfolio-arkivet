@@ -1,0 +1,329 @@
+---
+title: "Ansökan om etikprövning för studie III"
+date: "2021-03-16"
+draft: false
+runningheader: "Ansökan om etikprövning för studie III"
+subtitle: "Bilaga 6: Enkäter och info till deltagare i projektet" # only for html output
+author: "JF, OJ, MG"
+output:
+  word_document
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+# Informationsbrev till intresseföreningar
+
+
+
+---
+
+# Introduktionstext i mejlet till deltagarna för förenkäten
+
+> Hej,
+
+> Vill du delta i en utvärderingsstudie om Bostadsförsöket? I detta brev får du information om utvärderingsstudien och vad det innebär att delta. [3-4 meningar om rationale] Tanken med forskningsprojektet X är att utveckla ny kunskap om… I forskningsprojektet vill vi även undersöka X. [1-2 förklarande meningar]. Utifrån dina och andra deltagares svar vill vi utveckla ny kunskap om hur…
+
+> **Hur går studien till**?
+
+> Om du väljer att delta kommer du vid 2 tillfällen att få besvara en webbenkät som det tar ungefär 10-15 minuter att besvara. Den första enkäten kan du göra omedelbart, den andra enkäten skickar vi till dig i början av oktober 2021. Vi kommer skicka ut två påminnelser Enkäten skickas ut till alla medlemmar i XX samt ytterligare 2 föreningar i Skåne.
+
+> **Vad händer med mina uppgifter?**
+
+> Projektet genomförs av forskare inom Centre for Ageing and Supportive Environments (CASE) vid Lunds universitet. Våra kontaktuppgifter hittar du längst ner i detta brev.
+
+````
+      Förklara att vi lite har kontaktuppgifter, utan föreningen skickat ut.
+      
+````   
+
+> Dina svar i enkäten lagras på ett säker sätt av [beskriv av vem]. Materialet kommer att arkiveras i tio år och i enlighet med EU:s dataskyddsförordning, General Data Protection Regulation (GDPR).
+
+> **Hur får jag information om resultatet av studien?**
+
+````
+Spridas via deras lokalföreningar, via media via hemsidor V&A..
+````      
+
+> Resultatet kommer att presenteras på gruppnivå i vetenskapliga och populärvetenskapliga sammanhang. Ingen utomstående kan komma att identifiera dig. Studien kommer också att ingå i en doktorsavhandling
+
+> **Deltagandet är frivilligt**
+
+> Ditt deltagande i studien är helt frivilligt och innebär inget ytterligare åtagande. Du kan också avstå från att besvara enstaka frågor och kan när som helst avbryta ditt deltagande. Om du väljer att delta så är nästa steg att fylla i enkäten som du når via länken nedan. Om du inte vill delta behöver du inte göra något, men en första och en andra påminnelse kommer att skickas per epost till personer som inte besvarat enkäten. Du kan besvara enkäten via nedanstående länk som du skriver in i webbläsaren på din dator eller surfplatta.
+
+> Länk: https://sifologin.tns-sifo.se Användarnamn: [här anges ett användarnamn som är unikt för varje deltagare] Lösenord: [här anges ett lösenord som är unikt för varje deltagare]
+
+> **Om du undrar något**
+
+> Har du några frågor om undersökningen är du välkommen att kontakta forskare vid Lunds universitet: Anna Andersson: via telefon [telefonnummer], eller e-post [e-postadress].
+
+> **Ansvarig för studien**
+
+> Forskningshuvudman är Institutionen för hälsovetenskaper, Medicinska fakulteten vid Lunds universitet. Vetenskapligt ansvarig forskare för studien är:
+
+> Susanne Iwarsson, professor i gerontologi
+> Telefon: 046-222 19 40
+> E-post: susanne.iwarsson@med.lu.se
+
+---
+
+# Introduktionstext i mejlet till deltagarna för efterenkäten
+
+
+---
+
+# Förenkäten
+
+> I denna enkät finns frågor om [en mening om innehåll]. Inga svar är rätt eller fel utan vi är intresserade av din uppfattning kring dessa frågor.
+
+## Intresse för att delta
+
+* Kan du tänka dig att delta i massexperimentet bostadsförsöket? Ja/Nej^[MG: Kanske har man inte bestämt sig? Kanske känner man inte till projektet ännu?]
+* Varför vill/kan du inte delta? Ett antal olika svarsalternativ + annan orsak nämligen:
+
+> För de som inte önskar delta tar enkäten slut här?
+
+## Kunskap om och attityd till tillgänglighet i den egna bostaden 
+
+* Upplever du att tillgängligheten din bostad är bättre eller sämre än genomsnittsbostaden?
+  + Följdfråga: Vad är det som gör tillgängligheten i din bostad bättre/sämre? (jmf skillnader pre- och postfråga) (lärande)
+* Upplever du att du kan göra något för att nå bättre tillgängligheten i ditt boende? Ja/nej? 
+  + Följdfråga: Om ja - Vilken typ av åtgärd kan du vidta? (kapacitet till att åstadkomma genomslag – i en roll att tillämpa forskning/kunskap, entreprenörskap, innovation, kreativitet)
+  + Om nej – Vad hindrar dig? Svarsalternativ (Centre for Ageing Better): Emotional attachment/not old enough/not have finances available/don’t know where to access support or advice/annat hinder nämligen:
+
+* I ett badrum kan finnas flera hinder, vilka av nedanstående anses vara miljöhinder/vilka av nedanstående finns i din bostad?
+  + Utrymme 130 cm
+  + Stödhandtag
+  + 81 cm handfat
+  + Toalettstol 47 cm
+  + Badkar
+  + Nivåskillnad duschplats
+  + Pall badbräda
+
+* Anser du att du har några miljöhinder i din bostad (dvs i entréen, köket, badrummet och övriga ytor i bostaden)? Ange isåfall vilka. (Ett hinder per rad, men du kan ange så många rader du vill.
+  + Nej, det finns inga miljöhinder i min bostad
+  + Ja, ett hinder är...
+  + Ytterligare ett hinder är...
+  + Ytterligare ett hinder är...
+
+* Anser du att din bostad är lämplig för en person som använder rollator inomhus?
+  + Ja
+  + Nej (Om nej, ange varför)
+
+* En tröskel anses enligt vara ett miljöhinder om den är (klicka för det alternativ du anser):
+  + 0 mm – alla trösklar är miljöhinder oavsett höjd.
+  + 1 cm höga trösklar anses vara ett miljöhinder
+  + 1,5 cm höga trösklar...
+  + 2 cm höga trösklar...
+
+* I ett badrum behöver det finnas svängrum, för att badrummet skall anses vara tillgängligt och utan miljöhinder. Hur stort fri yta/svängrum måste det finnas enlig direktiven?
+  + 100 gr 100 cm
+  + 130 gr 130 cm
+  + 200 gr 200 cm
+
+## Kännedom om forskning
+
+* Hur skulle du beskriva din kännedom om vad forskare gör? Svarsalternativ: Utmärkt / mycket god / god / någorlunda / dålig
+
+## Stöd vid genomförande och grad av involvering/engagemang
+
+* Hur väl skulle du säga att arrangörerna av Bostadsförsöket har lyckats kommunicera/ förklara massexperimentet på ett tillräckligt tydligt sätt för dig? (Mycket väl - Inte alls väl)
+
+* Om du inte är nöjd med denna kommunikation, vad kunde ha gjorts annorlunda för att förbättra den? Fler alternativ är möjliga (a) Använt andra kommunikationskanaler; b) Formulerat innehållet annorlunda; c) Kommunicerat mer frekvent; d) Annat, nämligen…)
+
+* I vilken utsträckning är ‘Bostadsförsöket’ ett projekt som väcker engagemang hos dig? (I mycket hög grad - I väldigt liten grad)
+
+* Om inte ‘Bostadsförsöket’ väcker så stort engagemang hos dig, vad beror det på? (a) Ämnet som sådant intresserar mig inte tillräckligt b) Projektet såsom det är utformat är inte tillräckligt intressant c) Jag har inte tid eller ork att engagera mig i det d) Annat, nämligen…
+
+* Skulle du ha velat delta i fler faser av detta projekt, t.ex. i planeringen av Bostadsförsöket? (Ja / Nej / Jag vet inte)
+
+* Om ja, varför? Flera svar möjliga (a) För att på så vis lära mig mer om hur man bedriver forskning? b) För att lära mig mer om tillgänglighet i bostäder c) För att lära mig mer om teknik, t.ex. utveckling av appar)^[OJ: Här handlar svaren om individuellt lärande – jag tanker att det kan finnas helt andra orsaker till varför någon skulle vilja vara mer involverad.]
+
+* Om nej, varför inte? Flera svar möjliga (a) Inte tillräckligt intresserad av forskning b) Inte tillräckligt intresserad av tillgänglighet i bostäder c) Inte tillräckligt intresserad av teknik, t.ex. utveckling av appar d) Jag har inte tid eller ork att engagera mig ytterligare
+
+
+
+## Hur man fick information om projektet
+
+* Hur fick du information om möjligheten att delta i ‘Bostadsförsöket?’ (a) genom mejl från intresseförening, b) på annat sätt, nämligen…
+
+* Om du hört talas om det från en organisation / förening som du är medlem i, anser du att informationen där kommunicerades på ett tillräckligt tydligt och öppet sätt till dig? (ja/nej/vet inte)
+
+## Resultat och påverkan: Individuell utveckling
+
+### Kunskap, färdigheter, kompetenser
+
+* Vilka är dina mål / vad hoppas du uppnå genom att delta i Bostadsförsöket? (a) Lära mig mer om forskning; b) Lära mig mer om tillgänglighet i bostäder; c) Lära mig mer om digital teknik; d) Annat, nämligen…
+* (FÖRE: Tror du att du kommer erhålla / EFTER: Erhöll du ..) ny kunskap, nya färdigheter eller nya kompetenser relaterade till forskning genom att delta i ‘Bostadsförsöket?’
+* (FÖRE: Tror du att du kommer erhålla / EFTER: Erhöll du ..) ny kunskap, nya färdigheter eller nya kompetenser relaterade till bostadstillgänglighet genom att delta i ‘Bostadsförsöket?’
+* (FÖRE: Tror du att du kommer erhålla/ EFTER: Erhöll du ..) ny kunskap, nya färdigheter eller nya kompetenser relaterade till informations- och kommunikationsteknik (IKT) från att delta i Bostadsförsöket?
+* (FÖRE: Tror du att du kommer erhålla/ EFTER: Erhöll du ..) ny kunskap, färdigheter eller kompetenser relaterade till något annat från att delta i ‘Bostadsförsöket’? – Om ja, ange vad …
+
+### Attityder och värden
+
+* (FÖRE: Tror du att ditt / EFTER: Uppfattar du att ditt…) deltagande i ‘Bostadsförsöket’ (kommer att ha / har haft) påverkan på dina värderingar och attityder angående vetenskap/ forskning?
+* Om ja, på vilket sätt? (a) Mer postivt inställd; b) Mer negativt inställd; c) På annat sätt, nämligen…
+
+### Beteende och ägande
+
+* Hur mycket engagemang och ansvar skulle du säga att du kommer att avkrävas/har avkrävts av arrangörerna av detta evenemang? (Väldigt mycket  Vädigt liten) 
+* Skulle du säga att ‘Bostadsförsöket’ främjar ‘ownership,’ d.v.s. främjar en slags vilja och förmåga att vidta åtgärder för att hantera de problem som står på spel, såsom tillgänglighetsproblem i ditt hem? (Ja/ Nej/Vet inte)
+* (FÖRE: Tror du att ‘Bostadsförsket’ kommer att bidra … / EFTER: Har ‘Bostadsförsöket’ bidragit ..) till personlig förändring i ditt beteende?
+* Om ja, på vilket sätt? 
+
+### Motivation och engagemang
+* (FÖRE: Tror du att ditt / EFTER: Uppfattar du att ditt…) deltagande i ‘Bostadsförsöket’ (kommer att höja/ har höjt) din motivation? (Ja/Nej/Vet inte)
+* Om ja, på vilket sätt / sätt?
+* FÖRE: Tror du att ditt / EFTER: Uppfattar du att ditt…) deltagande i ‘Bostadsförsöket’ Kan höja/har hänt att din självkänsla? (Ja/Nej/Vet inte)
+* (Tror du att deltagande i ‘Bostadsförsöket’ kommer att motivera dig ../ Är du motiverad ..) att fortsätta projektet eller delta i liknande aktiviteter?
+
+
+## Demografi
+
+* (Ålder) Vad är din ålder? (… år)
+* (Kön) Vad identifierar du dig som? (Man/Kvinna/Övrigt)
+* Förening man tillhör: ange de som vi kontaktat
+* (Utbildning) Vilken är din högsta utbildning? (Grundskola (folkskola/flickskola/realskola)/Gymnasium (folkhögskola)/ * Eftergymnasial utbildning, mindre än tre år (yrkeshögskola/kvalificerad yrkesutbildning)/ Eftergymnasial utbildning, tre år eller mer/ Forskarutbildning/ Annat/Vill ej uppge)
+* Hur ser din boendesituation ut? (Bor själv eller är särbo/Är sambo/Övrigt)
+* Bor du i... (Hyresrätt/Bostadsrätt/Annat)
+* (Typ av bostad) (Villa/Radhus/Lägenhet/Servicelägenhet/Särskilt boende/Fritidsboende/Gård/Övrigt)^[MG: Använd samma alternativ som i appen]
+* Antal personer i hushållet: 1,2,3,4...
+* Hur länge har du bott i din nuvarande bostad? (0-5 år/5-15 år/Längre än 15 år)
+* Hur länge har du bott i Sverige? (Sedan jag föddes/ Sedan jag var barn el. ungdom/Sedan jag var 18 år eller äldre)
+* Om du är född i ett annat land, ange vilket: (Bosnien/Finland/Irak/Iran/f.d. Jugoslavien/Polen/Somalia/Syrien/Turkiet/Tyskland/Annat..ange vilket)
+* (Ekonomi) Vilket av följande alternativ tycker du själv bäst beskriver din ekonomiska situation? (Dålig/Någorlunda/God/Mycket god/Utmärkt) - Eller i kronor? 12500 eller under, 12501-17000, 17001-21500, 21500 eller mer.
+* Tidigare erfarenhet av att delta i forskningsprojekt? J/N
+* Har du hört talas om Bostadsförsöket 2021? J/N
+
+Eftersom enkäten berör forskning om … handlar frågorna XX-XX om ditt hälsotillstånd. Dina svar på hälsofrågorna kommer att ge forskarna ökade möjligheter att göra gruppjämförelser.
+
+### Hälsa 
+* (Instrument: Självskattad hälsa) I allmänhet skulle du säga att din hälsa är(markera ett av alternativen): (Dålig/Någorlunda/God/Mycket god/Utmärkt)
+
+* Använder någon i hushållet regelbundet rollator eller rullstol a) inomhus b) utomhus?
+* Funktionella begränsningar från Housing Enabler?
+* Har du eller någon i hushållet fått veta av en doktor att du/den du bor med har…stroke, parkinson.. (standardiserad fråga från SNAC bla)
+* Fallit senaste månaden / senaste året?
+* Har någon i hushållet hemtjänst/matleveranser/larm?
+
+### Skörhet
+* Orkar du gå en promenad på cirka 15–20 minuter? (Ja/Nej)
+* Har du känt dig allmänt trött eller upplevt nedsatt ork desenaste tre månaderna? (Ja/ Nej)
+* Upplever du att du ramlar ofta eller är rädd för att ramla? (Ja/Nej)
+* Behöver du hjälp med att handla, det vill säga att ta dig till affären, plocka varor, betala och bära hem varorna? (Ja/Nej)
+
+### ICT-kunskap/erfarenhet
+
+#### Study-specific questions
+
+* On average how often would you say you have been using a smartphone or tablet during the last 3 months?
+* How often do you use the internet on your smartphone or tablet?^[OJ: Dagligen kommer troligtvis de flesta medborgarforskarna att svara.]
+* How knowledgeable do you consider yourself when it comes to using a smartphone or a tablet? (Not so knowledgable - Very knowledgeable)
+
+#### Instrument for Measuring Older People’s Attitudes Towards Technology
+
+https://bth.diva-portal.org/smash/get/diva2:1324996/FULLTEXT01.pdf (Likert scale questionnaire, ranging from 1 (fully disagree) to 5 (fully agree))
+
+1. I think it’s fun with new technological gadgets
+2. Using technology makes life easier for me
+3. I like to acquire the latest models or updates
+4. I am sometimes afraid of not being able to use the new technical things
+5. Today, the technological progress is so fast that it’s hard to keep up
+6. I would have dared to try new technical gadgets to a greater extent if I had had more support and help than Ihave today
+7. People who do not have access to the internet have a real disadvantage because of all that they are missingout on
+8. Too much technology makes society vulnerable
+
+### Tidigare kunskap/erfarenhet av tillgänglighet i bostäder
+
+* Jag har i min profession arbetat med frågor som rör tillgänglighet i bostäder^[OJ: Alt. planering utformning och/eller byggande av bostäder.] (Ja/Nej/Vet inte)
+* Om ja, vilken var din roll? (stadsplanerare/ arkitekt/ byggnadsingenjör/ byggnadsarbetare/ fastighetsförvaltare/ forskare/ övrigt)
+* Jag har under min fritid engagerat mig i frågor som rör planering, utformning och/eller byggande av bostäder (Ja/ Nej / Vet inte)
+* Om ja, på vilket sätt? (Genom att vara husägare/engagemang i en intresseförening/ Genom engagemang i en bostadsrättsförening/ Genom partipolitiskt engagemang/ Övrigt)
+
+
+---
+
+# Efterenkäten
+
+(Inga bakgrundsfrågor denna gång)
+
+## Deltagande i Bostadsförsöket
+
+* Deltog du i Bostadsförsöket 2021? Vilket påstående stämmer bäst in på dig?
+  + Ja, laddade ner appen.
+  + Ja, påbörjade mätningarna med appen.
+  + Ja, genomförde mätningarna med appen.
+  + Nej, jag deltog inte.
+
+* Som medforskare i Bostadsförsöket2021, kunde man ta del av resultaten på ett antal sätt. Markera de påstående som stämmer för dig. Obs du kan välja flera påståenden.
+  + Efter mätningen önskade jag att få en sammanställning skickad med mail, på bostaden jag undersökt.
+  + Jag har varit inne och tittat på Bostadsförsökets hemsidan där datan från alla mätningar sammanställs.
+  + Jag har provat att filtrera fram data för just min kommun på Bostadsförsökets hemsidan där datan från alla mätningar sammanställs.
+  + Inget av ovanstående stämmer in på mig.
+
+## Intresse för att delta i studien
+
+* Varför anmälde du dig till Bostadsförsöket?
+* Hur uppfattade du Bostadsförsöket?
+* Gjorde du några mätningar eller besökt den interaktiva hemsidan i Bostadsförsöket? Ja/Nej
+* Om man svarar NEJ: Varför gjorde du inte det? Tack för ditt deltagande!
+
+
+## Kapacitet att delta i studien 
+
+(till de som svarat ja på att de gjort mätningar eller besökt den interaktiva hemsidan i Bostadsförsöket)
+
+* Genomförde du mätningarna själv eller tillsammans med någon/några? Ja/Nej
+* Genomförde du mätningarna vid ett eller flera tillfällen? Ett/flera
+* Genomförde du alla mätningar? Ja/Nej
+  + Om nej: Varför/varför inte?
+* Ungefär hur lång tid lade du på att genomföra mätningarna?
+* Hur lätt eller svårt upplevde du det att genomföra mätningarna? Skala?
+* Vad tyckte du om materialet (vilket material) till Bostadsförsöket?
+* Besökte du den interaktiva webbplatsen?
+* Genererade du någon lista över tillgänglighet på den interaktiva webbplatsen? Ja/Nej
+  + Om nej: varför inte?
+  + Om ja Beskriv?
+  
+## Underlättande och kommunikation
+
+* Stödet till detta projekt har anpassats tillräckligt till dig och din kapacitet?
+* Utbildningsåtgärderna för detta projekt har anpassats tillräckligt till dig och din kapacitet?
+* Målen för detta projekt har kommunicerats på ett tillräckligt tydligt och öppet sätt till dig?
+* Hur har du uppfattat forskarnas sätt att kommunicera och stödja dig under detta projekt? (utmärkt - mycket bristfälligt)
+* Skulle du ha velat haft mer dialog med forskarna ? (ja/nej/vet inte)
+
+## Lärandet om forskning
+
+* Upplever du att du har fått en förändrad^[MG: Bättre? Tydligare? Riktning på förändringen?] bild av vad en forskare gör? Ja/nej
+* Hur skulle du beskriva din kännedom om vad forskare gör? Svarsalternativ: Utmärkt / mycket god / god / någorlunda / dålig
+
+## Lärandet om tillgänglighet i bostadsmiljöer
+
+* Upplever du att du har lärt dig något om tillgänglighet i bostäder? Ja/nej
+* Upplever du att tillgängligheten din bostad är bättre eller sämre än genomsnittsbostaden?
+  + Följdfråga: Vad är det som gör tillgängligheten i din bostad bättre/sämre? (jmf skillnader pre- och postfråga) (lärande)
+* Upplever du att du kan göra något för att nå bättre tillgängligheten i ditt boende? Ja/nej?
+  + Följdfråga: Om ja - Vilken typ av åtgärd kan du vidta? (kapacitet till att åstadkomma genomslag – i en roll att tillämpa forskning/kunskap, entreprenörskap, innovation, kreativitet)
+  + Följdfråga: Om nej – Vad hindrar dig? Svarsalternativ (från Centre for Ageing Better): Emotional attachment/not old enough/not have finances available/don’t know where to access support or advice/annat hinder nämligen:
+
+## Lärandet om digital teknik
+
+* Upplever du att du har lärt dig något om att använda digital teknik?
+
+## Ytterligare kommentarer:
+
+
+

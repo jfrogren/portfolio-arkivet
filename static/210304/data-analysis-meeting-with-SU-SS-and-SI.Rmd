@@ -40,7 +40,7 @@ SS pointed out that it is not clear that healthier people necessarily would be m
 
 Furthermore, Table 4 was considered redundant and I was asked to remove it. Figure 1 was considered good as it was, but I was asked to create a similar figure for the contents of Table 5 and thus replace that table with a figure. 
 
-When it came to willingness in Table 6, SU agreed with SS that instead of doing a Chi square test, I should perform a series of bivariate logistical regressions, variable by variable. Then, before the multivariate logistic regression, I should decide on a cut-off value ^ [Usually at .1 or .2, but here I was asked to, based on previous similar studies, suggest which p-value I considered appropriate to take the variable further to that analysis. However, this p-value should not be presented in any table, but the only table reported for willingness is the one based on the next multivariable logistic regression, and OR should be included instead of the p-value. 
+When it came to willingness in Table 6, SU agreed with SS that instead of doing a Chi square test, I should perform a series of bivariate logistical regressions, variable by variable. Then, before the multivariate logistic regression, I should decide on a cut-off value, usually at .1 or .2, but here I was asked to, based on previous similar studies, suggest which p-value I considered appropriate to take the variable further to that analysis. However, this p-value should not be presented in any table, but the only table reported for willingness is the one based on the next multivariable logistic regression, and OR should be included instead of the p-value. 
 
 Furthermore, SU agreed with SS that there was nothing that justified a division into age categories. 
 

@@ -1,0 +1,62 @@
+title: "Fortsatt arbete med etikansökan för studie III"
+date: "2021-03-16"
+draft: false
+runningheader: "Fortsatt arbete med etikansökan för studie III"
+subtitle: "" # only for html output
+author: "JF"
+output:
+  html_document
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+<!-- Hejsan!
+
+Vad bra med materialet!
+Jag bifogar också mallen för forskningspersoninformation om vi vill ha den till hands och ett brev vi nyligen skrivit i Område i Förändring-studien Coronastudien.
+
+Ni börjar 13:00 och jag joinar 14:30.
+
+Jag föreslår att vi (ni) startar upp på Zoom och tar vars ett dokument som vi jobbar på individuellt under 35 minuter, 5 minuter paus, 10 min diskussion och byte av dokument, så kör vi på så i 3 timmar. Vi håller Zoom öppet (men ljud/bild av) så kan man ställa frågor om man måste för att komma vidare.
+
+Tex: 
+13:30-14:05 JF: information/brev till forskningsperson
+            OJ: Formulär 01
+14:05-14.10 PAUS
+14.10-14:20 Tid för frågor – byte av dok
+14:20-14:55: JF: Enkäten
+                        OJ: Information/brev till forskningsperson
+                        MG: Formulär 01
+14.55-15:00 PAUS
+15:00-15:10 Tid för frågor byte av dokument
+15:10-15:45 JF:…
+                       OJ:…..
+                       MG:…                    
+15:45-16:00 PAUS
+16:00-16:30 Tid för frågor, gemensamma justeringar och plan för återstående 2 veckor innan deadline till Susanne
+
+Förresten:
+
+1.	Vi använder Sunet Survey som digitalt verktyg för vår enkät. Finns här: https://www.medarbetarwebben.lu.se/forska-och-utbilda/stod-till-utbildning/utbildningsadministration/studieadministrativa-system/sunet-survey-enkatverktyg
+
+2.	Susanne har sagt till Ok till en trisslott som tack till varje person som genomför båda enkäterna (skickas per post till deltagarna efter enkät 2kommit in).
+
+3.	Susanne vill att vi skickar det vi har efter fredagens pass till henne så att hon kan följa processen, hon är sen beredd på att ta emot vår next-to-final material måndagen den 6/4 08:00.
+
+Ha det gott och ses på fredag!
+
+-->
+
