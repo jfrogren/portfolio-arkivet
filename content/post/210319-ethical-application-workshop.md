@@ -11,4 +11,7 @@ MG, OJ and I tried another way of working on the ethical application today. Duri
 * [Attachment 5](/210319/Bilaga_5_Information_210319.html): Information given to respondents 
 * [Attachment 6](/210319/Bilaga_6_Enkat_210319.html): Questionnaires
 
-MG explained that SI wanted to read through these documents at tis stage and provide some overall feedback. I explained that I needed to focus on my other study during the upcoming days and that I could earliest start working on these documents again by Thursday next week (2021-03-25). 
+MG explained that SI wanted to read through these documents at this stage and provide some overall feedback. I explained that I needed to focus on my other study during the upcoming days and that I could earliest start working on these documents again by Thursday next week (2021-03-25). 
+
+We decided that we will not schedule any meeting next week but that I will instead go through the documents and finish them as much as I can (starting with Attachment 5 and 6 and then move on to Attachment 1) and whenever I feel stuck, I will send the questions and comments I have by mail to MG (and OJ) and then she/they will reply (most likely) the same working day. Once, I feel that I cannot improve the documents any more, I will forward them to MG and OJ and then they will continue to work on them.
+
