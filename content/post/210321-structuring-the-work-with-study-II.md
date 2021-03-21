@@ -7,11 +7,11 @@ categories: ["Research process"]
 
 In order to try to structure the remaining work with my Study II - which at the moment feels a bit overwhelming to be honest considering that I during the last weeks have been focusing so hard on the ethical application for Study III - I decided to try to create an action list of the tasks that needs to be done.
 
-1. **Include nationality as an independent variable.** [x]<br> Since it according to RL is an aspect mentioned in the literature as being related to willingness to be involved in research. 
+1. **Include nationality as an independent variable.** - [x] <br> Since it according to RL is an aspect mentioned in the literature as being related to willingness to be involved in research. 
 
 2. **Clearer description of how regression follow on uni- & bivariate analyses**. [ ] <br> Not sufficiently clear for the reader how and why I went from one analysis to the next.
 
-3. **Dig more into the health status variable.** [ ]
+3. **Dig more into the health status variable.** - [ ]
 
   + There seems to be a negative correlation between self-rated health and willingness, but what does that mean? Explain. [ ]
   + The current manuscript suggests that the result indicates a conflict with previous research, but in that case this is something that needs to be developed further. [ ]
