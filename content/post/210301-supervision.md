@@ -15,4 +15,6 @@ RL also wrote the following in a mail when sending his feedback:
 
 > In addition, regarding study 3,  please read the following excellent publication on citizen science. Hopefully, Martin is aware of it. It is important to clarify the role of the public in this study as I explained yesterday. See -
 
-> Haklay M.., Dörler D., Heigl F., Manzoni M., Hecker S., Vohland K. (2021) What Is Citizen Science? The Challenges of Definition. In: Vohland K. et al. (eds) The Science of Citizen Science. Springer, Cham. https://doi.org/10.1007/978-3-030-58278-4_2
+> Haklay M.., Dörler D., Heigl F., Manzoni M., Hecker S., Vohland K. (2021) What Is Citizen Science? The Challenges of Definition.  In: Vohland K. et al. (eds) The Science of Citizen Science. Springer, Cham. https://doi.org/10.1007/978-3-030-58278-4_2
+
+I added the publication to my bibliography, and it can be found [here](/pdfs/haklay2021.pdf).
