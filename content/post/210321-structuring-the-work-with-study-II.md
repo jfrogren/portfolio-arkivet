@@ -39,7 +39,7 @@ I pointed out that the results indicated 10% higher awareness of the possibility
   
 6. **Edit Table 7.** <br> Enter all independent variables except previous active involvement in block 1 and 'Previous active involvement' as block 2 rather than the other way around. However, when I describe what I have done, I should not employ the term ‘block,’ but rather write: “In the first model we used age , sex etc as the independent level.. then there was a second model were we included previous active involvmenet as a confounder.”
 
-<!-- 7. **Edit Table 2 and 3.** <br> An alternative to the current presentation of data in Tables 2 and 3 would instead be to present, for example, level of education in a way that describes that “Among those who are willing, how many have elementary school as their highest education level, high school,etc.?” The way in which it is best to present the result in this case is connected with how I intend to conduct the discussion and which result then best illustrates the arguments I wish to present. -->
+7. **Edit Table 2 and 3.** :x: <br> An alternative to the current presentation of data in Tables 2 and 3 would instead be to present, for example, level of education in a way that describes that “Among those who are willing, how many have elementary school as their highest education level, high school,etc.?” The way in which it is best to present the result in this case is connected with how I intend to conduct the discussion and which result then best illustrates the arguments I wish to present.
 
 8. **Edit Table 4.** :white_check_mark: <br> Table 4 was considered redundant and I was asked to remove it. 
 
