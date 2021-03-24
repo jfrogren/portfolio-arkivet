@@ -23,6 +23,9 @@ Anyway, here is the action list of what needs to be done related to the manuscri
   + There seems to be a negative correlation between self-rated health and willingness, but what does that mean? Explain.
   + The current manuscript suggests that the result indicates a conflict with previous research, but in that case this is something that needs to be developed further. 
   + Add and analyze frailty as well. <br> Bring in frailty as an additional variable here, motivating this decision by stating that they were both initially considered relevant to include. To check how to frame frailty in this context, SI recommended me to - rather than contact Synneve, as MK had suggested - go to her papers and see for myself how frailty is been defined, brought up and framed there.
+  
+  *After doing a bit of searching and reading about frailty, I found out in the following [article](/pdfs/berglund2019.pdf#page=3) on p. 1099 that there seems to be an instrument for measuring frailty consisting of seven indicators, where some indicators seems to be based on som sort of clinicians judgement while other indicators are self-reported. Why a frailty index was included in the panel study is not so clearly explained in [the study protocol](/pdfs/kylen2020.pdf#page=4). However, I get the feeling that the self-reported indicators were included and since it was not possible to include something else, the other indicators were simply excluded. In the article here by Berglund et al. (2019), the authors write: "We deemed the older people to be frail if they fulfilled three or more frailty indicators". I decided to follow the following logic.*
+  
   + There might be a correlation between frailty and self-rated health and then I will just move a long with the one with strongest correlation.
 
 4. **Municipality of residence - no significance, no mentioning.** :white_check_mark: <br>
@@ -41,12 +44,18 @@ I pointed out that the results indicated 10% higher awareness of the possibility
 
 7. **Edit Table 2 and 3.** :x: <br> An alternative to the current presentation of data in Tables 2 and 3 would instead be to present, for example, level of education in a way that describes that “Among those who are willing, how many have elementary school as their highest education level, high school,etc.?” The way in which it is best to present the result in this case is connected with how I intend to conduct the discussion and which result then best illustrates the arguments I wish to present.
 
+*As for now, I decided to wait with this and keep it as it it.*
+
 8. **Edit Table 4.** :white_check_mark: <br> Table 4 was considered redundant and I was asked to remove it. 
 
 9. **Replace Table 5 with figure.** :white_check_mark: <br> Figure 1 was considered good as it was, but I was asked to create a similar figure for the contents of Table 5 and thus replace that table with a figure.
 
+*Unfortunately, I only found an image of figure 1, and not the original data set upon which it was based. I decided to create [the following table](https://lu.app.box.com/file/790579468430) in Excel, did print screen (Cmd-Shift-4) and created the following [image](https://lu.app.box.com/file/790578709278). Not perfect, but it will have to do for now.*
+
 10. **Transform Level of education variable** :white_check_mark: <br>  When it came to Level of education, SU thought that the number of respondents who had ‘Research education’ was so small that that group could advantageously be incorporated into the category ‘College 3 years or more.
 
 11. **Make sure response options are correct for Self-rated health & Self-rated economy.** :white_check_mark: <br> Regarding self-rated health, SI and SS pointed out that it was unclear whether the current response options really corresponded to the actual instrument. Here I was asked to ensure that this was the case and to use these response options and no others. These options were also used for self-rated economy, so even there I needed to ensure they were correctly formulated.
+
+*I found the answer in the following [article](/pdfs/ware-jr1992.pdf#page=2), referred to in [this article](/pdfs/tomsone2013.pdf#page=3) namely: Poor; Fair; Good; Very good; Excellent*. 
 
 12. **Transform Self-rated health and Self-rated economy variable** :white_check_mark: <br> Transform the five categories related to self-rated health and self-rated economy into three. this would also make the table for the next multivariate logistic regression less extensive and easier to interpret. Thus, keeping the middle category intact but merge the first and second, as well as the fourth and fifth was decided as a good way forward. SU also emphasized that I need to have the same groups for univariable and multivariable analysis. However, for the analysis of awareness and previous active involvement, which will be kept on a descriptive level, I can keep the five categories.
