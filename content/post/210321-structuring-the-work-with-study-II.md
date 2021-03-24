@@ -40,7 +40,7 @@ I pointed out that the results indicated 10% higher awareness of the possibility
   + Conduct the analysis so that anything with a p-value higher than the one chosen will not be included. (However, you can still include variables that can be strongly motivated theoretically and the standard procedure is to include sex even if it is not significant simply because that is the standard procedure.)
   + Do a “correlation matrix” to see the correlation betwen the independent variables. <br> (When it comes to checking the interdependence between the independent variables, SU recommended VIF as a suitable alternative to the conventional correlation matrix. The VIF value should be above .70 or .80 in order to be a problem correlation-wise.)
 
-*I found some information about VIF [here](https://archive.ph/sNKn4). It seems that the .70 or .80 thresholds are questionable.*  
+*I found some information about VIF [here](https://archive.fo/8bIim). It seems that the .70 or .80 thresholds are questionable.*  
 
 6. **Edit Table 7.** <br> Enter all independent variables except previous active involvement in block 1 and 'Previous active involvement' as block 2 rather than the other way around. However, when I describe what I have done, I should not employ the term ‘block,’ but rather write: “In the first model we used age , sex etc as the independent level.. then there was a second model were we included previous active involvmenet as a confounder.”
 
