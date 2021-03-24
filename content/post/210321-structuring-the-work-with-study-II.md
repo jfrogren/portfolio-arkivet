@@ -39,7 +39,9 @@ I pointed out that the results indicated 10% higher awareness of the possibility
   + For multivariate analysis I should choose the group that is big enough as = 0, because the confidence interval in the subsequent groups will follow from that. SU explained that one can in principle choose any of the categories, but one should also be able to argue theoretically why a certain category was chosen. 
   + Conduct the analysis so that anything with a p-value higher than the one chosen will not be included. (However, you can still include variables that can be strongly motivated theoretically and the standard procedure is to include sex even if it is not significant simply because that is the standard procedure.)
   + Do a “correlation matrix” to see the correlation betwen the independent variables. <br> (When it comes to checking the interdependence between the independent variables, SU recommended VIF as a suitable alternative to the conventional correlation matrix. The VIF value should be above .70 or .80 in order to be a problem correlation-wise.)
-  
+
+*I found some information about VIF [here](https://archive.ph/sNKn4). It seems that the .70 or .80 thresholds are questionable.*  
+
 6. **Edit Table 7.** <br> Enter all independent variables except previous active involvement in block 1 and 'Previous active involvement' as block 2 rather than the other way around. However, when I describe what I have done, I should not employ the term ‘block,’ but rather write: “In the first model we used age , sex etc as the independent level.. then there was a second model were we included previous active involvmenet as a confounder.”
 
 7. **Edit Table 2 and 3.** :x: <br> An alternative to the current presentation of data in Tables 2 and 3 would instead be to present, for example, level of education in a way that describes that “Among those who are willing, how many have elementary school as their highest education level, high school,etc.?” The way in which it is best to present the result in this case is connected with how I intend to conduct the discussion and which result then best illustrates the arguments I wish to present.
