@@ -1,0 +1,56 @@
+---
+title: "UserAge retreat VT 2021"
+date: "2021-03-24"
+draft: false
+runningheader: "UserAge retreat VT 2021"
+subtitle: "Mina lösa anteckningar från evenemanget" # only for html output
+author: "JF"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: 
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+[Här](/210324/pdfs/ProgramUserAgeRetreat2021-03-24.pdf) är agendan för dagen. SI inledde (8.30-8.45) med att hälsa välkomna och ge en kort intro. Vid nästa programpunkt *Den empiriska forskningsmodulen* (8.45-9.25) gjorde SH [en presentation](/210324/pdfs/Bilaga1empiriskaforskningsmodulen.pdf#page=8) av vad hon under sin PostDoc-tid (som nu närmade sig sitt slut) kommit fram till, och även vi doktorander gjorde [en kort presentation](/210324/pdfs/Bilaga1empiriskaforskningsmodulen.pdf#page=1) av våra respektive doktorandarbeten. IB som inte närvarade på mötet hade endast några dagar tidigare låtit meddela att han valt att avsluta sina doktorandstudier i förtid och kommer att gå upp försvara en licentiatavhandling 17 juni år. 
+
+Den resterande delen av förmiddagen ägnades åt diskussion och planering av att under programpunkten [Projekt V](/210324/pdfs/Bilaga2projektV.pdf) utifrån olika aspekter diskutera vad vi hittills åstadkommit i UserAge och vad återstod att göra, samt våra eventuella brister och styrkor så långt. HJ och SI hade börjat skriva på [ett antologikapitel](https://lu.app.box.com/file/792214743987) som vi tog som utgångspunkt för diskussionen och som underlag för diskussionen hade också [SAPO-artikeln](/210324/pdfs/jonson2021.pdf) skickats ut, samt [sex korta populärvetenskapliga artiklar](https://vibraweb.se/aic/211/#p=36). En viktig sak som framkom och som jag inte varit helt varse var att vi mot bakgrund av den inflation av modeller för brukarmedverkan som redan existerar samt den begränsade funktion de fyller, har valt att inom ramen för forskningsprogrammet inte producera någon storslagen modell för brukarmedverkan utan snarare presentera vårt resultat i en annan form, t.ex. genom en metodplattform och en modell för kunskapstransformation. Även om jag inte känner mig så delaktigt i det beslutet så måste jag säga att jag välkomnar det eftersom jag generellt är rätt skeptiskt till alla dessa komplexa modeller som tas fram som är svåra att begripa för alla utom möjligtvis de som själva tagit fram dem.  
+
+Efter lunch presenterades, under beteckningen Projekt VI, BS [metodplattformen](https://lu.app.box.com/file/792216428158). Målgrupp för denna är först och främst andra forskare men på sikt avser vi också skapa en version som är riktad till allmänheten kom vi fram till. Här insåg jag att jag missat att skicka en ifylld mall till honom. Jag var inte ensam om detta och för att få folk at ta tag i uppgiften sattes en deadline till **14 maj**. Också under Projekt VI, presenterade OJ [modellen för kunskapstransformation](https://lu.app.box.com/file/792217469302). 
+
+Slutligen diskuterades hur långt vi har kommit och vad vi borde ha uppnått när projektperioden närmar sig slutet? Samt även att vibehöver börja planera för vad som händer därefter. En brist så långt i forskningsprogrammet är att vi i programförklaringen angett at vi avser utvärdera effekter av brukarmedverkan, men hur det ska göras och formuleras är något som inte gjorts i så stor utsträckning hittills. Men det är något som bör vara i fokus vid nästa retreat. Det fanns en oenighet kring om det var möjligt att få till ett fysiskt möte vid nästa retreat och när i tid det i så fall skulle ligga. Mer infrmation om det kommer att komma längre fram för det fattades inget konkret beslut (vad jag kan minnas) kring när nästa möte skulle ske och i vilken form.
+
+
+
+**Bakgrund till brukarmedverkan/samverkan med icke akademiska aktörer** <br>
+
+I vår diskussionsgrupp enades vi om att bakgrunden till brukarmedverkan/samverkan med icke akademiska aktörer kan spåras till tre olika rörelser:
+
+1. Empowerment/demokrati; 
+2. Kunskapsöverföring - teori/praktik - implementering - FN;
+3. Transdisciplinaritet - problemlösning
+
+
+**Kommunicerbarheten mellan representanter och de som representeras utmanande** <br>
+
+Jag påtalade att det finns paralleller till forskningscirkel i min första delstudie där vi bjudit in en rad olika aktörer som jobbade med bostäder och tillgänglighet på olka sätt. Dels finns en parallell mellan varför brukarmedverkan behövs och varför tillgänglighet är en viktig aspekt att fokusera på inom bostadssektorn. I fallet tillgänglighet påtalades att VD:n för ett bostadsföretag måste kunna förklara för styrelsen på ett språk som är tillgängligt och inte alltför vetenskapligt varför tillgänglighet är motiverat. SÅ påtalade också om vikten av at tsom ordförande på ett lätttillgängligt sätt kunna redogöra för medlemmarna i pensionärsföreningen vad brukarmedverkan är och varför det är viktigt. Vidare pratades de när det gäller tillgänglighet i bostäder om att det var viktigt att kunna referera till goda exempel/lärdomar att lyfta. Under dagens diskussion påtalade EH också vikten av att när det gäller brukarmedverkan försöka  skapa en mer generell kunskapsbasatt hämta kunskap ur och applicera på andra projekt. Det kan til exempel handla om att poängtera vilka moment i processen som är de centrala.
+
+SH tipsade i detta sammanhang också om tidskriften [Klarspråk](https://archive.fo/Q5pH0).
