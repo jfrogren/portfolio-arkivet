@@ -16,9 +16,9 @@ Anyway, here is the action list of what needs to be done related to the manuscri
 
 1. **Include nationality as an independent variable** :white_check_mark: <br> Since it according to RL is an aspect mentioned in the literature as being related to willingness to be involved in research. 
 
-2. **Clearer description of how regression follow on uni- & bivariate analyses** <br> Not sufficiently clear for the reader how and why I went from one analysis to the next.
+2. **Clearer description of how regression follow on uni- & bivariate analyses** :white_check_mark: <br> Not sufficiently clear for the reader how and why I went from one analysis to the next.
 
-3. **Dig more into the health status variable** 
+3. **Dig more into the health status variable** :white_check_mark: 
 
   + There seems to be a negative correlation between self-rated health and willingness, but what does that mean? Explain.
   + The current manuscript suggests that the result indicates a conflict with previous research, but in that case this is something that needs to be developed further. 
@@ -31,7 +31,7 @@ Anyway, here is the action list of what needs to be done related to the manuscri
 4. **Municipality of residence - no significance, no mentioning.** :white_check_mark: <br>
 I pointed out that the results indicated 10% higher awareness of the possibility to be actively involved in research among people living in large cities compared to people living in rural municipalities, even though the p-value was not sufficiently low to indicate any significant difference. However, SI asked me not to speak of any correlation in the results if it was not significant.
 
-5. **Edit Table 6.**
+5. **Edit Table 6.** :white_check_mark:
 
   + Use OR instead of p-value in the willingness table. Thus, make a series of bivariate (univariable) logistic regressions instead of Chi square tests.
   + For the descriptive bivariate analyses of *Awareness* and *Previous active involvement*, use Mann-Whitney or Wilcoxsons non-parametric tests for ordinal and nominal scale with more answer options than two (or three?). For *age* and *sex*, use Chi square.
@@ -42,7 +42,7 @@ I pointed out that the results indicated 10% higher awareness of the possibility
 
 *I found some information about VIF [here](https://archive.fo/8bIim). It seems that the .70 or .80 thresholds are questionable.*  
 
-6. **Edit Table 7.** <br> Enter all independent variables except previous active involvement in block 1 and 'Previous active involvement' as block 2 rather than the other way around. However, when I describe what I have done, I should not employ the term ‘block,’ but rather write: “In the first model we used age , sex etc as the independent level.. then there was a second model were we included previous active involvmenet as a confounder.”
+6. **Edit Table 7.** :white_check_mark: <br> Enter all independent variables except previous active involvement in block 1 and 'Previous active involvement' as block 2 rather than the other way around. However, when I describe what I have done, I should not employ the term ‘block,’ but rather write: “In the first model we used age , sex etc as the independent level.. then there was a second model were we included previous active involvmenet as a confounder.”
 
 7. **Edit Table 2 and 3.** :x: <br> An alternative to the current presentation of data in Tables 2 and 3 would instead be to present, for example, level of education in a way that describes that “Among those who are willing, how many have elementary school as their highest education level, high school,etc.?” The way in which it is best to present the result in this case is connected with how I intend to conduct the discussion and which result then best illustrates the arguments I wish to present.
 
