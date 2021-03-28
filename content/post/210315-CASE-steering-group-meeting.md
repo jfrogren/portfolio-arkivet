@@ -1,6 +1,6 @@
 ---
 title: "CASE Steering Group Meeting"
-date: 2021-03-28T04:00:34+02:00
+date: 2021-03-15T04:00:34+02:00
 draft: false
 categories: ["Administration, organisation and leadership"]
 ---
