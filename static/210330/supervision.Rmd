@@ -1,0 +1,53 @@
+---
+title: "Notes from Joakim’s supervision"
+date: "2021-03-30"
+draft: false
+categories: [""]
+runningheader: "Notes from Joakim’s supervision" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    latex_engine: xelatex
+tufte::tufte_book:
+  citation_package: natbib
+  latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+<!-- 
+* Time: 10.30-12 AM 
+* Zoom link: <https://lu-se.zoom.us/j/65572600320>
+
+# 1. Study II
+RL, OJ and SI provide JF with their feedback on the latest manuscript.
+
+# 2. Study III
+JF gives an update on study III.
+
+# 3. Other questions
+# 4. Next supervision
+--> 
+
+# 1. Study II
+
+# 2. Study III
+
+# 3. Other questions
+
+# 4. Next supervision
