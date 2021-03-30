@@ -46,7 +46,90 @@ JF gives an update on study III.
 
 # 1. Study II
 
+## RL
+* Need to argue why age categories are not included.
+* Paper is basic... need to get it more holistic, answer question: "So what?" 
+* Distinction between willingness actual participation is only 15% - why is that? Maybe the study doesn't give an answer to that, that is why I have to go into the discussion of future research.
+
+## SI:
+* SI: I can see that you have struggled to make the method and result section better, but what we need to discuss is to arrive at a discussion that deepens the value of the results. 
+* RL: I think that in the result section and the discussion section. Need to explain independent variables in the results 
+* SL: Yes, need to add the independent varables, in the metod and explain confounders etc. there as well.
+* RL: Frailty has been added in a good way...
+* RL: Telegraphic style in the intro... stop when it is beginning to get interesting, need to dig a bit deeper. 
+* RL: I don't think you need to add 
+* Suggestion: Add retired vs. not retired... variable... 
+* RL: Even if there are no differences between the age group... we could add a research question that is more descreptive...eed to add then desriptive research question comparing age groups..RL: It adds ...
+
+What should that question be then?
+
+**How are the attitudes and awareness related to age (and employment status)?** --- add to test significant to age groups..
+
+In order to speak of fourth age is need measures on ADL -- though it could really be brought into the disccussion!
+
+When I have met with Steven, I should then send her the manuscropt and ask for feedback...
+
+
+### Occupation
+If there are enough people working 
+
+
+
+* Willingness
+
+Write explain about the gap between the willingness and the actuall... this is connected to not going introductory course... and then connect to their willingness to participate in user board and not collect data....
+
+
+There can be reasons for not having the introduction course that one considers oneself educated enough.... this can be analysed n a furtehr study...
+
+(What would be the role of older persons in USerAge research -- are they still the subjects or as partners? - Roderinck asked. SI said that we do both.)
+
+
+* What are the key messegaes... need to be put down..in the conclusion.
+* For the introduction, give the reader som more information about these papers on what methodologies they used... in this way you motivate more why this larger study in Sweden is needed. Muchmore basic knowledge is needed.. this is a necessary first step...
+
+* Before the research question you lay out to the reader what you are going to presented...
+* Retahet the self-related economy... self-related socio-..something
+
+* Use synonyms to "captures"... it is mentioned very often...OJ suggest "elicit"...  
+
+* Need to check if americans or brittish English
+
+* Respondents... and potential respondents rather than participants 
+
+* occupy, detain, etc.
+
+* Next version: expect to be close to Finnish... next supervison does not have to be about 
+
+* PLOS one - I will send it to them the 23 - they get a week - I have the check with SS and send the manuscriot statistician Susanne also ask to acknoledge her...
+
+
+Submission during the week May 17- 22
+
+
+Next version need to contain proper references..
+
+
+21 May,  9-10.30
+
 # 2. Study III
+
+
+Better overview of the attitudes out there.  
+6 April = deadline for me 
+
+* How many do we need to reach? I can ask SS for this...
+* Write 5-8 associations instead of 3-8 associations
+
+* How can I use the results from study II in constructing the questionanire for study III?
+
+* Socio-demographiv difference between PRO and SPF - what iplecations does that have for the design of this study...
+
+
+If they don't become ... level of engagement... 
+* ther are a lot of literature o criticsm on citizen science... 
+* focus is it appropriate in this particular.... 
+
 
 # 3. Other questions
 
