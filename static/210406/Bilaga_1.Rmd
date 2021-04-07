@@ -1,0 +1,530 @@
+---
+title: "Ansökan om etikprövning för studie III"
+date: "2021-03-16"
+draft: false
+runningheader: "Ansökan om etikprövning för studie III"
+subtitle: "Bilaga 1: Beskrivning av forskningsprojektet" # only for html output
+author: "JF, OJ, MG"
+output:
+  word_document
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+
+## 1. Titel på forskningsprojektet (samma som angavs under 1.1)
+
+En enkätstudie om äldre personers syn på att delta i massexperimentet 'Bostadsförsöket'
+
+
+## 2. Typ av forskning
+
+2.1. **Gör en egen bedömning och ange på vilka punkter nedan som forskningen omfattas av 3-4 §§ etikprövningslagen. Observera att myndigheten kan komma att göra en annan bedömning.**
+
+* [x] 3§1 Forskningen kommer att samla in känsliga personuppgifter.  
+* [ ] 3§2 Forskningen kommer att samla in personuppgifter om lagöverträdelser. 
+* [ ] 4§1 Forskningen innebär ett fysiskt ingrepp på en forskningsperson.
+* [x] 4§2 Forskningen utförs enligt en metod som syftar till att påverka forskningspersonen fysiskt eller psykiskt, eller så innebär forskningen en uppenbar risk att skada forskningspersonen.
+* [ ] 4§3 Forskningen avser studier på biologiskt material som har tagits från en levande människa och kan härledas tillbaka till denna människa.
+* [ ] 4§4 Forskningen avser ett fysiskt ingrepp på en avliden människa.
+* [ ] 4§5 Forskningen avser studier på biologiskt material som tagits från en avliden människa och kan härledas tillbaka till denna människa.
+* [ ] Forskningen faller inte under etikprövningslagens tillämpningsområde.
+
+<!--
+## Forskningsperson: De levande människor som forskningen avser.
+
+
+## Personuppgifter: All slags information som direkt eller indirekt kan hänföras till en fysisk person som är i livet. 
+
+
+## Känsliga personuppgifter: Känsliga personuppgifter är uppgifter som avslöjar etniskt ursprung, politiska åsikter, religiös eller filosofisk övertygelse, medlemskap i fackförening, hälsa, en persons sexualliv eller sexuella läggning, genetiska uppgifter och biometriska uppgifter som entydigt identifierar en person. 
+
+
+## Personuppgifter om lagöverträdelser: Personuppgifter om lagöverträdelser som innefattar brott, domar i brottmål, straffprocessuella tvångsmedel eller administrativa frihetsberövanden. 
+-->
+
+
+2.2. [Om 3 § 1] **Gör en egen bedömning och ange vilken typ av känsliga personuppgifter som kommer att behandlas i projektet. Observera att myndigheten kan komma att göra en annan bedömning.**
+
+* [x] etniskt ursprung*
+* [x] politiska åsikter
+* [ ] religiös eller filosofisk övertygelse
+* [ ] medlemskap i fackförening
+* [x] hälsa
+* [ ] en persons sexualliv eller sexuella läggning
+* [ ] genetiska uppgifter
+* [ ] biometriska uppgifter som entydigt identifierar en person.
+
+
+<!--
+## Personuppgifter: All slags information som direkt eller indirekt kan hänföras till en fysisk person som är i livet. 
+
+
+## Personuppgifter som har pseudonymiserats och som skulle kunna tillskrivas en fysisk person genom att kompletterande uppgifter används är uppgifter om en identifierbar fysisk person. Forskningspersoner vars uppgifter är identifierbara genom en kodlista exempelvis ska ges information om att deras uppgifter är pseudonymiserade. För uppgifter som inte på något vis kan tillskrivas en specifik individ ska förhållande och förutsättningar som omöjliggör identifiering beskrivas. Ord som anonymiserat, avidentifierat, kodat eller liknade ska undvikas.
+
+
+## Känsliga personuppgifter: Känsliga personuppgifter är uppgifter som avslöjar etniskt ursprung, politiska åsikter, religiös eller filosofisk övertygelse, medlemskap i fackförening, hälsa, en persons sexualliv eller sexuella läggning, genetiska uppgifter och biometriska uppgifter som entydigt identifierar en person. Enligt definition i EU:s Dataskyddsförordning. 
+
+
+## * I EU:s Dataskyddsförordning står det att uppgifter som avslöjar någons etniska ursprung eller ras är känsliga personuppgifter. I svenska lagar använder vi inte längre ordet ras. I dataskyddsförordningen används ordet, men där står att det inte innebär att EU godtar teorier om att det skulle finnas skilda människoraser. 
+
+
+## OBS! Om inga känsliga personuppgifter kommer behandlas i projektet så behöver frågan inte besvaras. 
+-->
+
+## 3. Syfte och frågeställningar
+
+3.1. **Skriv en populärvetenskaplig sammanfattning av forskningsprojektet (max 300 ord).**
+<!--## Beskriv projektet på ett sammanfattande vis. Tänk på att texten ska kunna förstås av personer som inte har vetenskaplig kompetens. Undvik därför terminologi som kräver specialkunskaper.-->
+
+<!-- Här måste jag först förklara vad ett massexperiment är -->
+[Bostadsförsöket](https://archive.fo/lA30y) är ForskarFredags massexperiment 2021 och arrangeras av föreningen Vetenskap & Allmänhet i samarbete med forskare vid Centre for Ageing and Supportive Environments (CASE) vid Lunds universitet. Projektet syftar till att engagera skolungdomar, lärare och seniorer till att vara medforskare genom att mäta tillgängligheten i den egna bostaden med hjälp av tumstock (eller måttband) och en app på mobilen (eller surfplattan).
+
+Årets massexperiment motiveras av att det i dag saknas giltiga och tillförlitliga data om tillgängligheten i det svenska bostadsbeståndet på nationell nivå. De försök till inventeringar som gjorts på kommunal nivå är sinsemellan olika och därför kan data inte jämföras. De nationella register som finns (Lägenhetsregistret, Fastighetsregistret) har inga detaljerade uppgifter om förekomsten av miljöhinder. Det finns ett flertal stora longitudinella forskningsprojekt om åldrandet, i Sverige och internationellt, men de databaser som skapats innehåller inga detaljerade data om bostäders tillgänglighet.
+
+Tillgänglighet är bara en – men viktig – pusselbit i det komplexa samspelet mellan den åldrande individen och miljön, men utgör dock en första och basal förutsättning för att människor som åldras med funktionsnedsättning ska kunna bo kvar i ”vanliga” bostäder. Massexperiment har en stor potential inte minst eftersom metoden möjliggör datainsamling av en storleksordning som professionella forskare har svårt att själva uppbåda. Bostadsförsöket utgör således en unik möjlighet att under en kort tidsperiod erhålla en stor mängd data om miljöhinder i det svenska bostadsbeståndet. 
+
+Utöver en unik möjlighet till storskalig datainsamling erbjuder projektet även andra potentiella effekter såsom ökade kunskaper och medvetenhet om vikten av tillgänliga bostäder för god hälsa i den åldrande befolkningen. Flera studier handlar om hur skolelever och lärare engageras i massexperiment, men få studier uppmärksammar specifikt äldre personer massexperiment. Ökade kunskaper och medvetenhet om vikten av tillgänliga bostäder för god hälsa kan uppnås av de som väljer att aktivt delta i projektet men också i samhället i stort, genom uppmärksamhet i massmedia och medverkan av samarbetspartners såsom pensionärsorganisationerna. Kunskap om äldre personers syn på att delta i ett massexperiment är i princip okänd och en utvärdering kan användas för en utökad förståelse för vad som krävs för att främja äldre personers medverkan i forskning om åldrande och hälsa mer generellt. 
+
+
+3.2. **Vad är det vetenskapliga syftet med projektet?** 
+<!--## Beskriv det övergripande syftet med projektet. Redogör för vad det är för forskningsproblem som projektet ska behandla och vilka avgränsningar som gjorts. 
+
+    Max 2000 tecken -->
+
+Det övergripande syftet är att undersöka äldre personers (i Sverige) syn på att vara medforskare i ett nationellt så kallat ‘massexperiment’ om tillgänglighet i bostäder. Avsikten med studien är ytterst att främja äldre personers medverkan i forskning om åldrande och hälsa.
+
+3.3. **Vilka är de vetenskapliga frågeställningarna?**
+<!--## Ange klart och tydligt den eller de vetenskapliga frågeställningarna i projektet. 
+
+    Max 2000 tecken-->
+    
+* Hur intressant och engagerande ger äldre personer i (södra) Sverige uttryck för att det är att medverka i ett massexperiment om tillgänglighet i bostäder? 
+* Vilken kapacitet tillskriver äldre personer sig själva och uppvisar när det gäller att utföra de uppgifter som ingår i ett massexperiment? 
+* Vad anser äldre personer att engagemang i ett massexperiment kan ge dem i form av t.ex. utökad kunskap om forskning, tillgänglighet i bostäder och digital teknik?
+
+## 4. Metod
+
+4.1. **Redogör för metod inkl. proceduren, tekniken eller behandlingen.**
+<!--## Det ska framgå hur projektet planeras att genomföras. Beskriv insamlade datas karaktär och ange hur datas tillförlitlighet ska säkerställas. 
+    ## Om enkäter och intervjuer ingår ska tillvägagångssätt, frågornas innehåll och hur slutsatser dras beskriva. Bifoga enkäter och skattningsskalor. 
+    ## För medicinsk forskning ska anges t.ex. typer av ingrepp, mätmetoder, antal besök, tidsåtgång, doser, och administrationssätt för eventuella läkemedel. 
+    ## Om projektet är ett samarbete med utlandet ska det tydligt framgå vilken del av forskningen som utförs i Sverige och vilken del av forskningen som utförs utanför Sverige. Det är endast forskning som ska utföras i Sverige som Etikprövningsmyndigheten kan pröva. 
+
+    Max 4500 tecken -->
+
+Den aktuella studien har en kvantitativ före-efter design med data insamlad via en enkäter med grupper av personer som är 65 år eller äldre vilka erbjuds att delta i Bostadsförsöket 2021 via pensionärsföreningar eller intresseföreningar för personer med funktionsnedsättningar. 
+
+Deltagarna kommer att rekryteras via 3-8 lokalföreningar från pensionärsföreningar och intresseföreningar för personer med funktionsnedsättningar (N = 1200). Samtliga medlemmar som har registrerad emailadress hos föreningen kommer bli tillfrågade om att delta. Uppskattningsvis är det 50% av medlemmarna. Medlemmar som är under 65 år, och medlemmar som bor på vård-och omsorgsboende kommer exkluderas.
+
+(Som ett sätt att erhålla data från varierade bostäder kommer lokalföreningar i både tätort och landsbygd att tillfrågas.)
+
+I nära anslutning till Bostadsförsöket 2021s start kommer möjliga deltagare få information om studien och tillfrågas om deltagande via e-mail för informerat samtycke enligt bilaga X. 
+
+Deltagare har eventuellt (förhoppningsvis) sett reklam/media/nyhetsbrev för Bostadsförsöket 2021 när de får ut enkät nummer 1. Det mejl de kommer att få i samband med den första enkäten inkluderar därtill kortfattad information om:
+
+* medborgarforskning
+* massexperimentet bostadsförsöket
+* att studien sker i samverkan med V&A
+
+E-mailet sänds via föreningsrepresentanter, och således kommer forskargruppen inte få tillgång till möjliga deltagares kontaktuppgifter. I e-mailet finns också länken till webenkät nr 1 och deltagarna kan gå direkt in och besvara enkäten via denna länk. För insamling och lagring av data kommer vi att använda ett digitalt system som är godkänt av Lunds universitet. (Sunet Survey, Survey Monkey, Google forms eller liknande – kolla upp vad vi får använda). Respondenterna tilldelas unika inloggningsuppgifter.i
+
+Interventionen de får handlar om:
+
+* (Eventuellt) användande av appen
+* Videofilmer där man lär sig
+* Analysverktyget, att få en översikt över den egna bostaden
+
+I nära anslutning till Bostadsförsöket 2021s avslut kommer samtliga som besvarade enkät nummer 1 få en uppföljningsenkät (nr 2). Vid denna tidpunkt har respondenterna haft chansen att delta i Bostadsförsöket, eventuellt har hen deltagit, förhoppningsvis sett mediainslag om BF2021 samt erhållit info från egna föreningen. Om de har deltagit har de a) genomfört hela bedömningen b) ev sparat på en emailsammanställning av egna bostadens miljöhinder c) varit inne och använt analysverktyget på hemsidan
+
+
+Två påminnelseemail kommer skickas ut för varje enkät inom 1 respektive 2 veckor. Samtliga uppgifter i ursprungsmailet kommer finnas med i påminnelseemailen.
+
+Data kommer att analyseras med vedertagna metoder samt med hänsyn till typ av data (kvalitativ respektive kvantitativ, normalfördelning, etc.) inklusive skalnivå för att mäta skillander före och efter deltagande i Bostadsförsöket 2021.Materialet kommer att arkiveras under 10 år. 
+
+4.2. **Redogör för på vilket sätt metoden skiljer sig från klinisk rutin eller den ordinarie behandlingen.**
+<!-- ## Ange vad som avviker eller tillkommer med anledning av forskningsprojektet. Vid patientnära forskning ska en beskrivning ges över de åtgärder som föranleds av forskningen vilka avviker från klinisk rutin, vårdprogram eller liknande gängse procedurer. 
+     
+     Max 2000 tecken -->
+
+
+4.3. **Redogör för tidigare erfarenheter (egna och/eller andras) av den använda proceduren, tekniken eller behandlingen.**
+<!-- ## Redogör för vilken erfarenhet och kompetens som medverkande forskare har av att använda den procedur, teknik eller behandling om man planerar att använda i projektet. Redogör även för vilken erfarenhet som finns generellt eller globalt.  
+
+     Max 2000 tecken -->
+
+Genomförande av enkätstudier är vanligt förekommande inom medicinsk- och hälsovetenskaplig forskning och anses inte medföra några egentliga risker för de som medverkar. Projektet drivs av seniora forskare (SI, MG) med lång erfarenhet av forskning som bygger på frågeformulär och självskattningsinstrument som resulterat i ett stort antal originalartiklar publicerade i välrenommerade internationella tidskrifter.
+
+## 5. Tidsplan 
+
+5.1. **Förväntat startdatum för projektet:**
+<!--## Ange om möjligt, beräknad start av projektet. Notera att startdatum måste ligga efter datum för myndighetens slutgiltiga beslut. Myndigheten kan inte pröva forskning som påbörjats.
+
+    Max 100 tecken -->
+
+1 juni?
+
+5.2. **Förväntat slutdatum för projektet:**
+<!-- ## Ange om möjligt, beräknat slut av projektet.
+
+     Max 100 tecken -->
+
+31 oktober?
+
+5.3. **Tidsplan för de olika delar som ingår i projektet:**
+<!-- ## Redogör för projektets tidsschema, hur de olika delarna förhåller sig till varandra, vid behov kan ett förklarande flödesschema bifogas.
+
+     Max 1000 tecken -->
+     
+### 5.3.1. Rekrytering av deltagare
+
+* Rekrytering av föreningar kommer ske under senvåren 2021.
+* Rekrytering av deltagare kommer att ske så snart ett godkännande från Centrala etikprövningsmyndigheten finns, men senast i mitten av augusti 2021. 
+
+### 5.3.2. Förenkäten 
+
+Förenkäten kommer att skickas ut till de föreningar som anmält sitt intresse för att delta under andra halvan av augusti 2021. Medlemmarna får enkäten sista veckan i augusti (eller i samma mail som BF2021-inbjudan??). 
+
+### 5.3.3. Efterenkäten 
+
+Efterenkäten kommer att skickas ut till de föreningar som anmält sitt intresse för att delta under första halvan av oktober 2021. Medlemmarna får uppföljningsenkäten inom några dygn efter att Bostadsförsöket 2021 stängt.
+
+
+### 5.3.4. Analys 
+
+Analys av materialet kommer att påbörjas under andra halvan av oktober 2021.
+
+## 6. Datainsamling
+
+6.1. **Redogör för datainsamling och datas karaktär.**
+<!-- ## Redogör för hur datainsamlingen ska gå till. Beskriv den data som ska samlas in och hur den ska samlas in.  
+
+     Max 4500 tecken -->
+
+* Ett visst antal potentiella respondenter kontaktas genom e-post via 3 föreningar vilka agerar som mellanhand (kanske 1 200 personer).
+* Möjlighet att enkelt meddela att man inte vill vara med eller få påminnelse.
+* Två påminnelser
+* Före-enkäten riktar sig både till potentiella respondenter som inte avser och de som avser att delta i bostadsförsöket och i efter-enkät (kanske N=300).
+* De som inte avser att inte delta i bostadsförsöket får färre frågor (kanske n=270).
+* De som avser att delta i bostadsförsöket får frågor och behöver uppge sin e-post adress för att vi ska ha möjlighet att nå dem för en efter-enkät (kanske n=30).
+* Vi måste ha en funktion som gör att vi kan koppla ihop första och andra intervjun (Hur?)
+
+
+Enkäten består av frågor gällande följande områden (se bilaga X för mer detaljer):
+
+* Hälsa
+* Teknikvana/teknikattityd
+* Ekonomi
+* Etnicitet
+* Ålder
+* Kön
+* Etc.
+
+6.2. **Redogör för det statistiska underlaget för studiepopulationen/ undersökningsmaterialets storlek.**
+<!-- ## Redogör för de beräkningar och överväganden som gjorts för att komma fram till hur många deltagare som behövs för att uppnå tillräcklig statistisk styrka. Redogörelsen av hur man kommit fram till lämpligt urval ska beskriva projektets möjligheter att besvara frågeställningarna. 
+
+     Max 2000 tecken -->
+
+“icke-representativt bekvämlighetsurval”
+
+
+6.3. **Hur kommer undersökningsprocedurerna att dokumenteras?**
+<!-- ## Redogör för hur undersökningarna och eventuella ingrepp dokumenteras. Ange om ljud- och videoinspelningar kommer användas.  
+
+     Max 2000 tecken -->
+
+* Ingen journalföring förekommer eftersom projektet inte har någon koppling till hälso- och sjukvårdsinsatser.
+* Vad ska stå mer här?
+
+
+6.4. **Hur kommer insamlat data att hanteras och förvaras?**
+<!-- ## Redogör för hur data kommer att hanteras efter insamlingen. Om data kommer att pseudonymiseras (”kodas”) ska kodningsförfarandet beskrivas. Det ska framgå var kodlistorna/kodnycklarna kommer att förvaras samt vem/vilka som kommer ha tillgång till dem. Det ska även framgå hur länge data kommer att sparas samt om det kommer att avidentifieras (genom att kodnyckel förstörs) eller förstöras i sin helhet. Forskningsdata ska arkiveras och gallras enligt forskningshuvudmannens regler för bevarande och gallring av handlingar i sin forskningsverksamhet.  
+
+     Max 2000 tecken -->
+     
+De uppgifter som deltagarna lämnar i enkäten kommer att hanteras genom LUSEC, Lunds universitets egen plattform för att lagra, hantera och analysera data på ett högsäkert sätt och i enlighet med nya GDPR. I LUSEC har data stark kryptering och är endast åtkomliga efter tvåfaktorautentisering och selektiv behörighetskontroll. [Person X] kommer på delegation av projektansvarig (professor Susanne Iwarsson) att administrera vilka forskare som ges behörighet att komma åt data i LUSEC.
+
+## 7. Etiska överväganden
+
+7.1. **Vilka risker kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?**
+<!-- ## Risker kan vara av olika karaktär. Det kan exempelvis vara fysisk eller psykisk skada, smärta, obehag, integritetsintrång på kort eller lång sikt. Ange vilka risker det kan finnas för de forskningspersoner som deltar i detta forskningsprojekt. 
+
+     Max 4500 tecken -->
+
+Studien bedöms inte innebära någon risk för skada eller obehag för deltagarna. Enkäterna beräknas ta 10-15 minuter att besvara, vilket anses vara en rimlig tid som inte kommer att belasta deltagarna nämnvärt. Deltagarna kommer att informeras om att de när som helst kan avbryta eller välja att inte svara på specifika frågor utan att uppge någon anledning.
+
+* Risk att systemet med att koppla ihop respondenternas enkät 1 med deras enkät 2 misslyckas, eller är inte det någon risk??
+
+* Risk att respondenter blir allvarligt sjuka eller  avlider mellan enkät 1 och enkät 2? Hur hanterar vi sjukdom eller om människor dör därimellan?
+
+* Riska att utvärderingen också en faktor som ger en effekt men samtidigt är nog det det bästa vi kan göra?
+
+7.2. **Vilken nytta kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?**
+<!-- ## Ange vilken hjälp de forskningspersoner som deltar i detta forskningsprojekt kan få som ett resultat av forskningsprojektet. 
+
+     Max 2000 tecken -->
+
+Förväntade learning outcomes skulle kunna vara:
+
+Resultaten kan bidra till utvecklingen av hälsofrämjande och förebyggande insatser på individ-, grupp- och samhällsnivå. Studien kan ligga till grund för utbildning av yrkesgrupper inom hälso- och sjukvård och socialtjänst, inklusive utveckling av insatser i hemmet för att stödja aktivt och hälsosamt åldrande.
+
+Ett resultat är också att man gör något gemensamt att göra det.. en outcome kan också vara att man har kul och känner en gemenskap…
+
+7.3. **Gör en värdering av förhållandet mellan riskerna och nyttan av projektet.**
+<!-- ## Forskning får enligt etikprövningslagen bara godkännas om riskerna som den kan medföra för forskningspersonernas hälsa, säkerhet och personliga integritet uppvägs av dess vetenskapliga värde. 
+
+     Max 2000 tecken -->
+
+De potentiella riskerna med projektet övervägs av den potentiella nyttan med projektet på följande sätt...
+
+7.4. **Beskriv hur projektet har utformats för att minimera riskerna för forskningspersonerna.**
+<!-- ## Forskning får enligt etikprövningslagen bara godkännas om det förväntade resultatet inte kan nås på ett annat sätt som innebär mindre risker för forskningspersoners hälsa, säkerhet och personliga integritet.
+     ## Behandling av personuppgifter som avses i 3 § får godkännas bara om den är nödvändig för att forskningen ska kunna utföras.
+     ## Observera att om en behandling ska prövas för första gången på människa måste detta tydligt framgå och relevanta säkerhetsrutiner tydligt beskrivas.      ## Ange vilka risker som ett deltagande i forskningsprojektet kan innebära. Finns det risker t.ex. med att ingå i en kontrollgrupp? 
+
+     Max 2000 tecken -->
+
+
+Potentiella deltagare kommer att erhålla muntlig information om studien och ge sitt informerade samtycke i samband med datainsamlingen genom att besvara enkäten. Det finns även möjlighet att kontakta forskarna för ytterligare information inför informerat samtycke. Information lämnas om att allt deltagande i studien är frivilligt och att det finns möjlighet att när som helst avbryta sitt deltagande. 
+
+Deltagarna kommer att informeras om att de när som helst kan avbryta eller välja att inte svara på specifika frågor utan att uppge någon anledning. 
+
+7.5. **Identifiera och precisera om eventuella etiska problem (nackdelar/fördelar) kan uppstå i ett vidare perspektiv genom forskningsprojektet.**
+<!-- ## Redovisa t.ex. om vissa grupper (andra än de forskningspersoner som ingår i forskningsprojektet) kan komma att utpekas respektive få hjälp som ett resultat av projektet. Frågan avser även de indirekta riskerna eller den indirekta nyttan. T.ex. genetisk påverkan på kommande generationer eller om resultaten på annat sätt kan tänkas skada vissa grupper. 
+
+     Max 2000 tecken -->
+* Intressekonflikter?
+
+
+
+## 8. Forskningspersoner
+
+8.1. **Hur görs urvalet av forskningspersoner?**
+<!-- ## Forskningsperson: De levande människor som forskningen avser.  
+     ## Beskriv vilka forskningspersoner som kommer inkluderas i projektet. Redogör för de överväganden som gjorts vid valet av forskningspersoner. Om vissa grupper utesluts från deltagande i projektet ska en motivering till uteslutandet framgå. 
+     ## Redogör även för hur forskaren kommer i kontakt med eller får kännedom om lämpliga forskningspersoner. 
+
+     Max 2000 tecken -->      
+
+* “icke-representativt bekvämlighetsurval”
+
+* Samtliga medlemmar som har registrerad emailadress hos föreningen kommer bli tillfrågade om att delta. Uppskattningsvis är det 50% av medlemmarna. Medlemmar som är under 65 år, och medlemmar som bor på vård-och omsorgsboende kommer exkluderas.
+
+
+8.2. **Hur många forskningspersoner kommer att inkluderas i forskningsprojektet?**
+<!-- ## Ange hur många forskningspersoner som totalt kommer inkluderas i projektet samt i förekommande fall hur många som kommer inkluderas i olika delprojekt. 
+
+     Max 500 tecken -->
+
+Cirka 1200 kommer att tillfrågas, förhoppning att vi får 300 svar? 
+
+
+8.3. **Vilka urvalskriterier kommer att användas för inklusion?**
+<!-- ## Ange vilka kriterier som måste uppfyllas för att en forskningsperson ska inkluderas i projektet. 
+
+     Max 4500 tecken -->
+     
+     * Har epost-adress
+     * Är 65 år eller äldre
+     
+
+8.4. **Vilka urvalskriterier kommer att användas för exklusion?**
+<!-- ## Ange vilka kriterier som måste uppfyllas för att en forskningsperson ska exkluderas ur projektet. 
+
+     Max 4500 tecken -->
+     
+     * Saknar epostadress
+     * Yngre än 65
+     * Vård- och omsorgsboende
+     * De som inte svarat efter två påminnelse bör inte få någon efterenkät, alltså måste vi få tillgång till vilka som svarat.
+
+8.5. **Ange relationen mellan forskare och forskningspersonerna.**
+<!-- ## Ange forskarens roll i relation till forskningspersonens roll. Det kan t.ex. vara som behandlare (läkare, psykolog, fysioterapeut etc.) och patient/klient, som lärare och student eller arbetsgivare och anställd. All form av relation som kan tänkas medföra risk för påverkan ska beskrivas. Enligt etikprövningslagen ska information och samtycke ägnas särskild uppmärksamhet om forskningspersonen står i ett beroendeförhållande till huvudmannen, forskaren eller antas ha svårigheter att ta tillvara sin rätt. 
+
+     Max 500 tecken -->
+     
+* Frivilligt deltagande
+* Bör vår speciella relation till SÅ och eventuellt andra omnämnas här?
+
+
+8.6. **Vilket försäkringsskydd finns för de forskningspersoner som deltar i forskningsprojektet?**
+<!-- ## Forskningshuvudmannen har ansvar för att kontrollera att det finns försäkring som täcker eventuella skador som kan uppkomma i samband med forskningen. Ange vilka försäkringar som forskningspersonen kommer att omfattas av samt vilket skydd försäkringarna ger forskningspersonen. 
+
+     Max 500 tecken -->
+
+Ej aktuellt?
+
+8.7. **Redogör för den beredskap som finns för att hantera oväntade bifynd eller händelser under forskningsprocessen som kan äventyra forskningspersonernas säkerhet.**
+<!-- ## Beskriv vilken tillgång forskningsprojektet har till utrustning, personal och kompetens för att hantera eventuellt oväntade komplikationer eller bifynd. Beskriv även vilken planering som finns för att hantera eventuella oväntade komplikationer eller bifynd. 
+
+     Max 4500 tecken -->
+
+* Om framkommer att miljöhinder är mycket stora, bör någon information ges?
+
+8.8 **Kommer ekonomisk ersättning eller andra förmåner betalas ut till forskningspersonerna?**
+
+* [ ] Ja
+* [x] Nej
+
+<!-- ## Forskningspersonerna kan utöver ersättning för resor, förlorad arbetsinkomst eller andra utgifter erhålla viss ersättning för obehag och besvär. Ersättningen ska vara skälig. Om barn eller ungdomar under 18 år deltar i forskningsprojektet får sådan ersättning inte vara stor och den bör inte erbjudas i samband med rekryteringen. Vid klinisk läkemedelsprövning med barn eller ungdomar under 18 år får inga incitament eller ekonomiska förmåner ges, undantaget kostnadsersättningar. -->
+
+8.8.1. [Om Ja 8.8] **Vilken ekonomisk ersättning kommer betalas ut och när?**
+<!-- Max 500 tecken -->
+
+
+Ingen ekonomisk ersättning, dock eventuellt trisslott eller mugg
+
+## 9. Information och samtycke
+
+9.1. **Kommer forskningspersonerna att informeras om forskningsprojektet och tillfrågas om de vill vara med eller inte?**
+
+* [x] Ja
+* [ ] Nej
+
+<!-- ## Grundregeln, enligt etikprövningslagen, är att forskning bara utförs om forskningspersonen har informerats och samtyckt till deltagande. Information till forskningspersonerna kan ges både muntligt och skriftligt. Observera att för kliniska läkemedelsprövningar gäller reglerna i 7 kap. läkemedelslagen om information och samtycke istället för etikprövningslagen. -->
+
+9.1.1. [Om Ja 9.1] **Hur, när (i vilket skede) och av vem informeras och tillfrågas forskningspersonerna?**
+<!-- ## Beskriv proceduren för hur information ges och samtycke inhämtas. Vem som frågar, när detta sker och hur samtycket dokumenteras. På vilket sätt säkerställs att forskningspersonen ges betänketid och möjlighet att ställa frågor.
+     ## Utförlig redovisning är särskilt viktig när det ingår barn eller personer med nedsatt beslutskompetens i forskningsprojektet. 
+
+     Max 4500 tecken -->
+
+Potentiella deltagare kommer att erhålla muntlig information om studien och ge sitt informerade samtycke i samband med datainsamlingen genom att besvara enkäten. Det finns även möjlighet att kontakta forskarna för ytterligare information inför informerat samtycke. Information lämnas om att allt deltagande i studien är frivilligt och att det finns möjlighet att när som helst avbryta sitt deltagande. 
+
+Deltagarna kommer att informeras om att de när som helst kan avbryta eller välja att inte svara på specifika frågor utan att uppge någon anledning. 
+
+
+9.1.2 [Om Nej 9.1] **Motivera varför forskningspersonerna inte ska informeras och tillfrågas.**
+<!-- ## Lämna en utförlig redogörelse för de avvägningar som har gjorts och de skäl som ligger till grund för bedömningen att forskningspersonerna inte ska informeras och tillfrågas. Observera att forskning utan information och samtycke endast är möjlig i undantagsfall och i den forskning som avses i 3 § etikprövningslagen, eller 20–22 §§ i etikprövningslagen. Även vid forskning som avser studier på biologiskt material som tidigare har tagits från en levande människa ska Etikprövningsmyndigheten enligt 15 § bestämma vilka krav som skall gälla i fråga om information och samtycke för användning av materialet.
+
+     Max 4500 tecken -->
+
+9.2. **Kommer barn under 18 år att ingå i forskningsprojektet?**
+
+* [ ] Ja
+* [x] Nej
+
+<!-- ## Barn mellan 15 och 18 år, som inser vad forskningen innebär för hans eller hennes del, ska informeras om och lämna eget samtycke till forskningen. I andra fall ska barnets samtliga vårdnadshavare ge sin tillåtelse (samtycka) till att barnet får delta i forskningsprojektet. 
+     ## För barn under 15 år måste barnets samtliga vårdnadshavare ge sin tillåtelse (samtycka) till att barnet får delta i forskningsprojektet. 
+     ## Forskningen får, trots vårdnadshavarnas tillåtelse (samtycke) inte utföras om barnet motsätter sig att forskningen utförs.
+     ## Forskningspersonsinformation till barn behöver vara åldersanpassade utifrån förslagsvis följande indelning: barn 6–11 år, ungdomar 12–14 år samt ungdomar 15–17 år. -->
+     
+9.2.1. [Om Ja 9.2] **Ange barnens ålder.**
+<!-- Max 500 tecken -->
+
+9.3. **Kommer forskningspersoner, vars mening på grund av sjukdom, psykisk störning, försvagat hälsotillstånd eller något annat liknande förhållande inte kan inhämtas, att ingå i forskningsprojektet?**
+
+* [ ] Ja
+* [x] Nej
+
+<!-- ## Ange om forskningsprojektet kommer involvera personer som själva inte kan samtycka till sitt eget deltagande p.g.a. sjukdom, psykisk störning, försvagat hälsotillstånd eller liknande tillstånd. -->
+
+9.3.1. [Om Ja 9.3] **Motivera varför denna grupp av forskningspersoner ska ingå i projektet.**
+<!-- ## Forskning utan samtycke på denna grupp av forskningspersoner får endast utföras om forskningen förväntas ge en kunskap som inte är möjlig att få genom forskning med samtycke. 
+     ## Forskningen ska dessutom förväntas leda till direkt nytta för forskningspersonen. Alternativt ska forskningen bidra till ett resultat som kan vara till nytta för forskningspersonen eller annan som lider av samma eller liknande sjukdom eller tillstånd samt innebära en obetydlig risk för skada eller obehag för forskningspersonen. Forskningspersonen ska så långt som möjligt informeras personligen om forskningen.
+     ## Samråd ska ske med närmaste anhörig. Samråd ska också ske med god man eller förvaltare om frågan ingår i uppdraget som god man eller förvaltare. Forskningen får inte utföras om forskningspersonen i någon form ger uttryck för att inte vilja delta eller om någon av dem som samråd har skett med motsätter sig införandet.
+
+     Max 2000 tecken -->
+
+9.3.2. [Om Ja 9.3] **Beskriv hur samråd med närmaste anhörig, god man eller förvaltare kommer att ske.**
+<!-- ## Vid forskning på forskningspersoner, vars mening inte går att inhämta, ska samråd ske med närmaste anhörig som ska få möjlighet att motsätta sig deltagandet. Samråd ska ske med god man eller förvaltare om frågan ingår i uppdraget som god man eller förvaltare.
+
+     Max 2000 tecken -->
+
+## 10. Registeruppgifter
+
+10.1. **Kommer projektet att begära ut uppgifter från ett befintligt register?**
+
+* [ ] Ja
+* [x] Nej
+
+<!-- ## Här avses alla typer av register som innehåller personuppgifter eller uppgifter som tidigare varit personuppgifter men senare avidentifierats. -->
+
+10.1.1. [Om Ja 9.1] **Ur vilket eller vilka register kommer uppgifterna att begäras?**
+<!-- ## Namnge registret eller registren som uppgifterna kommer att begäras ifrån. Ange även huvudman för respektive register.
+
+     Max 2000 tecken -->
+
+10.1.2. [Om Ja 9.1] **Vilka uppgifter kommer att begäras ut och varför?**
+<!-- ## Beskriv vilken typ av uppgifter som kommer att begäras ut och varför de behövs för att besvara projektets frågeställningar. 
+     ## En komplett variabellista bör bifogas ansökan.   
+
+     Max 4500 tecken -->
+
+## 11. Resultat från djurförsök
+
+11.1. **Finns det relevanta resultat från djurförsök?**
+
+* [ ] Ja
+* [ ] Nej
+* [x] Ej aktuellt
+
+<!-- ## Frågan avser framförallt klinisk behandlingsforskning. Om djurförsök inte har utförts, ange då anledningen till detta. -->
+
+11.1.1. [Om Ja 11.1] **Redogör för resultaten av djurförsöken**
+<!-- ## Redogör övergripande för de djurförsök som utförts och vilka resultat de gav. Framförallt ska de resultat som är av relevans för detta forskningsprojekt redogöras för. 
+
+     Max 4500 tecken -->
+
+## 12. Redovisning av resultat 
+
+12.1. **Hur garanteras tillgång till data för forskningshuvudmannen och medverkande forskare?**
+<!-- ## Normalt ska den som ansvarar för genomförandet av forskningen ha full tillgång till data. Om flera forskare samverkar i uppdragsforskning bör den forskare som är huvudansvarig för genomförandet i förväg komma överens med övriga forskare om tillgång till data.
+
+     Max 2000 tecken -->
+     
+De uppgifter som deltagarna lämnar i enkäten kommer att hanteras genom LUSEC, Lunds universitets egen plattform för att lagra, hantera och analysera data på ett högsäkert sätt och i enlighet med nya GDPR. I LUSEC har data stark kryptering och är endast åtkomliga efter tvåfaktorautentisering och selektiv behörighetskontroll. [Person X] kommer på delegation av projektansvarig (professor Susanne Iwarsson) att administrera vilka forskare som ges behörighet att komma åt data i LUSEC.
+
+
+12.2. **Vem eller vilka ansvarar för databearbetning och skriftlig redovisning av resultaten?**
+<!-- ## Ange vem eller vilka som kommer bearbeta och analysera forskningsdata och vem eller vilka som kommer utforma den skriftliga redovisningen. Normalt ska den som ansvarar för genomförandet av forskningen ha full tillgång till data. 
+
+     Max 2000 tecken -->
+
+Projektansvarig  (professor Susanne Iwarsson)?
+
+12.3. **Hur och när planeras resultaten att offentliggöras?**
+<!-- ## Ange i vilken form resultaten planeras att offentliggöras. Exempelvis vetenskaplig publicering med peer review, open acess, intern rapport. Ange om möjligt en tidsplan för offentliggörandet.
+
+     Max 2000 tecken -->
+
+Resultaten kommer att ingå i en doktorsavhandling och spridas till andra forskare vid vetenskapliga konferenser och publicering i välrenommerade internationella vetenskapliga tidskrifter. Projektet är finansierat av X och deras krav på open access kommer att efterlevas. Vetenskaplig publicering förväntas ske under 2022. Resultaten kommer även att kommuniceras populärvetenskapligt.
+
+12.4. **På vilket sätt garanteras forskningspersonernas rätt till integritet när materialet offentliggörs?**
+<!-- ## Redogör för hur data presenteras när den offentliggörs och hur forskningspersonernas integritet skyddas vid offentliggörandet.
+
+     Max 4500 tecken -->
+
+* Anonymiserade data
+
+
+## 13. Ekonomiska förhållanden
+
+13.1. **Redovisa eventuella ekonomiska överenskommelser med bidragsgivare eller andra finansiärer (namn och belopp).**
+<!-- ## Redovisa alla överenskommelser om finansiering som har slutits med den eller de som ska genomföra forskningen. Ange vilka belopp som kommer att erhållas för forskningsprojektet och vad ersättningen ska täcka. Ange även eventuella belopp per forskningsperson.
+
+     Max 4500 tecken -->
+
+* Finns sådana?
+
+
+13.2. **Redovisa forskningshuvudmannens, huvudansvarig forskares och medverkande forskares egna ekonomiska intressen.**
+<!-- ## Redovisa egna ekonomiska intressen i form av t.ex. aktieinnehav, anställning, konsultuppdrag i finansierade företag, eget företag som kan få direkt eller indirekt vinst av forskningen. 
+
+     Max 4500 tecken -->
+
+* Inga ekonomiska intressen?
+* Bör Housing Enabler som konceptuell modell/produkt omnämnas här?

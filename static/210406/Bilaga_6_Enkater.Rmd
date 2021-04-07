@@ -1,0 +1,414 @@
+---
+title: "Ansökan om etikprövning för studie III"
+date: "2021-04-06"
+draft: false
+runningheader: "Ansökan om etikprövning för studie III"
+subtitle: "Bilaga 6: Enkäter och info till deltagare i projektet" # only for html output
+author: "JF, OJ, MG"
+output:
+  word_document
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+# Förenkäten
+
+*I denna enkät finns frågor om din syn på att delta i massexperimentet Bostadsförsöket samt frågor om din kunskap om eller erfarenhet av forskning, tillgänglighet, osv*.
+
+*Inga svar är rätt eller fel utan vi är intresserade av din uppfattning kring dessa frågor.*
+
+## Förkunskaper om Bostadsförsöket 2021
+
+1. Vilket av följande påståenden stämmer bäst överens med vad du vet i dag om Bostadsförsöket:
+  
+   + Det enda jag vet om Bostadsförsöket är det som jag läste precis i mejlet.
+   + Jag kände till Bostadsförsöket sedan tidigare eftersom… (flera svar möjliga)
+     - Vi har diskuterat det i min förening. 
+     - Jag har läst/hört om det i media. 
+     - Jag har själv varit inne på Bostadsförsökets hemsida.
+     - Annat.. (fritext) 
+
+## Intresse att delta i Bostadsförsöket 
+
+2. Har du för avsikt att delta i Bostadsförsöket? 
+  
+   + Ja
+   + Nej
+   + Vet inte/ Har inte bestämt mig
+
+*Om "Ja", hoppa till fråga 4.*
+
+3. Vad är anledningen/anledningarna till att du tvekar eller inte avser delta
+  
+   + Jag har svårt att se vad det skulle ge mig eller vad min insats skulle bidra med.
+   + Jag vet inte om jag har tid att delta.
+   + Jag vet inte om jag har kapacitet att klara av det.
+   + Annat, nämligen (fritext)
+  
+## Tidigare erfarenhet av att delta i forskning 
+
+4. Har du tidigare erfarenheter av att delta i ett forskningsprojekt? (Du kan bocka för flera alternativ)
+  
+   + Nej.
+   + Ja, jag har besvarat minst en enkät.
+   + Ja, jag har deltagit i minst en telefonintervju.
+   + Ja, jag har besökt ett forskningscentrum för att göra tester (t.ex. ta blodprov på ett sjukhus).
+   + Ja, jag har varit med och samlat in data (t.ex. rapporterat in fåglar vid årlig inventering).
+   + Ja, jag har bedrivit forskning i mitt tidigare arbete.
+   + Ja, jag har skrivit och publicerat forskning i vetenskapliga tidskrifter.
+   + Annat, fritext 
+
+5. Hur intresserad är du av forskning? (Inte alls intresserad - Mycket intresserad)
+
+6. Vad ser du för möjliga motiv till att som privatperson/samhällsmedborgare delta som medforskare i ett massexperiment som Bostadsförsöket?
+  
+   + Jag ser följande motiv... [Fritext]
+   + Vet inte 
+  
+## Uppfattning av tillgänglighet i din bostad
+
+7. Upplever/Uppfattar du att tillgängligheten i din bostad är bättre eller sämre än genomsnittsbostaden? 
+  
+   a) Bättre än genomsnittet
+   b) Som genomsnittet
+   c) Sämre än genomsnittet
+   d) Vet ej 
+
+*Om d) hoppa till fråga 9.*  
+
+8. Vad anser du det är som gör tillgängligheten i din bostad bättre/samma/sämre än genomsnittet? (fritextsvar)
+
+## Synen på möjligheten till eventuella tillgänglighetsåtgärder
+
+9. Upplever du att du skulle kunna göra någon åtgärd för att nå bättre tillgängligheten i ditt boende? 
+
+   + Ja 
+   + Nej
+   + Vet inte 
+
+*Om "Ja" hoppa till fråga 11.* <br>
+*Om "Vet inte" hoppa till fråga 15.*
+  
+10. Beror det på att du uppfattar ditt boendet som tillräckligt tillgängligt, eller på att du inte anser det möjligt/realistiskt att förbättra de tillgänglighetsbrister som bostaden eventuellt har?
+
+    a) Bostaden är tillräckligt tillgänglig som den är.
+    b) Jag anser det inte möjligt/realistiskt att åtgärda de tillgänglighetsbrister som bostaden har.
+
+*Om a) hoppa till fråga 15.*
+*Om b) hoppa till fråga 13.*
+
+
+11. Vilken/vilka typ av åtgärd/er skulle du kunna vidta? (fritextsvar)
+12. Finns det någon ytterligare åtgärd som skulle förbättra tillgängheten i din bostad men som du inte ser som realistisk eller möjlig att genomföra?
+
+    + Ja
+    + Nej
+    + Vet inte
+      
+*Om "Nej" hoppa till fråga 17.*
+*Om "Vet inte" hoppa till fråga 17.*
+          
+13. Vilken/vilka typ av åtgärd/er handlar det om? [Fritext]
+14. Vad är det som gör att du anser att det inte är möjligt/ realistiskt att åtgärda denna/dessa tillgänglighetsbrist/er? [Flera alternativ möjliga]
+
+    + Vet inte vem jag ska kontakta för att åtgärda det.
+    + Får eller tror mig inte få gehör för mina åtgärdsförslag av fastighetsägare eller bostadsrättsförening.
+    + Har inte ekonomiska resurser för att åtgärda det.
+    + Jag är för känslomässigt bunden till bostadens nuvarande utformning för att åtgärda det.
+    + Annat skäl, nämligen... (fritext)
+
+15. Anser du att din bostad är lämplig att bo i för en person som använder rollator inomhus?
+
+    + Ja
+    + Nej 
+    + Vet inte
+
+*Om "Ja" hoppa till fråga 17.*
+*Om "Vet inte" hoppa till fråga 17.*
+
+
+16. Varför anser du inte det? (Fritext) 
+
+*Eftersom Bostadsförsöket innebär ett användande av surfplatta eller smartphone ansluten till internet  så är vi intresserade av din vana och attityd till denna sortens  digital teknik*.
+
+## Tillgång till internet och vana av surfplatta och/eller mobil
+
+17. Har du tillgång till internet i hemmet? (Ja; Nej)
+18. Hur ofta under de senaste tre månaderna har du använt en smartphone eller surfplatta? (Dagligen; Flera gånger i veckan: Någon gång i veckan; Någon gång i månaden; Någon enstaka gång; Aldrig; Vet ej) 
+19. Hur kunnig anser du dig vara när det gäller användning av en smartphone eller surfplatta? (Inte alls kunnig, inte särskilt kunnig, ganska kunnig eller mycket kunnig)
+
+## Demografi
+
+20. Vilket år är du född?:
+21. Vad identifierar du dig som? 
+
+    + Man
+    + Kvinna
+    + Icke-binär
+    + Vill ej uppge
+
+22. Vilken är din högsta avslutade utbildning? 
+
+    + Grundskola (folkskola/flickskola/realskola)
+    + Gymnasium (folkhögskola)
+    + Eftergymnasial utbildning, mindre än tre år (yrkeshögskola/kvalificerad yrkesutbildning) 
+    + Eftergymnasial utbildning, tre år eller mer/
+    + Vill ej uppge
+
+## Information om nuvarande bostad
+
+23. Vilken typ av bostad har du?
+
+    + (Villa/Radhus/Lägenhet/Servicelägenhet/Särskilt boende/Fritidsboende/Gård/Övrigt/Vill ej uppge)
+
+24. Vilket är ditt postnummer? 
+
+    + [Fritext]
+    + Vill ej uppge
+
+25. Bor du i… 
+
+    + Hyresrätt
+    + Bostadsrätt
+    + Annan boendeform
+    + Vill ej uppge  
+
+26. Hur många personer är ni i ditt hushåll?: 
+
+    + 1
+    + 2
+    + 3
+    + 4
+    + Annat, antal, [Fritext]
+
+27. Hur länge har du bott i din nuvarande bostad? [Fyll i siffra [...] år] 
+
+*Eftersom enkäten berör forskning om … handlar frågorna XX-XX om ditt hälsotillstånd. Dina svar på hälsofrågorna kommer att ge forskarna ökade möjligheter att göra gruppjämförelser*.
+
+## Frågor relaterade till hälsa och funktionella begränsningar
+
+28. I allmänhet skulle du säga att din hälsa är (markera ett av alternativen): (Dålig/Någorlunda/God/Mycket god/Utmärkt)
+
+29. Använder någon i hushållet regelbundet rollator eller rullstol?
+
+    + Nej
+    + Ja, både inom- och utomhus
+    + Ja, endast inomhus
+    + Ja, endast utomhus  
+
+30. Erhåller någon i hushållet hemtjänst från kommunen eller annan motsvarande aktör (Ja/Nej/Vet inte)
+
+## Etnicitet/ Kulturell bakgrund
+
+31. Hur länge har du bott i Sverige? 
+
+    a) Sedan jag föddes
+    b) Sedan jag var barn el. ungdom
+    c) Sedan jag var 18 år eller äldre
+    d) Vill ej uppge
+
+*Om a) hoppa till fråga 33.*
+
+32. I vilket land är du född: (Finland/Irak/Iran/f.d. Jugoslavien/Polen/Tyskland/Chile/Grekland/Annat..ange vilket/ Vill ej uppge/ Vet ej)
+
+## Ekonomi
+
+33. Hur stor är hushållet inkomst varje månad efter skatt? (inkluderar alla medlemmar i hushållet samt både lön, pension, privat pensionsförsäkring, bidrag mm) 
+
+    + 12 500 eller under, 
+    + 12 501-17 000 
+    + 17 001-21 500 
+    + 21 501-25 000 
+    + 25 501 och uppåt
+    + Vill ej ange
+  
+## Kunskap om/ erfarenhet av tillgänglighet i bostäder
+
+*Eftersom ett av syftena med Bostadsförsöket är att öka kunskapen och medvetenheten om tillgänglighet i bostadsmiljöer kommer här några frågor om din kunskap och dina erfarenheter av tillgänglighet i bostäder. Det kommer också ett antal frågor om din uppfattning av tillgängligheten i din bostad*.
+
+34. Jag har i mitt tidigare yrke arbetat med frågor som rör design och byggande av bostäder (Ja; Nej; Vet inte)
+35. Jag har under min fritid engagerat mig i frågor som rör planering, utformning och/eller byggande av bostäder. (Obs: gäller inte renovering av egna bostaden) (Ja; Nej; Vet inte) 
+
+---
+
+# Efterenkäten
+
+## Deltagande i Bostadsförsöket
+
+1. När det gäller ditt eventuella deltagande i massexperimentet Bostadsförsöket 2021? Vilket påstående stämmer bäst in på dig?
+  
+   a) Jag laddade ner appen, men genomförde inga mätningar.
+   b) Jag påbörjade mätningarna med appen men slutförde inte alla frågor i appen.
+   c) Jag genomförde samtliga mätningar med appen.
+   d) Jag deltog inte.
+
+*Om a) eller b), hoppa till fråga 3*.
+*Om c) hoppa till fråga 4.*
+*Om d), gå till fråga 2, därefter "Tack för din medverkan!"*.
+
+2. Vad var orsaken till att du inte deltog? (flera svarsalternativ möjliga)
+
+   + Bristande intresse.
+   + Jag hade inte tid.
+   + Jag ansåg uppgiften alltför komplicerad.
+   + Annat, nämligen (fritext)  
+  
+3. Vad var orsaken till att du inte slutförde mätningarna? (Flera svarsalternativ möjliga)
+
+   + Bristande intresse.
+   + Jag hade inte tid att göra samtliga mätningarna.
+   + Jag klarade inte av att göra samtliga mätningar för det var för komplicerat.
+   + Annat, nämligen (fritext)
+ 
+4. Genomförde du mätningarna av bostaden själv eller tillsammans med någon/några? 
+
+   + Jag genomförde dem själv.
+   + Jag genomförde dem tillsammans med någon/några.
+  
+5. Genomförde du mätningarna av bostaden vid ett eller flera tillfällen? 
+
+   + Vid ett enda tillfälle.
+   + Vid flera tillfällen.
+
+6. På vilken apparat/enhet installerade och använde du appen?
+   
+   + Iphone
+   + Ipad
+   + Android-telefon
+   + Android-surfplatta
+   + Annat
+   + Vet ej
+   
+7. Ungefär hur lång tid lade du på att genomföra mätningarna?..[Fritext].
+
+8. Hur lätt eller svårt upplevde du det att genomföra mätningarna?
+
+   + Mycket svårt
+   + Ganska svårt
+   + Varken lätt eller svårt
+   + Ganska lätt
+   + Mycket lätt  
+  
+9. Tog du del av någon information om det praktiska genomförandet av Bostadsförsöket inför innan du började att mäta? Markera vilka påståenden stämmer bäst in på dig? [OBS, du kan välja flera påståenden.]
+
+   + Jag läste de instruktioner som angavs i själva appen innan jag började mäta.
+   + Jag tog del av den skriftliga manual som fanns på Bostadsförsökets hemsida innan jag började mäta. 
+   + Jag tittade på de videoinstruktioner som fanns på Bostadsförsökets hemsida innan jag började mäta.
+   + Jag fick information om det praktiska genomförandet av Bostadsförsöket på annat sätt innan jag började mäta, nämligen...(Fritext)
+   + Inget av ovanstående stämmer in på mig.
+
+10. Som medforskare i Bostadsförsöket 2021 kunde man ta del av resultaten av sina mätningar på ett antal sätt. Markera de påstående som stämmer för dig. [OBS, du kan välja flera påståenden.]
+
+   + Efter mätningen skrev jag själv eller med stöd av en annan person in min mejladress och fick resultatet skickat till mig via mail. 
+   + Efter mätningen gick jag själv eller med stöd av en annan person in på Bostadsförsökets hemsida där data från alla mätningar sammanställts.
+   + Efter mätningen gick jag själv eller med stöd av en annan person in på Bostadsförsökets hemsida och provade att filtrera fram data för min eller andra kommuner.
+   + Jag tog del av resultatet på annat sätt, nämligen...[fritext]
+   + Inget av ovanstående stämmer in på mig.
+  
+## Uppfattning av tillgänglighet i din bostad
+11. Upplever/Uppfattar du att tillgängligheten i din bostad är bättre eller sämre än genomsnittsbostaden? 
+
+    a) Bättre än genomsnittet
+    b) Som genomsnittet
+    c) Sämre än genomsnittet
+    d) Vet ej 
+
+*Om d) hoppa till fråga 13.*  
+
+
+12. Vad anser du det är som gör tillgängligheten i din bostad bättre/samma/sämre än genomsnittet? (fritextsvar)
+
+## Synen på möjligheten till eventuella tillgänglighetsåtgärder
+
+13. Upplever du att du skulle kunna göra någon åtgärd för att nå bättre tillgängligheten i ditt boende? 
+
+    + Ja 
+    + Nej
+    + Vet inte 
+
+*Om "Ja" hoppa till fråga 15.*
+*Om "Vet inte" hoppa till fråga 19.*
+  
+14. Beror det på att du uppfattar ditt boendet som tillräckligt tillgängligt, eller på att du inte anser det möjligt/realistiskt att förbättra de tillgänglighetsbrister som bostaden eventuellt har?
+
+    a) Bostaden är tillräckligt tillgänglig som den är.
+    b) Jag anser det inte möjligt/realistiskt att åtgärda de tillgänglighetsbrister som bostaden har.
+
+*Om a) hoppa till fråga 19.*
+*Om b) hoppa till fråga 17.*
+
+15. Vilken/vilka typ av åtgärd/er skulle du kunna vidta? (fritextsvar)
+16. Finns det någon ytterligare åtgärd som skulle förbättra tillgängheten i din bostad men som du inte ser som realistisk eller möjlig att genomföra?
+
+    + Ja
+    + Nej
+    + Vet inte
+      
+*Om "Nej" hoppa till fråga 19.*
+*Om "Vet inte" hoppa till fråga 19.*
+          
+17. Vilken/vilka typ av åtgärd/er handlar det om? [Fritext]
+18. Vad är det som gör att du anser att det inte är möjligt/ realistiskt att åtgärda denna/dessa tillgänglighetsbrist/er? [Flera alternativ möjliga]
+
+    + Vet inte vem jag ska kontakta för att åtgärda det.
+    + Får eller tror mig inte få gehör för mina åtgärdsförslag av fastighetsägare eller bostadsrättsförening.
+    + Har inte ekonomiska resurser för att åtgärda det.
+    + Jag är för känslomässigt bunden till bostadens nuvarande utformning för att åtgärda det.
+    + Annat skäl, nämligen... (fritext)
+
+19. Anser du att din bostad är lämplig att bo i för en person som använder rollator inomhus?
+
+    + Ja
+    + Nej 
+    + Vet inte
+  
+*Om "Ja" hoppa till fråga 21.*
+*Om "Vet inte" hoppa till fråga 21.*
+
+20. Varför anser du inte det... (Fritext) 
+
+## Om att delta i bostadsförsöket
+
+21. Hur skulle du kortfattat beskriva din upplevelse av att vara medforskare i Bostadsförsöket? Nämn gärna vad du eventuellt lärde dig och vad som du tycker var bra respektive mindre bra. [Fritext]
+
+## Underlättande och kommunikation
+22. Skulle du ha velat haft mer dialog med forskarna i Bostadsförsöket under genomförandet? (Ja/Nej/Vet inte)
+
+*Om "Nej" hoppa till fråga 24.*
+*Om "Vet inte" hoppa till fråga 24.*
+ 
+23. Vilken typ av frågor eller synpunkter hade du då i så fall velat framföra till/diskutera med forskarna? 
+
+    + Jag hade velat framföra/diskutera... (fritext)  
+    + Vet inte
+  
+### Motivation och engagemang
+
+24. Hur intresserad är du av forskning? (Inte alls intresserad - Mycket intresserad)
+
+25. Vad ser du för möjliga motiv till att som privatperson/samhällsmedborgare delta som medforskare i ett massexperiment som Bostadsförsöket?
+
+    + Jag ser följande motiv... [Fritext]
+    + Vet inte 
+  
+26. Är du motiverad att delta i liknande forskningsaktiviteter framöver? (j/n/vet inte)
+
+### Övrigt
+
+27. Har du någon ytterligare kommentar till de som utformat Bostadsförsöket och/eller denna enkät?
+
+    + Ja. (Fritext)
+    + Nej.

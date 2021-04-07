@@ -1,0 +1,131 @@
+---
+title: "Ansökan om etikprövning för studie III"
+date: "2021-04-06"
+draft: false
+runningheader: "Ansökan om etikprövning för studie III"
+subtitle: "Bilaga 3: Forskningsplan avsedd för fackmän" # only for html output
+author: "JF, OJ, MG"
+output:
+  word_document
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+<!--
+Den sammanfattande beskrivningen av forskningsprojektet ska förstås av fackmän. Den kan lämpligen utformas enligt följande: -->
+
+# Senior citizens' motives and capacities for, and learnings from, being co-researchers 
+## - Lessons from a Swedish mass experiment about housing accessibility
+
+## Introduction 
+<!--En redogörelse för det övergripande syftet med det föreslagna forskningsprojektet samt specifika mål (primära och sekundära frågeställningar). -->
+
+Citizen science is gaining momentum as an approach in many scientific fields. However, it is scarcely used in ageing research. Since 2009 in Sweden, Public & Science (NGO) has coordinated so called *mass-experiments* in which thousands of school pupils have collected data that would have been impossible for researchers to collect on their own. The mass-experiment of 2021, the Housing Experiment, is aimed not only at school pupils but also at senior citizens. This is the first time that this mass experiment is aimed specifically at senior citizens. The project is such that, the co-researchers who are involved, based on a scientifically proven method, measure the accessibility of their homes using a ruler or measuring tape and a downloadable app on a mobile device. In connection with this mass experiment, a pre- and post-survey will be sent out to a selection of older people who intend to participate in the Housing Experimentl. These surveys constitutes the source of this evaluative study. 
+
+### Overarching aim
+The overarching aim of the study is to investigate senior citizens' (self-reflected) motives and capacities for, and learnings from, being co-researchers in a Swedish mass experiment about housing accessibility. 
+
+### Research questions
+The following research questions will guide the analyses:
+
+#### Interest and commitment to participate in a mass experiment on accessibility in housing
+* How interesting and engaging do senior citizens in (southern) Sweden express that it is to participate in a mass experiment on accessibility in housing?
+* How does interest and commitment relate to demographics and health? 
+
+#### Capacity to participate in a mass experiment on accessibility in housing
+* What capacity do senior citizens in (southern) Sweden attribute to themselves and demonstrate when it comes to performing the tasks included in a mass experiment?
+* How does this capacity relate to demographics and health?
+
+#### Lessons learned and insights from participating in a mass experiment on housing accessibility
+* What possible lessons and insights about research and accessibility can participation as a co-researcher in a mass experiment on accessibility in housing give senior citizens in (southern) Sweden?
+* How do these possible lessons and insights relate to demographics and health? 
+
+
+## Theoretical overview: 
+<!--Ge ett sammandrag av egna och andras forskning och tidigare resultat inom forskningsområdet. Översikten ska tydliggöra det aktuella projektets relevans. Nyckelreferenser ska anges. -->
+To invite citizens outside of the research community to actively participate in research is not a new phenomenon. However, the forms and the driving forces for this type of efforts have widened over time. Early on, such active involvement in research mainly meant supporting individual scientists in their gathering of data. Here, non-trained scientists' collection of specimens and observations in support of the early ecologists John Ray and Carl Linnaeus during the 17th and 18th centuries can be cited as illustrative examples [@miller-rushing2012].
+
+However, from the second half of the 20th century onwards, the meaning of public involvement in research widened and pursued with partly other purposes. 
+
+Brett et al. [-@brett2014] have identified three types of effects of citizens' participation in  research: for the researchers,  for the individual participant and for the category of citizens affected. Similarly, Shirk et al. [-@shirk2012] have suggested that the involvement of citizens in research can have outcomes in three categories: those for science (research findings, publications), those for individual participants (skills, knowledge, identity) and those for social-ecological systems (action, legislation, relationships).
+
+Mass experiments are a method (or perhaps rather a collection of methods) that has its roots in i non-trained scientists' collection of specimens and observations in support of the early ecologists mentioned above. However, recently the focus has also been on the possible influence that the experience of participating exerts on the participant in this type of research; There has been talk of participating in mass experiments as a potential path to a so-called *science citizenship* [@kasperowski2016; @bonney2016; @strasser2019], i.e. a kind of civic school where the participants are educated in what science is and how research is conducted. There have also been hopes that the mass experiments will encourage a long-term commitment among participants to the societal challenges addressed in the experiments (e.g. climate change, nutrition and environmental issues, etc.) by promoting a perception of the challenges as concrete and quantifiable phenomena, which one, as a citizen, can contribute to a solution to by participating in research [@kasperowski2016].
+
+However, at the same time, there is a lack of research on the extent to which mass experiments really inspire this understanding of research and this commitment to the issues that are dealt with there [@kasperowski2016].
+
+In the case of senior citizens, there are studies that indicate that many older people are interested in participating in research in a more active way than just as a study object [@iwarsson2019]. However, a recent study (Frögren et al., forthcoming) indicates that a number of factors affect older people's willingness to participate, including age and level of education. However, the same study indicates that participation by participating in and collecting data does not attract as much as, for example, participating by being part of a user council or participating in formulating research questions. 
+
+However, it is important to remember that the mass experiment method has not been used specifically for older people to any great extent and that older people's experience of being involved in collecting data in this way is limited.
+
+The Housing Experiment and the adjacent survey study thus offers a unique opportunity to not only collect a large amount of accessibility data but also examine what motivates older people to participate in research in this way, what capacity they have to participate and what possible lessons their participation results in. 
+
+
+## Project set up/description:
+<!--Gör en sammanfattning av projektets/motsvarande uppläggning. Urval av forskningspersoner, procedurer, metoder med mera ska tydligt redovisas. Det ska framgå hur metoder, urval och procedurer kan ge svar på de specifika frågeställningarna. Om flera delprojekt avses anges sekvens för genomförande och på vilket sätt ett efterföljande delprojekts uppläggning kan bero av resultaten av ett föregående. -->
+
+### Study design:
+
+The current study has a quantitative before-after design with data collected via surveys with groups of people who are 65 years or older who are offered to participate in the Housing Experiment 2021 via selected pensioners' associations or interest groups for people with disabilities. 
+
+
+### Recruitment:
+
+The participants will be recruited via 5-8 local branches from pensioners' associations and interest groups for people with disabilities. These associations have been selected on the basis that there is an established contact with them as they have in one way or another previously participated in research at Lund University. Contact with the board of these associations will be made via e-mail/telephone by JF in late spring 2021. The associations whose board is positive about the Housing Experiment will be asked to send an email to their members with information about the Housing Experiment.
+
+All members who have a registered email address with the association will be asked to participate. It is estimated that 50% of the members have e-mail. We estimate that 1500-2000 people will be interviewed and based on similar studies (Ryan et al. 2016, Frögren et al., forthcoming), the response rate is estimated at approximately 30%. Members who are under the age of 65, and members who live in care and nursing homes will be excluded. 
+
+### Surveys:
+
+Two web surveys (pre- and post-survey) have been designed by the research group (Appendix 6), based on existing research literature and the purpose of the study. The survey may be adjusted slightly (in terms of language and comprehensibility) as the survey will first be tested on 2-5 people from the CASE user council before the start.
+
+### Data collection:
+
+In close connection with the start of Bostadsförsöket 2021, potential participants will receive information about the study and be asked to participate via e-mail for informed consent in accordance with Appendix 5.
+The email they will receive in connection with the first survey also includes brief information about: 
+
+* The research project The Housing Experiment
+* The adjacent survey
+
+The e-mail is sent via association representatives, and thus the research group will not have access to potential participants' contact information. The email also contains the link to web survey no. 1 and participants can go directly in and answer the survey via this link. For data collection and storage, we will use a digital system that is approved by Lund University. (Sunet Survey, Survey Monkey, Google forms or similar - check out what we can use). The respondents are assigned unique login details. 
+
+The evaluation is about:
+
+* (Possibly) use of the app
+* (Possibly) use of the instructions (text, video) that have been available on The Housing Experiment's official website 
+
+In close connection with the end of Bostadsförsöket 2021, everyone who answered survey number 1 will receive a follow-up survey (no. 2). At this time, the respondents have had the chance to participate in the Housing Experiment, possibly they have participated, hopefully seen media features about BF2021 and received information from their own association. If they have participated, they have a) carried out the entire assessment b) possibly saved on an email compilation of their own home's environmental obstacles c) been in and used the analysis tool on the website.
+
+Two reminder emails will be sent out for each survey within 1 and 2 weeks, respectively. All information in the original email will be included in the reminder email. 
+
+
+### Data management:
+
+The information provided by the participants in the survey will be handled through LUSEC, Lund University's own platform for storing, managing and analyzing data in a highly secure manner and in accordance with the new GDPR. In LUSEC, data has strong encryption and is only accessible after two-factor authentication and selective authentication. [Person X] will, on a delegation from the project manager (Professor Susanne Iwarsson), administer which researchers are authorized to access data in LUSEC. 
+
+
+### Analysis:
+
+Data will be analyzed using accepted methods and managed through LUSEC. 
+
+## Relevance of project: 
+<!-- Ge en kortfattad redogörelse för projektets betydelse för forskningsområdet. -->
+
+Mass experiments enable a large data collection, but there are also uncertainty factors linked to what this kind of participation can give those who participate, and what their ability to participate in research in this way looks like.  
+
+The study is relevant because it is important that older people participate in research as a way to ensure that the questions asked, and methods used, to investigate different phenomena are rooted in questions that older people think are important, and are carried out on ways that are inclusive while not using unnecessary resources. It is thus about contributing knowledge that aims to design research studies so that resources are used as efficiently as possible and to develop research methods that provide conditions for those who participate to do as good a job as possible, and that the participants themselves should feel that they contribute in a meaningful way and at the same time also learn something along the way.  
+
+A democracy is never complete, but presupposes active citizens who are willing to contribute in various ways to developing society in a better direction. From this point of view, the question of increased accessibility is also a question of raising the population's awareness of what accessibility is and what it can mean for active and healthy ageing. 
+
+## References
