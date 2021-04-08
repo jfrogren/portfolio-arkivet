@@ -1,0 +1,59 @@
+---
+title: "Research group meeting"
+date: "2021-04-08"
+draft: false
+categories: [""]
+runningheader: "Research group meeting" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+header-includes:
+   - \usepackage{coffee4}
+
+---
+
+
+
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+\cofeAm{0.6}{0.9}{45}{-5.5cm}{-9.5cm}
+\cofeCm{0.6}{0.5}{12}{-4cm}{-4cm}
+\cofeDm{0.1}{0.3}{96}{2.5cm}{-5.5cm}
+
+
+**Zoom link**: <https://lu-se.zoom.us/j/68548230420>
+
+## Information about a new research group.
+
+## Invitation to suggest actions based on the RQ20 (see attached invitation). 
+Internal deadline: Apr 13. The invitation refers to the final report of the RQ20 evaluation, available on [this link](https://portal.research.lu.se/portal/files/95724604/210324_RQ20_Lund_Universitys_Research_Quality_Evaluation_2020.pdf).
+
+## Information about strategic work on the department level.
+
+## Information about migration of web pages and server.
+
+## Other issues.
+ 
+ 
+
+
+
