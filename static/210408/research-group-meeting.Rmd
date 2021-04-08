@@ -5,7 +5,7 @@ draft: false
 categories: [""]
 runningheader: "Research group meeting" 
 subtitle: ""
-author: "Joakim Frögren"
+author: "JF"
 output:
   tufte::tufte_html: default
   tufte::tufte_handout:
@@ -39,21 +39,37 @@ options(htmltools.dir.version = FALSE)
 \cofeCm{0.6}{0.5}{12}{-4cm}{-4cm}
 \cofeDm{0.1}{0.3}{96}{2.5cm}{-5.5cm}
 
+## Information about a new research group
 
-**Zoom link**: <https://lu-se.zoom.us/j/68548230420>
+SS announced that he is now officially supported to start his own research group called *Applied Gerontology*, and that the starting date is 1 July 2021. MK, KG, YB (and maybe someone more I missed out) will be part of the group. SI explained that this is an idea that jhas been discussed for some time. The focus is on various applied research supporting that people can live independent lives. The connection with experimental health sciences is the focus of the research of MoreLab. KG's postdoc is in experimental health sciences.
 
-## Information about a new research group.
+SI then introduced Jannike (JJ), who are working with NA on some data management issues and who participated in the research-group meeting for the first time. 
 
-## Invitation to suggest actions based on the RQ20 (see attached invitation). 
+
+## Invitation to suggest actions based on the RQ20 (see attached invitation) 
+
 Internal deadline: Apr 13. The invitation refers to the final report of the RQ20 evaluation, available on [this link](https://portal.research.lu.se/portal/files/95724604/210324_RQ20_Lund_Universitys_Research_Quality_Evaluation_2020.pdf).
 
-## Information about strategic work on the department level.
+SI gave the background on the RQ20 report, which is a document of more than 800 pages sent to us yesterday. She said that it is a very short time span to give feedback on already by Wednesday next week. SI recommended to read the section under faculty of medicine and the ten points listed. That section is quite short. ALso to read the parts on the faculties involved in CASE. Also to look into the transversal panel there is some interesting point. So, to summarize, selected reading is required, but SI was surprised that not time were given to the task.
 
-## Information about migration of web pages and server.
+## Information about strategic work on the department level
 
-## Other issues.
- 
- 
+A discussion on the fact that we only have a temporary 'prefekt' at the department and the work that is being done to find a suitable and willing person to take on that role.
 
+## Information about migration of web pages and server
 
+DL explained that all administration data has been moved th the Microsoft server. It consists of one folder per research group (SI +AMF + JL) + a folder for SWEAH. He explained that there were some problems in the transfer, especially with the SWEAH folder with previously deleted files coming up again. But it is about to be solved.N real technical difference except that security is better now. Only about six persons have access to the folders, wheareas almost anyone in the research group could access the folders before.
 
+The (H:) folder now exist in the new system, so you can store your files there as well. Initially it was suggested that it should be taken away but that has changed. Now we are recommended to store are files there rather than in LU Box or elsewhere^[Unless the files contain very sensitive data in which case LUSEC should be used.]
+
+PO explained that  for the four webpages they have looked at the structures of the webpages and looked at the content. Most ofthe work is completed but CASE webpage in English still requires some work. The main issues have been to work with web accesibility. Language-wise we have been a bit challenging. In the calender Swedish and English is mixed.
+
+SI emphasized the fact that a webpage is never finished. She encouraged us all to go into the webpages and provide feedback to PO.
+
+## Other issues
+
+LU Box might shut down in the future, SI said. (H:) safer than LU Box.
+
+SE encouraged people to join the physical activity group to do some runnning (and other sports).
+
+SI encouraged people to come up with ideas of social activities that we could have once the covid restrictions are not there and we can meet physically again.
