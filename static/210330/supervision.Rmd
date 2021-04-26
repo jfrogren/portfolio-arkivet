@@ -7,7 +7,6 @@ runningheader: "Notes from Joakim’s supervision"
 subtitle: ""
 author: "Joakim Frögren"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout:
     latex_engine: xelatex
 tufte::tufte_book:
@@ -30,107 +29,61 @@ knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 
-<!-- 
-* Time: 10.30-12 AM 
-* Zoom link: <https://lu-se.zoom.us/j/65572600320>
-
-# 1. Study II
-RL, OJ and SI provide JF with their feedback on the latest manuscript.
-
-# 2. Study III
-JF gives an update on study III.
-
-# 3. Other questions
-# 4. Next supervision
---> 
-
 # 1. Study II
 
-## RL
-* Need to argue why age categories are not included.
-* Paper is basic... need to get it more holistic, answer question: "So what?" 
-* Distinction between willingness actual participation is only 15% - why is that? Maybe the study doesn't give an answer to that, that is why I have to go into the discussion of future research.
+SI said that she could see that I had struggled to make the method and results section better, but what was missing still was mainly a discussion that deepened the value of the results. RL thought that the paper was still "basic", and that I needed to get it more holistic, make it more clear to the reader what value this study and this paper added to the field. Since the discussion of the manuscript was quite detailed I decided here below to provide headings of the sections of the manuscript commented on:
 
-## SI:
-* SI: I can see that you have struggled to make the method and result section better, but what we need to discuss is to arrive at a discussion that deepens the value of the results. 
-* RL: I think that in the result section and the discussion section. Need to explain independent variables in the results 
-* SL: Yes, need to add the independent varables, in the metod and explain confounders etc. there as well.
-* RL: Frailty has been added in a good way...
-* RL: Telegraphic style in the intro... stop when it is beginning to get interesting, need to dig a bit deeper. 
-* RL: I don't think you need to add 
-* Suggestion: Add retired vs. not retired... variable... 
-* RL: Even if there are no differences between the age group... we could add a research question that is more descreptive...eed to add then desriptive research question comparing age groups..RL: It adds ...
+## Introduction
 
-What should that question be then?
+RL found that the introduction in its current state had a "telegraphic style" and that I stopped when it started to get interesting^[This is also criticism that I received by my reviewers at the half-time review.]. Thus, he suggested me to dig deeper. One way of doing that was to give the reader some more information about the studies that I referred to such as what methodologies they used, what sample they included, etc. In this way, I could better motivate why this larger study in Sweden was needed. This would make it more clear to the reader that relatively basic knowledge is needed in this field and that this study constitutes a necessary first step. Also, before the research question, RL suggested me to lay out to the reader what I am going to present in order to make it easier to follow the paper.
 
-**How are the attitudes and awareness related to age (and employment status)?** --- add to test significant to age groups..
+## Research questions
+RL thought that including age group on a descriptive level would illustrate what sample we are dealing with, even if there are no significant differences (in awareness, previous experience and willingness) between these age groups. After some discussion we decided to add a descriptive research question to the study. Since we also have data on how many are working and how many are retired thatcould be interesting to include as well. We thus decided to ad the following research question to the study: *How are the attitudes and awareness related to age (and employment status)?*. However, including retirement status is only possible if there are enough people in the sample that are working so that is something that I need to check before I include employment status. 
 
-In order to speak of fourth age is need measures on ADL -- though it could really be brought into the disccussion!
+## Methods
+In the methods section I was told that I needed to add the independent varables and explain confounders. Also the variable retired vs. not retired if it turns out that enough people in the sample are not retired.
 
-When I have met with Steven, I should then send her the manuscropt and ask for feedback...
+## Results
+The results section needed to be elaborated and more stringent in accordance with the comments that had been provided to me separately in response to the manuscript I sent out.
 
+## Discussion
+What was mostly missing in the current manuscript, according to my supervisors, was a discussion that deepened the value of the results. A few examples were mentioned of of what could/should be brought into the discussion section:
 
-### Occupation
-If there are enough people working 
+* To discuss the gap in the sample between the number of people who have previous experience of being actively involved in research and the amount of people who state that they are willing to be actively involved in research. 
+* To discuss the gap between the number of people who state that they are willing to be actively involved in research and the amount of people who are interested signing up for an introductory course. Here there can be several reasons for not being interested in having the introduction course, including considering oneself educated enough and thus not in need of such a course. However, this is something that needs to be discussed. 
+* To discuss why (in this study) more people state that they are willing to participate in a user board than for example participate through collecting data.
+* To discuss how the fact the age is a significant factor for willingness to be actively involved in research relates to concepts such as "the fourth age" and "the oldest old".
 
+## Conclusion
+In the conclusion it should, in the next version of the manuscript, be clearly stated what the key messages and contributions of this study are.
 
+## References
+Next version of the manuscript needs also to contain proper references.
 
-* Willingness
+## Feedback on language in the manuscript
+Concerning the language in the manuscript, OJ, RL and SI had the following remarks:
 
-Write explain about the gap between the willingness and the actuall... this is connected to not going introductory course... and then connect to their willingness to participate in user board and not collect data....
+  - "Self-related economy" is bad English. A new name is needed for this variable.
+  - Use synonyms to "captures", it is mentioned too often. OJ suggested "elicit". 
+  - Check if the journal PLOS one requires American or Brittish English, and be consistent in the writing.
+  - Be consistent when referring to the persons who participated in the study. OJ declared that he preferred to refer to them as *respondents* and *potential respondents* rather than *participants*. 
 
+## In which journal should we strive to publish the manuscript?
+We decided that we will send the manuscript to the journal *PLOS ONE*. 
 
-There can be reasons for not having the introduction course that one considers oneself educated enough.... this can be analysed n a furtehr study...
-
-(What would be the role of older persons in USerAge research -- are they still the subjects or as partners? - Roderinck asked. SI said that we do both.)
-
-
-* What are the key messegaes... need to be put down..in the conclusion.
-* For the introduction, give the reader som more information about these papers on what methodologies they used... in this way you motivate more why this larger study in Sweden is needed. Muchmore basic knowledge is needed.. this is a necessary first step...
-
-* Before the research question you lay out to the reader what you are going to presented...
-* Retahet the self-related economy... self-related socio-..something
-
-* Use synonyms to "captures"... it is mentioned very often...OJ suggest "elicit"...  
-
-* Need to check if americans or brittish English
-
-* Respondents... and potential respondents rather than participants 
-
-* occupy, detain, etc.
-
-* Next version: expect to be close to Finnish... next supervison does not have to be about 
-
-* PLOS one - I will send it to them the 23 - they get a week - I have the check with SS and send the manuscriot statistician Susanne also ask to acknoledge her...
-
-
-Submission during the week May 17- 22
-
-
-Next version need to contain proper references..
-
-
-21 May,  9-10.30
+## What's next?
+* I was suggested to schedule a meeting with Steven, and efter I had met him I was adviced to then send the manuscript to our statistic consultant Susanne Ullén to  ask for feedback and also ask her if she agrees on being acknowledges in the paper.
+* Next version of the manuscript is expected to be close to finished and what remains to be done can thus most efficiently be communicated over mail correspondance. In other words, the next supervison does not have to be to such a large extent about the Study II manuscript but rather focus on the next upcoming study, Study III and how to plan for that study. 
+ I will send the next version of the manuscript to the supervisors on April 23. They get a week then to provide me with feedback. Planned submission is set to the week May 17-22.
 
 # 2. Study III
+I also gave a short summary of where we are at in relation to my study III. I informed that I will send out an almost finished version of the ethical applicaton to SI, OJ and Marianne on April 6, and then the plan is to submit the application as soon as possible after that. A few things wer pointed out by my supervisors, namely:
 
+* In relation to how many participants we need to reach in the survey, I was suggested to write 5-8 associations instead of 3-8 associations and then to discuss this further with Steven.
+* I was also asked to consider how I can use the results from study II when constructing the questionanire for study III. 
+* Since we plan to send out the survey to members of two different pensioners' associations who traditionally differ in their uptake of members in relation to their social standing, it is important to consider what implecations that has for the design of this study.
+* RL found it very good that we included questions on the participants' level of engagement in the Housing Experiment rather than just making it a matter of participating vs. not participating. 
+* It is important to be aware that citizen science has recived a lot of criticism in the academic literature, and a suggestion is thus to theoretically relate the study to the literature on mass experiments rather than leaning too much on the more elusive and defiled citizen science concept.
 
-Better overview of the attitudes out there.  
-6 April = deadline for me 
-
-* How many do we need to reach? I can ask SS for this...
-* Write 5-8 associations instead of 3-8 associations
-
-* How can I use the results from study II in constructing the questionanire for study III?
-
-* Socio-demographiv difference between PRO and SPF - what iplecations does that have for the design of this study...
-
-
-If they don't become ... level of engagement... 
-* ther are a lot of literature o criticsm on citizen science... 
-* focus is it appropriate in this particular.... 
-
-
-# 3. Other questions
-
-# 4. Next supervision
+# 3. Next supervision
+We decided that next supervision will be on **May 21 at 9.00-10.30**.

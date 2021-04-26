@@ -10,4 +10,4 @@ Today, I had supervision and [here](/210330/supervision.html) is the protocol. I
 * [OJ's feedback](https://lu.app.box.com/file/793287882818) on my manuscript for Study II
 * [SI's feedback](https://lu.app.box.com/file/793222561185) on my manuscript for Study II
 <!-- * [RL's feedback]() on my manuscript for Study II -->
-<!-- https://lunrjs.com/guides/getting_started.html LUNR https://wbaer.net/2021/01/getting-started-with-lunr.js-and-hugo/ https://github.com/gwleclerc/lunr-hugo -->
+<!-- https://lunrjs.com/guides/getting_started.html LUNR https://wbaer.net/2021/01/getting-started-with-lunr.js-and-hugo/ https://github.com/gwleclerc/lunr-hugo g-->
