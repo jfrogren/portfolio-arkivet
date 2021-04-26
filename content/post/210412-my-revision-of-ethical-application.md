@@ -13,4 +13,3 @@ Today, I finished the final round of revision of the ethical application documen
 * [Bilaga 3](https://lu.app.box.com/file/798871894455): *Forskningsplan avsedd för fackmän*
 * [Bilaga 5](https://lu.app.box.com/file/798867264669): *Information som kommer att ges till forskningspersonerna i samband med tillfrågan om deltagande*
 * [Bilaga 6](https://lu.app.box.com/file/798872416770): *Enkäter, frågeformulär, intervjuguider eller intervjufrågor som kommer att användas i projektet*
-
