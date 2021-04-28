@@ -7,6 +7,7 @@ subtitle: "Bilaga 3: Forskningsplan avsedd för fackmän" # only for html output
 author: "JF, OJ, MG"
 output:
   word_document
+csl: vancouver.csl
 bibliography: library.bib
 link-citations: yes
 ---
