@@ -1,0 +1,73 @@
+---
+title: "Planeringsmöte om studie III"
+date: "2021-05-10"
+draft: false
+categories: [""]
+runningheader: "Planeringsmöte om studie III" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::html: default
+  tufte::tufte_handout:
+    latex_engine: xelatex
+tufte::tufte_book:
+  citation_package: natbib
+  latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+## 1. Syfte
+Mötet med MG, OJ syftade till att dra upp riktlinjerna för det arbete som behöver görs inför, under och efter den tredje delstidien i mitt avhandlingsarbetet.  Under mötet kom vi överens om att det är framför allt den inledande fasen - den inför studien - som behöver specificeras och planeras mer i detalj en de delar som ligger senare. De två primära uppgifter som åligger mig den närmaste tiden är:
+
+* Att skapa Sunet surveys för för- och efterenkäterna 
+* Att etablera kontakt med de föreningar som vi vill ska skicka ut länk till enkäten till sina medlemmar.
+
+
+## 2. Sunet surveys
+När det kommer till att skapa Sunet Surveys utifrån de enkäter vi utformat så diskuterade vi hur vi ska gå tillväga för att säkerställa att dessa digitala enkäter blir så bra som möjligt innan de skickas ut i skarpt läge. Vi beslutade att jag initialt skriver in alla frågor såsom de formulerats i etikansökan i Sunet Survey och när jag är tveksam rådgör med Ola - den person som är Lunds universitets kontaktperson när det gäller skapandet av Sunet Surveys. Jag antecknar de designbeslut jag gör på vägen, jag får fram en preview, och skickar denna preliminära länk till MG och OJ så snart jag kan. Vi jobbar sedan med den vi tre och sen får jag återkoppling. Därefter jobbar jag med den lite till, skickar ut den igen och får återkoppling. Sen skickar vi ut den till representanter för den tilltänkta målgruppen. Denna kan exempelvis utgöras av Stig + MG:s mamma och make och OJ:s pappa + fru. Jag kan också kolla med några doktorander om de kan tipsa ok deltagare.
+
+MG berättade att doktorand Agata nyligen skapat en Sunet Survey för en studie och föreslag att jag tog kontakt med henne för att dra lärdomar av henne. OJ tipsade om att Dan nyligen skickat ut en Sunet Survey och alltså besatt en del kunskap kring detta. OJ tipsade om att det is Sunet survey-systemet kan finnas sätt att kopiera frågor så man slipper skriva in allt två gånger. OJ bad mig också kolla med Ola om hur man skriver in sin epostadresser i första enkäten; hur ska jag hantera kontaktuppgift tillsammans med den data som samlas in. Jag undrade om vi även skulle samla in uppgifter om telefonnummer, och MG och OJ bad mig då kolla upp vad vi skrivit i etikansökan om telefonnummer och följa det.
+
+Några av de saker jag behöver kolla är hur enkät två går ut rent teknisk och om man kan automatisera påminnelser, eller om vi måste skicka ut den manuellt. Därtill behöver jag kolla upp om deltagarna måste fylla i några id-uppgifter i enkät två eller om det är automatiserat. Jag måste också kolla upp vem som i så fall står som avsändare för det mejl och den påminnelse som går ut för enkät två och dess påminnelse. MG sa att om Lunds universitet står som avsändare är det sannolikt okej att det görs en automatisk påminnelse. I övrigt behöver den skickas ut manuellt.
+
+
+## 3. Föreningskontakter
+Jag förklarade att jag behöver en viss återkoppling här eftersom jag känner mig osäker. MG och OJ föreslog att jag skull börja med att kontakta Stig som jag redan känner och därefter kontakta övriga. Om det sen är telefon eller mejl som jag kontaktar de genom är upp till mig ansåg MG och OJ. 
+
+De namn som nämndes som förslag på personer att ta kontakt med var:
+
+* Stig Ålund - PRO Klippans lokalförening. Prata med honom och se om han vet om det finns några 
+* Lena Larsson - PRO Eslöv lokalförening ... be dem tipsa om de vet andra
+* Annelie af Klinteberg - SPF Staffanstorp
+* Ann-Marie Storm - SPF lokalförening
+* RESERV: Ingrid Sandelin - anhörigförening...(ej med i ansökan)
+* Neuroförbundet - sikta in oss på en viss åldersgrupp kolla etikansökan. MG har haft mejlkontakt med några. Hon mejlar namnen.
+
+Här föreslog OJ att jag skulle skapa ett Excelsheet där det står info om vem som kontaktats och när.
+   
+
+## 4. Semester
+
+* Jag har semester v. 26-29
+* MG har v. 28-32
+* OJ har semster v. 22 + 25 v. 28-32 
+
+## 5. Tidsplan 
+1 september - 31 oktober pågår bostadsförsöket. Två veckor innan, alltså **omkring 18 augusti, går mejlutskicket ut från föreningen** och sen påminnelsen en vecka senare.
+
+## 6. Nästa möte
+Vi beslutade oss för att ha veckovisa möten framöver och nästa möte kommer att ske **20 maj kl. 15-16** via Zoom. 

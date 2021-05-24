@@ -1,0 +1,82 @@
+---
+title: "Planeringsmöte om studie III"
+date: "2021-05-20"
+draft: false
+categories: [""]
+runningheader: "Planeringsmöte om studie III" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_handout:
+    latex_engine: xelatex
+tufte::tufte_book:
+  citation_package: natbib
+  latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+# 1. Rapport av utfört arbete
+<br>
+
+## Sunet Survey
+
+Jag inledde med att rapportera vad jag gjort sedan sist. Att jag hade påbörjat och kommit en bit på inmatningen av enkätfrågorna i Sunet Survey; att jag snarast möjligt skulle ha ett mer ingående samtal med Ola (som är den person från Lunds universitet som ger support när det gäller Sunet Survey) om vissa tekniska frågor men att jag haft lite problem med att komma i kontakt med honom. 
+
+## Kontakt med lokalföreningar
+
+Därtill att jag hade kontaktat Stig och kortfatttat förklarat vad studien gick ut på, och att han definitivt skulle ställa upp med att förmedla ett mejl från oss till sin lokalförening. Jag berättade därtill att Stig gärna ställde upp med att ge återkoppling på den digitala enkätens utformning. Och om jag sökte fler personer från målgruppen att få återkoppling från så tipsade han om: Ann-Marie Storm, Ulf Sehlin, Ingmar Bryman och Amelie af Klintberg. Att Stig hade sagt att PRO Klippan hade cirka 850 medlemmar men att en lokalförening inom detta område kan ha allt från 70 till 1000 medlemmar. Att han hade sagt att det  inte var något hinder att ett mejl gick ut under semestertider eftersom pensionärer är aktiva oavsett detta. Att Stig önskade en skriftlig information om studien för att tydligare förstå vad den handlade om. Att jag lovat att återkomma med en sådan. 
+
+# 2. Att göra framåt
+
+## Utforming av skriftlig information till lokalföreningar
+
+Under mötet så diskuterade vi en del kring utformningen och syftet med en sådan skriftlig information. Vi kom fram till att detta dokument till Stig med fördel kunde utgöra en form av utkast till ett mer formellt dokument att skicka ut till styrelsemedlemmar med förfrågan om deltagande. Att detta dokument skulle innehålla en länk till Bostadsförsöket och att jag kunde kolla det mejl om Bostadsförsöket som MG nyligen mejlat som inspiration. I det mejlet fanns t.ex. en länk till en YouTube-video som visade hur Bostadsförsöket gick till. Detta informationsblad till Stig ska också innehålla en CASE-logotyp och en Bostadsförsöket-logotyp. Vi beslutade att jag gör ett utkast tillett sådant dokument som jag mejlar till OJ för återkoppling snarast möjligt. OJ föreslog också att använda någon form av 'Watermark' som visade att det just var ett utkast. 
+
+I mejlet som går ut till föreningarna (osäker om detta gäller informationsbladet till Stig) är det också bra om det finns länk till Sustain@home:s hemsida.
+
+## Att tänka på vid kommunikation med lokalföreningar
+
+När det kommer till HUR man lämpligast kommunicerar och lockar styrelsemedlemmar att vara med i detta projekt så tyckte MG att man bör fokusera på två saker:
+
+* Vad förväntar vi oss av dem?
+* Vad får de ut av att vara med?
+
+Vidare sa MG att det när det gäller vad de får ut av att vara med, är smart att "rida på Bostadsförsöket", dvs att det är deltagandet i detta som är det egentligt givande men att utvärdringsstudien kan utgöra ett komplement. Ett sätt är att säga att om önskemål finns så kan någon av oss forskare kan komma ut och presentera resultatet av studien för lokalföreningen.
+
+När jag presenterar mig är det viktigt att jag också talar om varifrån jag har fått deras namn (om det är så att någon annan har tipsat om dem).
+
+I det mejlet jag sedan skriver bör jag formulera mig som att: "Vi hörde i telefon [datum och tid] och här kommer det utlovade materialet."
+
+## Personer att ta kontakt med härnäst
+
+MG föreslog att jag börjar med att kontakta följande personer:
+
+* Jan Andersson (från Samverkansinitiativet)
+* Amelie af Klintberg (från Samverkansinitiativet)
+* Neuroförbundet (två namn - osäker på vilka och om det var så att MG skulle skicka dessa namn)
+* Ann-Marie Storm
+
+OJ föreslog (vilket även påtalats under tidigare möte) att skapa ett Excel-ark där jag fyller i vilka jag har varit i kontakt med. 
+
+Vi kom också överens om att jag mejlar mitt utkast till Sunet Survey till MG och OJ på fredag eller måndag.
+<br><br>
+
+# 3. Nästa möte
+
+Nästa möte beslutades till **28 maj kl. 15-16**.
+
+

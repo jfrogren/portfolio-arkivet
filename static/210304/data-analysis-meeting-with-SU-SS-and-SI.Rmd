@@ -7,7 +7,6 @@ runningheader: "Data analysis meeting with SU, SI and SS"
 subtitle: ""
 author: "Joakim Frögren"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout:
     latex_engine: xelatex
 tufte::tufte_book:
