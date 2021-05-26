@@ -1,0 +1,91 @@
+---
+title: "Protocol from Joakim's supervision"
+date: "2021-05-21"
+draft: false
+categories: [""]
+runningheader: "Protocol from Joakim's supervision" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_handout:
+    latex_engine: xelatex
+tufte::tufte_book:
+  citation_package: natbib
+  latex_engine: xelatex
+bibliography: library.bib
+urlcolor: blue
+link-citations: no
+
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+<!--
+* Time: 9-10.30 am
+* Zoom link: <https://lu-se.zoom.us/j/69595894452>
+
+
+## 1. Study II
+JF gives an update on Study II.
+
+## 2. Study III
+JF gives an update on Study III.
+
+## 3. Study IV - The inclusion of an article from another university 
+SI and JF gives an update on the possibility to include an earlier published paper (<https://www.mdpi.com/1660-4601/17/18/6816>) in Joakim's doctoral thesis.
+
+## 4. Time plan up to defense
+
+## 5. Other questions
+
+## 6. Next supervision
+-->
+
+## 1. Study II
+JF gave an update on Study II. 
+
+SI pointed out that when it comes to the journal PLOS ONE, the editors  are a bit picky when it comes to data sharing. Another PhD student at CASE, NA, had some struggles there. It is a trade off between what data they require and what data we can provide them with. SI suggested me to discuss this further with NA in order to learn from her.
+
+We agreed that JF will send the manuscript to all the co-authors (except OJ) (and not to RL) on 28th of May. JF will send an email the the co-authors before that so that they are aware that the manuscript is coming and can plan for it..
+
+The co-authors will be given a week to provide their feedback. In other words they should send JF their feedback by latest 4th of June. JF will then get a week to edit the manuscript and will send the updated version to SI, RL and Oj in the morning on the 10th of June.
+
+
+
+## 2. Study III
+JF gave an update on Study III.
+
+SI informed that the ethical application has been sent in and that we can expect a reply from the ethical committe before the summer break.
+
+We had a discussion about the practical work for JF related to the Housing Experiment and JF was strongly suggested to contact MB at the association *Vetenskap & Allmänhet* [Science & Public] to discuss with him how the format for communication that they have used when approaching school pupils in their earlier mass experiments can be better tailored to a target group consisting of senior citizens. And also how the co-operation with pensioneers´associations like PRO and SPF can be optimized. RL pointed out that this practical work that JF is expected to do is a perfect example of Participatory Action Research (PAR). Furthermore, a closer dialogue with MB will give JF a better understanding of what will be happening during the mass experiment and what support structures and communication plans have been set-up for the co-researchers expected to engage in the project.  
+
+## 3. Study IV - The inclusion of an article from another university 
+SI and JF gave an update on the possibility to include an earlier published paper (<https://www.mdpi.com/1660-4601/17/18/6816>) in JF's doctoral thesis.
+
+SI explained that she had had a good conversation with PA, who is JF's former main supervisor at BTH, the research institute JF was linked to before and where the article was written. PA was very supportive of the idea that the article could be included in JF's doctoral thesis. However, PA pointed out that JF did not contribute so much to the writing of the article. Thus, PA emphasized the importance of JF taking a more active role in the remaining articles in order for him to show that he had sufficient skills required in order to pass his degree. During the supervision SI also clearly pointed out that in the end it is SI, OJ and RL that will write the letter confirming or declining that JF fulfills the the expected requirements that a doctoral degree assumes.
+
+A discussion was held on how the article from BTH could be integrated into the dissertation as a whole. RL linked it historically to market research starting from the 1960's an onwards and focusing on understanding the 'demand'. JF pointed out the link between design and participatory approaches and SI suggested that a simple link to the Housing Experiment article was that both these articles were about older persons attitudes towards an experience that included an app.
+
+## 4. Time plan up to defense
+SI pointed out that JF really need to work intensely considering the situation and the fact that he have had periods earlier during which he has not been able to work full-time. Due to the fact that has been involved in certain boards and also has taken some time off, the date when JF is expected to defend his dissertaion can be somewhat post-poned but probably not more than a month or so. This means september 2022. 
+
+SI also informed that after summer, there will be a meeting between SI, JF and deputee head Eva Ageberg to discuss JF's precarious situation.
+
+## 5. Individual Study Plan
+JF's individual study plan will need to be formally changed and updated after the summer.
+
+## 6. Next supervision
+It was decided that the next two supervisions will take place:
+
+* 18th of June at 8.30-9.30.
+* 17th of August at 13.00-15.00^[In this meeting JF will ask MG if she is interested to participate during a part of the meeting.].
