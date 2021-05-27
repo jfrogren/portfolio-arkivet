@@ -1,6 +1,6 @@
 ---
 title: "Meeting with statistician SU"
-date: 2021-05-25T14:59:13+02:00
+date: 2021-05-25T10:59:13+02:00
 draft: false
 categories: [""]
 ---
