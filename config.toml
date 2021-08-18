@@ -29,7 +29,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   filename = "sitemap.xml"
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/" # As described here: https://bookdown.org/yihui/blogdown/configuration.html
+  post = "/:year/:month/:day/:slug/" # As described here: https://bookdown.org/yihui/blogdown/configuration.html blabla
 
 [[menu.main]]             # config your menu              # 配置目录
   name = "Home"
