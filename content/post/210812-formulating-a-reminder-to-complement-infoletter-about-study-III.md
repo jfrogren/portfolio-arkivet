@@ -1,5 +1,5 @@
 ---
-title: "Formulating a Reminder to Complement Infoletter about Study III"
+title: "Formulating a Reminder to complement Infoletter about Study III"
 date: 2021-08-12
 draft: false
 categories: [""]
