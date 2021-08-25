@@ -1,0 +1,98 @@
+---
+title: "Notes from Joakim's supervision"
+date: "2021-08-17"
+draft: false
+categories: [""]
+runningheader: "Notes from Joakim's supervision" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    latex_engine: xelatex
+tufte::tufte_book:
+  citation_package: natbib
+  latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+* Time: 13-15
+* Zoom link: <https://lu-se.zoom.us/j/68575524676>
+
+<!--
+## 1. Study II
+JF gives an update on Study II. SI has provided feedback during summer and JF is right now working on mainly the discussion part. Decision needs to be made on who should get to read and provide feedback on the next version of the manuscript and when it should be sent out. JF suggestion is that he could send out an updated vesion by the end of next week.
+
+## 2. Study III
+JF gives an update on Study III. An invitation to participate in the online survey was sent out (see attached document - in Swedish) by the boards of a number of local senior and disability organisations to +3000 of their members last week. So far 70-80 have responded to the first part of the survey that is out now and possible to answer until 31 August. A reminder will be sent out by the end of this week. JF will give a brief account of the responses so far (see document 210816-survey1.pdf (in Swedish) to see the results but please observe that data cleaning has not been made). 
+
+JF wishes to discuss which questions in the survey should be the focus of the study. He also wish to discuss the content of the second part of the survey that will go out in mid-September (see document 210816-survey2.pdf (in Swedish) to see the suggested questions) and get opinions on whether it needs to be complemented by other questions. 
+
+## 3. Time plan up to defense
+JF wishes a discussion on setting up a realistic time plan up to defense, and about which tasks except study II and III that JF should start planning for next.
+
+## 4. ISP
+The individual study plan needs to be updated as soon as possible and a deadline for this needs to be decided.
+
+## 5. Next supervision
+
+-->
+
+
+## 1. Study II
+
+JF gave a brief report on the work done during the summer, when above all the introduction has improved significantly. The latest feedback came from SI a number of weeks ago. The plan going forward is for JF to send a draft to OJ on 27 August. OJ reads and comments and then OJ sends the manuscript on to the co-author SS who in turn sends it to SI for further comments. Then JF absorbs the criticism and improves the manuscript. Before submitting the manuscript to the journal (PloS ONE), all co-authors should be allowed to read the manuscript for final approval. JF was also asked to check with RL, if it is okay that we thank him in acknowledgment in the article. OJ suggested that in the previous Wicked problem article, we thanked him so if he agrees to be acknowledged, a similar wording can be used. 
+
+## 2. Study III
+
+JF gave a report on how study III, whose data collection began on 9 August when the first questionnaire was sent out, proceeded. A dozen associations have now sent out the survey to a total of about 3,000 email addresses. So far (after about a week), almost 100 responses have been received. It is a very low response rate and we hope that it will rise. JF also said that most of the respondents were born in the 30s, 40s and 50s, but that there were a handful of people born in the 70s and 80s. This was due to the fact that in our mailing we not only targeted pensioners' associations, but also members of associations for people with neurological injuries and diseases to which they probably belonged. MG, SI and OJ did not consider that younger respondents posed a problem, but that these respondents should also be included and we will simply see how many there will be in the end. MG pointed out that the project, sustain@home, of which the study is a part, is about "ageing with disabilities" and thus also includes people younger than 60 years. 
+
+Different ways to increase the response rate were discussed. We came to the conclusion that it was necessary to send out two reminders, as planned earlier; a reminder about 14 days after the questionnaire had been sent out, and a further reminder about September 1 when the Housing Experiment project starts. In addition, it was clarified that it was important that this first survey could be answered not only in August but also at least until mid-September. JF said that in the confirmation that respondents of the first survey receive, it says that they will receive an email in mid-September, with information that the Housing Experimet is underway, as well as a link to the second survey that they are asked to answer after participating in the Housing Experiment. 
+
+SI informed that the pensioners' associations PRO and SPF Seniorerna have agreed to make a national mailing to their members around 1 September. JF was asked to send the second reminder in connection with these mailings. 
+
+Another way to recruit more participants is that if someone contacts the support by phone or Facebook, we can also recommend them to participate in the evaluation. 
+
+The time and scope of the telephone support that we decided would be offered to participants in the Housing Experiment was discussed. JF has already in dialogue with Lund University reserved a number for this telephone support, namely 046-222 19 30. We stated that it would be good to be able to offer support every weekday for 1-2 hours and preferably in the mornings. No decision was made further, but we decided that the issue would be discussed further with representatives from the association Science & Public during the planned meeting next week. 
+
+When it came to the information about the study that some time ago on one of CASE's websites, it was pointed out that JF there needed to revise when the first questionnaire can be answered so that it says August-September, instead of now only August. JF was also asked on the website to clarify that one must answer the first questionnaire before the Housing Trial and write that the study is aimed *primarily* at people who are 60 years and older (and not solely). 
+
+When it comes to the design of the questionnaire, MG pointed out that today, as the questionnaire was designed, it was possible to answer the questionnaire and send it in without having answered the questions because these were not mandatory. JF explained that he chose this solution because the option with mandatory questions would inevitably lead to pop-up boxes appearing in English if you failed to answer a question and that these risked scaring away participants. Furthermore, JF said that only a few did not answer questions, which indicated that compelling questions were not necessary. However, as a precautionary measure to minimize the risk of respondents simply forgetting or failing to answer a question, JF was asked to add the text "Please check that you have answered all questions before submitting." at the end of the survey just above the 'Submit' button. 
+
+Furthermore, it was decided to add a control question to the current informed consent from 1 September (when the Housing Experiment started) where it was confirmed that the respondent had not already participated in the Housing Experiment. Thus, JF must also produce a text, which states that you unfortunately can not participate in the study if you have already participated in the Housing Experiment. JF will work on such a text, and make sure to implement such a solution with the proposed control question so that this is in place on 1 September. 
+
+Finally, JF said that he wanted a meeting with MG and OJ to determine the design of the second survey, which is basically complete but where some questions may need to be adjusted. This meeting was decided for 26 August at 9-10.30. It is then enough for JF to present his proposal at the meeting, he does not need to email any material before. 
+
+SI mentioned that she had been in contact with some people at Dalarna University with expertise in citizen science. She promised to email JF their contacts so he could contact them for tips and advice. 
+
+
+## 3. Individual Study Plan and Time plan up to defense
+
+JF's Individual Study Plan (ISP) needs to be updated urgently according to Assistant Head of Department of Health Sciences at Lund University, EA. SI will contact EA to schedule a meeting in which JF, SI and EA can discuss this matter. SI promised to return to JF with a time for this meeting. 
+
+Before that, it would be good to have a supervision so that all supervisors have the opportunity to comment on the ISP before it is sent in for approval. JF was asked to send out a doodle for this meeting. (After the meeting, it was decided that the next supervision will be on September 3.) Three working days before this meeting, JF needs to email his draft of his revised ISP in the form of a pdf. Part of the revision also consists of reviewing and revising the timetable until the planned dissertation. Here, JF needs to review his total leave of absence and make a rough estimate of how many meetings he has attended in his role as doctoral student representative on various boards. This time he can get credit for, which means that the date for the planned dissertation is then postponed for a number of weeks. SI also pointed out that JF during the autumn and spring will need to work in parallel with the script for the last study and the kappa. 
+
+JF also needs in the email text to give an explanation to RL for how the ISP should be read because the form is a bit difficult to interpret for those who are not used to reading this document. 
+
+SI further explained that what is a bit problematic is that the planned dissertation period is preceded by a summer break, and if you have not submitted your material before 15 June 2022, it will not be processed until 20 August 2022 at the earliest. SI pointed out that another doctoral student, NA, is in the same situation. JF was asked to contact NA to discuss this and to discuss a course that exists and is about writing the kappa and which they both might be interested to take. 
+
+
+## 4. Next supervision
+September 3 at 10.30-11.30. 
+
+Zoom: <https://lu-se.zoom.us/j/6948123883>
+
