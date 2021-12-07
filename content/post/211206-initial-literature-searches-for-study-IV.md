@@ -28,7 +28,7 @@ AND ("senior citizens" OR "older person" OR "older persons" OR "older adult" OR 
 
 ### SCOPUS
 
-I started out searching in SCOPUS database.  I noticed that for the 76 articles I received there for this search, frequent keywords were "Participatory research" and "Built environment" so I added thes words to the search. I also did a few searches with only the "mass experiments" terms. I found the following relevant articles in SCOPUS:
+I started out searching in SCOPUS database.  I noticed that for the 76 articles I received there for this search, frequent keywords were "Participatory research" and "Built environment" so I added thes words to the search. I also did a few searches with only the "mass experiments" terms. I found the following 31 relevant articles in SCOPUS:
 
 * [A nationwide assessment of plastic pollution in the Danish realm using citizen science](https://doi.org/10.1038/s41598-020-74768-5)
 * [A novel approach to increase physical activity in older adults in the community using citizen science: a mixed-methods study](https://doi.org/10.1007/s00038-019-01230-3)
@@ -71,7 +71,7 @@ When I did searches in PsychINFO, I found the following additional and relevant 
 
 ### SocINDEX
 
-When I did searches in SocINDEX, I found the following additional and relevant articles:
+When I did searches in SocINDEX, I found the following 11 additional and relevant articles:
 
 * [Can citizen science lead to positive conservation attitudes and behaviors?](https://www.jstor.org/stable/24707571)
 * [Citizen, Science, and Citizen Science](https://doi.org/10.1215/18752160-7542643)
@@ -86,6 +86,16 @@ When I did searches in SocINDEX, I found the following additional and relevant a
 * [What Roles Can Lay Citizens Play in the Making of Public Knowledge?](https://doi.org/10.1215/18752160-7542785) 
 
 ### CINAHL
+
+When I did searches in CINAHL on simply the following search string...
+
+````
+("citizen science" OR "mass experiment" OR "mass experiments" OR mass-experiment OR mass-experiments)
+
+````
+
+...I got a couple of hundred hits and among them I found the following 28 articles that seemed relevant: 
+
 
 * [A citizen science approach to determine perceived barriers and promoters of physical activity in a low-income South African community](https://doi.org/10.1080/17441692.2020.1712449)
 * [Avoiding a Tyranny of the Majority: Public Deliberation as Citizen Science, Sensitive Issues, and Vulnerable Populations](https://doi.org/10.1080/15265161.2019.1619870)
