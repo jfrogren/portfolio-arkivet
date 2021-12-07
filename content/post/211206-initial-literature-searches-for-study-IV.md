@@ -40,11 +40,11 @@ I started out searching in SCOPUS database.  I noticed that for the 76 articles 
 * [Combining the digital, social and physical layer to create age-friendly cities and communities](https://doi.org/10.3390/ijerph18010325)
 * [Design Thinking as a Means of Citizen Science for Social Innovation](https://doi.org/10.3389/fsoc.2021.629808)
 * [Employing participatory citizen science methods to promote age-friendly environments worldwide](https://doi.org/10.3390/ijerph17051541)
+* [Environmental, individual and personal goal influences on older adults’ walking in the helsinki metropolitan area](https://doi.org/10.3390/ijerph16010058)
 * [Experiences of the built environment, falls and fear of falling outdoors among older adults: An exploratory study and future directions](https://doi.org/10.3390/ijerph17041224)
 * [High motivation and relevant scientific competencies through the introduction of citizen science at secondary schools: An assessment using a rubric model](https://doi.org/10.4324/9781315458618)
-* [Environmental, individual and personal goal influences on older adults’ walking in the helsinki metropolitan area](https://doi.org/10.3390/ijerph16010058)
 * [How is respect and social inclusion conceptualised by older adults in an aspiring age-friendly city? A photovoice study in the north-west of England](https://doi.org/10.3390/ijerph17249246)
-* [How can we test plastic pollution perceptions and behavior? A feasibility study with Danish children participating in “the Mass Experiment”](https://doi.org/10.1016/j.scitotenv.2021.150914)
+* [How can we test plastic pollution perceptions and behavior? A feasibility study with Danish children participating in “the Mass Experiment”](https://doi.org/10.1016/j.scitotenv.2021.150914) - study similar to ours! 
 * [Identification of starting points to promote health and wellbeing at the community level - A qualitative study](https://doi.org/10.1186/s12889-019-6425-x)
 * [Inclusive design](https://doi.org/10.1007/978-3-319-31967-4_6)
 * [Involving older adults in the technology design process: A case study on mobility and wellbeing in the built environment](https://doi.org/10.3233/978-1-61499-684-2-615)
