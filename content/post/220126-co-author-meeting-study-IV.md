@@ -27,4 +27,5 @@ MG also wrote in. here mail:
 > Also enclose examples of how you can set up your own rules of procedure. If you benefit from it, use it, otherwise ignore it. / Marianne
 
 And attached this Excel file: 
+
 * [MG's examples of rules of procedure](https://lu.app.box.com/file/913602594027)
