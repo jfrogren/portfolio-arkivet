@@ -12,9 +12,23 @@ In December last year I did some literature searches for Study IV, but I have no
 
 I started out searching in SCOPUS database.  I noticed that for the 76 articles I received there for this search, frequent keywords were "Participatory research" and "Built environment" so I added thes words to the search. I also did a few searches with only the "mass experiments" terms. I found the following 31 relevant articles in SCOPUS:
 
-* [A nationwide assessment of plastic pollution in the Danish realm using citizen science](https://doi.org/10.1038/s41598-020-74768-5) - relevant
+* [A nationwide assessment of plastic pollution in the Danish realm using citizen science](https://doi.org/10.1038/s41598-020-74768-5) - relevant. Dett är en artikel som dokumenterar själva fynden från plastikoperationen, ungefr som den artikel om Bostadsförsöket som tar upp hur det ser ut med hindrena. Finns en annan artikel som tar upp hur deltagarna upplevde sitt deltagande.
 
-* [Adapting a person's home in 3D using a mobile app (mapit): Participatory design framework investigating the app's acceptability](https://doi.org/10.2196/24669) - relevant
+* [Adapting a person's home in 3D using a mobile app (mapit): Participatory design framework investigating the app's acceptability](https://doi.org/10.2196/24669) - relevant. 
+
+Här har man alltså försökt att skapa en AI-teknik för att identifiera fysiska miljöhinder i bostaden med hjälp av en app. Det kan ju inte vara så svårt egentligen. Det är ju en sådan som vi behöver. Skulle vi ine kunna samarbete med dem? Här är abstract:
+
+> Background: Home adaptation processes enhancing occupational engagement rely on identifying environmental barriers, generally during time-consuming home visits performed by occupational therapists (OTs). Relevance of a 3D model to the OT’s work has been attested, but a convenient and consumer-available technology to map the home environment in 3D is currently lacking. For instance, such a technology would support the exploration of home adaptations for a person with disability, with or without an OT visit.
+
+> Objective: The aim of this study was to document the development and acceptability of a 3D mapping eHealth technology, optimizing its contribution to the OT’s work when conducting assessments in which home representations are essential to fit a person’s needs.
+
+> Methods: A user-centered perspective, embedded in a participatory design framework where users are considered as research partners (not as just study participants), is reported. OTs, engineers, clinicians, researchers, and students, as well as the relatives of older adults contributed by providing ongoing feedback (eg, demonstrations, brainstorming, usability testing, questionnaires, prototyping). System acceptability, as per the Nielsen model, is documented by deductively integrating the data.
+
+> Results: A total of 24 stakeholders contributed significantly to MapIt technology’s co-design over a span of 4 years. Fueled by the objective to enhance MapIt’s acceptability, 11 iterations lead to a mobile app to scan a room and produce its 3D model in less than 5 minutes. The app is available for smartphones and paired with computer software. Scanning, visualization, and automatic measurements are done on a smartphone equipped with a motion sensor and a camera with depth perception, and the computer software facilitates visualization, while allowing custom measurement of architectural elements directly on the 3D model. Stakeholders’ perception was favorable regarding MapIt’s acceptability, testifying to its usefulness (ie, usability and utility). Residual usability issues as well as concerns about accessibility and scan rendering still need to be addressed to foster its integration to a clinical context.
+
+> Conclusions: MapIt allows to scan a room quickly and simply, providing a 3D model from images taken in real-world settings and to remotely but jointly explore home adaptations to enhance a person’s occupational engagement.
+
+
 * [Age-Friendly Walkable Urban Spaces: A Participatory Assessment Tool](https://doi.org/10.1080/02763893.2016.1224791) - relevant
 * [Assessing the needs of older people in urban settings: integration of emotive, physiological and built environment data](https://doi.org/10.1002/geo2.37) - relevant
 * [Barrier-free park in prizren - Visioning workshop involving persons with disability and the elderly](https://doi.org/10.1556/606.2018.13.2.23) - relevant
@@ -30,16 +44,30 @@ I started out searching in SCOPUS database.  I noticed that for the 76 articles 
 
 * [Involving older adults in the technology design process: A case study on mobility and wellbeing in the built environment](https://doi.org/10.3233/978-1-61499-684-2-615) - tar upp hur man kan involvera äldre mer i designprocessen. Eventuellt relevant.
 
-* [Older Adults’ Motivation and Engagement with Diverse Crowdsourcing Citizen Science Tasks](https://doi.org/10.1007/978-3-030-85616-8_7) - relevant eftersom den är en utvärdering av hur äldre klarar av olika citizen science-uppgifter
+* [Older Adults’ Motivation and Engagement with Diverse Crowdsourcing Citizen Science Tasks](https://doi.org/10.1007/978-3-030-85616-8_7) - relevant eftersom den är en utvärdering av hur äldre klarar av olika citizen science-uppgifter. Handlar dock om crowdsourcing, vilket är en bit ifrån det som vi sysslar med så tveksamt om jag kan referera till den. Här är slutsatserna från studien:
+
+> In this exploratory research we have verified that crowdsourcing microtasks, especially those appearing in citizen science projects, can be well-suited for some groups of older adults - both in terms of the quality of older adults’ contributions and their motivation. Yet, even among older adults with average and higher ICT skills - sufficient to contribute to such projects, such as the participants in our sample, the awareness of the existence of such crowdsourcing projects is quite low, as such citizen science tasks are not easily found and sampled. Older adults as a group often overlooked as potential contributors to larger scale crowdsourcing projects due to their often lower willigness to engage online and the perception of their ICT skills. However, the older adults in our study who received no compensation, provided high quality contributions with little training and were open to continue volunteering online.
+
+
 * [Older adults using our voice citizen science to create change in their neighborhood environment](https://doi.org/10.3390/ijerph15122685) - Här används en kanske mer engagerande metod för att få äldre att engagera sig i sin 'built environment' - de får fota hinder och ta upp dessa med politiker typ. I jämförelse med denna studie är inte vår studie särskilt engagerande. Studien kan därför vara bra för att lyfta ram graden av engagemang.
 * [Perspectives on “novel” techniques for designing age-friendly homes and neighborhoods with older adults](https://doi.org/10.3390/ijerph17051800) - metodologiskt vettig och relevant artikel som går ut på att: "*this article provides critical perspectives on eight “less traditional” engagement techniques—walking interviews, photovoice, photo-elicitation, Talking Mats®, participatory mapping, drawing, model-making, and the “Design Fair”. Insights into the strengths and limitations of these techniques, gained from observation of their use in participatory design activities, as well as feedback collected from older co-design participants...*"
 
 
 * [The built environment and older adults: A literature review and an applied approach to engaging older adults in built environment improvements for health](https://doi.org/10.1111/opn.12171) - Intressant eftersom den är en literature review och den konstaterar att: "*Three distinct components emerged from the review: the impact of the built environment on health—in particular the health of older persons; citizen science and its applicability for older people research; and the promise of the Our Voice citizen science framework to activate changes in the built environment that improve older peoples’ health.*" Det är också något jag tycker mig kunna utläsa... I vårt fall är det ju detta med "citizen science and its applicability" som är relevant och det konstateras ju att detta är ett stort forskningsområde. Kanske kan artikeln ge vidare litteraturtips inom området.
-* [The stanford healthy neighborhood discovery tool: A computerized tool to assess active living environments](https://doi.org/10.1016/j.amepre.2012.11.028) - också ett sätt att låta äldre använda en surfplatta men där: "*Users are prompted to collect geocoded audio narratives and photographs about neighborhood features they perceive as affecting their active living choices.*" Finns alltså liheter med vårt projekt även om dett i detta fall är mer öppet när det gäller datainsamlingen 
+* [The stanford healthy neighborhood discovery tool: A computerized tool to assess active living environments](https://doi.org/10.1016/j.amepre.2012.11.028) - också ett sätt att låta äldre använda en surfplatta men där: "*Users are prompted to collect geocoded audio narratives and photographs about neighborhood features they perceive as affecting their active living choices.*" Finns alltså likheter med vårt projekt även om dett i detta fall är mer öppet när det gäller datainsamlingen 
 * [The Swedish mass experiments-a way of encouraging scientific citizenship?](https://doi.org/10.22323/2.15010401) - känner till sedan tidigare och vet att den är relevant
-* [Using citizen science to explore neighbourhood influences on ageing well: Pilot project](https://doi.org/10.3390/healthcare7040126) - ytterst relevanteftersom den tar upp möjligheterna med citizen-scienze-metoden för en äldre målgrupp fast denna gång kopplat till mer photovoice och grönområden utanför hemmet.
-* [Using photo diaries to elicit user requirements from older adults: A case study on mobility barriers](https://doi.org/10.1007/978-3-319-22701-6_11) - också högst relevant och liknar den ovanlistade studien fast här är det metoden photo diaries som används när äldre ska dokumentera miljöhinder i sitt närområde
+* [Using citizen science to explore neighbourhood influences on ageing well: Pilot project](https://doi.org/10.3390/healthcare7040126) - ytterst relevant eftersom den tar upp möjligheterna med citizen-scienze-metoden för en äldre målgrupp fast denna gång kopplat till mer photovoice och grönområden utanför hemmet.
+
+> A disadvantage of this expert-determined approach is that it often does not consider the appraisals or perceptions of residents. Daily experience, often over long periods of time, means older residents have acquired insider knowledge of their neighbourhood, and thus, may be more qualified to assess these spaces, including measuring what makes a valued or quality public green space.
+
+Det de istället gör här är denna approach:
+
+> The aim of this Australian pilot study on public green spaces for ageing well was to test an innovative citizen science approach to data collection using smart phones. “Senior” citizen scientists trialed the smart phone audit tool over a three-month period, recording and auditing public green spaces in their neighbourhoods. Data collected included geocoded location data, photographs, and qualitative comments along with survey data.
+
+Här kan jag mestreferera till att det gjorts andra försök med appar inom "environmental gerontology" men då främst med miljön utanför den egna bostaden. 
+
+
+* [Using photo diaries to elicit user requirements from older adults: A case study on mobility barriers](https://doi.org/10.1007/978-3-319-22701-6_11) - också högst relevant och liknar den ovanlistade studien fast här är det metoden photo diaries som används när äldre ska dokumentera miljöhinder i sitt närområde.
 
 
 ### PsychINFO
@@ -48,15 +76,62 @@ When I did searches in PsychINFO, I found the following additional and relevant 
 
 * [Are pro-ecological values enough? Determining the drivers and extent of participation in citizen science programs](https://doi.org/10.1080/10871209.2019.1641857) - ytterst relevant! Handlar om engagemang i miljöfrågor efter att man deltagit i citizen science-projekt!
 
+Här är abstract:
+
+> Citizen science programs provide an opportunity for the public to reconnect with nature; however, pro-environmental values may not necessarily result in a high level of participation. This study assessed the values and attitudes toward ecology and conservation of 482 people, including 231 citizen scientists participating in two programs requiring either a ‘complex’ or ‘simple’ level of participation. Positive attitudes toward urban wildlife were positively associated with increased participation in citizen scientist programs; however, a pro-ecological attitude was not always associated with an increasing level of participation. Young adults were more likely to participate in the simple data submitting a program or via social media, while middle-aged and older adults from vegetated suburbs were more likely to participate in the complex data collecting multi-species focused program. These results have implications for strategic design and targeting of citizen science programs to maximize participation rates.
+
+Innehåller också en intressant figur (somvisserligen känns en smula banal) men som jag kan inspireras av:
+
+![Citizen Science Conservation Behavior Feedback model.png](220313-citizen-science-conservation-behavior-feedback-model.png)
+
 ### SocINDEX
 
 When I did searches in SocINDEX, I found the following 11 additional and relevant articles:
 
 * [Can citizen science lead to positive conservation attitudes and behaviors?](https://www.jstor.org/stable/24707571) - ytterst relevant! Handlar om engagemang i miljöfrågor efter att man deltagit i citizen science-projekt!
+
+> ...there has been little investigation of its link to conservation outcomes—particularly in terms of volunteers' further engagement in conservation. This paper reviews the literature on the relationship between participation in citizen science and conservation attitude and behavior changes, and looks at the relevance of theoretical models to shed light on possible drivers of such changes. 
+
+
 * [Citizen, Science, and Citizen Science](https://doi.org/10.1215/18752160-7542643) - relevant. Problematiserar citizen scienze begreppet.
-* [Co-creating Social Change through Citizen Science: Systematic Literature Analysis](https://doi.org/10.6001/fil-soc.v32i2.4416) - Relevant. Systematisk genomgång av litteraturen inom området. 
-* [Cultivating citizen science for all: ethical considerations for research projects involving diverse and marginalized populations](https://doi.org/10.1080/13645579.2019.1704355) - verkar inte ligga någon empiri bakom, alltför sociologisk och "flummigt" resonerande.
-* [From the Radical Psychology Movement to STS: A Journey From the 1960s in Multiple Parts](https://doi.org/10.1080/09505431.2020.1819223) - Relevant. Ee historisk genomgång av vad active involvement i forskning bottnar i för slags folkrörelser. Relevant men kanske framför allt för kappan. 
+* [Co-creating Social Change through Citizen Science: Systematic Literature Analysis](https://doi.org/10.6001/fil-soc.v32i2.4416) - Relevant. Systematisk genomgång av litteraturen inom området. Artikel har ett innovations-och business-anslag och inte alls hälsovetenskapligt. Det gör att den fokuserar just på att få fram ny kunskap och nya innovationer genom co-creation.
+
+Det här gillade jag:
+
+> Research from a variety of perspectives (e.g. open innovation, open government, crowdsourcing, collective intelligence) argues that innovation and new knowledge no longer originates in a single organization (e.g. university, research centre) but rather is distributed in a network of multiple stakeholders. One of the key practices that opens up scientific processes and makes use of networked knowledge is the practice of citizen science (CS).
+
+Det är ju en av drivkrafterna bakom CS som nämns, nödvändigheten i att finna ny kunskapen och därigenom gå utanför den egna organisationen.
+
+CS domineras av natural sciences:
+
+> Most CS projects occur within problem-focused natural science (Crain et al. 2014) and are not firmly established in social sciences (Heiss, Matthes 2017). The survey conducted by Hecker et al. (2018) revealed that 80% of CS projects take place in life and natural sciences and only 11% dig into the questions in social sciences and humanities.  
+
+Expectations on CS:
+
+> Expected outcomes of CS projects include increased knowledge in the field of study by members of the society (Jordan et al.2011), participatory innovations (Hecker et al. 2018), promotion of positive attitudes towards nature (Evans et al. 2005), boosted science literacy (Crall et al. 2012) and responsive education (Bonney et al. 2016). 
+
+Om ursprunget till begreppet co-creation:
+
+> The  concept  of  co-creation  originated  in  the  business  world  where  it  has  been  argued  that value  can  only  be  created  through  cooperation  between  businesses  and  users  (Prahalad, Ramaswamy 2004). Central to such thinking is the engagement of external and internal stake holders through platforms fostering engagement and environments of interaction. Co-creation entails connections and collaboration in generation of the added value for all involved actors  (Lönn,  Uppström  2015).  
+
+Hon skriver också att:
+
+> Information  and  communication  technologies  play a vital role in this process since they can be used to remove institutional and geographical barriers linked with information flows. 
+
+Detta återkommer gång på gång på olika sätt men är ju centralt för varför CS har utvecklats så starkt. Detta är också intressant:
+
+> In the science world, co-creation focuses on new knowledge developed together with and not for members of the public. This has been reflected in the academic literature ‘with a paradigm shift from the deficit model in which the general public is  defined negatively  due to its lack of knowledge to the participative model in which the general public is invited to form part of the scientific endeavour’ (López-Pérez, Olvera Lobo 2018: 1).
+
+De skriver också i sin systematiska litteraturgenomgång om hur fokuset ser ut:
+
+> Co-creation of knowledge requires academics to work alongside other stakeholders. Hence, we also looked into the stakeholders involved in co-creative activities. In most cases, the focus was on citizens (e.g. Mahajan et al.2020; Rogers, Rock 2017; Groulx et al. 2019) and their individual experience in CS processes. 
+
+När detgäller slutsatsen så fann jag inte mycket intressant dessvärre. Detta är ju en litteraturöversikt och det står mest vad som behövs när det gäller co-creation , och eftersom vår studie inte innefattar co-creation känns inte det aktuellt.
+
+* [From the Radical Psychology Movement to STS: A Journey From the 1960s in Multiple Parts](https://doi.org/10.1080/09505431.2020.1819223) - Relevant. En historisk genomgång av vad active involvement i forskning bottnar i för slags folkrörelser. Relevant men kanske framför allt för kappan. Abstractet är bra:
+
+> Activism in the late-1960s through the early 1970s in the radical psychology movement created the foundation for an intellectual critique and political practice that was part of a group of overall radical science movements that would become important components of STS in practice. The radical psychology movement emphasized lay perspectives in science and medicine, public participation in science, alternative care, and citizen-science alliances. The anti-psychiatry movement among professionals complemented this phenomenon. Groups such as Psychologists for a Democratic Society and numerous mental patients' rights groups, publications like The Radical Therapist, radical caucuses in professional organizations, and a burgeoning feminist therapy approach helped create a major challenge to normal science in the mental health sector. Participants in these movements were connected to broader health activism and to radical science efforts. Lessons from these challenges to the status quo were useful in developing critical environmental health and justice movements later on, resulting in civic science and community-based participatory research projects which would become central elements of STS. These traditions also nourished a strong co-existence of scholarship and activism in many arenas of science and medicine.
+
 * [Q-method as a tool to facilitate meaningful public engagement with science](https://doi.org/10.1108/QRJ-01-2019-0005) - Osäker på om den är relevant. En case-study som deduktivt utgår ifrån fölande metod och testar den i det individella metoden: "*Q-methodology (see qmethod.org; Brown, 1993) was developed by Stephenson (1935, 1953) as an approach to capture people’s subjective views of phenomena. To do so, one selects stimuli representing the phenomena under investigation and designs a matrix to rank these stimuli. The theoretical underpinning of the choice of stimuli arises from concourse theory, and the matric design comes from a methodological pillar centred around ranking called Q-sorting and mathematical analysis, which is the Q-factor analysis (Gauzente, 2013).*"
 * [The epistemic culture in an online citizen science project: Programs, antiprograms and epistemic subjects](https://doi.org/10.1177/0306312718778806) - Relevant. Artikeln stöder hypotesen att mycket forskning har riktat in sig på hur valida de data är som samlas in medan det inte varit så stort fokus på vad de som deltagit har lärt sig. Så här skriver författarna: "*much of the discussion on the possibility to engage citizens in scientific work has been about volunteers’ abilities to collect and classify data properly (Cornwell and Campbell, 2011: 105), and about the potential for the development of skills that ensure the quality of observations or classifications. These issues have overshadowed enquiries into what values volunteers develop as epistemic subjects taking part in such projects, a gap addressed in this article in relation to the epistemic culture of a large on-line citizen science project.*"
 * [What Roles Can Lay Citizens Play in the Making of Public Knowledge?](https://doi.org/10.1215/18752160-7542785) - Mycket relevant. Detta är skulle jag säga en form av "*critical theory*" som kritiserar något som kallas "*Third-Wave thesis*". Den tar också upp begreppet "*crowd science*" (som för mig är nytt) "*in which large numbers of lay participants act as “sensors” or “basic interpreters” for natural scientific projects whose problem definition, study design, and data analysis are primarily made and determined by professional scientists (Haklay 2013: 105–22). Equipped merely with what the Third-Wave scholars called “beer-mat knowledge” or at best “primary source knowledge,” (Collins and Evans 2007: 18–23) citizens in crowd science simply contribute their time and labor rather than anything that can be candidly called “contributory expertise.”*"
@@ -121,28 +196,244 @@ Författaren sammanfattar att det rör sig om följande förändringar:
 * b) interconnectivity of citizen science databases with other databases; and 
 * c) automated collection of data
 
-Hon menar att alla dessa spekter och vad de innebär är "largely unexplored". Slutklämmen i hennes artikel är följande:
+Hon menar att alla dessa aspekter och vad de innebär är "largely unexplored". Slutklämmen i hennes artikel är följande:
 
 > We cannot take for granted that all disciplines will or should develop citizen science projects; and in those disciplines that citizen science projects fit, different models can be expected. Nor can we view citizen science simply as something through which we (as scientists) only stand to gain. A more nuanced understanding would conceptualize citizen science as part of broader changes in science related to the use of ICTs; these changes are articulated in different ways across different fields. By ignoring such dynamics we stand to lose: as decision makers, we stand to lose resources spent on projects that fail; as scientists we stand to lose time and effort in such projects. But as societies we also stand to lose insights into the changing dynamics of authority and expertise that citizen science entails. If knowledge is power, new participants in knowledge production will inevitably challenge existing power hierarchies. A research agenda on how citizen science is altering (a) research practices, (b) scientific knowledge, and (c) the role of science in society is sorely needed.
 
-Tycker det ligger mycket i hennes tankar kring detta och att det saknas mer reflekterande artiklar kring kopplingen mellan ICT ch det sätt som citizen science har utvecklats.
+Tycker det ligger mycket i hennes tankar kring detta och att det saknas mer reflekterande artiklar kring kopplingen mellan ICT och det sätt som citizen science har utvecklats. Samtidigt så är det ju så att i vårt projekt är inte detta helt aktuellt.
 
-* [Data Sharing in the Context of Health-Related Citizen Science](https://doi.org/10.1177/1073110520917044)
-* [Does citizen science have the capacity to transform population health science?](https://doi.org/10.1080/09581596.2017.1395393 )
-* [Effects of feedback design and dispositional goal orientations on volunteer performance in citizen science projects](https://doi.org/10.1016/j.chb.2020.106266)
-* [From Crowdsourcing to Extreme Citizen Science: Participatory Research for Environmental Health](https://doi.org/10.1146/annurev-publhealth-040617-013702)
+* [Data Sharing in the Context of Health-Related Citizen Science](https://doi.org/10.1177/1073110520917044) - Abstractetär mycket väskrivet och sammanfattar studien väl: 
+
+> As citizen science expands, questions arise regarding the applicability of norms and policies created in the context of conventional science. This article focuses on data sharing in the conduct of health-related citizen science, asking whether citizen scientists have obligations to share data and publish findings on par with the obligations of professional scientists. We conclude that there are good reasons for supporting citizen scientists in sharing data and publishing findings, and we applaud recent efforts to facilitate data sharing. At the same time, we believe it is problematic to treat data sharing and publication as ethical requirements for citizen scientists, especially where there is the potential for burden and harm without compensating benefit.
+
+* [Does citizen science have the capacity to transform population health science?](https://doi.org/10.1080/09581596.2017.1395393 ) - Artikel som inte är grundad i egentlig direkt empiri mer än att ha läst tidigare studier. Lite fluffig således och det de då kommer fram tillär att "*Complex, intractable, macro-level problems in population health require change in how our journals and funding bodies respond to data generated by the public.*" Det handlar alltså om en attitydförändring hos centrala forskningsaktörer för att komma tilll bukt med det. Resna blir inte enkel,skriver de: "*Of course, democratisation of science and the potential decentralisation of scientific authority will bring deep challenges.*" Men den är förhoppningsvis resan värd: *But potentially it brings a future where population health science is better known, understood and respected, with benefits for the types of public policies that derive from this science.*" 
+
+I teoretiska avsnittet finns en del matnyttigt. De motiverar till att börja med sin strävan så här:
+
+> In this paper, we argue that citizen science offers an untapped pathway to transform population health science and create a larger constituency of citizens who ascribe value to public health and population health science. We argue that the strength of engaging citizen scientists lies not simply in the amount of data they can help generate, but in the mainstreaming of population health as a science, the creation of new actors and, in particular, the elevation of diverse, new and outlying perspectives which may prove critical for addressing the complex, ‘wicked’ problems faced in population health (Termeer, Dewulf, Breeman, & Stlller, 2013).
+
+Här pratar de om "mainstreaming of population health as a science", med andra ord att folkhälsa ska bli något som fler bryr sig om och tar till sig och förstår vikten av och den vetenskapliga grund den vilar på. Men de tar också upp att det särskilt utgör ett sätt att i diskursen lyfta in "*new and outlying perspectives which may prove critical for addressing the complex, ‘wicked’ problems faced in population health*". Om jag dock ska vara kritisk, går dessa inte att få in med sedvanliga studier? Varför måste det utgöras av "citizen science" och på vad sätt menar de att citizen science snarare än någon annan mer inlyssnande mer konventionell metod skulle hjälpa avsevärt?  
+
+Artikelförfattarna är med på noterna och beskriver mer i detalj vad de är ute efter:
+
+> A key question, however, is whether population health science can avoid the traditional conservatism of citizen science, particularly a tendency for it to be used by scientists to reinforce and perpetuate, rather than challenge, the status quo of what constitutes knowledge (Cooper, 2016). Institutional theorists suggest that transformative change requires more than changing the cast of characters involved (Scott, 2008; Weick & Quinn, 1999). It requires methods to constantly reflect on and make sense of the new perspectives gained through involvement of citizens in developing, conducting and interpreting research.
+
+Vilken sorts kunskap och utveckling kan dock medborgare bidra med inom public health såsom författarna ser det? Jo, följande:
+
+> Engaging citizens in collecting and analysing data about the world around them has the potential to provide new insights into the nature of the problems and possible solutions, offer new ways of monitoring the implementation of solutions in population health, and mobilise public demand for effective programmes and policies.
+
+Här ger de också en definition på 'citizen science':
+
+>Citizen science is the involvement of the public in scientific research (Citizen Science Association, 2016).
+
+Om utvecklingen de senaste åren skriver de, och stärker således sitt argument att det hänt grejer de senaste åren:
+
+> Citizen science has expanded with ‘breathtaking speed’ in recent years (Bonney, Cooper, & Ballard, 2016), and globally there are thousands of active citizen science research projects, spanning disciplines as diverse as astronomy, biodiversity, ecology and environmental science, psychology, and tourism. In 2014, the Oxford English dictionary created a definition for citizen science for the first time. In 2015, the US Citizen Science Association held its first conference, with 600 attendees from 25 countries, includ-ing representatives from the European Citizen Science Association and the newly formed Australian Citizen Science Association (Bonney et al., 2016). In the same year, European Citizen Science Association published it’s‘Ten Principles of Citizen Science’(see Box 1; European Citizen Science Association, 2015). In 2016 a new journal, Citizen Science: Theory And Practice, was launched following trends to promote citizen science in the journals Nature, Science, Bioscience, Ecology and Society, Conservation Biology, and others (Bonney et al., 2016).
+
+
+Med andra ord styrks bilden av att det verkligen hänt något det senaste decenniet och det verkar vara just Bonney, som Oskar också nämnt, som är något av portalfiguren.
+
+Så här ser de tio budorden ut:
+
+![Ten principles of citizen science, taken from the European Citizen Science association (2015](/images/220313-ten-principles-of-cs.png)
+
+När det gäller anledningen till att en explosion på senare år skriver de att följande tre anledningar brukar anges:
+
+> A number of factors are thought to be responsible for the explosion of citizen science: (1) the ease of disseminating project information and gathering data through the internet and smart phones; (2) the realisation that at a time of tight budgets and limited resources, the public represent ‘a free source of labour, skills, computational power and even finance’ (Silvertown, 2009, p. 467), and (3) funding agencies requiring that grant holders undertake project-related public outreach (Silvertown, 2009). 
+
+Varför satsas så mycket allmäna medel på detta? Jo, det har ju att göra som jag har varit inne på med en möjlighet till utökad kunkap och att det allmäna känner ett ansvar för att alla samhällsmedborgare ska bli lyssnade på. Så här formulerar de det:
+
+> Public engagement in science has become a key priority for governments, funding bodies and universities, both to encourage innovation and as part of increasing attention to social responsibility (Australian Government Department of Innovation Industry Science & Research, 2010; Pecl, Gillies, Sbrocchi, & Roetman, 2015).
+
+Därefter går de in på hur citizen scien och public health hänger ihop och vilka förhoppningarna är där. Det är också mycket välskrivet. Apropå motivation och willingness att delta, skriver de så här:
+
+> A further challenge in citizen science lies in developing projects which engage the public’s interest and willingness to participate. Engagement is a precursor to participation (Dahlgren, 2011) so knowing the target audience is the vital first step (Raddick et al., 2013). An interest in science and the desire to contribute to scientific research are dominant motivating factors in citizen science (Jennett et al., 2016; Raddick et al., 2013). However, as citizen science expands into population health, new avenues through which to pique interest and engagement may open up, which do not rest on interest in science per se. People care about health and have opinions on what can be done to promote it (Beeken & Wardle,2013).
+
+Just att förbättr människoer hälsa som utgörande en drivkraft, där hade kanske vi i Bostadsförsöketkunnat göra mer när det gäller att kommunicera vad en tillgänglig bostad faktiskt medför och en otillgänglig hindrar. De tar i studien upp att intresse för ämnet och hur angeläget det är för en med den aktuella frågan sannolikt spelar in (dock ej grundat i empiri vad jag kan se - DÄRAV EN MOTIVATION TILL VÅR STUDIE!) :
+
+> For example, parents with young children may perhaps find it more convenient to use their smart phones to report the areas in which their child can play safely than to count stars on their computers at home. 
+
+Vad är då forskares uppgift i detta? Tycker att de faktiskt hittar en bra balans här och det de menar att forskare ska göra här är ju mycket hur forskningscirkeln är tänkt att fungera, dvs. att människor ska kunna föranskra sina känslor, t.ex. sin oro och sina tankar, i forskning och därigenom bli stärkta, och växa men också bli mer upplysta och ansvarsfulla samhällsmedborgare. SÅ här skriver de:
+
+> Our task is to insinuate better science into these dialogues through engagement with the science, rather than face the onerous task of starting them. By tapping into peoples’ concerns and values around health, citizen science projects in population health have the potential to engage a broader cross-section of society than might typically be engaged in citizen science in other disciplines. 
+
+Så återigen, vad är det egentliga problemet? Att folk är "ovetenskapliga" och agerar på det sättet? Ja, det bottnar nog i en vilja till folkupplysning men som här kanske blir enklare därför att forskare är inte enbart hänvisade till ord och retorik i uppmaning om vad människor ska beakta som riskerar deras hälsa, utan här är det en form av learning-by-doing, genom att människor själva får våra med på olika sätt finns en förhoppning om att dels: a) man ska kunna nå fler grupper (inklusive de man inte lår så lätt på mer traditionellt sätt); b) man ska medvetandegöra människor om folkhälsa; c) man vill lära sig saker för att bättre förstå komplexiteten i ett problem och vad som bör beaktas; d) det finns krav uppifrån på att denna lyhördhet och försök till dialog med främst grupper man har svårt att nå är så att säga demokratiskt motiverad. Det är så jag förstått det. Så här skriver de vidare:
+
+> Ensuring engagement across the spectrum of citizens is key to ensuring that the potential benefits of citizen science, such as increased engagement with issues, skills developed through participation, and solutions generated, do not disproportionately benefit those who are already ‘better off’. It is critical to ensure that citizen science doesn’t create new kinds of exclusions or amplify pre-existing disadvantages.
+
+För det finns ju en risk att de reda upplysta bara blir mer upplysta och lär sig ännu mer vad man bör beakta, medan de övriga faller ännu längre ifrån. Här tänker jag att det finns något socialistiskt feltänk här, för det är väl ändå bra om några blir upplysta och lär sig saker än att ingen gör det bara för att det ska vara rättvist. Eller?
+
+
+* [Effects of feedback design and dispositional goal orientations on volunteer performance in citizen science projects](https://doi.org/10.1016/j.chb.2020.106266) - Relevant. Här skriver de om syftet med citizen science projects generellt: 
+
+> the ultimate goal of citizen science projects is to assist large-scale problem-solving in a collaborative way (Cappa et al., 2016; Nov, Arazy, & Anderson, 2014)
+
+Och det kanske stämmer, även om det vill finns fler mål än så.
+
+Vad tidigare forskning om vad citizen science har resulterat i för de olika grupperna och i stort enl. författarna:
+
+> Prior research has also noted citizen science can bring out opportunities for all involved parties. One prominent advantage is the possibility to recruit participants and address large-scale scientific problems at a relatively fast pace and low costs (Cappa et al., 2016). Volunteers can benefit from the experiences of involving in science (Raddick et al., 2013) and learning more knowledge about nature (Land-Zandstra, Devilee, Snik, Buurmeijer, & van de Broek, 2016). Such collaboration among amateurs and professional scientists can promote scientific knowledge discovery and eventually enhance scientific literacy among the general public (Paul, Quinn, Huijser, Graham, & Broberg, 2014).
+
+Blir lite osäker på om de studier som refereras har belägg för detta eller att de endast argumenterar att citizen science *kan* leda till detta.
+
+Angående varför cs har vuxit så mycket, ges på nytt samma skäl kopplat till ICT:
+
+> With the advancement of information technology, online citizen science projects have enabled public collaboration to mitigate the limitations of time and geography, thereby providing new means to solve scientific problems.
+
+När det kommer till motivation och sättet som deltagare medverkar så skriver förf. och DETTA ÄR YTTERST RELEVANT FÖR MIN STUDIE:
+
+> However, prior research has reviewed several citizen science projects and found that only a few groups of participants actively contribute to these projects. By contrast, the majority of the participants stop after a few attempts (Boakes et al., 2016; Prestopnik, Crowston, & Wang, 2017; Sauermann & Franzoni, 2015), thereby resulting in difficulty to achieve the goal of supporting scientific research. Volunteer performance is a critical factor for the success of citizen science (Diner, Nakayama, Nov, & Porfiri, 2018; Laut, Cappa, Nov, & Porfiri, 2017; Nov et al., 2014). The quantity and quality indicators are often used to measure performance in citizen science projects (Nov et al., 2014; Prestopnik et al., 2017). Scientists are more likely to drive high quality contributions from a high volume of contributions (Boudreau, Lacetera, & Lakhani, 2011; Cappa, Oriani, et al., 2019; Cappa, Rosso, & Hayes, 2019). Therefore, how to effectively design citizen science projects to enhance volunteer performance (i.e., quantity and quality of contributions) has become a key issue to be solved.
+
+Vidare skriver de kring motivation att delta följande, ockå YTTERST RELEVANT för vår studie:
+
+> Human behavior can be driven by intrinsic motivation and/or extrinsic motivation (Deci & Ryan, 2000; Ryan & Deci, 2000). Prior research has noted that crowdsourcing participants could be motivated by both intrinsic (i.e., enjoyment, develop skills, interest) (Brabham, 2010; Xu & Li, 2015) and extrinsic motivations (i.e., monetary reward, reputation) (Bogers & West, 2012; Brabham, 2008; Cappa, Oriani, et al., 2019; Zhao & Zhu, 2014). Recent literature in citizen science projects identified that volunteers were mainly driven by intrinsic motivations, such as meaningful, fun, personal interests, learning, and hope to contribute to society (Bowser, Hansen, & Preece, 2013; Tinati, Luczak-Roesch, Simperl, & Hall, 2017). Therefore, extrinsic motivations such as financial incentives or external rewards may not work so well to encourage volunteer participation. Motivational design is thus proposed as a potential approach to encourage volunteer participation (Burbach, Lidynia, Brauner, & Ziefle, 2019; Preece, 2016). Providing feedback is a design mechanism that can lead positive user experience and enhanced user performance by satisfying their motivational needs (Jung, Schneider, & Valacich, 2010; Martinez, 2015; Zhang, 2008). Existing literature has examined feedback design in different ways. Some studies have explored the influences of feedback presentation, such as the timing of feedback (i.e., immediate and delayed) and design format (i.e., sound and text) (Mory, 2004; Nelson & Schunn, 2009), whereas others have focused on the contents of feedback information, such as information types (i.e., descriptive, comparative, and evaluative) and information valence (i.e., positive and negative) (Burgers, Eden, Engelenburg, & Buningh, 2015). Feedback has been found to motivate user participation in many contexts, such as learning (Koll€offel & de Jong, 2016), organization management (Song, Tucker, Murrell, & Vinson, 2017), health care (Hawkins, Kreuter, Resnicow, Fishbein, & Dijkstra, 2008), user-generated content (Huang et al., 2018), and information system (Hassan, Dias, & Hamari, 2019). Citizen science research has also found that feedback can motivate users and potentially enhance their performance (Diner et al., 2018; Laut et al., 2017). For instance, Laut et al. (2017) focused on the impact of social feedback and found that the presence of virtual peers positively influenced volunteer performance. Additionally, studies have also recognized that the effects of feedback could be affected by the recipients’ personal characteristics (Pee, Koh, & Goh, 2018; Wozniak, 2012). In existing studies, limited research has compared the differential impact of feedback type, examined the impact of feedback design and individual characteristics on citizen science research. Therefore, further investigation should be conducted to present an in-depth understanding of feedback design and its influences to improve volunteer performance in citizen science projects.
+
+Deras syfte med studien:
+
+> We aim to... empirically examine how the feedback design matters in citizen science projects.
+
+Med *volonteer performance* är betydelsefullt för hur det går för citizen science projects:
+
+> volunteer performance is critical to the success of citizen science projects (Aristeidou, Scanlon, & Sharples, 2017; Ponciano & Brasileiro, 2014). Prior research has used different variables, such as participation intensity, persistence, quantity, and quality of contributed data, to measure volunteer performance in citizen science or crowdsourcing projects...
+
+Vad volonteer performance kan påverkas av:
+
+> Volunteer performance could be affected by various factors, such as task characteristics (Scheliga, Friesike, Puschmann, & Fecher, 2018; Sprinks et al., 2017), personal interests (Tinati et al., 2017), information quality management strategies, and corresponding data collection design choices (Lukyanenko, Parsons, et al., 2019). In the context of citizen science, participants are generally motivated by personal interests, meaningful and fun experiences, or even the possibilities of learning and contributing to society (Bowser et al., 2013). Although the majority of prior research has appeared to explore and describe the characteristics of citizen science projects and their volunteers (e.g., Bonney et al., 2009; Shirk et al., 2012), only a few studies have discussed the use of motivational design to encourage volunteer participation (Koivisto & Hamari, 2019; Preece, 2016). Individuals inherently aspire to excel and achieve, and providing feedback on performance was found to enhance user performance in idea-generation crowdsourcing tasks (Jung et al., 2010). That is, feedback made volunteers feel valued and encouraged. Therefore, using feedback can enhance volunteers’ self-efficacy and perceived enjoyment by providing them with progressive information and performance statistics (Bharathi, Singh, Tucker, & Nembhard, 2016)
+
+Vad tidigare forskning säger om feedbackens betydelse för volonteer participation inom citizwn science:
+
+> In the context of citizen science, feedback has also been found to influence participants’ experiences or performance. Feedback can inform receivers of their task performance and occasionally indicate the gap between their progress and targets (Curtis, 2014). For example, in the eBird project that focuses on collecting information about the distribution and number of birds, volunteers can submit bird observations via an online platform, check their contribution records, and view the best photos and their creators’ information (Sullivan et al., 2014). Laut et al. (2017) analyzed a citizen science project on environmental monitoring and found that feedback interventions with virtual peer performance help to increase volunteer participation. Scheliga et al. (2018) found that despite the advantages of using feedback intervention, only a few projects appear to have implemented the feedback strategy. These previous studies have provided evidence for the effects of using feedack to encourage volunteer participation in citizen science, but how feedback should be designed is still a question to be addressed. Therefore, we argue that further study is needed to reveal which type of feedback is considerably effective in stimulating volunteer performance in citizen science projects.
+
+DEras eget resultat och slutsatserna från deras egen studie var dessvärre en besvikelse och väldigt teknisk och kvantitativ och den var därför en besvikelse. Tror jag har mest glädje av deras genomgång av kunskapsläget inför studien.
+
+
+* [From Crowdsourcing to Extreme Citizen Science: Participatory Research for Environmental Health](https://doi.org/10.1146/annurev-publhealth-040617-013702) - Relevant. 
+
+Vad de gör i denna studie:
+
+> Here we review varied concepts of participatory research, describe how it complements and overlaps with community engagement and environmental justice, examine its intersection with emerging environmental sensor technologies, and discuss the strengths and limitations of participatory research. 
+
+Det är alltså en teoretisk genomgång av litteratur. Och vad konstaterar de att kunskapsläget är? Jo, så här:
+
+> Although participatory research includes methodological challenges, such as biases in data collection and data quality, it has been found to increase the relevance of research questions, result in better knowledge production, and impact health policies. Improved research partnerships among government agencies, academia, and communities can increase scientific rigor, build community capacity, and produce sustainable outcomes.
+
 * [Gamers, citizen scientists, and data: Exploring participant contributions in two games with a purpose](https://doi.org/10.1016/j.chb.2016.11.035 )
-* [Leaving no one behind - understanding environmental inequality in Europe](https://doi.org/10.1186/s12940-020-00600-2)
-* [Maximizing the promise of citizen science to advance health and prevent disease](https://doi.org/10.1016/j.ypmed.2018.12.016)
-* [Parsing the Line Between Professional and Citizen Science](https://doi.org/10.1080/15265161.2019.1619878)
-* [Quantitative and qualitative evaluation of the COMPASS mobile app: a citizen science project](https://doi.org/10.1080/17538157.2021.1902332)
-* [Rethinking the Way We Do Research: The Benefits of Community-Engaged, Citizen Science Approaches and Nontraditional Collaborators](https://doi.org/10.1111/acer.13492)
-* [Teaching citizen scientists to categorize glitches using machine learning guided training](https://doi.org/10.1016/j.chb.2019.106198)
-* [The Rise of Citizen Science in Health and Biomedical Research](https://doi.org/10.1080/15265161.2019.1619859)
-* [The SMART Framework: Integration of Citizen Science, Community-Based Participatory Research, and Systems Science for Population Health Science in the Digital Age](https://doi.org/10.2196/14056 )
+
+Här är deras rationale:
+
+> Two key problems for crowd-sourcing systems are motivating contributions from participants and ensuring the quality of these contributions. Games have been suggested as a motivational approach to encourage contribution, but attracting participation through game play rather than intrinsic interest raises concerns about the quality of the contributions provided. These concerns are particularly important in the context of citizen science projects, when the contributions are data to be used for scientific research.
+
+Det är ju mycket relevant! OJ och jag har ju pratat just om 'gamification' som ett sätt att öka deltagandet. 
+
+Vad de gjorde i studien:
+
+> To assess the validity of concerns about the effects of gaming on data quality, we compare the quality of data obtained from two citizen science games, one a “gamified” version of a species classification task and one a fantasy game that used the classification task only as a way to advance in the game play. 
+
+Vettigt upplägg ju, en jämförelse mellan "gamification" och ett mer regelrätt game med vetenskapliga mellanakter där man bidrar med sitt kunnande typ. Så vad kommer de fram till?
+
+> Surprisingly, though we did observe cheating in the fantasy game, data quality (i.e., classification accuracy) from participants in the two games was not significantly different. As well, data from short-time contributors was also at a usable level of accuracy. Finally, learning did not seem to affect data quality in our context.
+
+Vad blir således deras slutsats:
+
+> These findings suggest that various approaches to gamification can be useful for motivating contributions to citizen science projects.
+
+Perfekt! Detta är vad jag kan referera till, nämligen att det finns tudier som indikerar att gamification kan vara användbart som ett sätt att motivera.
+
+
+* [The Rise of Citizen Science in Health and Biomedical Research](https://doi.org/10.1080/15265161.2019.1619859) - Bra artikel för kappan. Mycket bra definitioner av olika begrepp.
+
+Förf. definierar citizen science så här: "*a range of participatory models for involving nonprofessionals as collaborators in scientific research*".
+
+Syftet med artikeln:
+
+> This article provides background on citizen science, examples of current projects in the field, and discussion of established and emerging ethical issues for citizen science in health and biomedical research.
+
+Vidare skriver hon:
+
+> Citizen science is well developed in fields like ecology and astronomy, where there is a long history of nonprofessionals making substantive contributions to the scholarly knowledge base. 
+
+Ytterligare om begreppet citizen science och hur det idag används:
+
+> the common definition describes a form of research collaboration involving the public in scientific research to address real-world problems (Bonney et al. 2009), which neither requires the research to be initiated by members of the public nor presupposes a “crowdsourcing” model of engagement. Notably, the word “citizen” in citizen science refers refer to voluntary participation by nonprofessional contributors. Originally expressed in hyphenated form as “citizen-science” to refer to a type of partnership between formal science and individual members of the public, the nonhyphenated phrase is now used in reference to a wide range of models of public engagement in research.
+
+Mycket bra definition av *contributory* citizen science som ju det är frågan om i vårt projekt:
+
+> Contributory citizen science projects focus on engaging participants in a limited portion of the scientific research process, using a common citizen science model that “engages a dispersed network of volunteers to assist in professional research using methodologies that have been developed by or in collaboration with professional researchers” (Cooper et al. 2007, 2) in a top-down structure, with the explicit expectation that volunteers are involved primarily in data collection to address researchers’ questions.
+
+Mycket bra definition av *co-creating* citizen science:
+
+> Co-created citizen science applies a very different strategy, with members of the public (usually framed as a community) engaged in most or all of the scientific inquiry process, with or without the involvement of a professional scientist. These projects often take on a bottom-up or grass-roots structure and a substantively different approach from conventional science. Typical goals can include empowerment and direct action focused on shared concerns (Shirk et al. 2012, Wandersman 2003)
+
+Om data collection i citizen science:
+
+> Data collection projects dominate in environmentally focused citizen science but are inherently more challenging in health contexts, a concern that led the U.S. National Institutes of Health to host a workshop in 2015 on the ethical, legal, and social implications of citizen science (National Institutes of Health 2015). Ensuring that participants are not solely research subjects but can also contribute in an expanded role is a primary criterion for determining whether the term “citizen science” applies. Engaging the public in data collection can be accomplished through either a contributory or co-created model; contributory data collection projects typically benefit from the scale and distribution of volunteers, while co-created projects leverage participants’ localized knowledge and specific interests. Currently, most data collection citizen science projects are observational studies of personal health data, microbiomes, and sensory pollution.
+
+Och vidare om healthdata och data collection i citizen science projekt som leds från en instutitionell kontaxt (som vårt):
+
+> Most citizen science focused on data collection that is led from an institutional context (typically academic or nonprofit) involves very limited forms of personal health data, or keeps the individual at arm’s length
+
+Vidare skriver hon:
+
+> Many additional projects in ecology [in community-driven citizen science] also focus on issues such as air and water quality that have direct impacts on, and are often motivated by concerns over, human health impacts (McKinley et al. 2017).
+
+Hon skiljer här alltså på citizen science som initieras från en institution respektive community. Kanske är det också denna mer påtaglighet av ett problem som finns i den senare som gör att de sannolikt väcker större intresse och engagemang (åtminstone i närområdet)
+
+Om observationsstudier i citizen science:
+
+> Observational studies, in which a citizen scientist observes a situation or organism and collects data about it, form the basis for most established citizen science and are often conducted in a contributory mode. Data collection can be distributed across a wide set of individuals, creating new opportunities for research at previously unheralded geographic, temporal, and demographic scales. The resulting data are usually then sent to a professional scientist or submitted to a database for automated analysis as part of the epistemic conversion to knowledge. Such projects often have a primary goal of producing science outputs, including traditional scholarly products and applied outcomes such as data-driven decisions. At the other end of the spectrum, co-created observational projects may operate similarly but focus on specific issues of local interest, or involve only community members without engaging a professional researcher
+
+Det är väl något snarligt vi har gjort, bara att det inte väl är en observation utan kräver också att man mäter själva fenomenet, men kanske är det ändå en form av observaton.
+
+Interventionsstudier i citizen science:
+
+> Interventional research, in which an intervention is made during the course of the study, is exceedingly rare in citizen science outside of health and biomedical sciences: Experimental designs (the closest approximation in other sciences) are difficult to design for effective execution by dozens to thousands of enthusiastic co-investigators. 
+
+Det som vi har gjort i utvärderingsstudien är väl på sätt och vis en form av interventonen där vi studerar "effekten av" även om vi inte uttrycker oss så.
+
+I artikeln skiljs också på formerna N-of-We och N-of-many-1's, där den föra är just människor som går samman för att driva en angelägen fråga och samlar in data till stöd för den , medan den andra, som är det vi gö, beskrivs så här:
+
+> In contrast to primarily public-driven forms of citizen science, an emergent model integrates traditional observational research, such as a longitudinal cohort study, with the contributory citizen science methods popular in other disciplines. This model does not offer a community-driven full-process research experience like the N-of-we studies, but instead standardizes methods and aggregates individual experiences so that the N-of-1 data can aggregate up into more epistemologically conventional research analyses (Nafus 2017), typically carried out by professional scientists.
+
+> When the projects follow a more typical contributory citizen science participation model where research advantages for traditional science are fairly clear, the ethical question of “who benefits?” is forefronted and rewards to contributors are explicitly considered. Some of these projects offer personalized services like those in the N-of-1 space (customized or individualized data displays are most common), others provide access to raw data for export, and still others provide no explicit rewards to participants beyond the intrinsic satisfaction of contributing to scientific research.
+
+Artikelns slutsats:
+
+> This article identifies several dimensions of citizen science that point to a variety of ethical considerations, many of which are currently overlooked, to open an overdue conversation around ethical engagement of the public in science. These issues are ripe for discussion as there are few clear solutions in sight despite the growth of citizen science in health and biomedical research. We also highlight an imperative for pluralistic approaches, since current ethics regimes are often mismatched to the fundamentals of citizen science. Pluralistic ethics implies a need for not only multiple modes of ethical engagement, but also effective strategies for determining which ones apply to a given situation, which is no small challenge given the growing diversity of citizen science models. We also encourage researchers and ethicists to acknowledge that the Pandora’s box of citizen science has already been flung open wide, and ignoring the consequences would be denying the realities of a changing research landscape. Despite the challenges posed by citizen science, its payoffs can be substantial, and hold potential to guide the evolution of research ethics in an ultimately rewarding direction.
+
 * [The value and acceptance of citizen science to promote transit accessibility](https://doi.org/10.3233/TAD-2010-0280)
+
+HAr ett välformulerat abstract:
+
+> We propose that citizen science methods can engage riders with disabilities and others in improving public transportation accessibility by documenting and assessing problems and good solutions throughout the system. This will empower riders, resulting in a greater understanding of the transportation system, and improve the feedback loop between rider and provider. This paper includes findings on how riders prefer to report such observations through an experiment designed to compare the modalities of the Notes (text, audio) and Media (none, photo, video). The results from two user groups, those without disabilities and those who use wheeled mobility devices, suggest that text with photo should be supported and that use of video may not have additional value to end users. The generally positive responses suggest that end users are open to participating in such communities and that feedback is important. 
+
+Eftersom artikeln handlar om tillgänglighet går jag ändå in och läser den lite närmare.
+
+Fannen intressant grej som eventuellt kan tas till diskussionen i vår artikel. Det handlar om att foto eller videodokumentation av hinder för tillgänglighet och som tillåter en form av real-time-access kanske skulle ha engagerat mer. Så här skriver de:
+
+> A good participatory action design [7] approach is to go further and enable real time access to the data, thereby enabling continuous interaction between researchers and end users. There are many examples that demonstrate the value of using this form of data collection. Major network news channels, accident reconstruction teams, courts, and law enforcement routinely utilize information obtained by citizens on camera phones and camcorders. The popularity of YouTube and similar sites demonstrates the potential for using these methods as a means of civic engagement and public discourse. 
+
+Kanske var våra datainsamlingsmetoder lite "torra" i dessa visuella tider och inte så lockande därför. Hade man t.ex. kunnat tagit bilder på hinder inom vissa områdenoch sen låtit  publicerat dem närmast live (efter lite redigering) och man kunde få tillgång till dem på hemsidan så hade det kanske lockat fler, eftersom en bild i detta fall säger ganska mycket. Å andra sidan hade det krävs ett eventuellt mer komplicerat handhavande med mobilen (eller inte) kanske hade räkt med att skicka sms, och se hade väl etiken blivit svår att lösa när det inte längre blev ananomy data.
+
+Deras resultat slutligen:
+
+> The consistent, favorable results for the text with photo condition suggest this combination has merit.This is supported by the large quantities of MMS-based reports collected during citizen science accessibility efforts in Barcelona and elsewhere. 
+
 * [(Un)theorizing citizen science: Investigation of theories applied to citizen science studies](https://doi.org/10.1002/asi.24308)
+
+Bra referens om lärande och beteendeförändringar efter deltagande i citizen science:
+
+> Price and Lee (2013) observed a significant improvement in individuals'levels of scientific literacy during a scientific project in astronomy. Engagement in citizen science can also generate experiences that lead to transformative learning (Groulx, Brisbois,Lemieux, Winegardner, & Fishback, 2017), that is, a learningprocess that precipitates change in a frame of reference, suchas associations, concepts, values, feelings, and conditioned responses, which define one's life world (Mezirow, 1997, p. 5). In this vein, Dean et al.'s (2018) survey of reef citizen science event participants revealed that most of the respondents reported greater willingness to share information about reef conservation, increase support for marine science and conservation, and adopt new conservation behaviors. The authors also observed that key elements of the citizen science experience associated with these outcomes were procedural learning about actions to protect reefs and coasts, and affective experiences, such as surprise and negative emotions associated with current marine environmental problems
+
 * [Using citizen science to understand the prerequisites for physical activity among adolescents in low socioeconomic status neighborhoods - The NESLA study](https://doi.org/10.1016/j.healthplace.2020.102387 )
+
+Studie som också fokuserar på tillgänglighet, i detta fall saker som hindrar fysisk aktivitet. Här är abstractet:
+
+> Socioeconomic status (SES) as well as adolescents' perceptions of the neighborhood's built and social environments have been shown to influence adolescents' physical activity. Twenty-four adolescents from two low SES neighborhoods in Sweden participated as citizen scientists, using the Stanford Discovery Tool app on their phones to take photographs and record audio narratives of aspects of their neighborhood that they perceived facilitate or hinder their physical activity. The most frequently reported facilitators were ‘parks, playgrounds and outdoor gym’ as well as ‘amenities’ and ‘sport facilities’, whereas lack of or shortcomings regarding ‘bikeability and walkability’, ‘personal safety’ and ‘lighting’ were the most frequently reported barriers. The results will be used to inform local politicians and policy makers about new ways to improve physical activity among residents in Sweden's low SES neighborhoods. Also, this study shows that a Swedish version of the Discovery Tool app is acceptable and can generate useful information in the context of adolescents from disadvantaged neighborhoods.
+
+
+Hur built environment påverkar fysisk aktivitet:
+
+>  The built environment impacts levels of physical activity, and access to green public spaces, walking and biking paths, and sport facilities are positively associated with physical activity in both youths and adults (Sallis et al., 2012, 2016; Mcgrath et al., 2015; Molina-Garcia et al., 2017; Smith et al., 2017; Althoff et al., 2017; Sundquist et al., 2011; Schipperijn et al., 2017, Physical Activity Guidelines Advisory Committee Scientific Report 2018.; Rundle et al., 2019).
 
 ## What comes next
 What is to be done next is to go through the hits I get for the various searches and identify at around 30-40 articles that seem very relevant and then read and summarize them to get a better understanding of what knowledge there is and what knowledge is lacking.
