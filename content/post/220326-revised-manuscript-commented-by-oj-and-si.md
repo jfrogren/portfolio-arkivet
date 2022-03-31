@@ -7,8 +7,8 @@ categories: [""]
 
 I had created a [letter]() and a [revised muniscript]() that I sent to my supervisors for comments and I got the following feedback from them:
 
-* []()
-
+* [Revised manuscript with feedback from supervisors](https://lu.app.box.com/file/938686999990)
+* [Cover letter](https://lu.app.box.com/file/938692272416)
 
 <!--
 
