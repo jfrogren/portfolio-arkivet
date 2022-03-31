@@ -5,10 +5,12 @@ draft: false
 categories: [""]
 ---
 
-I had created a [letter]() and a [revised muniscript]() that I sent to my supervisors for comments and I got the following feedback from them:
+I had created a [cover letter](https://lu.app.box.com/file/938709071615) and a [revised manuscript](https://lu.app.box.com/file/938714549899)  as well as some tables ([S1 Table](https://lu.app.box.com/file/938710859448) + [S4 Table](https://lu.app.box.com/file/938708050412)) and figures ([S2 Figure](https://lu.app.box.com/file/938711106816) + [S3 Figure](https://lu.app.box.com/file/938710389196)) that I sent to my supervisors for comments and I got the following feedback from them:
 
 * [Revised manuscript with feedback from supervisors](https://lu.app.box.com/file/938686999990)
 * [Cover letter](https://lu.app.box.com/file/938692272416)
+
+
 
 <!--
 
