@@ -1,0 +1,53 @@
+---
+title: "Minutes from Joakim's supervision"
+date: "2021-09-03"
+draft: false
+categories: [""]
+runningheader: "Minutes from Joakim's supervision" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_handout:
+    latex_engine: xelatex
+tufte::tufte_book:
+  citation_package: natbib
+  latex_engine: xelatex
+bibliography: library.bib
+urlcolor: blue
+link-citations: no
+
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+## 1. Individual Study Protocol (ISP)
+
+During this supervision, we mainly discussed the revision of the Individual Study Plan (ISP). JF had sent out a draft of the ISP beforehand which the supervisors had read and commented. Afterwards OJ and SI also sent me their feedback in written form.
+
+It was pointed out that the ISP should be regarded mainly as a stepping stone or like a formal, bureaucratic document that needs to be filled out but that it should not be given the same amount of attention as for example the portfolio or the kappa. It should however give a clear indication of thoughts, ideas and strategies that will eventually be given more thought and be expressed in more detail in these documents.
+
+It was emphasized that JF needs to justify more explicitly why and how study II was included and in what way it constitutes a complement to the other studies. This could be done separately towards the end of the document. Similarly, in the description of year III and year IV, JF needs to describe more of what has been changed including the work-in-progress for study IV. When it comes to educational courses, there will be no time for that so that can be written explicitly. Furthermore, JF was given the suggestion to browse International conferences and attend a conference around autumn 2022. It is possible for JF to attend a conference even after his PhD is formally over.
+
+It was decided that JF will send an updated version of the ISP on Wednesday (8/9) and then the supervisors will have a day or two to look through it before SI sends it to the head of the department, EA.
+
+## 2. Update RL on study III
+
+Before the next supervision, JF will contact RL to decide on a time for a Zoom call during which JF will update on the setup and aim of study III. 
+
+## 3. Next supervision
+
+The next supervision will be on **November 1, 11-12.30**, held through Zoom (<https://lu-se.zoom.us/j/64141148912>). 
+
+The focus of the next supervision will be on the kappa. JF is expected to have created an initial draft or framework of the kappa and to send it so that the supervisors have it in their mailbox at 8 AM on October 27. The draft is expected to contain an *introduction* in which JF will position himself in the discourse of collaborative research. Furthermore, the draft should include a *terminology* or list of the essential concepts that he will be using including justifications of why he has chosen to use these concepts and not others. Moreover, the draft needs to contain the *overall purpose* of the thesis and the *specific aims*.
+
+

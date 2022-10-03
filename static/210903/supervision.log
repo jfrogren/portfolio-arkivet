@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.3.16)  25 AUG 2021 06:28
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.3.16)  20 OCT 2021 16:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -893,19 +893,24 @@ LaTeX Info: Redefining \selectfont on input line 72.
 
 \langwohyphens=\language3
 LaTeX Font Info:    Font shape `TU/Inconsolata(0)/m/n' will be
-(Font)              scaled to size 10.32364pt on input line 129.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 129
+(Font)              scaled to size 10.32364pt on input line 123.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 123
 .
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 129
+LaTeX Font Info:    Trying to load font information for U+msb on input line 123
 .
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 ]
+
+Package bibentry Warning: You have used \nobibliography* 
+(bibentry)                without a following \bibliography.
+(bibentry)                You may not be able to run BibTeX.
+
 
 Package fontspec Info: Font family 'TeXGyrePagella(1)' created for font 'TeX
 (fontspec)             Gyre Pagella' with options
@@ -942,26 +947,17 @@ apping=tex-text;"
 (fontspec)             Pagella/BI/OT:script=latn;language=dflt;letterspace=10;+
 smcp;mapping=tex-text;"
 
-[2]
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-Package bibentry Warning: You have used \nobibliography* 
-(bibentry)                without a following \bibliography.
-(bibentry)                You may not be able to run BibTeX.
-
-[3] (./supervision.aux)
+[2] (./supervision.aux)
 Package rerunfilecheck Info: File `supervision.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15344 strings out of 478930
- 280716 string characters out of 5866273
- 671508 words of memory out of 5000000
- 34856 multiletter control sequences out of 15000+600000
- 409320 words of font info for 89 fonts, out of 8000000 for 9000
+ 15320 strings out of 478930
+ 280354 string characters out of 5866273
+ 672343 words of memory out of 5000000
+ 34840 multiletter control sequences out of 15000+600000
+ 406212 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 118i,11n,140p,288b,555s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 118i,11n,140p,288b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on supervision.pdf (3 pages).
+Output written on supervision.pdf (2 pages).

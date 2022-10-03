@@ -1,0 +1,54 @@
+---
+title: "Agenda for Joakim’s supervision"
+date: "2022-02-02"
+draft: false
+categories: [""]
+runningheader: "Agenda for Joakim’s supervision" 
+subtitle: ""
+author: "Joakim Frögren"
+output:
+  tufte::tufte_handout:
+    latex_engine: xelatex
+tufte::tufte_book:
+  citation_package: natbib
+  latex_engine: xelatex
+bibliography: library.bib
+link-citations: no
+
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+* Time: 9-10 am
+* Zoom link: <https://lu-se.zoom.us/j/61617464801>
+
+
+## 1. Kappa
+Supervisors provide feedback on the draft of the kappa
+
+## 2. Study III
+JF gives an update on Study III (panel study article)
+
+## 3. Study IV 
+JF gives an update of Study IV and what lies ahead when it comes to this study.
+
+## 4. Timetable 
+JF gives an update of how he is planning the time he has left of his PhD studies.
+
+## 5. Individual Study Plan (ISP)
+Discussion about JF's ISP and how and when to update it.
+
+## 6. Other questions
+
+## 7. Next supervision
+

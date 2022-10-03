@@ -1,0 +1,47 @@
+---
+title: "UserAge-seminarium"
+date: "2021-04-14"
+draft: false
+runningheader: "UserAge-seminarium"
+subtitle: "Mina lösa anteckningar från evenemanget" # only for html output
+author: "JF"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: 
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: library.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+---
+
+## Introduktion 
+
+Vi hade fått i uppgift att läsa SH:s utkast till artikelmanus ([brödtext](https://lu.app.box.com/file/796738885716) plus en [tabell](https://lu.app.box.com/file/796736992531))och diskutera det under detta seminarium. Så här skrev SH i sitt mejl när det gäller vad vi skulle fokusera på i vår läsning:
+
+> *Vad ser du som det viktigaste, kan något utgå/komprimeras utan att begripligheten påverkas?*
+> *Tillför tabellen något? (Den finns i ett separat dok.) Går tabellen att utforma smartare?*
+> *Jag tar gärna emot tips på tidskrifter och synpunkter på bättre formuleringar där jag använt swenglish eller någon annan variant på ej vedertaget språk! Att balansera  knastertorrt, klarspråk och kryptiskt är ibland som att kryssa mellan Skylla och Karybdis...* 
+> *I övrigt vill jag påpeka att Endnote har gått i spinn på några ställen, så bortse från de referenser som ser knasiga ut.*
+
+## Mina kommentarer till artikelmanuset 
+
+Vid min egen genomläsning av artikelmanuset gjorde jag följande reflektioner.
+
+## Sammanfattning av diskussion vid seminariet
+

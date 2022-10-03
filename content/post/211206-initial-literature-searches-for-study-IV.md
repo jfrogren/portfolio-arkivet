@@ -30,19 +30,19 @@ AND ("senior citizens" OR "older person" OR "older persons" OR "older adult" OR 
 
 I started out searching in SCOPUS database.  I noticed that for the 76 articles I received there for this search, frequent keywords were "Participatory research" and "Built environment" so I added thes words to the search. I also did a few searches with only the "mass experiments" terms. I found the following 31 relevant articles in SCOPUS:
 
-* [A nationwide assessment of plastic pollution in the Danish realm using citizen science](https://doi.org/10.1038/s41598-020-74768-5)
-* [A novel approach to increase physical activity in older adults in the community using citizen science: a mixed-methods study](https://doi.org/10.1007/s00038-019-01230-3)
-* [Adapting a person's home in 3D using a mobile app (mapit): Participatory design framework investigating the app's acceptability](https://doi.org/10.2196/24669)
-* [Age-Friendly Walkable Urban Spaces: A Participatory Assessment Tool](https://doi.org/10.1080/02763893.2016.1224791)
-* [Assessing the needs of older people in urban settings: integration of emotive, physiological and built environment data](https://doi.org/10.1002/geo2.37)
-* [Barrier-free park in prizren - Visioning workshop involving persons with disability and the elderly](https://doi.org/10.1556/606.2018.13.2.23)
-* [Challenges of recruitment and retention of older people from culturally diverse communities in research](https://doi.org/10.1017/S0144686X07006976)
-* [Combining the digital, social and physical layer to create age-friendly cities and communities](https://doi.org/10.3390/ijerph18010325)
-* [Design Thinking as a Means of Citizen Science for Social Innovation](https://doi.org/10.3389/fsoc.2021.629808)
-* [Employing participatory citizen science methods to promote age-friendly environments worldwide](https://doi.org/10.3390/ijerph17051541)
-* [Environmental, individual and personal goal influences on older adults’ walking in the helsinki metropolitan area](https://doi.org/10.3390/ijerph16010058)
-* [Experiences of the built environment, falls and fear of falling outdoors among older adults: An exploratory study and future directions](https://doi.org/10.3390/ijerph17041224)
-* [High motivation and relevant scientific competencies through the introduction of citizen science at secondary schools: An assessment using a rubric model](https://doi.org/10.4324/9781315458618)
+* [A nationwide assessment of plastic pollution in the Danish realm using citizen science](https://doi.org/10.1038/s41598-020-74768-5) - relevant
+* [A novel approach to increase physical activity in older adults in the community using citizen science: a mixed-methods study](https://doi.org/10.1007/s00038-019-01230-3) - not relevant
+* [Adapting a person's home in 3D using a mobile app (mapit): Participatory design framework investigating the app's acceptability](https://doi.org/10.2196/24669) - relevant
+* [Age-Friendly Walkable Urban Spaces: A Participatory Assessment Tool](https://doi.org/10.1080/02763893.2016.1224791) - relevant
+* [Assessing the needs of older people in urban settings: integration of emotive, physiological and built environment data](https://doi.org/10.1002/geo2.37) - relevant
+* [Barrier-free park in prizren - Visioning workshop involving persons with disability and the elderly](https://doi.org/10.1556/606.2018.13.2.23) - relevant
+* [Challenges of recruitment and retention of older people from culturally diverse communities in research](https://doi.org/10.1017/S0144686X07006976) - relevant about recruiting people from various cultural backgrounds
+* [Combining the digital, social and physical layer to create age-friendly cities and communities](https://doi.org/10.3390/ijerph18010325) - relevant since it has an interesting conceptualization of three layers important for creating age-friendly communities and cities: Digital, Social and Physical.
+* [Design Thinking as a Means of Citizen Science for Social Innovation](https://doi.org/10.3389/fsoc.2021.629808) - Relevant.  Well-structured article with well-written theoretical part that I could get some inspiration from.
+* [Employing participatory citizen science methods to promote age-friendly environments worldwide](https://doi.org/10.3390/ijerph17051541) - Relevant mainly due to result stating that: "*Results from 14 Our Voice studies that have occurred across five continents demonstrate that older adults can learn to use mobile technology to systematically capture and collectively analyze their own data. They can then successfully build consensus around high-priority issues that can be realistically changed and work effectively with local stakeholders to enact meaningful environmental and policy changes that can help to promote healthy aging.*"
+* [Environmental, individual and personal goal influences on older adults’ walking in the helsinki metropolitan area](https://doi.org/10.3390/ijerph16010058) - Not relevant
+* [Experiences of the built environment, falls and fear of falling outdoors among older adults: An exploratory study and future directions](https://doi.org/10.3390/ijerph17041224) - Not relevant
+* [High motivation and relevant scientific competencies through the introduction of citizen science at secondary schools: An assessment using a rubric model](https://doi.org/10.4324/9781315458618) - Intressant därför att den tar upp lärande genom citizen science, visserligen för skolelever, men ändå.
 * [How is respect and social inclusion conceptualised by older adults in an aspiring age-friendly city? A photovoice study in the north-west of England](https://doi.org/10.3390/ijerph17249246)
 * [How can we test plastic pollution perceptions and behavior? A feasibility study with Danish children participating in “the Mass Experiment”](https://doi.org/10.1016/j.scitotenv.2021.150914) - study similar to ours! 
 * [Identification of starting points to promote health and wellbeing at the community level - A qualitative study](https://doi.org/10.1186/s12889-019-6425-x)
