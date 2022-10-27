@@ -5,7 +5,7 @@ draft: false
 categories: ["Supervision"]
 ---
 
-Today, I had supervision and [here](/210330/supervision.html) is the protocol. In addition to the oral feedback, the supervisors also provided me with written feedback on the manuscript for Study II which I have listed here:
+Today, I had supervision and [here](210330/supervision.html) is the protocol. In addition to the oral feedback, the supervisors also provided me with written feedback on the manuscript for Study II which I have listed here:
 
 * [OJ's feedback](https://lu.app.box.com/file/793287882818) on my manuscript for Study II
 * [SI's feedback](https://lu.app.box.com/file/793222561185) on my manuscript for Study II

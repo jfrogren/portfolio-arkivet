@@ -6,7 +6,7 @@ categories: [""]
 ---
 
 
-I have recently created a first draft of the digital survey for Study III using REDCap and sent it to OJ, MG and SI for feedback as described in [this](https://portfolio.arki.vet/2021/06/08/first-draft-of-digital-survey-in-redcap/) earlier post.
+I have recently created a first draft of the digital survey for Study III using REDCap and sent it to OJ, MG and SI for feedback as described in [this](https://frogren.se/2021/06/08/first-draft-of-digital-survey-in-redcap/) earlier post.
 
 The feedback I received from them is gathered here:
 
