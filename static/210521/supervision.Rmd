@@ -7,6 +7,7 @@ runningheader: "Protocol from Joakim's supervision"
 subtitle: ""
 author: "JF"
 output:
+  tufte::tufte_html: default
   tufte::tufte_handout:
     latex_engine: xelatex
 tufte::tufte_book:
