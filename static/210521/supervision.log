@@ -1,54 +1,48 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.3.16)  25 AUG 2021 06:28
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.13)  27 OCT 2022 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **supervision.tex
 (./supervision.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-handout.cl
-s
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-handout.cls
 Document Class: tufte-handout 2015/06/21 v3.5.2 Tufte-handout class
-
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-common.def
 File: tufte-common.def 2015/06/21 v3.5.2 Common code for the Tufte-LaTeX styles
-
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/User
-s/joafr/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks15
-\XKV@tempa@toks=\toks16
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+(/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count175
+\XKV@depth=\count181
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count176
-\calc@Bcount=\count177
+\calc@Acount=\count182
+\calc@Bcount=\count183
 \calc@Adimen=\dimen138
 \calc@Bdimen=\dimen139
 \calc@Askip=\skip47
 \calc@Bskip=\skip48
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count178
+\calc@Ccount=\count184
 \calc@Cskip=\skip49
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hardwrap/hardwrap.sty
 Package: hardwrap 2011/02/12 v0.2 Hard wrap messages
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
@@ -58,24 +52,24 @@ Package pdftexcmds Info: \pdfdraftmode not found.
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-\hw@charcount=\count179
-\hw@wordcount=\count180
-\hw@maxprintline=\count181
+\hw@charcount=\count185
+\hw@wordcount=\count186
+\hw@maxprintline=\count187
 )
 Class tufte-handout Info: Loading the base class `article'
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
 \abovecaptionskip=\skip50
 \belowcaptionskip=\skip51
 \bibindent=\dimen140
@@ -85,211 +79,185 @@ Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-02-18 L3 programming layer (loader) 
-
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.de
-f
-File: l3backend-xetex.def 2021-03-02 L3 backend support: XeTeX
-(|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count190
-\l__color_backend_stack_int=\count191
-\g__graphics_track_int=\count192
-\l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count193
-\g__pdf_backend_annotation_int=\count194
-\g__pdf_backend_link_int=\count195
+) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-09-28 L3 backend support: XeTeX
+\g__graphics_track_int=\count196
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count197
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
 ))
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse-202
-0-10-01.sty
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse-gen
-eric.tex)))
-Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count196
-\l__fontspec_language_int=\count197
-\l__fontspec_strnum_int=\count198
-\l__fontspec_tmp_int=\count199
-\l__fontspec_tmpa_int=\count266
-\l__fontspec_tmpb_int=\count267
-\l__fontspec_tmpc_int=\count268
-\l__fontspec_em_int=\count269
-\l__fontspec_emdef_int=\count270
-\l__fontspec_strong_int=\count271
-\l__fontspec_strongdef_int=\count272
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count266
+\l__fontspec_language_int=\count267
+\l__fontspec_strnum_int=\count268
+\l__fontspec_tmp_int=\count269
+\l__fontspec_tmpa_int=\count270
+\l__fontspec_tmpb_int=\count271
+\l__fontspec_tmpc_int=\count272
+\l__fontspec_em_int=\count273
+\l__fontspec_emdef_int=\count274
+\l__fontspec_strong_int=\count275
+\l__fontspec_strongdef_int=\count276
 \l__fontspec_tmpa_dim=\dimen141
 \l__fontspec_tmpb_dim=\dimen142
 \l__fontspec_tmpc_dim=\dimen143
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (
-/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/realscripts/realscripts.sty
-Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
-ts
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscripts
 \subsupersep=\dimen144
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/metalogo/metalogo.sty
 Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 105.
+Package graphics Info: Driver file: xetex.def on input line 107.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+\stockwidth=\dimen145
+\stockheight=\dimen146
 ))
-\Gin@req@height=\dimen145
-\Gin@req@width=\dimen146
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
 )
-\xl@everylogo=\toks17
-\xl@@everylogo=\toks18
+\xl@everylogo=\toks18
+\xl@@everylogo=\toks19
 LaTeX Info: Redefining \TeX on input line 193.
 LaTeX Info: Redefining \LaTeX on input line 202.
 LaTeX Info: Redefining \LaTeXe on input line 219.
 )
-\l__xetex_show_hyphens_wrapping_box=\box48
-\l__xetex_show_hyphens_temp_box=\box49
-\l__xetex_show_hyphens_final_box=\box50
-\g__xetex_show_hyphens_word_box=\box51
+\l__xetex_show_hyphens_wrapping_box=\box52
+\l__xetex_show_hyphens_temp_box=\box53
+\l__xetex_show_hyphens_final_box=\box54
+\g__xetex_show_hyphens_word_box=\box55
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box52
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box56
 \beforetitleunit=\skip52
 \aftertitleunit=\skip53
-\ttl@plus=\dimen147
-\ttl@minus=\dimen148
-\ttl@toksa=\toks19
-\titlewidth=\dimen149
-\titlewidthlast=\dimen150
-\titlewidthfirst=\dimen151
+\ttl@plus=\dimen149
+\ttl@minus=\dimen150
+\ttl@toksa=\toks20
+\titlewidth=\dimen151
+\titlewidthlast=\dimen152
+\titlewidthfirst=\dimen153
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titletoc.sty
-Package: titletoc 2019/10/16 v2.13 TOC entries
-\ttl@leftsep=\dimen152
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen154
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
-sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.st
-y
+) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count277
 )
-\@linkdim=\dimen153
-\Hy@linkcounter=\count273
-\Hy@pagecounter=\count274
+\@linkdim=\dimen155
+\Hy@linkcounter=\count278
+\Hy@pagecounter=\count279
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
-)
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-langpatche
-s.def
-File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
-nguages
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count275
+\Hy@SavedSpaceFactor=\count280
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4073.
-Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Option `unicode' set `true' on input line 4045.
+Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count276
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count281
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen154
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen156
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count277
-\Field@Width=\dimen155
-\Fld@charsize=\dimen156
-Package hyperref Info: Hyper figures OFF on input line 6075.
-Package hyperref Info: Link nesting OFF on input line 6080.
-Package hyperref Info: Hyper index ON on input line 6083.
-Package hyperref Info: backreferencing OFF on input line 6090.
-Package hyperref Info: Link coloring OFF on input line 6095.
-Package hyperref Info: Link coloring with OCG OFF on input line 6100.
-Package hyperref Info: PDF/A mode OFF on input line 6105.
-LaTeX Info: Redefining \ref on input line 6145.
-LaTeX Info: Redefining \pageref on input line 6149.
+\Fld@menulength=\count282
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-\Hy@abspage=\count278
-\c@Item=\count279
+\Hy@abspage=\count283
+\c@Item=\count284
 )
 Package hyperref Info: Driver: hxetex.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+File: hxetex.def 2022-09-22 v7.00t Hyperref driver for XeTeX
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-)
-\pdfm@box=\box53
-\c@Hy@AnnotLevel=\count280
-\HyField@AnnotCount=\count281
-\Fld@listcount=\count282
-\c@bookmark@seq@number=\count283
-
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
-k.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+\pdfm@box=\box57
+\c@Hy@AnnotLevel=\count285
+\HyField@AnnotCount=\count286
+\Fld@listcount=\count287
+\c@bookmark@seq@number=\count288
+(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
-)
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounte
-r.sty
+) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip54
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2021/02/05 v3.0 ragged2e Package
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/everysel/everysel.sty
-Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
-
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/everysel/everysel-2011-10-28
-.sty))
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \CenteringLeftskip=\skip55
 \RaggedLeftLeftskip=\skip56
 \RaggedRightLeftskip=\skip57
@@ -309,22 +277,22 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count284
-\Gm@cntv=\count285
-\c@Gm@tempcnt=\count286
-\Gm@bindingoffset=\dimen157
-\Gm@wd@mp=\dimen158
-\Gm@odd@mp=\dimen159
-\Gm@even@mp=\dimen160
-\Gm@layoutwidth=\dimen161
-\Gm@layoutheight=\dimen162
-\Gm@layouthoffset=\dimen163
-\Gm@layoutvoffset=\dimen164
-\Gm@dimlist=\toks20
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks21
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count287
-\cp@tempcnt=\count288
+\c@cp@cntr=\count292
+\cp@tempcnt=\count293
 )
 \@tufte@overhang=\skip69
 \@tufte@fullwidth=\skip70
@@ -335,55 +303,57 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plpartopsep=\skip73
 \plitemsep=\skip74
 \plparsep=\skip75
-\pl@lab=\toks21
+\pl@lab=\toks22
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/textcase/textcase.sty
-Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks22
-\SOUL@lasttoken=\toks23
-\SOUL@cmds=\toks24
-\SOUL@buffer=\toks25
-\SOUL@token=\toks26
+\SOUL@word=\toks23
+\SOUL@lasttoken=\toks24
+\SOUL@cmds=\toks25
+\SOUL@buffer=\toks26
+\SOUL@token=\toks27
 \SOUL@spaceskip=\skip76
-\SOUL@ttwidth=\dimen165
-\SOUL@uldp=\dimen166
-\SOUL@ulht=\dimen167
+\SOUL@ttwidth=\dimen167
+\SOUL@uldp=\dimen168
+\SOUL@ulht=\dimen169
 )
 LaTeX Info: Redefining \allcapsspacing on input line 737.
 LaTeX Info: Redefining \smallcapsspacing on input line 737.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Package option `usenames' ignored on input line 216.
-Package xcolor Info: Driver file: xetex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+Package xcolor Info: Package option `usenames' ignored on input line 218.
+Package xcolor Info: Driver file: xetex.def on input line 227.
+(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/xcolor/svgnam.def
-File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip77
 \bibsep=\skip78
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count289
+\c@NAT@ctr=\count294
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
 )
 No file supervision.bbl.
-\c@@tufte@num@bibkeys=\count290
+\c@@tufte@num@bibkeys=\count295
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/sauerj/optparams.sty
 Package: optparams 2004/08/14 v0.9 multiple optional parameters in macros
 )
@@ -391,14 +361,13 @@ Package: optparams 2004/08/14 v0.9 multiple optional parameters in macros
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
-\@tufte@margin@floatbox=\box54
-\@tufte@figure@box=\box55
-\@tufte@caption@box=\box56
+\@tufte@margin@floatbox=\box58
+\@tufte@figure@box=\box59
+\@tufte@caption@box=\box60
 \@tufte@caption@vertical@offset=\skip80
 \@tufte@float@contents@width=\skip81
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
+Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footers
 \f@nch@headwidth=\skip82
 \f@nch@O@elh=\skip83
 \f@nch@O@erh=\skip84
@@ -411,32 +380,28 @@ rs
 )
 \tufteskipamount=\skip91
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count291
-\mult@box=\box57
-\multicol@leftmargin=\dimen168
-\c@unbalance=\count292
-\c@collectmore=\count293
-\doublecol@number=\count294
-\multicoltolerance=\count295
-\multicolpretolerance=\count296
-\full@width=\dimen169
-\page@free=\dimen170
-\premulticols=\dimen171
-\postmulticols=\dimen172
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count296
+\mult@box=\box61
+\multicol@leftmargin=\dimen170
+\c@unbalance=\count297
+\c@collectmore=\count298
+\doublecol@number=\count299
+\multicoltolerance=\count300
+\multicolpretolerance=\count301
+\full@width=\dimen171
+\page@free=\dimen172
+\premulticols=\dimen173
+\postmulticols=\dimen174
 \multicolsep=\skip92
 \multicolbaselineskip=\skip93
-\partial@page=\box58
-\last@line=\box59
-\maxbalancingoverflow=\dimen173
-\mult@rightbox=\box60
-\mult@grightbox=\box61
-\mult@gfirstbox=\box62
-\mult@firstbox=\box63
-\@tempa=\box64
-\@tempa=\box65
-\@tempa=\box66
-\@tempa=\box67
+\partial@page=\box62
+\last@line=\box63
+\maxbalancingoverflow=\dimen175
+\mult@rightbox=\box64
+\mult@grightbox=\box65
+\mult@firstbox=\box66
+\mult@gfirstbox=\box67
 \@tempa=\box68
 \@tempa=\box69
 \@tempa=\box70
@@ -470,15 +435,18 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box98
 \@tempa=\box99
 \@tempa=\box100
-\c@minrows=\count297
-\c@columnbadness=\count298
-\c@finalcolumnbadness=\count299
-\last@try=\dimen174
-\multicolovershoot=\dimen175
-\multicolundershoot=\dimen176
-\mult@nat@firstbox=\box101
-\colbreak@box=\box102
-\mc@col@check@num=\count300
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\c@minrows=\count302
+\c@columnbadness=\count303
+\c@finalcolumnbadness=\count304
+\last@try=\dimen176
+\multicolovershoot=\dimen177
+\multicolundershoot=\dimen178
+\mult@nat@firstbox=\box104
+\colbreak@box=\box105
+\mc@col@check@num=\count305
 )) (./tufte-handout-local.tex
 
 Package fontspec Info: Font family 'TeXGyrePagella(0)' created for font 'TeX
@@ -491,29 +459,22 @@ Package fontspec Info: Font family 'TeXGyrePagella(0)' created for font 'TeX
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"TeX Gyre
 (fontspec)             Pagella/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"TeX Gyre
-(fontspec)             Pagella/OT:script=latn;language=dflt;+smcp;mapping=tex-t
-ext;"
+(fontspec)             Pagella/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.: <->"TeX Gyre
-(fontspec)             Pagella/B/OT:script=latn;language=dflt;mapping=tex-text;
-"
+(fontspec)             Pagella/B/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"TeX
 (fontspec)             Gyre
-(fontspec)             Pagella/B/OT:script=latn;language=dflt;+smcp;mapping=tex
--text;"
+(fontspec)             Pagella/B/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.: <->"TeX Gyre
-(fontspec)             Pagella/I/OT:script=latn;language=dflt;mapping=tex-text;
-"
+(fontspec)             Pagella/I/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
 (fontspec)             <->"TeX Gyre
-(fontspec)             Pagella/I/OT:script=latn;language=dflt;+smcp;mapping=tex
--text;"
+(fontspec)             Pagella/I/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"TeX Gyre
-(fontspec)             Pagella/BI/OT:script=latn;language=dflt;mapping=tex-text
-;"
+(fontspec)             Pagella/BI/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->"TeX Gyre
-(fontspec)             Pagella/BI/OT:script=latn;language=dflt;+smcp;mapping=te
-x-text;"
+(fontspec)             Pagella/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 
 Package fontspec Info: TeX Gyre Heros scale = 0.8950350892519146.
@@ -555,30 +516,25 @@ Package fontspec Info: Font family 'TeXGyreHeros(0)' created for font 'TeX
 (fontspec)             Heros/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->s*[0.8950350892519146]"TeX Gyre
-(fontspec)             Heros/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
-t;"
+(fontspec)             Heros/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->s*[0.8685150439677193]"TeX Gyre
 (fontspec)             Heros/B/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
 (fontspec)             <->s*[0.8685150439677193]"TeX Gyre
-(fontspec)             Heros/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
-ext;"
+(fontspec)             Heros/B/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->s*[0.8950350892519146]"TeX Gyre
 (fontspec)             Heros/I/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
 (fontspec)             <->s*[0.8950350892519146]"TeX Gyre
-(fontspec)             Heros/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
-ext;"
+(fontspec)             Heros/I/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->s*[0.8685150439677193]"TeX Gyre
 (fontspec)             Heros/BI/OT:script=latn;language=dflt;mapping=tex-text;"
-
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->s*[0.8685150439677193]"TeX Gyre
-(fontspec)             Heros/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
-text;"
+(fontspec)             Heros/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 
 Package fontspec Info: Inconsolata scale = 1.032361644314125.
@@ -601,8 +557,7 @@ Package fontspec Info: Inconsolata scale = 1.032361644314125.
 
 Package fontspec Info: Font family 'Inconsolata(0)' created for font
 (fontspec)             'Inconsolata' with options
-(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
-Space,Scale=MatchLowercase].
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,Scale=MatchLowercase].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
@@ -618,30 +573,30 @@ Space,Scale=MatchLowercase].
 
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen177
-\lightrulewidth=\dimen178
-\cmidrulewidth=\dimen179
-\belowrulesep=\dimen180
-\belowbottomsep=\dimen181
-\aboverulesep=\dimen182
-\abovetopsep=\dimen183
-\cmidrulesep=\dimen184
-\cmidrulekern=\dimen185
-\defaultaddspace=\dimen186
-\@cmidla=\count301
-\@cmidlb=\count302
-\@aboverulesep=\dimen187
-\@belowrulesep=\dimen188
-\@thisruleclass=\count303
-\@lastruleclass=\count304
-\@thisrulewidth=\dimen189
+\heavyrulewidth=\dimen179
+\lightrulewidth=\dimen180
+\cmidrulewidth=\dimen181
+\belowrulesep=\dimen182
+\belowbottomsep=\dimen183
+\aboverulesep=\dimen184
+\abovetopsep=\dimen185
+\cmidrulesep=\dimen186
+\cmidrulekern=\dimen187
+\defaultaddspace=\dimen188
+\@cmidla=\count306
+\@cmidlb=\count307
+\@aboverulesep=\dimen189
+\@belowrulesep=\dimen190
+\@thisruleclass=\count308
+\@lastruleclass=\count309
+\@thisrulewidth=\dimen191
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
-Package: fancyvrb 2021/01/20 v3.7 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count305
+Package: fancyvrb 2022/06/06 4.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count310
 \FV@InFile=\read2
-\FV@TabBox=\box103
-\c@FancyVerbLine=\count306
-\FV@StepNumber=\count307
+\FV@TabBox=\box106
+\c@FancyVerbLine=\count311
+\FV@StepNumber=\count312
 \FV@OutFile=\write3
 ))
 Class tufte-handout Info: Loading tufte-handout-local.tex
@@ -649,65 +604,75 @@ Class tufte-handout Info: Loading tufte-handout-local.tex
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks27
+\@emptytoks=\toks28
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/09/23 v2.17i AMS math features
+Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip94
 For additional information on amsmath, use the `?' option.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
+Package: amstext 2021/08/26 v2.01 AMS text
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks28
-\ex@=\dimen190
+\@emptytoks=\toks29
+\ex@=\dimen192
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen191
+\pmbraise@=\dimen193
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
+Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count308
+\inf@bad=\count313
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count309
-\leftroot@=\count310
+\uproot@=\count314
+\leftroot@=\count315
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count311
-\DOTSCASE@=\count312
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count316
+\DOTSCASE@=\count317
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box104
-\strutbox@=\box105
-\big@size=\dimen192
+\Mathstrutbox@=\box107
+\strutbox@=\box108
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen194
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count313
-\c@MaxMatrixCols=\count314
+\macc@depth=\count318
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count319
 \dotsspace@=\muskip17
-\c@parentequation=\count315
-\dspbrk@lvl=\count316
-\tag@help=\toks29
-\row@=\count317
-\column@=\count318
-\maxfields@=\count319
-\andhelp@=\toks30
-\eqnshift@=\dimen193
-\alignsep@=\dimen194
-\tagshift@=\dimen195
-\tagwidth@=\dimen196
-\totwidth@=\dimen197
-\lineht@=\dimen198
-\@envbody=\toks31
+\c@parentequation=\count320
+\dspbrk@lvl=\count321
+\tag@help=\toks30
+\row@=\count322
+\column@=\count323
+\maxfields@=\count324
+\andhelp@=\toks31
+\eqnshift@=\dimen195
+\alignsep@=\dimen196
+\tagshift@=\dimen197
+\tagwidth@=\dimen198
+\totwidth@=\dimen199
+\lineht@=\dimen256
+\@envbody=\toks32
 \multlinegap=\skip95
 \multlinetaggap=\skip96
-\mathdisplay@stack=\toks32
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
@@ -725,16 +690,16 @@ Package: nicefrac 1998/08/04 v0.9b Nice fractions
 \L@UnitsRaiseTextstyle=\skip98
 \L@UnitsRaiseScriptstyle=\skip99
 )) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box106
-\UL@hyphenbox=\box107
+\UL@box=\box109
+\UL@hyphenbox=\box110
 \UL@skip=\skip100
-\UL@hook=\toks33
-\UL@height=\dimen199
-\UL@pe=\count320
-\UL@pixel=\dimen256
-\ULC@box=\box108
+\UL@hook=\toks34
+\UL@height=\dimen257
+\UL@pe=\count325
+\UL@pixel=\dimen258
+\ULC@box=\box111
 Package: ulem 2019/11/18
-\ULdepth=\dimen257
+\ULdepth=\dimen259
 ) (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/morefloats/morefloats.sty
 Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
 Package morefloats Info: Maximum number of possible floats asked for: 36
@@ -753,8 +718,7 @@ LaTeX Font Info:    ... okay on input line 72.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
 LaTeX Font Info:    ... okay on input line 72.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
-2.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 72.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -802,61 +766,34 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 72.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 72.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TeXGyrePagella(0)/m/n on input line 
-72.
+(Font)                  OT1/cmr/m/n --> TU/TeXGyrePagella(0)/m/n on input line 72.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 72.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TeXGyrePagella(0)/m/n on input line
- 72.
+(Font)                  OT1/cmr/bx/n --> TU/TeXGyrePagella(0)/m/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TeXGyrePagella(0)/m/n --> TU/TeXGyrePagella(0)/m/n o
-n input line 72.
+(Font)                  TU/TeXGyrePagella(0)/m/n --> TU/TeXGyrePagella(0)/m/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TeXGyrePagella(0)/m/it on input lin
-e 72.
+(Font)                  OT1/cmr/m/it --> TU/TeXGyrePagella(0)/m/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TeXGyrePagella(0)/b/n on input line
- 72.
+(Font)                  OT1/cmr/bx/n --> TU/TeXGyrePagella(0)/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/TeXGyreHeros(0)/m/n on input line 7
-2.
+(Font)                  OT1/cmss/m/n --> TU/TeXGyreHeros(0)/m/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/Inconsolata(0)/m/n on input line 72
-.
+(Font)                  OT1/cmtt/m/n --> TU/Inconsolata(0)/m/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TeXGyrePagella(0)/m/n --> TU/TeXGyrePagella(0)/b/n o
-n input line 72.
+(Font)                  TU/TeXGyrePagella(0)/m/n --> TU/TeXGyrePagella(0)/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TeXGyrePagella(0)/b/it on input li
-ne 72.
+(Font)                  OT1/cmr/bx/it --> TU/TeXGyrePagella(0)/b/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/TeXGyreHeros(0)/b/n on input line 
-72.
+(Font)                  OT1/cmss/bx/n --> TU/TeXGyreHeros(0)/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/Inconsolata(0)/b/n on input line 72
-.
+(Font)                  OT1/cmtt/m/n --> TU/Inconsolata(0)/b/n on input line 72.
 Package hyperref Info: Link coloring OFF on input line 72.
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/Users/joafr/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestr
-ing.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count321
-)
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
 (./supervision.out) (./supervision.out)
 \@outlinefile=\write4
 \openout4 = `supervision.out'.
 
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 72.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -894,13 +831,11 @@ LaTeX Info: Redefining \selectfont on input line 72.
 \langwohyphens=\language3
 LaTeX Font Info:    Font shape `TU/Inconsolata(0)/m/n' will be
 (Font)              scaled to size 10.32364pt on input line 129.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 129
-.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 129.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 129
-.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 129.
 (/Users/joafr/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -915,32 +850,24 @@ Package fontspec Info: Font family 'TeXGyrePagella(1)' created for font 'TeX
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"TeX Gyre
-(fontspec)             Pagella/OT:script=latn;language=dflt;letterspace=10;mapp
-ing=tex-text;"
+(fontspec)             Pagella/OT:script=latn;language=dflt;letterspace=10;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"TeX Gyre
-(fontspec)             Pagella/OT:script=latn;language=dflt;letterspace=10;+smc
-p;mapping=tex-text;"
+(fontspec)             Pagella/OT:script=latn;language=dflt;letterspace=10;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.: <->"TeX Gyre
-(fontspec)             Pagella/B/OT:script=latn;language=dflt;letterspace=10;ma
-pping=tex-text;"
+(fontspec)             Pagella/B/OT:script=latn;language=dflt;letterspace=10;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"TeX
 (fontspec)             Gyre
-(fontspec)             Pagella/B/OT:script=latn;language=dflt;letterspace=10;+s
-mcp;mapping=tex-text;"
+(fontspec)             Pagella/B/OT:script=latn;language=dflt;letterspace=10;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.: <->"TeX Gyre
-(fontspec)             Pagella/I/OT:script=latn;language=dflt;letterspace=10;ma
-pping=tex-text;"
+(fontspec)             Pagella/I/OT:script=latn;language=dflt;letterspace=10;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
 (fontspec)             <->"TeX Gyre
-(fontspec)             Pagella/I/OT:script=latn;language=dflt;letterspace=10;+s
-mcp;mapping=tex-text;"
+(fontspec)             Pagella/I/OT:script=latn;language=dflt;letterspace=10;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"TeX Gyre
-(fontspec)             Pagella/BI/OT:script=latn;language=dflt;letterspace=10;m
-apping=tex-text;"
+(fontspec)             Pagella/BI/OT:script=latn;language=dflt;letterspace=10;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->"TeX Gyre
-(fontspec)             Pagella/BI/OT:script=latn;language=dflt;letterspace=10;+
-smcp;mapping=tex-text;"
+(fontspec)             Pagella/BI/OT:script=latn;language=dflt;letterspace=10;+smcp;mapping=tex-text;"
 
 [2]
 
@@ -956,12 +883,12 @@ Package rerunfilecheck Info: File `supervision.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15344 strings out of 478930
- 280716 string characters out of 5866273
- 671508 words of memory out of 5000000
- 34856 multiletter control sequences out of 15000+600000
- 409320 words of font info for 89 fonts, out of 8000000 for 9000
+ 16365 strings out of 477743
+ 315667 string characters out of 5843239
+ 712900 words of memory out of 5000000
+ 37082 multiletter control sequences out of 15000+600000
+ 475149 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 118i,11n,140p,288b,555s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 107i,12n,137p,288b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on supervision.pdf (3 pages).

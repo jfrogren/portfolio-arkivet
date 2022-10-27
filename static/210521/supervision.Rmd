@@ -5,7 +5,7 @@ draft: false
 categories: [""]
 runningheader: "Protocol from Joakim's supervision" 
 subtitle: ""
-author: "Joakim Frögren"
+author: "JF"
 output:
   tufte::tufte_handout:
     latex_engine: xelatex
@@ -58,7 +58,7 @@ SI pointed out that when it comes to the journal PLOS ONE, the editors  are a bi
 
 We agreed that JF will send the manuscript to all the co-authors (except OJ) (and not to RL) on 28th of May. JF will send an email the the co-authors before that so that they are aware that the manuscript is coming and can plan for it..
 
-The co-authors will be given a week to provide their feedback. In other words they should send JF their feedback by latest 4th of June. JF will then get a week to edit the manuscript and will send the updated version to SI, RL and Oj in the morning on the 10th of June.
+The co-authors will be given a week to provide their feedback. In other words they should send JF their feedback by latest 4th of June. JF will then get a week to edit the manuscript and will send the updated version to SI, RL and OJ in the morning on the 10th of June.
 
 
 
